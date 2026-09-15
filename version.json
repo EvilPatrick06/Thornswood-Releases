@@ -1,7 +1,7 @@
 {
-  "launcherVersion": "1.0.198",
-  "launcherUrl": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/565123842",
-  "launcherSha256": "51202875daf93fc6d593a01cccca24f777eaeb4e9f7989ef69bd95ab554fcc74",
+  "launcherVersion": "1.0.197",
+  "launcherUrl": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/565854327",
+  "launcherSha256": "6db363653b1cbe6b7093676435e3f321ddf1caf5c272ec729b0d32252aa9dc8a",
   "serverAddress": "192.135.112.23",
   "serverPort": "7777",
   "message": "",
@@ -998,6 +998,14 @@
     }
   ],
   "news": [
+    {
+      "date": "15 Sep 2026",
+      "title": "Add-ons tab, optional packs, sign in returns to the panel",
+      "body": "",
+      "details": [
+        "Launcher 1.0.197"
+      ]
+    },
     {
       "date": "15 Sep 2026",
       "title": "Professions, sub professions and classes at character creation",
