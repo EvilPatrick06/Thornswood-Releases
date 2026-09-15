@@ -1,7 +1,7 @@
 {
-  "launcherVersion": "1.0.197",
-  "launcherUrl": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/566040694",
-  "launcherSha256": "f1074602789af5d60d11c9d628bd6be7fc8f06923f8d12885cab37750d44b5d4",
+  "launcherVersion": "1.1.0",
+  "launcherUrl": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/566650006",
+  "launcherSha256": "299a086b518f744b3737860ed48a3fb6ce9f3daac55227e97b6eb341ca7ec6d6",
   "serverAddress": "192.135.112.23",
   "serverPort": "7777",
   "message": "",
@@ -1000,6 +1000,14 @@
   "news": [
     {
       "date": "15 Sep 2026",
+      "title": "1.1  The cities are rebuilt, the mods are on Nexus as a collection, and everyone starts over",
+      "body": "",
+      "details": [
+        "Launcher 1.1.0"
+      ]
+    },
+    {
+      "date": "15 Sep 2026",
       "title": "Add-ons tab, optional packs, Discord sign in returns to the panel",
       "body": "",
       "details": [
@@ -1126,7 +1134,6 @@
       ]
     }
   ],
-  "serverPassword": "6622",
   "updateRepo": "EvilPatrick06/Thornswood-Releases",
   "voicePort": "7778",
   "collectionUrl": "https://www.nexusmods.com/games/skyrimspecialedition/collections/ombo2a"
