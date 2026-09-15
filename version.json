@@ -1,7 +1,7 @@
 {
-  "launcherVersion": "1.0.197",
-  "launcherUrl": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/565069055",
-  "launcherSha256": "b19a60209ece6f74dc83f42be63cef3f4e70d15c7036e834285a3363f5cc5135",
+  "launcherVersion": "1.0.198",
+  "launcherUrl": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/565123842",
+  "launcherSha256": "51202875daf93fc6d593a01cccca24f777eaeb4e9f7989ef69bd95ab554fcc74",
   "serverAddress": "192.135.112.23",
   "serverPort": "7777",
   "message": "",
@@ -998,6 +998,14 @@
     }
   ],
   "news": [
+    {
+      "date": "15 Sep 2026",
+      "title": "Professions, sub professions and classes at character creation",
+      "body": "",
+      "details": [
+        "Launcher 1.0.198"
+      ]
+    },
     {
       "date": "15 Sep 2026",
       "title": "Connect your Discord from the launcher",
