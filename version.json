@@ -1,7 +1,7 @@
 {
-  "launcherVersion": "1.1.33",
-  "launcherUrl": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/568708208",
-  "launcherSha256": "fcb77b3879f897a324229b50e81ab07063f47613a47339084eeeda040085035d",
+  "launcherVersion": "1.1.34",
+  "launcherUrl": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/568826368",
+  "launcherSha256": "fa53f866177e18f33446888f1e721bbb9774d05e85d9d5b4620111591bc084b4",
   "serverAddress": "192.135.112.23",
   "serverPort": "7777",
   "message": "",
@@ -1097,9 +1097,24 @@
       "url": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/568708207",
       "sha256": "104593aa2639bcf086a4af1dc41a6a69a2e35b8c61ea9695f33b002ecf7f0454",
       "notes": "Voice works: the game finds the launcher's microphone again, so the indicator leaves LISTENING ONLY and push to talk reaches the launcher. Emote wheel is back on G, the key file had been cut down to the field of view line. SkyHUD config restored, the incompatible config popup is gone. Door fix: the rescue that pulled you back through the inn door is off. Thornswood's plugins stay idle when the client points at another server, so they no longer draw over Keizaal Online. New main menu art. Launcher checks in with the character's own profile id and logs its own faults. Vortex bookkeeping and face exports no longer ship in updates."
+    },
+    {
+      "id": "20260916-1523",
+      "url": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/568826369",
+      "sha256": "dd590ecbe347b5c75167701a3085df83e8e54f0de9cb1d51e3f7a9a66ab5b3e5",
+      "notes": "Voice indicator fixed for real: the page inside the game was still the old one and never took the launcher's state. Switching servers without touching Vortex: the launcher now keeps its own copies of the twelve files in Data\\Platform it owns, puts back any that another server's launcher changed before every Play, and parks any other server's plugin while Thornswood runs, then puts it back the moment the game closes. Start menu entry for the launcher on every machine. Site downloads line corrected to https."
     }
   ],
   "news": [
+    {
+      "date": "16 Sep 2026",
+      "title": "Voice indicator fixed for real: the page inside the game was still the old one and never took the launcher's state. Switching servers without touching Vortex: the launcher now keeps its own copies of the twelve files in Data\\Platform it owns, puts back any that another server's launcher changed before every Play, and parks any other server's plugin while Thornswood runs, then puts it back the moment the game closes. Start menu entry for the launcher on every machine. Site downloads line corrected to https.",
+      "body": "",
+      "details": [
+        "Launcher 1.1.34",
+        "18 files to download, 11.5 MB"
+      ]
+    },
     {
       "date": "16 Sep 2026",
       "title": "Voice works: the game finds the launcher's microphone again, so the indicator leaves LISTENING ONLY and push to talk reaches the launcher. Emote wheel is back on G, the key file had been cut down to the field of view line. SkyHUD config restored, the incompatible config popup is gone. Door fix: the rescue that pulled you back through the inn door is off. Thornswood's plugins stay idle when the client points at another server, so they no longer draw over Keizaal Online. New main menu art. Launcher checks in with the character's own profile id and logs its own faults. Vortex bookkeeping and face exports no longer ship in updates.",
@@ -1437,15 +1452,6 @@
       "details": [
         "Everything you fought was reporting your health instead of its own, so nothing ever died when it should have.",
         "Enchantment hits count as damage now as well."
-      ]
-    },
-    {
-      "date": "14 Sep 2026",
-      "title": "Voice moved into the launcher",
-      "body": "",
-      "details": [
-        "It used to run inside the game and lose the microphone.",
-        "Whisper and yell change how far you carry, and the indicator now tells you the truth about whether you are heard."
       ]
     }
   ],
