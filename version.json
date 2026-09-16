@@ -1,7 +1,7 @@
 {
-  "launcherVersion": "1.1.29",
-  "launcherUrl": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/567561707",
-  "launcherSha256": "f69552da1378ec6bda2569394b8bbc1085405b1d64b1c6285e32413ccacda989",
+  "launcherVersion": "1.1.30",
+  "launcherUrl": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/567606981",
+  "launcherSha256": "6d787558de9f80eb19f38c4fb8c20b177c2ade8cf4b476c50a5713560b27ee15",
   "serverAddress": "192.135.112.23",
   "serverPort": "7777",
   "message": "",
@@ -1073,9 +1073,24 @@
       "url": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/567561712",
       "sha256": "505f77bae3069db0846045b6b96efa4912e5e5b00c712a3df4a2483119c35c1a",
       "notes": "Thornswood main menu backdrop, and voice now follows the character you actually launched"
+    },
+    {
+      "id": "20260916-0314",
+      "url": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/567606983",
+      "sha256": "6c74e3d6da0093cc09a911c36823de15d051c04ece75fb2a369af97baa4a0426",
+      "notes": "Thornswood main menu backdrop, wider menu plane, and MCM Helper on the light plugin so load orders line up with the server"
     }
   ],
   "news": [
+    {
+      "date": "16 Sep 2026",
+      "title": "Thornswood main menu backdrop, wider menu plane, and MCM Helper on the light plugin so load orders line up with the server",
+      "body": "",
+      "details": [
+        "Launcher 1.1.30",
+        "6 files to download, 16.0 MB"
+      ]
+    },
     {
       "date": "16 Sep 2026",
       "title": "Thornswood main menu backdrop, and voice now follows the character you actually launched",
@@ -1410,14 +1425,6 @@
       "body": "",
       "details": [
         "Voice opening used to steal your keys, which meant you could hear everyone and move nowhere."
-      ]
-    },
-    {
-      "date": "13 Sep 2026",
-      "title": "Your inventory saves",
-      "body": "",
-      "details": [
-        "What you were carrying is on the server now, so it is still there next time."
       ]
     }
   ],
