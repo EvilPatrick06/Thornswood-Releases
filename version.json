@@ -1,7 +1,7 @@
 {
-  "launcherVersion": "1.1.8",
-  "launcherUrl": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/566997050",
-  "launcherSha256": "354cb0c8ceff7fdf29a4b48830d71bcec22b84b7c847f6b3e0db7c2bac4592c5",
+  "launcherVersion": "1.1.9",
+  "launcherUrl": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/567041251",
+  "launcherSha256": "facf811781a0d8cd0c3cc3ac856efd5075eb400a2c7fec0d399b3994df25d65f",
   "serverAddress": "192.135.112.23",
   "serverPort": "7777",
   "message": "",
@@ -1001,9 +1001,24 @@
       "url": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/566972912",
       "sha256": "fba2f375c52a299ccb991e11462982c90f114287343005d360c5df601453a075",
       "notes": "Sub professions have real names now, and the installer opens the launcher for you when it finishes"
+    },
+    {
+      "id": "20260915-2104",
+      "url": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/567041252",
+      "sha256": "11726cf7205b8aec9262c4477398058e1fe70d8787ec4c151ee3e03fb1b839b1",
+      "notes": "The installer's leftover folder gets cleared now, on startup and on uninstall"
     }
   ],
   "news": [
+    {
+      "date": "15 Sep 2026",
+      "title": "The installer's leftover folder gets cleared now, on startup and on uninstall",
+      "body": "",
+      "details": [
+        "Launcher 1.1.9",
+        "129 files to download, 2.1 MB"
+      ]
+    },
     {
       "date": "15 Sep 2026",
       "title": "Sub professions have real names, the installer opens the launcher when it finishes, and confirms you are 18 first",
