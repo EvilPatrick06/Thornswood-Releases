@@ -1,7 +1,7 @@
 {
-  "launcherVersion": "1.1.0",
-  "launcherUrl": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/566650006",
-  "launcherSha256": "299a086b518f744b3737860ed48a3fb6ce9f3daac55227e97b6eb341ca7ec6d6",
+  "launcherVersion": "1.1.1",
+  "launcherUrl": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/566832942",
+  "launcherSha256": "ed9135250683ad535f548297a3af68672cc79c2e2a2c3172448a893403c4a83e",
   "serverAddress": "192.135.112.23",
   "serverPort": "7777",
   "message": "",
@@ -995,9 +995,24 @@
       "url": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/565069058",
       "sha256": "5bf7ff5c7009e24a8c21e599bb732ba11402035a7a4199d91cdf3180360cf1b3",
       "notes": "Connect your Discord from the launcher"
+    },
+    {
+      "id": "20260915-1843",
+      "url": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/566832944",
+      "sha256": "2d960dd66cbd10c0913517036effb963a0bc7729af6b4647bc6193d5629871b2",
+      "notes": "Fixes to the installer, the ticket threads, and where the load order comes from"
     }
   ],
   "news": [
+    {
+      "date": "15 Sep 2026",
+      "title": "Fixes to the installer, the ticket threads, and where the load order comes from",
+      "body": "",
+      "details": [
+        "Launcher 1.1.1",
+        "7,006 files to download, 1,586.2 MB"
+      ]
+    },
     {
       "date": "15 Sep 2026",
       "title": "1.1  The cities are rebuilt, the mods are on Nexus as a collection, and everyone starts over",
@@ -1136,5 +1151,6 @@
   ],
   "updateRepo": "EvilPatrick06/Thornswood-Releases",
   "voicePort": "7778",
-  "collectionUrl": "https://www.nexusmods.com/games/skyrimspecialedition/collections/ombo2a"
+  "collectionUrl": "https://www.nexusmods.com/games/skyrimspecialedition/collections/ombo2a",
+  "maxOnline": 25
 }
