@@ -1,7 +1,7 @@
 {
-  "launcherVersion": "1.1.5",
-  "launcherUrl": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/566944121",
-  "launcherSha256": "30c9b172be5bc524d5a5a038ae37ae85cf10b869ec4d03e7569b33da0c7a5f65",
+  "launcherVersion": "1.1.6",
+  "launcherUrl": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/566972914",
+  "launcherSha256": "6d5b0e296890182991ddd6d78f7cf273f6bfe71eaa286688f6b1c5c55d16f990",
   "serverAddress": "192.135.112.23",
   "serverPort": "7777",
   "message": "",
@@ -995,9 +995,25 @@
       "url": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/565069058",
       "sha256": "5bf7ff5c7009e24a8c21e599bb732ba11402035a7a4199d91cdf3180360cf1b3",
       "notes": "Connect your Discord from the launcher"
+    },
+    {
+      "id": "20260915-2018",
+      "url": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/566972912",
+      "sha256": "fba2f375c52a299ccb991e11462982c90f114287343005d360c5df601453a075",
+      "notes": "Sub professions have real names now, and the installer opens the launcher for you when it finishes"
     }
   ],
   "news": [
+    {
+      "date": "15 Sep 2026",
+      "title": "Sub professions have real names now, and the installer opens the launcher for you when it finishes",
+      "body": "",
+      "details": [
+        "Launcher 1.1.6",
+        "129 files to download, 2.1 MB",
+        "The load order moved, so start a new character or expect the old save to complain"
+      ]
+    },
     {
       "date": "15 Sep 2026",
       "title": "The home page sends you to the collection when your mods are missing, instead of just telling you they are",
