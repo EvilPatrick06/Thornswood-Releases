@@ -1,7 +1,7 @@
 {
-  "launcherVersion": "1.1.14",
-  "launcherUrl": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/567154257",
-  "launcherSha256": "e3519ad28e1b23943cbe244835d344196a9ac5f6364281628680a829446331c3",
+  "launcherVersion": "1.1.15",
+  "launcherUrl": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/567191295",
+  "launcherSha256": "04cb46dee76341c2798bfac38fe645293c9d17996294204dcf256c3a5844e581",
   "serverAddress": "192.135.112.23",
   "serverPort": "7777",
   "message": "",
@@ -1022,6 +1022,14 @@
     }
   ],
   "news": [
+    {
+      "date": "15 Sep 2026",
+      "title": "The mod list scan reads the load order Vortex actually writes, instead of a stale copy nothing touches",
+      "body": "",
+      "details": [
+        "Launcher 1.1.15"
+      ]
+    },
     {
       "date": "15 Sep 2026",
       "title": "Connect Discord can no longer stick, the collection card offers it instead of a dead button, Woodworker joins the professions, and the docs stop mixing professions with classes",
