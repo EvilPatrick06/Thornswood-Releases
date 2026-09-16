@@ -1,7 +1,7 @@
 {
-  "launcherVersion": "1.1.9",
-  "launcherUrl": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/567041251",
-  "launcherSha256": "facf811781a0d8cd0c3cc3ac856efd5075eb400a2c7fec0d399b3994df25d65f",
+  "launcherVersion": "1.1.10",
+  "launcherUrl": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/567049161",
+  "launcherSha256": "d4ee7027ee70bd0ea621df5bbc13fbbda79787cad61155c9a56801644a5b71d6",
   "serverAddress": "192.135.112.23",
   "serverPort": "7777",
   "message": "",
@@ -1010,6 +1010,14 @@
     }
   ],
   "news": [
+    {
+      "date": "15 Sep 2026",
+      "title": "The installer's leftover folder gets cleared, and the uninstall screen tells the truth about what it removes",
+      "body": "",
+      "details": [
+        "Launcher 1.1.10"
+      ]
+    },
     {
       "date": "15 Sep 2026",
       "title": "The installer's leftover folder gets cleared now, on startup and on uninstall",
