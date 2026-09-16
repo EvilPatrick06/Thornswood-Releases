@@ -995,12 +995,6 @@
       "url": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/565069058",
       "sha256": "5bf7ff5c7009e24a8c21e599bb732ba11402035a7a4199d91cdf3180360cf1b3",
       "notes": "Connect your Discord from the launcher"
-    },
-    {
-      "id": "20260915-1843",
-      "url": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/566832944",
-      "sha256": "2d960dd66cbd10c0913517036effb963a0bc7729af6b4647bc6193d5629871b2",
-      "notes": "Fixes to the installer, the ticket threads, and where the load order comes from"
     }
   ],
   "news": [
