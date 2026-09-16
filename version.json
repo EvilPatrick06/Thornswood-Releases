@@ -1,7 +1,7 @@
 {
-  "launcherVersion": "1.1.13",
-  "launcherUrl": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/567149746",
-  "launcherSha256": "e4e25488317fb9af09b44dbab381a858d10e1fe7d2a7a78f91b5295c520383b4",
+  "launcherVersion": "1.1.14",
+  "launcherUrl": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/567154257",
+  "launcherSha256": "e3519ad28e1b23943cbe244835d344196a9ac5f6364281628680a829446331c3",
   "serverAddress": "192.135.112.23",
   "serverPort": "7777",
   "message": "",
@@ -1022,6 +1022,14 @@
     }
   ],
   "news": [
+    {
+      "date": "15 Sep 2026",
+      "title": "Connect Discord can no longer stick, the collection card offers it instead of a dead button, Woodworker joins the professions, and the docs stop mixing professions with classes",
+      "body": "",
+      "details": [
+        "Launcher 1.1.14"
+      ]
+    },
     {
       "date": "15 Sep 2026",
       "title": "Connect Discord can no longer stick, the collection card offers it instead of a dead button, and Woodworker joins the professions",
