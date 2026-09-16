@@ -1,7 +1,7 @@
 {
-  "launcherVersion": "1.1.30",
-  "launcherUrl": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/567606981",
-  "launcherSha256": "6d787558de9f80eb19f38c4fb8c20b177c2ade8cf4b476c50a5713560b27ee15",
+  "launcherVersion": "1.1.31",
+  "launcherUrl": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/568260641",
+  "launcherSha256": "ec5950afbde2cf823f65e40d24bfd571d5c424c95b30bc05387af45b8c1e48dc",
   "serverAddress": "192.135.112.23",
   "serverPort": "7777",
   "message": "",
@@ -1079,9 +1079,24 @@
       "url": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/567606983",
       "sha256": "6c74e3d6da0093cc09a911c36823de15d051c04ece75fb2a369af97baa4a0426",
       "notes": "Thornswood main menu backdrop, wider menu plane, and MCM Helper on the light plugin so load orders line up with the server"
+    },
+    {
+      "id": "20260916-0937",
+      "url": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/568260637",
+      "sha256": "0e069f92b37cfce576f5b8d889d0840ea7776f09ef6ddf62cf8775cd81839dd2",
+      "notes": "Login fixed: the client now sends the login this server answers, so everyone lands in the creation hall again. Main menu backdrop recomposed and full width. Launcher flags MCM Helper light so load orders match the server. Per person settings no longer ride in packs."
     }
   ],
   "news": [
+    {
+      "date": "16 Sep 2026",
+      "title": "Login fixed: the client now sends the login this server answers, so everyone lands in the creation hall again. Main menu backdrop recomposed and full width. Launcher flags MCM Helper light so load orders match the server. Per person settings no longer ride in packs.",
+      "body": "",
+      "details": [
+        "Launcher 1.1.31",
+        "7 files to download, 17.0 MB"
+      ]
+    },
     {
       "date": "16 Sep 2026",
       "title": "Thornswood main menu backdrop, wider menu plane, and MCM Helper on the light plugin so load orders line up with the server",
@@ -1417,14 +1432,6 @@
       "body": "",
       "details": [
         "The resisted arrest flag was never clearing, so the whole hold stayed angry with you forever."
-      ]
-    },
-    {
-      "date": "13 Sep 2026",
-      "title": "The keyboard stays with the game",
-      "body": "",
-      "details": [
-        "Voice opening used to steal your keys, which meant you could hear everyone and move nowhere."
       ]
     }
   ],
