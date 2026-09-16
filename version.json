@@ -1,7 +1,7 @@
 {
-  "launcherVersion": "1.1.20",
-  "launcherUrl": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/567378262",
-  "launcherSha256": "2ceaece5bcb6f80d2a8fb2a79395939157ac20f9a2648faf3f6f6bbc0a7ea841",
+  "launcherVersion": "1.1.21",
+  "launcherUrl": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/567410230",
+  "launcherSha256": "1a265eff7781088f65f080e6081e5aa7758ae2989d1f9cc8c53deb3cee514ed8",
   "serverAddress": "192.135.112.23",
   "serverPort": "7777",
   "message": "",
@@ -1025,9 +1025,24 @@
       "url": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/567378260",
       "sha256": "e605344f7e5e70fa7991b709404cffaf350cb72c53efbaf1b981305305bc4c49",
       "notes": "Another server's files are moved aside now instead of deleted"
+    },
+    {
+      "id": "20260916-0112",
+      "url": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/567410231",
+      "sha256": "3de9702870de0bbb3e08f2e449e7823a308a4e1872fda3c3d86f5f2bc0dc8dff",
+      "notes": "Main menu background and logo mesh were another server's, removed"
     }
   ],
   "news": [
+    {
+      "date": "16 Sep 2026",
+      "title": "Main menu background and logo mesh were another server's, removed",
+      "body": "",
+      "details": [
+        "Launcher 1.1.21",
+        "8 files to download, 0.4 MB"
+      ]
+    },
     {
       "date": "16 Sep 2026",
       "title": "Another server's files are moved aside now instead of deleted",
