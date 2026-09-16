@@ -1,7 +1,7 @@
 {
-  "launcherVersion": "1.1.17",
-  "launcherUrl": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/567228577",
-  "launcherSha256": "6c458ec54a3338600709398ed5202c24be377e878184f0ff0008da1f64582d24",
+  "launcherVersion": "1.1.18",
+  "launcherUrl": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/567240980",
+  "launcherSha256": "0e0e1889751484b48d32b22f21a22b64dfbbf3cf95e4da898361e6bd41dcfe55",
   "serverAddress": "192.135.112.23",
   "serverPort": "7777",
   "message": "",
@@ -1022,6 +1022,14 @@
     }
   ],
   "news": [
+    {
+      "date": "15 Sep 2026",
+      "title": "Close Skyrim and updating work on a collection install, and the launcher removes another server's client",
+      "body": "",
+      "details": [
+        "Launcher 1.1.18"
+      ]
+    },
     {
       "date": "15 Sep 2026",
       "title": "The launcher spots another server's client in your Skyrim and takes it out, instead of launching into their main menu",
