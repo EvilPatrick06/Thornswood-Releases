@@ -1,7 +1,7 @@
 {
-  "launcherVersion": "1.1.12",
-  "launcherUrl": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/567106508",
-  "launcherSha256": "4577e831e47b8eda899ea2ede36eb4ac04539f5cf5028fa07fedcec439d63f36",
+  "launcherVersion": "1.1.13",
+  "launcherUrl": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/567149746",
+  "launcherSha256": "e4e25488317fb9af09b44dbab381a858d10e1fe7d2a7a78f91b5295c520383b4",
   "serverAddress": "192.135.112.23",
   "serverPort": "7777",
   "message": "",
@@ -1013,9 +1013,24 @@
       "url": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/567106507",
       "sha256": "266c8e38bb86ba819b0f5a7313e02954d161d972e42a1d26f28b0379c5091595",
       "notes": "Connect Discord can no longer stick, and the collection card offers it instead of a dead button"
+    },
+    {
+      "id": "20260915-2213",
+      "url": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/567149745",
+      "sha256": "d96004f19c83b9886eabc4ed8f15ded7e79feed7dac9c8c80eef4a7216778242",
+      "notes": "Connect Discord can no longer stick, the collection card offers it instead of a dead button, and Woodworker joins the professions"
     }
   ],
   "news": [
+    {
+      "date": "15 Sep 2026",
+      "title": "Connect Discord can no longer stick, the collection card offers it instead of a dead button, and Woodworker joins the professions",
+      "body": "",
+      "details": [
+        "Launcher 1.1.13",
+        "1 file to download, 0.0 MB"
+      ]
+    },
     {
       "date": "15 Sep 2026",
       "title": "Connect Discord can no longer stick, and the collection card offers it instead of a dead button",
@@ -1238,7 +1253,7 @@
       ]
     }
   ],
-  "updateRepo": "",
+  "updateRepo": "EvilPatrick06/Thornswood-Releases",
   "voicePort": "7778",
   "collectionUrl": "https://www.nexusmods.com/games/skyrimspecialedition/collections/ombo2a",
   "maxOnline": 25
