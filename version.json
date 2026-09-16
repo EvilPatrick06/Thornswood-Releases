@@ -1,7 +1,7 @@
 {
-  "launcherVersion": "1.1.4",
-  "launcherUrl": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/566894595",
-  "launcherSha256": "456538b33f3a308549770322e82a3867236bf6ab5675e02a1278161532fcdbbd",
+  "launcherVersion": "1.1.5",
+  "launcherUrl": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/566944121",
+  "launcherSha256": "30c9b172be5bc524d5a5a038ae37ae85cf10b869ec4d03e7569b33da0c7a5f65",
   "serverAddress": "192.135.112.23",
   "serverPort": "7777",
   "message": "",
@@ -998,6 +998,14 @@
     }
   ],
   "news": [
+    {
+      "date": "15 Sep 2026",
+      "title": "The home page sends you to the collection when your mods are missing, instead of just telling you they are",
+      "body": "",
+      "details": [
+        "Launcher 1.1.5"
+      ]
+    },
     {
       "date": "15 Sep 2026",
       "title": "Field of view no longer reads zero, the resolution box explains itself, and uninstalling takes our files back out of your Skyrim",
