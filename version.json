@@ -1,7 +1,7 @@
 {
-  "launcherVersion": "1.1.25",
-  "launcherUrl": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/567491239",
-  "launcherSha256": "384ed99f8124c00cf217f8eec8ce4451c280e23b012fb29da74c7126c72851ec",
+  "launcherVersion": "1.1.26",
+  "launcherUrl": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/567504575",
+  "launcherSha256": "33e1b50e56869564ece662c89d51ba908b52aef124115460cfb9b7c442e54e1f",
   "serverAddress": "192.135.112.23",
   "serverPort": "7777",
   "message": "",
@@ -1055,9 +1055,25 @@
       "url": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/567491237",
       "sha256": "000161e88c8747cb41fc8b6ff1fbdb3b0e0c715a4d0385c6a9868d61aa3457bc",
       "notes": "Browser backend detects NirnLab correctly, Start On Save is checked for"
+    },
+    {
+      "id": "20260916-0213",
+      "url": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/567504574",
+      "sha256": "8804b3d1a99ca7714bcd8a3a479a40faeea238c786a5f9a6820d9093b9c8e914",
+      "notes": "Out of date collection now says so above Play instead of just blocking it"
     }
   ],
   "news": [
+    {
+      "date": "16 Sep 2026",
+      "title": "Out of date collection now says so above Play instead of just blocking it",
+      "body": "",
+      "details": [
+        "Launcher 1.1.26",
+        "5 files to download, 0.0 MB",
+        "The load order moved, so start a new character or expect the old save to complain"
+      ]
+    },
     {
       "date": "16 Sep 2026",
       "title": "Browser backend detects NirnLab correctly, Start On Save is checked for",
