@@ -1,7 +1,7 @@
 {
-  "launcherVersion": "1.1.18",
-  "launcherUrl": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/567240980",
-  "launcherSha256": "0e0e1889751484b48d32b22f21a22b64dfbbf3cf95e4da898361e6bd41dcfe55",
+  "launcherVersion": "1.1.20",
+  "launcherUrl": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/567378262",
+  "launcherSha256": "2ceaece5bcb6f80d2a8fb2a79395939157ac20f9a2648faf3f6f6bbc0a7ea841",
   "serverAddress": "192.135.112.23",
   "serverPort": "7777",
   "message": "",
@@ -1019,9 +1019,24 @@
       "url": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/567149745",
       "sha256": "d96004f19c83b9886eabc4ed8f15ded7e79feed7dac9c8c80eef4a7216778242",
       "notes": "Connect Discord can no longer stick, the collection card offers it instead of a dead button, and Woodworker joins the professions"
+    },
+    {
+      "id": "20260916-0049",
+      "url": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/567378260",
+      "sha256": "e605344f7e5e70fa7991b709404cffaf350cb72c53efbaf1b981305305bc4c49",
+      "notes": "Another server's files are moved aside now instead of deleted"
     }
   ],
   "news": [
+    {
+      "date": "16 Sep 2026",
+      "title": "Another server's files are moved aside now instead of deleted",
+      "body": "",
+      "details": [
+        "Launcher 1.1.20",
+        "1 file to download, 0.0 MB"
+      ]
+    },
     {
       "date": "15 Sep 2026",
       "title": "Close Skyrim and updating work on a collection install, and the launcher removes another server's client",
