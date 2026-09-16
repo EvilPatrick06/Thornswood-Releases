@@ -1,7 +1,7 @@
 {
-  "launcherVersion": "1.1.23",
-  "launcherUrl": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/567455071",
-  "launcherSha256": "063fa07e2bbd98263cb0e1881f896650514f0b3a8b93fba59d44700e917b31a3",
+  "launcherVersion": "1.1.24",
+  "launcherUrl": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/567461541",
+  "launcherSha256": "b85400459e392f798a9055400ba290c375a311164d61e997606028e047abc3b4",
   "serverAddress": "192.135.112.23",
   "serverPort": "7777",
   "message": "",
@@ -1043,9 +1043,24 @@
       "url": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/567455069",
       "sha256": "897972a5fff59c013888c2f92c7c6b662ff20a7abbe0a6adb740198b48900995",
       "notes": "Character slot goes inside gameData, which is what turns the login screen off"
+    },
+    {
+      "id": "20260916-0146",
+      "url": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/567461540",
+      "sha256": "8f55a55f774fa7156a85ac6bbf0dd57a63fd9069d86cdfc24b32dc0ea1ca3644",
+      "notes": "Character slot goes inside gameData, and the launcher now checks for Start On Save"
     }
   ],
   "news": [
+    {
+      "date": "16 Sep 2026",
+      "title": "Character slot goes inside gameData, and the launcher now checks for Start On Save",
+      "body": "",
+      "details": [
+        "Launcher 1.1.24",
+        "5 files to download, 0.0 MB"
+      ]
+    },
     {
       "date": "16 Sep 2026",
       "title": "Character slot goes inside gameData, which is what turns the login screen off",
