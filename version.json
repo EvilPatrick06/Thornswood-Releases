@@ -1,7 +1,7 @@
 {
-  "launcherVersion": "1.1.7",
-  "launcherUrl": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/566986731",
-  "launcherSha256": "4de4b701da9c083e2ae73ac7d39744911a38c9aa468c7f2b47ce298a593905a2",
+  "launcherVersion": "1.1.8",
+  "launcherUrl": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/566997050",
+  "launcherSha256": "354cb0c8ceff7fdf29a4b48830d71bcec22b84b7c847f6b3e0db7c2bac4592c5",
   "serverAddress": "192.135.112.23",
   "serverPort": "7777",
   "message": "",
@@ -1004,6 +1004,14 @@
     }
   ],
   "news": [
+    {
+      "date": "15 Sep 2026",
+      "title": "Sub professions have real names, the installer opens the launcher when it finishes, and confirms you are 18 first",
+      "body": "",
+      "details": [
+        "Launcher 1.1.8"
+      ]
+    },
     {
       "date": "15 Sep 2026",
       "title": "Sub professions have real names now, and the installer opens the launcher for you when it finishes",
