@@ -1,7 +1,7 @@
 {
-  "launcherVersion": "1.1.28",
-  "launcherUrl": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/567525349",
-  "launcherSha256": "3b212aaf54b8fce86565dff7a693d413e67c330c0d77071100321a6c65ff3065",
+  "launcherVersion": "1.1.29",
+  "launcherUrl": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/567561707",
+  "launcherSha256": "f69552da1378ec6bda2569394b8bbc1085405b1d64b1c6285e32413ccacda989",
   "serverAddress": "192.135.112.23",
   "serverPort": "7777",
   "message": "",
@@ -1067,9 +1067,24 @@
       "url": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/567521068",
       "sha256": "7d9f66e83d2230c1b4ee77664bec23a7f6de911db453f74e2fe48f711602038a",
       "notes": "New characters start a new game instead of stopping at an empty save picker"
+    },
+    {
+      "id": "20260916-0247",
+      "url": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/567561712",
+      "sha256": "505f77bae3069db0846045b6b96efa4912e5e5b00c712a3df4a2483119c35c1a",
+      "notes": "Thornswood main menu backdrop, and voice now follows the character you actually launched"
     }
   ],
   "news": [
+    {
+      "date": "16 Sep 2026",
+      "title": "Thornswood main menu backdrop, and voice now follows the character you actually launched",
+      "body": "",
+      "details": [
+        "Launcher 1.1.29",
+        "5 files to download, 2.0 MB"
+      ]
+    },
     {
       "date": "16 Sep 2026",
       "title": "New characters start a new game instead of stopping at an empty save picker",
@@ -1403,15 +1418,6 @@
       "body": "",
       "details": [
         "What you were carrying is on the server now, so it is still there next time."
-      ]
-    },
-    {
-      "date": "13 Sep 2026",
-      "title": "Bards can play, and voice is ready in seconds",
-      "body": "",
-      "details": [
-        "Instruments work.",
-        "Voice used to take the best part of twenty seconds after loading in. It takes two."
       ]
     }
   ],
