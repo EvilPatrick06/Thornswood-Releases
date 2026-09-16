@@ -1,7 +1,7 @@
 {
-  "launcherVersion": "1.1.22",
-  "launcherUrl": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/567439171",
-  "launcherSha256": "66484c753dad7bdd1092d059baa8f2a937e3117826f334b3444f71ac47832f74",
+  "launcherVersion": "1.1.23",
+  "launcherUrl": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/567455071",
+  "launcherSha256": "063fa07e2bbd98263cb0e1881f896650514f0b3a8b93fba59d44700e917b31a3",
   "serverAddress": "192.135.112.23",
   "serverPort": "7777",
   "message": "",
@@ -1037,9 +1037,25 @@
       "url": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/567439170",
       "sha256": "86c54d292b8d97834969292dac702f067a9044231750230ccee3ee668b333bff",
       "notes": "Crafting assets restored, browser backend picked from what is installed"
+    },
+    {
+      "id": "20260916-0141",
+      "url": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/567455069",
+      "sha256": "897972a5fff59c013888c2f92c7c6b662ff20a7abbe0a6adb740198b48900995",
+      "notes": "Character slot goes inside gameData, which is what turns the login screen off"
     }
   ],
   "news": [
+    {
+      "date": "16 Sep 2026",
+      "title": "Character slot goes inside gameData, which is what turns the login screen off",
+      "body": "",
+      "details": [
+        "Launcher 1.1.23",
+        "6 files to download, 0.0 MB",
+        "The load order moved, so start a new character or expect the old save to complain"
+      ]
+    },
     {
       "date": "16 Sep 2026",
       "title": "Crafting assets restored, browser backend picked from what is installed",
