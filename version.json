@@ -1,7 +1,7 @@
 {
-  "launcherVersion": "1.1.1",
-  "launcherUrl": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/566832942",
-  "launcherSha256": "ed9135250683ad535f548297a3af68672cc79c2e2a2c3172448a893403c4a83e",
+  "launcherVersion": "1.1.2",
+  "launcherUrl": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/566844488",
+  "launcherSha256": "7006ae4074a7a5cb0356a0a4f739c27ff2b21ae165942a2c9025f22f1e58f706",
   "serverAddress": "192.135.112.23",
   "serverPort": "7777",
   "message": "",
@@ -998,6 +998,14 @@
     }
   ],
   "news": [
+    {
+      "date": "15 Sep 2026",
+      "title": "Installer and ticket fixes",
+      "body": "",
+      "details": [
+        "Launcher 1.1.2"
+      ]
+    },
     {
       "date": "15 Sep 2026",
       "title": "Fixes to the installer, the ticket threads, and where the load order comes from",
