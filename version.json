@@ -1,7 +1,7 @@
 {
-  "launcherVersion": "1.1.16",
-  "launcherUrl": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/567204713",
-  "launcherSha256": "2b16b786d6add5df97c4adcaa0a2a2bf2da6a7dbe094e558abeb2a204e51d9d1",
+  "launcherVersion": "1.1.17",
+  "launcherUrl": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/567228577",
+  "launcherSha256": "6c458ec54a3338600709398ed5202c24be377e878184f0ff0008da1f64582d24",
   "serverAddress": "192.135.112.23",
   "serverPort": "7777",
   "message": "",
@@ -1022,6 +1022,14 @@
     }
   ],
   "news": [
+    {
+      "date": "15 Sep 2026",
+      "title": "The launcher spots another server's client in your Skyrim and takes it out, instead of launching into their main menu",
+      "body": "",
+      "details": [
+        "Launcher 1.1.17"
+      ]
+    },
     {
       "date": "15 Sep 2026",
       "title": "Character creation happens inside the launcher window, and Connect Discord comes back on its own after a refusal",
