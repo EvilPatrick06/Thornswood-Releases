@@ -1,7 +1,7 @@
 {
-  "launcherVersion": "1.1.11",
-  "launcherUrl": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/567067191",
-  "launcherSha256": "f5499daac57a39cd1106fcc77c16f4265926e179302ad1c8d3a745589fc0bf5e",
+  "launcherVersion": "1.1.12",
+  "launcherUrl": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/567106508",
+  "launcherSha256": "4577e831e47b8eda899ea2ede36eb4ac04539f5cf5028fa07fedcec439d63f36",
   "serverAddress": "192.135.112.23",
   "serverPort": "7777",
   "message": "",
@@ -1007,9 +1007,25 @@
       "url": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/567041252",
       "sha256": "11726cf7205b8aec9262c4477398058e1fe70d8787ec4c151ee3e03fb1b839b1",
       "notes": "The installer's leftover folder gets cleared now, on startup and on uninstall"
+    },
+    {
+      "id": "20260915-2144",
+      "url": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/567106507",
+      "sha256": "266c8e38bb86ba819b0f5a7313e02954d161d972e42a1d26f28b0379c5091595",
+      "notes": "Connect Discord can no longer stick, and the collection card offers it instead of a dead button"
     }
   ],
   "news": [
+    {
+      "date": "15 Sep 2026",
+      "title": "Connect Discord can no longer stick, and the collection card offers it instead of a dead button",
+      "body": "",
+      "details": [
+        "Launcher 1.1.12",
+        "129 files to download, 2.1 MB",
+        "The load order moved, so start a new character or expect the old save to complain"
+      ]
+    },
     {
       "date": "15 Sep 2026",
       "title": "Clearing the installer's leftovers can no longer follow a junction out of the folder it is clearing",
@@ -1222,7 +1238,7 @@
       ]
     }
   ],
-  "updateRepo": "EvilPatrick06/Thornswood-Releases",
+  "updateRepo": "",
   "voicePort": "7778",
   "collectionUrl": "https://www.nexusmods.com/games/skyrimspecialedition/collections/ombo2a",
   "maxOnline": 25
