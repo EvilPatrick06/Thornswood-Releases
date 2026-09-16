@@ -1,7 +1,7 @@
 {
-  "launcherVersion": "1.1.32",
-  "launcherUrl": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/568524761",
-  "launcherSha256": "585d2e329eba24084c267dc97f74fdeee8a7ae2b544679eb472f2818806216b4",
+  "launcherVersion": "1.1.33",
+  "launcherUrl": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/568708208",
+  "launcherSha256": "fcb77b3879f897a324229b50e81ab07063f47613a47339084eeeda040085035d",
   "serverAddress": "192.135.112.23",
   "serverPort": "7777",
   "message": "",
@@ -1091,9 +1091,24 @@
       "url": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/568524760",
       "sha256": "6e74fed5956804f6af502a464ebf6a28abbc8c89441ee14b711f5663bc45429a",
       "notes": "Updates reach your game again, and the main menu is only the Thornswood backdrop. Since the move to the Steam copy the launcher had been marking every update as installed without writing a single game file, so nobody got the login fix or the backdrop. Launcher 1.1.32 puts the missed updates back in the queue and installs them properly the next time it opens. The first time it has a lot to download, so give it a while, or run the installer from the site instead. The main menu is now the Thornswood backdrop on any screen, with no buttons, no logo, no save panel and no animation replacer banner, and the game walks you into the creation hall by itself."
+    },
+    {
+      "id": "20260916-1410",
+      "url": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/568708207",
+      "sha256": "104593aa2639bcf086a4af1dc41a6a69a2e35b8c61ea9695f33b002ecf7f0454",
+      "notes": "Voice works: the game finds the launcher's microphone again, so the indicator leaves LISTENING ONLY and push to talk reaches the launcher. Emote wheel is back on G, the key file had been cut down to the field of view line. SkyHUD config restored, the incompatible config popup is gone. Door fix: the rescue that pulled you back through the inn door is off. Thornswood's plugins stay idle when the client points at another server, so they no longer draw over Keizaal Online. New main menu art. Launcher checks in with the character's own profile id and logs its own faults. Vortex bookkeeping and face exports no longer ship in updates."
     }
   ],
   "news": [
+    {
+      "date": "16 Sep 2026",
+      "title": "Voice works: the game finds the launcher's microphone again, so the indicator leaves LISTENING ONLY and push to talk reaches the launcher. Emote wheel is back on G, the key file had been cut down to the field of view line. SkyHUD config restored, the incompatible config popup is gone. Door fix: the rescue that pulled you back through the inn door is off. Thornswood's plugins stay idle when the client points at another server, so they no longer draw over Keizaal Online. New main menu art. Launcher checks in with the character's own profile id and logs its own faults. Vortex bookkeeping and face exports no longer ship in updates.",
+      "body": "",
+      "details": [
+        "Launcher 1.1.33",
+        "15 files to download, 8.2 MB"
+      ]
+    },
     {
       "date": "16 Sep 2026",
       "title": "Updates reach your game again, and the main menu is only the Thornswood backdrop. Since the move to the Steam copy the launcher had been marking every update as installed without writing a single game file, so nobody got the login fix or the backdrop. Launcher 1.1.32 puts the missed updates back in the queue and installs them properly the next time it opens. The first time it has a lot to download, so give it a while, or run the installer from the site instead. The main menu is now the Thornswood backdrop on any screen, with no buttons, no logo, no save panel and no animation replacer banner, and the game walks you into the creation hall by itself.",
@@ -1431,14 +1446,6 @@
       "details": [
         "It used to run inside the game and lose the microphone.",
         "Whisper and yell change how far you carry, and the indicator now tells you the truth about whether you are heard."
-      ]
-    },
-    {
-      "date": "14 Sep 2026",
-      "title": "You get a warning before the server goes down",
-      "body": "",
-      "details": [
-        "A countdown in the world, then back to the launcher, instead of being dropped mid sentence."
       ]
     }
   ],
