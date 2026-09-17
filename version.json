@@ -1,7 +1,7 @@
 {
-  "launcherVersion": "1.1.45.5",
-  "launcherUrl": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/571086176",
-  "launcherSha256": "aa1ef08e1c78d94d4a8b22e40dc34899e09e5f353790ebc0114e5a88ed38460a",
+  "launcherVersion": "1.1.45.6",
+  "launcherUrl": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/571122296",
+  "launcherSha256": "27c284018e031fd2cca17cdd0551358dbba04adb21e487f704657e4be396e809",
   "serverAddress": "192.135.112.23",
   "serverPort": "7787",
   "message": "",
@@ -1169,9 +1169,28 @@
       "url": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/571086175",
       "sha256": "6174f9f97dbdbe57afcba478064af5637099aeeee14da0c1d1aaeadd58a7adea",
       "notes": "Lockpicking works like lockpicking\n- A locked door no longer opens the moment the mini game appears. The client was telling the server to activate the door at the same time Skyrim was opening the lock screen, and the server has no idea what a lock is, so it just opened it. On a load door that pulled you straight through\n- A chest you have picked can be looted. The chest used to open only in your own game, so the server never handed you its contents and everything you took was thrown away. The lock opening now hands the chest back to the server straight away\n- Lockpicks run out. A pick that broke was only destroyed in your own game, and the server put it back a few seconds later, so picks were endless. Your game now tells the server it broke and the server spends it\n- Only the person picking is affected by any of this, and nothing here changes what a lock is worth"
+    },
+    {
+      "id": "20260917-1459-dev",
+      "url": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/571122295",
+      "sha256": "2bb1b0ec0cf2dc25ead6174d6833c12f429a159580c970953a22917a5026bcb2",
+      "notes": "The game folder brings itself up to date when the rules change\n- Thornswood's own Skyrim folder now refreshes itself at startup when the launcher wants something different from the same Vortex deployment. It only ever asked whether Vortex had moved, so a folder built before a rule existed kept whatever that rule was added to take out\n- In practice: NirnLab and its CEFSubprocess.exe leave your Thornswood folder on their own, with no button to press, and the game goes back to the browser this build actually ships\n- That is also the firewall prompt gone, because the second program it was asking about is not in the folder any more"
     }
   ],
   "news": [
+    {
+      "date": "17 Sep 2026",
+      "title": "The game folder brings itself up to date when the rules change",
+      "body": "",
+      "details": [
+        "Thornswood's own Skyrim folder now refreshes itself at startup when the launcher wants something different from the same Vortex deployment. It only ever asked whether Vortex had moved, so a folder built before a rule existed kept whatever that rule was added to take out",
+        "In practice: NirnLab and its CEFSubprocess.exe leave your Thornswood folder on their own, with no button to press, and the game goes back to the browser this build actually ships",
+        "That is also the firewall prompt gone, because the second program it was asking about is not in the folder any more",
+        "Launcher 1.1.45.6",
+        "2 files to download, 2.0 MB"
+      ],
+      "channel": "dev"
+    },
     {
       "date": "17 Sep 2026",
       "title": "Lockpicking works like lockpicking",
@@ -1560,16 +1579,6 @@
       "body": "",
       "details": [
         "Launcher 1.1.10"
-      ],
-      "channel": ""
-    },
-    {
-      "date": "15 Sep 2026",
-      "title": "The installer's leftover folder gets cleared now, on startup and on uninstall",
-      "body": "",
-      "details": [
-        "Launcher 1.1.9",
-        "129 files to download, 2.1 MB"
       ],
       "channel": ""
     }
