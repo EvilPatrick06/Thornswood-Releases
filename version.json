@@ -1,7 +1,7 @@
 {
-  "launcherVersion": "1.1.45.6",
-  "launcherUrl": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/571122296",
-  "launcherSha256": "27c284018e031fd2cca17cdd0551358dbba04adb21e487f704657e4be396e809",
+  "launcherVersion": "1.1.45.7",
+  "launcherUrl": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/571138250",
+  "launcherSha256": "692729223f8c76a5246ab6b84620a30a2289cf2922f159d366b019c73cdc435c",
   "serverAddress": "192.135.112.23",
   "serverPort": "7787",
   "message": "",
@@ -1175,9 +1175,29 @@
       "url": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/571122295",
       "sha256": "2bb1b0ec0cf2dc25ead6174d6833c12f429a159580c970953a22917a5026bcb2",
       "notes": "The game folder brings itself up to date when the rules change\n- Thornswood's own Skyrim folder now refreshes itself at startup when the launcher wants something different from the same Vortex deployment. It only ever asked whether Vortex had moved, so a folder built before a rule existed kept whatever that rule was added to take out\n- In practice: NirnLab and its CEFSubprocess.exe leave your Thornswood folder on their own, with no button to press, and the game goes back to the browser this build actually ships\n- That is also the firewall prompt gone, because the second program it was asking about is not in the folder any more"
+    },
+    {
+      "id": "20260917-1506-dev",
+      "url": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/571138249",
+      "sha256": "03db875bde0226369d3e2088a6622fb96b03bf7474dcb90a2a78e2988bbdfb27",
+      "notes": "Windows can be told once to stop asking about the game's browser\n- Skyrim Platform draws the interface in a second program, and the first time it runs Windows Firewall stops everything to ask whether the network may reach skyrimplatformcef.exe.hidden, published by Unknown\n- Settings, Maintenance now has a button that writes the answer down as a rule, so the question stops being asked. Windows asks for administrator once, because only administrators may write firewall rules\n- It is a block, not an allow. That program only talks to the game on your own machine and Windows does not filter that, so nothing is opened up and the game works the same\n- Correcting something said earlier today: taking NirnLab out of the folder did not remove this prompt, it only changed which program Windows asked about. Both browsers start a second program"
     }
   ],
   "news": [
+    {
+      "date": "17 Sep 2026",
+      "title": "Windows can be told once to stop asking about the game's browser",
+      "body": "",
+      "details": [
+        "Skyrim Platform draws the interface in a second program, and the first time it runs Windows Firewall stops everything to ask whether the network may reach skyrimplatformcef.exe.hidden, published by Unknown",
+        "Settings, Maintenance now has a button that writes the answer down as a rule, so the question stops being asked. Windows asks for administrator once, because only administrators may write firewall rules",
+        "It is a block, not an allow. That program only talks to the game on your own machine and Windows does not filter that, so nothing is opened up and the game works the same",
+        "Correcting something said earlier today: taking NirnLab out of the folder did not remove this prompt, it only changed which program Windows asked about. Both browsers start a second program",
+        "Launcher 1.1.45.7",
+        "1 file to download, 1.0 MB"
+      ],
+      "channel": "dev"
+    },
     {
       "date": "17 Sep 2026",
       "title": "The game folder brings itself up to date when the rules change",
@@ -1570,15 +1590,6 @@
       "body": "",
       "details": [
         "Launcher 1.1.11"
-      ],
-      "channel": ""
-    },
-    {
-      "date": "15 Sep 2026",
-      "title": "The installer's leftover folder gets cleared, and the uninstall screen tells the truth about what it removes",
-      "body": "",
-      "details": [
-        "Launcher 1.1.10"
       ],
       "channel": ""
     }
