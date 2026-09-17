@@ -1,7 +1,7 @@
 {
-  "launcherVersion": "1.1.37",
-  "launcherUrl": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/569281542",
-  "launcherSha256": "defe3a0de52a923017cc19255c91791ee0bf32e5e51da218adfe36a1a6f596b4",
+  "launcherVersion": "1.1.38",
+  "launcherUrl": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/569376087",
+  "launcherSha256": "6d9facf92dbd7407ff611c0310c668b9d201ac825fb019eb93ffc8e17c506dfc",
   "serverAddress": "192.135.112.23",
   "serverPort": "7777",
   "message": "",
@@ -1121,9 +1121,24 @@
       "url": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/569281541",
       "sha256": "12d8ffd7c6cf423f4159f060a20b2c2bc5371d6a653e15ca8dabcf2a39d92547",
       "notes": "The launcher holds its files while the game runs, so another launcher opened mid-session cannot change them. Save folder problems no longer stop Play and say why."
+    },
+    {
+      "id": "20260916-2136",
+      "url": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/569376086",
+      "sha256": "42f889c6c130fe9c4e101098961e307d3c2de62b7af130193a7e5235ba8a4431",
+      "notes": "A Downgrade button on the Play page: Steam fetches 1.6.1170 and the launcher puts it in place, nothing to paste. The build line says which build Skyrim is on."
     }
   ],
   "news": [
+    {
+      "date": "16 Sep 2026",
+      "title": "A Downgrade button on the Play page: Steam fetches 1.6.1170 and the launcher puts it in place, nothing to paste. The build line says which build Skyrim is on.",
+      "body": "",
+      "details": [
+        "Launcher 1.1.38",
+        "1 file to download, 0.0 MB"
+      ]
+    },
     {
       "date": "16 Sep 2026",
       "title": "The launcher holds its files while the game runs, so another launcher opened mid-session cannot change them. Save folder problems no longer stop Play and say why.",
@@ -1462,14 +1477,6 @@
       "details": [
         "Closing the launcher used to leave it running where you could not see it, so it refused to open again until you killed it by hand.",
         "Field of view is in the launcher now, anywhere from 60 to 140."
-      ]
-    },
-    {
-      "date": "14 Sep 2026",
-      "title": "Skyrim has people in it again",
-      "body": "",
-      "details": [
-        "The server was turning away every playable race, which is why the world was empty. It is not any more."
       ]
     }
   ],
