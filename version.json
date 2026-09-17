@@ -1,7 +1,7 @@
 {
-  "launcherVersion": "1.1.42",
-  "launcherUrl": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/569708111",
-  "launcherSha256": "a9746e99d5d84072d46f30fa3847c9bfc01f054871707dabfaa20b0f60241534",
+  "launcherVersion": "1.1.43",
+  "launcherUrl": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/569820232",
+  "launcherSha256": "bfc2375dfe4300460b20d9fd5ecee2a0ceba78dc2302105a16c103270ae6bcce",
   "serverAddress": "192.135.112.23",
   "serverPort": "7777",
   "message": "",
@@ -1139,9 +1139,24 @@
       "url": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/569672743",
       "sha256": "63365e482c57aae89970a4f4cb1eee0ab6415091324e116c46a332798f6530bf",
       "notes": "1.1.41: your key binds and field of view stay on your machine (the 16 Sep updates put one machine's on everyone; a 120 field of view goes back to 65), locks are back, levers, chains, bars and chairs work, an update closes the game after the five minute warning so the launcher can install it, the Downgrade button types into Steam's console itself, arrival points fixed in Whiterun, Riften, Windhelm, Morthal and Winterhold"
+    },
+    {
+      "id": "20260917-0230",
+      "url": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/569820230",
+      "sha256": "960d666b82ed1775723e8f5bfef8190aaacde36faec1eda11e0ff5c4b8b57e15",
+      "notes": "Scan checks every plugin's bytes against the server and Fix fetches the server's copy (the LOAD ORDER ERROR one machine had), Start On Save can no longer load a single player save under SkyMP (the crash on a fresh install with old saves), difficulty is Expert, the Downgrade button clicks into Steam's console before it types"
     }
   ],
   "news": [
+    {
+      "date": "17 Sep 2026",
+      "title": "Scan checks every plugin's bytes against the server and Fix fetches the server's copy (the LOAD ORDER ERROR one machine had), Start On Save can no longer load a single player save under SkyMP (the crash on a fresh install with old saves), difficulty is Expert, the Downgrade button clicks into Steam's console before it types",
+      "body": "",
+      "details": [
+        "Launcher 1.1.43",
+        "1 file to download, 1.0 MB"
+      ]
+    },
     {
       "date": "17 Sep 2026",
       "title": "1.1.42: Thornswood can run from a Skyrim folder of its own (Settings, Maintenance), the Downgrade button clears the console line and runs the command, uninstall takes the installer's files out of the Steam copy",
@@ -1481,14 +1496,6 @@
       "body": "",
       "details": [
         "Launcher 1.1.0"
-      ]
-    },
-    {
-      "date": "15 Sep 2026",
-      "title": "Add-ons tab, optional packs, Discord sign in returns to the panel",
-      "body": "",
-      "details": [
-        "Launcher 1.0.197"
       ]
     }
   ],
