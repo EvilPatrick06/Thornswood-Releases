@@ -1,9 +1,9 @@
 {
-  "launcherVersion": "1.1.35",
-  "launcherUrl": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/569049169",
-  "launcherSha256": "af5a1933c75e4cc35cc5fbdad8960d250df3ed167374ca123670a09b7989fc54",
+  "launcherVersion": "1.1.35.1",
+  "launcherUrl": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/569052168",
+  "launcherSha256": "14ec839aa27f4ff586fb712a758f739fcfffd7963044ecfdcfc996b99055d27b",
   "serverAddress": "192.135.112.23",
-  "serverPort": "7777",
+  "serverPort": "7787",
   "message": "",
   "packs": [
     {
@@ -1109,9 +1109,24 @@
       "url": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/569049168",
       "sha256": "63dc395f18dc995bf9ddbe3f053528d12708469cebb08a7fcc7516eb4147d2f6",
       "notes": "Discord shows you playing Thornswood, with Download and Discord buttons. A dev build you can install from Settings, on its own server. Each build keeps its own game files."
+    },
+    {
+      "id": "20260916-1802-dev",
+      "url": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/569052169",
+      "sha256": "8343f46cdc08586925ced449e5f9516132908c9a564db26ae2bf8789c701cdcc",
+      "notes": "First dev release"
     }
   ],
   "news": [
+    {
+      "date": "16 Sep 2026",
+      "title": "First dev release",
+      "body": "",
+      "details": [
+        "Launcher 1.1.35.1",
+        "6 files to download, 0.0 MB"
+      ]
+    },
     {
       "date": "16 Sep 2026",
       "title": "Discord shows you playing Thornswood, with Download and Discord buttons. A dev build you can install from Settings, on its own server. Each build keeps its own game files.",
@@ -1450,19 +1465,13 @@
         "Looting a body used to strip whatever you were wearing off you.",
         "Spells from mods were being taken back out of your hands the moment you equipped them."
       ]
-    },
-    {
-      "date": "14 Sep 2026",
-      "title": "Doors and chests are locked again",
-      "body": "",
-      "details": [
-        "Every lock in Skyrim was open. All of them.",
-        "Handles, chains and cage gates activate properly now too."
-      ]
     }
   ],
   "updateRepo": "EvilPatrick06/Thornswood-Releases",
-  "voicePort": "7778",
+  "voicePort": "7789",
   "collectionUrl": "https://www.nexusmods.com/games/skyrimspecialedition/collections/ombo2a",
-  "maxOnline": 25
+  "maxOnline": 25,
+  "discordAppId": "1549251507361292418",
+  "siteUrl": "https://thornswood.net",
+  "presenceImage": "https://thornswood.net/presence.png"
 }
