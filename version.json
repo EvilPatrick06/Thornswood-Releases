@@ -1,7 +1,7 @@
 {
-  "launcherVersion": "1.1.45.11",
-  "launcherUrl": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/571196334",
-  "launcherSha256": "660727cbe9e67e3b3f5d14bb1fe7ab901b092f611529250c1f6c078bfafeda1c",
+  "launcherVersion": "1.1.45.12",
+  "launcherUrl": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/571212698",
+  "launcherSha256": "cc87e43d2d2124a16a2862483a24491e11d8ddb7dc0da3176d0801e27ed26418",
   "serverAddress": "192.135.112.23",
   "serverPort": "7787",
   "message": "",
@@ -1185,6 +1185,17 @@
   ],
   "news": [
     {
+      "date": "9-17-2026 3:48 PM",
+      "title": "Dates read month first, with a time",
+      "body": "",
+      "details": [
+        "The news date in the launcher now reads 9-17-2026 3:45 PM instead of 17 SEP 2026 with no time on it, the same shape the site shows under its download button",
+        "Notes already in the feed carry the old bare date, so the launcher converts those as it reads them rather than anybody rewriting the feed",
+        "Launcher 1.1.45.12"
+      ],
+      "channel": "dev"
+    },
+    {
       "date": "17 Sep 2026",
       "title": "The uninstall clears up after itself and tells you what it left",
       "body": "",
@@ -1590,15 +1601,6 @@
       "body": "",
       "details": [
         "Launcher 1.1.16"
-      ],
-      "channel": ""
-    },
-    {
-      "date": "15 Sep 2026",
-      "title": "The mod list scan reads the load order Vortex actually writes, instead of a stale copy nothing touches",
-      "body": "",
-      "details": [
-        "Launcher 1.1.15"
       ],
       "channel": ""
     }
