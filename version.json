@@ -1,7 +1,7 @@
 {
-  "launcherVersion": "1.1.45.9",
-  "launcherUrl": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/571160053",
-  "launcherSha256": "8b408cdb86a5ef57c56bad41732fb44cc41d95c5e70ad46391dcc56d4a3be389",
+  "launcherVersion": "1.1.45.10",
+  "launcherUrl": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/571170963",
+  "launcherSha256": "bbc803611ed497fe4a48ae8469958d9a9b84d5e8b82a3481e4205bbb66d83a90",
   "serverAddress": "192.135.112.23",
   "serverPort": "7787",
   "message": "",
@@ -1186,6 +1186,19 @@
   "news": [
     {
       "date": "17 Sep 2026",
+      "title": "The uninstall page tells the truth",
+      "body": "",
+      "details": [
+        "The box said Delete the mods as well, which is not what it controls. It has never been able to delete the mods: on an install running from your Steam copy the launcher refuses to touch that folder whatever the box says, because those are Vortex's hardlinks. It controls Thornswood's own game folder, and now says so",
+        "A full uninstall left the install folder behind with the downloaded packs still in it, 1.5 GB on the machine this was found on. It tries to remove the folder when it is empty, and nothing had ever emptied it. The packs, the tools folder and the shortcut go now",
+        "Files set aside in _quarantine are still left alone. They came out of somebody's game, another server's among them, and are not ours to delete on the way out",
+        "The uninstall now names the dev build if you have one, since it is a separate install in its own folder and its own launcher is what removes it",
+        "Launcher 1.1.45.10"
+      ],
+      "channel": "dev"
+    },
+    {
+      "date": "17 Sep 2026",
       "title": "No administrator prompt out of nowhere",
       "body": "",
       "details": [
@@ -1583,16 +1596,6 @@
       "body": "",
       "details": [
         "Launcher 1.1.14"
-      ],
-      "channel": ""
-    },
-    {
-      "date": "15 Sep 2026",
-      "title": "Connect Discord can no longer stick, the collection card offers it instead of a dead button, and Woodworker joins the professions",
-      "body": "",
-      "details": [
-        "Launcher 1.1.13",
-        "1 file to download, 0.0 MB"
       ],
       "channel": ""
     }
