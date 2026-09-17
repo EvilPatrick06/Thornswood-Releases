@@ -1,7 +1,7 @@
 {
-  "launcherVersion": "1.1.45",
-  "launcherUrl": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/570531071",
-  "launcherSha256": "e763046a3ea7bfe74421cd3ffae44628631c7161c075b468b68ff77c5437def2",
+  "launcherVersion": "1.1.45.1",
+  "launcherUrl": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/570809822",
+  "launcherSha256": "1158a791ec518b9ba8fb2d0b62a194d16a2d99597cdebee8a292978b56ba642b",
   "serverAddress": "192.135.112.23",
   "serverPort": "7787",
   "message": "",
@@ -1156,6 +1156,14 @@
   "news": [
     {
       "date": "17 Sep 2026",
+      "title": "the audit fixes: the server probe waits out a restart instead of quitting to the menu, an activation the server answers for stops counting twice, the race menu stops reopening on a character that has a face, a death during a disconnect respawns at a temple, chat can no longer restart the server, Fix no longer writes into another server's collection, and twenty six launcher fixes",
+      "body": "",
+      "details": [
+        "Launcher 1.1.45.1"
+      ]
+    },
+    {
+      "date": "17 Sep 2026",
       "title": "an update countdown no longer kicks anybody (a kick without a server restart left existing characters unable to get back in and with no NPCs), a fresh install never gets the shared profile 1 and never deletes your own Skyrim saves, the Downgrade button logs the exact command and what Steam said when a part does not start",
       "body": "",
       "details": [
@@ -1495,18 +1503,13 @@
       "details": [
         "Launcher 1.1.3"
       ]
-    },
-    {
-      "date": "15 Sep 2026",
-      "title": "Installer and ticket fixes",
-      "body": "",
-      "details": [
-        "Launcher 1.1.2"
-      ]
     }
   ],
   "updateRepo": "EvilPatrick06/Thornswood-Releases",
   "voicePort": "7789",
   "collectionUrl": "https://www.nexusmods.com/games/skyrimspecialedition/collections/ombo2a",
-  "maxOnline": 25
+  "maxOnline": 25,
+  "discordAppId": "1549251507361292418",
+  "siteUrl": "https://thornswood.net",
+  "presenceImage": "https://thornswood.net/presence.png"
 }
