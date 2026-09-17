@@ -1,7 +1,7 @@
 {
-  "launcherVersion": "1.1.44",
-  "launcherUrl": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/569848682",
-  "launcherSha256": "6fa8dd8105dd11cf004501edaf60e4a862ff5dd29777fd464d5e5ea1fad6842d",
+  "launcherVersion": "1.1.45",
+  "launcherUrl": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/570531071",
+  "launcherSha256": "e763046a3ea7bfe74421cd3ffae44628631c7161c075b468b68ff77c5437def2",
   "serverAddress": "192.135.112.23",
   "serverPort": "7777",
   "message": "",
@@ -1145,9 +1145,24 @@
       "url": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/569820230",
       "sha256": "960d666b82ed1775723e8f5bfef8190aaacde36faec1eda11e0ff5c4b8b57e15",
       "notes": "Scan checks every plugin's bytes against the server and Fix fetches the server's copy (the LOAD ORDER ERROR one machine had), Start On Save can no longer load a single player save under SkyMP (the crash on a fresh install with old saves), difficulty is Expert, the Downgrade button clicks into Steam's console before it types"
+    },
+    {
+      "id": "20260917-0925",
+      "url": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/570531078",
+      "sha256": "960d666b82ed1775723e8f5bfef8190aaacde36faec1eda11e0ff5c4b8b57e15",
+      "notes": "an update countdown no longer kicks anybody (a kick without a server restart left existing characters unable to get back in and with no NPCs), a fresh install never gets the shared profile 1 and never deletes your own Skyrim saves, the Downgrade button logs the exact command and what Steam said when a part does not start"
     }
   ],
   "news": [
+    {
+      "date": "17 Sep 2026",
+      "title": "an update countdown no longer kicks anybody (a kick without a server restart left existing characters unable to get back in and with no NPCs), a fresh install never gets the shared profile 1 and never deletes your own Skyrim saves, the Downgrade button logs the exact command and what Steam said when a part does not start",
+      "body": "",
+      "details": [
+        "Launcher 1.1.45",
+        "1 file to download, 1.0 MB"
+      ]
+    },
     {
       "date": "17 Sep 2026",
       "title": "Scan and Fix can pull the server's copy of a mismatched plugin now: the file server refused the real plugin names with a 403, so each one is served by its load order position instead",
@@ -1487,15 +1502,6 @@
       "body": "",
       "details": [
         "Launcher 1.1.2"
-      ]
-    },
-    {
-      "date": "15 Sep 2026",
-      "title": "Fixes to the installer, the ticket threads, and where the load order comes from",
-      "body": "",
-      "details": [
-        "Launcher 1.1.1",
-        "7,006 files to download, 1,586.2 MB"
       ]
     }
   ],
