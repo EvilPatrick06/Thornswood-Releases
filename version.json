@@ -1,7 +1,7 @@
 {
-  "launcherVersion": "1.1.45.12",
-  "launcherUrl": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/571212698",
-  "launcherSha256": "cc87e43d2d2124a16a2862483a24491e11d8ddb7dc0da3176d0801e27ed26418",
+  "launcherVersion": "1.1.46",
+  "launcherUrl": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/571311144",
+  "launcherSha256": "d1b2be23d550332bf641ab04fb812c8abc01c099e4971bfd121a616f5704dfc7",
   "serverAddress": "192.135.112.23",
   "serverPort": "7787",
   "message": "",
@@ -1153,180 +1153,30 @@
       "notes": "an update countdown no longer kicks anybody (a kick without a server restart left existing characters unable to get back in and with no NPCs), a fresh install never gets the shared profile 1 and never deletes your own Skyrim saves, the Downgrade button logs the exact command and what Steam said when a part does not start"
     },
     {
-      "id": "20260917-1216-dev",
-      "url": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/570816404",
-      "sha256": "da22aab667460e0da606aa2812709dee8457ca0c61513fe6da6757d2fb73fd8d",
-      "notes": "the in game plugins, which the last dev build was published without: the server probe waits out a restart instead of quitting to the menu, an activation the server answers for stops counting twice, the controls watchdog sits out death and furniture, and one end owns the emote wheel keys"
-    },
-    {
-      "id": "20260917-1315-dev",
-      "url": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/570918233",
-      "sha256": "62b6e46122cb42f9e03502db215e69f8b80f17df5a880d3f9ad391005597ea1b",
-      "notes": "the Play page now checks the client bundle, which is the half that dials the server and the one thing none of the other checks looked at, and Repair puts this build's own files back instead of only its settings"
-    },
-    {
-      "id": "20260917-1443-dev",
-      "url": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/571086175",
-      "sha256": "6174f9f97dbdbe57afcba478064af5637099aeeee14da0c1d1aaeadd58a7adea",
-      "notes": "Lockpicking works like lockpicking\n- A locked door no longer opens the moment the mini game appears. The client was telling the server to activate the door at the same time Skyrim was opening the lock screen, and the server has no idea what a lock is, so it just opened it. On a load door that pulled you straight through\n- A chest you have picked can be looted. The chest used to open only in your own game, so the server never handed you its contents and everything you took was thrown away. The lock opening now hands the chest back to the server straight away\n- Lockpicks run out. A pick that broke was only destroyed in your own game, and the server put it back a few seconds later, so picks were endless. Your game now tells the server it broke and the server spends it\n- Only the person picking is affected by any of this, and nothing here changes what a lock is worth"
-    },
-    {
-      "id": "20260917-1459-dev",
-      "url": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/571122295",
-      "sha256": "2bb1b0ec0cf2dc25ead6174d6833c12f429a159580c970953a22917a5026bcb2",
-      "notes": "The game folder brings itself up to date when the rules change\n- Thornswood's own Skyrim folder now refreshes itself at startup when the launcher wants something different from the same Vortex deployment. It only ever asked whether Vortex had moved, so a folder built before a rule existed kept whatever that rule was added to take out\n- In practice: NirnLab and its CEFSubprocess.exe leave your Thornswood folder on their own, with no button to press, and the game goes back to the browser this build actually ships\n- That is also the firewall prompt gone, because the second program it was asking about is not in the folder any more"
-    },
-    {
-      "id": "20260917-1506-dev",
-      "url": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/571138249",
-      "sha256": "03db875bde0226369d3e2088a6622fb96b03bf7474dcb90a2a78e2988bbdfb27",
-      "notes": "Windows can be told once to stop asking about the game's browser\n- Skyrim Platform draws the interface in a second program, and the first time it runs Windows Firewall stops everything to ask whether the network may reach skyrimplatformcef.exe.hidden, published by Unknown\n- Settings, Maintenance now has a button that writes the answer down as a rule, so the question stops being asked. Windows asks for administrator once, because only administrators may write firewall rules\n- It is a block, not an allow. That program only talks to the game on your own machine and Windows does not filter that, so nothing is opened up and the game works the same\n- Correcting something said earlier today: taking NirnLab out of the folder did not remove this prompt, it only changed which program Windows asked about. Both browsers start a second program"
+      "id": "20260917-1647",
+      "url": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/571311141",
+      "sha256": "db010aab9b68cda87ef087376edd11a10c94e623c9640745f1c4f01e8f18751d",
+      "notes": "Lockpicking works, the game folder looks after itself, and Windows stops asking about the browser\n\nEverything the dev build has been carrying today.\n\n- Lockpicking. A locked door no longer opens the moment the mini game appears, a chest you have picked can actually be looted, and lockpicks run out instead of lasting forever\n- NirnLab is another server's file and Thornswood's own game folder no longer takes it. The folder brings itself up to date on its own, so this needs nothing from you\n- Windows asking whether the game's browser may reach the network is settled while the folder is set up, and refusing is fine\n- Thornswood now appears in Windows Settings under Installed apps, and the uninstall button there opens the launcher on the page that does it\n- The Play page checks the client bundle now, which is the half that dials the server and the one thing none of the other checks looked at\n- Repair puts this build's own files back rather than only its settings\n- The uninstall says what it actually does, clears up after itself, and tells you what it left and why\n- Dates read month first with a time on them"
     }
   ],
   "news": [
     {
-      "date": "9-17-2026 3:48 PM",
-      "title": "Dates read month first, with a time",
-      "body": "",
+      "date": "9-17-2026 4:47 PM",
+      "title": "Lockpicking works, the game folder looks after itself, and Windows stops asking about the browser",
+      "body": "Everything the dev build has been carrying today.",
       "details": [
-        "The news date in the launcher now reads 9-17-2026 3:45 PM instead of 17 SEP 2026 with no time on it, the same shape the site shows under its download button",
-        "Notes already in the feed carry the old bare date, so the launcher converts those as it reads them rather than anybody rewriting the feed",
-        "Launcher 1.1.45.12"
+        "Lockpicking. A locked door no longer opens the moment the mini game appears, a chest you have picked can actually be looted, and lockpicks run out instead of lasting forever",
+        "NirnLab is another server's file and Thornswood's own game folder no longer takes it. The folder brings itself up to date on its own, so this needs nothing from you",
+        "Windows asking whether the game's browser may reach the network is settled while the folder is set up, and refusing is fine",
+        "Thornswood now appears in Windows Settings under Installed apps, and the uninstall button there opens the launcher on the page that does it",
+        "The Play page checks the client bundle now, which is the half that dials the server and the one thing none of the other checks looked at",
+        "Repair puts this build's own files back rather than only its settings",
+        "The uninstall says what it actually does, clears up after itself, and tells you what it left and why",
+        "Dates read month first with a time on them",
+        "Launcher 1.1.46",
+        "15 files to download, 4.2 MB"
       ],
-      "channel": "dev"
-    },
-    {
-      "date": "17 Sep 2026",
-      "title": "The uninstall clears up after itself and tells you what it left",
-      "body": "",
-      "details": [
-        "An empty _quarantine folder is removed now. What is inside one is still never touched, because it came out of your game and another server's files can be among it, but the empty folder itself was just a worrying name sitting there",
-        "The Thornswood folder itself goes when nothing is left in it. It only ever goes when it is empty, so anything you put there by hand still keeps it",
-        "When something is left, a note comes up after the uninstall finishes saying what is still there, where, and why each thing was kept: quarantine is not ours to delete, the game and your profile are there because you asked for them, and anything else is not Thornswood's",
-        "Launcher 1.1.45.11"
-      ],
-      "channel": "dev"
-    },
-    {
-      "date": "17 Sep 2026",
-      "title": "The uninstall page tells the truth",
-      "body": "",
-      "details": [
-        "The box said Delete the mods as well, which is not what it controls. It has never been able to delete the mods: on an install running from your Steam copy the launcher refuses to touch that folder whatever the box says, because those are Vortex's hardlinks. It controls Thornswood's own game folder, and now says so",
-        "A full uninstall left the install folder behind with the downloaded packs still in it, 1.5 GB on the machine this was found on. It tries to remove the folder when it is empty, and nothing had ever emptied it. The packs, the tools folder and the shortcut go now",
-        "Files set aside in _quarantine are still left alone. They came out of somebody's game, another server's among them, and are not ours to delete on the way out",
-        "The uninstall now names the dev build if you have one, since it is a separate install in its own folder and its own launcher is what removes it",
-        "Launcher 1.1.45.10"
-      ],
-      "channel": "dev"
-    },
-    {
-      "date": "17 Sep 2026",
-      "title": "No administrator prompt out of nowhere",
-      "body": "",
-      "details": [
-        "The firewall rule is only written when you start the folder build yourself. The refresh the launcher runs on its own at startup stays silent",
-        "Without this, the last dev build would have raised a Windows administrator prompt the next time anyone opened the launcher, because the folder refresh that went out earlier today fires once on every install",
-        "Launcher 1.1.45.9"
-      ],
-      "channel": "dev"
-    },
-    {
-      "date": "17 Sep 2026",
-      "title": "The firewall rule is written with the folder instead of from a button",
-      "body": "",
-      "details": [
-        "The button in Settings is gone. A button offering to stop Windows asking about something, which then asks for administrator, is one you should refuse even when it is honest",
-        "It now happens while Thornswood's own Skyrim folder is being made or brought up to date, which is what causes the question in the first place. A firewall rule belongs to a program's exact path, every other server runs from the Steam copy where that was settled long ago, and giving Thornswood a folder of its own makes the same file look like a new program to Windows",
-        "The card says the administrator prompt is coming and why, and that saying no is fine. The rule is a block, the game's browser only ever talks to the game on your own machine, and refusing just means Windows asks you once on the first launch instead",
-        "Launcher 1.1.45.8"
-      ],
-      "channel": "dev"
-    },
-    {
-      "date": "17 Sep 2026",
-      "title": "Windows can be told once to stop asking about the game's browser",
-      "body": "",
-      "details": [
-        "Skyrim Platform draws the interface in a second program, and the first time it runs Windows Firewall stops everything to ask whether the network may reach skyrimplatformcef.exe.hidden, published by Unknown",
-        "Settings, Maintenance now has a button that writes the answer down as a rule, so the question stops being asked. Windows asks for administrator once, because only administrators may write firewall rules",
-        "It is a block, not an allow. That program only talks to the game on your own machine and Windows does not filter that, so nothing is opened up and the game works the same",
-        "Correcting something said earlier today: taking NirnLab out of the folder did not remove this prompt, it only changed which program Windows asked about. Both browsers start a second program",
-        "Launcher 1.1.45.7",
-        "1 file to download, 1.0 MB"
-      ],
-      "channel": "dev"
-    },
-    {
-      "date": "17 Sep 2026",
-      "title": "The game folder brings itself up to date when the rules change",
-      "body": "",
-      "details": [
-        "Thornswood's own Skyrim folder now refreshes itself at startup when the launcher wants something different from the same Vortex deployment. It only ever asked whether Vortex had moved, so a folder built before a rule existed kept whatever that rule was added to take out",
-        "In practice: NirnLab and its CEFSubprocess.exe leave your Thornswood folder on their own, with no button to press, and the game goes back to the browser this build actually ships",
-        "That is also the firewall prompt gone, because the second program it was asking about is not in the folder any more",
-        "Launcher 1.1.45.6",
-        "2 files to download, 2.0 MB"
-      ],
-      "channel": "dev"
-    },
-    {
-      "date": "17 Sep 2026",
-      "title": "Lockpicking works like lockpicking",
-      "body": "",
-      "details": [
-        "A locked door no longer opens the moment the mini game appears. The client was telling the server to activate the door at the same time Skyrim was opening the lock screen, and the server has no idea what a lock is, so it just opened it. On a load door that pulled you straight through",
-        "A chest you have picked can be looted. The chest used to open only in your own game, so the server never handed you its contents and everything you took was thrown away. The lock opening now hands the chest back to the server straight away",
-        "Lockpicks run out. A pick that broke was only destroyed in your own game, and the server put it back a few seconds later, so picks were endless. Your game now tells the server it broke and the server spends it",
-        "Only the person picking is affected by any of this, and nothing here changes what a lock is worth",
-        "Launcher 1.1.45.5",
-        "10 files to download, 1.2 MB"
-      ],
-      "channel": "dev"
-    },
-    {
-      "date": "17 Sep 2026",
-      "title": "NirnLab is another server's file now, everywhere, and the browser stays with it where it is present",
-      "body": "",
-      "details": [
-        "SkyrimPlatform will not start on its own browser while NirnLab is in the game folder, which is the PATH error box. The folder the launcher builds no longer takes NirnLab at all, so it runs on the browser we ship",
-        "Nothing asks the firewall about CEFSubprocess.exe once that folder is rebuilt, because that program is NirnLab's and is no longer there",
-        "No pack can carry another server's interface framework any more",
-        "SkyrimPlatform.ini is a machine file and never travels in a pack",
-        "The News tab marks which notes are dev only and says how far dev is ahead of main",
-        "Launcher 1.1.45.4"
-      ],
-      "channel": "dev"
-    },
-    {
-      "date": "17 Sep 2026",
-      "title": "the Play page now checks the client bundle, which is the half that dials the server and the one thing none of the other checks looked at, and Repair puts this build's own files back instead of only its settings",
-      "body": "",
-      "details": [
-        "Launcher 1.1.45.3",
-        "9 files to download, 0.2 MB",
-        "The load order moved, so start a new character or expect the old save to complain"
-      ],
-      "channel": "dev"
-    },
-    {
-      "date": "17 Sep 2026",
-      "title": "the in game plugins, which the last dev build was published without: the server probe waits out a restart instead of quitting to the menu, an activation the server answers for stops counting twice, the controls watchdog sits out death and furniture, and one end owns the emote wheel keys",
-      "body": "",
-      "details": [
-        "Launcher 1.1.45.2",
-        "11 files to download, 2.6 MB"
-      ],
-      "channel": "dev"
-    },
-    {
-      "date": "17 Sep 2026",
-      "title": "the audit fixes: the server probe waits out a restart instead of quitting to the menu, an activation the server answers for stops counting twice, the race menu stops reopening on a character that has a face, a death during a disconnect respawns at a temple, chat can no longer restart the server, Fix no longer writes into another server's collection, and twenty six launcher fixes",
-      "body": "",
-      "details": [
-        "Launcher 1.1.45.1"
-      ],
-      "channel": "dev"
+      "channel": ""
     },
     {
       "date": "17 Sep 2026",
@@ -1335,8 +1185,7 @@
       "details": [
         "Launcher 1.1.45",
         "1 file to download, 1.0 MB"
-      ],
-      "channel": ""
+      ]
     },
     {
       "date": "17 Sep 2026",
@@ -1344,8 +1193,7 @@
       "body": "",
       "details": [
         "Launcher 1.1.44"
-      ],
-      "channel": ""
+      ]
     },
     {
       "date": "17 Sep 2026",
@@ -1354,8 +1202,7 @@
       "details": [
         "Launcher 1.1.43",
         "1 file to download, 1.0 MB"
-      ],
-      "channel": ""
+      ]
     },
     {
       "date": "17 Sep 2026",
@@ -1363,8 +1210,7 @@
       "body": "",
       "details": [
         "Launcher 1.1.42"
-      ],
-      "channel": ""
+      ]
     },
     {
       "date": "17 Sep 2026",
@@ -1373,8 +1219,7 @@
       "details": [
         "Launcher 1.1.41",
         "1 file to download, 1.0 MB"
-      ],
-      "channel": ""
+      ]
     },
     {
       "date": "17 Sep 2026",
@@ -1383,8 +1228,7 @@
       "details": [
         "Launcher 1.1.40",
         "1 file to download, 0.0 MB"
-      ],
-      "channel": ""
+      ]
     },
     {
       "date": "16 Sep 2026",
@@ -1392,8 +1236,7 @@
       "body": "A second launcher no longer counts as the running game. The 16 Sep installer's sign in file is removed from every install and the installer is rebuilt without it.",
       "details": [
         "Launcher 1.1.39"
-      ],
-      "channel": ""
+      ]
     },
     {
       "date": "16 Sep 2026",
@@ -1402,8 +1245,7 @@
       "details": [
         "Launcher 1.1.38",
         "1 file to download, 0.0 MB"
-      ],
-      "channel": ""
+      ]
     },
     {
       "date": "16 Sep 2026",
@@ -1412,8 +1254,7 @@
       "details": [
         "Launcher 1.1.37",
         "6 files to download, 0.1 MB"
-      ],
-      "channel": ""
+      ]
     },
     {
       "date": "16 Sep 2026",
@@ -1422,8 +1263,7 @@
       "details": [
         "Launcher 1.1.36",
         "6 files to download, 0.1 MB"
-      ],
-      "channel": ""
+      ]
     },
     {
       "date": "16 Sep 2026",
@@ -1432,8 +1272,7 @@
       "details": [
         "Launcher 1.1.35",
         "7 files to download, 0.1 MB"
-      ],
-      "channel": ""
+      ]
     },
     {
       "date": "16 Sep 2026",
@@ -1442,8 +1281,7 @@
       "details": [
         "Launcher 1.1.34",
         "18 files to download, 11.5 MB"
-      ],
-      "channel": ""
+      ]
     },
     {
       "date": "16 Sep 2026",
@@ -1452,8 +1290,7 @@
       "details": [
         "Launcher 1.1.33",
         "15 files to download, 8.2 MB"
-      ],
-      "channel": ""
+      ]
     },
     {
       "date": "16 Sep 2026",
@@ -1462,8 +1299,7 @@
       "details": [
         "Launcher 1.1.32",
         "20 files to download, 15.3 MB"
-      ],
-      "channel": ""
+      ]
     },
     {
       "date": "16 Sep 2026",
@@ -1472,8 +1308,7 @@
       "details": [
         "Launcher 1.1.31",
         "7 files to download, 17.0 MB"
-      ],
-      "channel": ""
+      ]
     },
     {
       "date": "16 Sep 2026",
@@ -1482,8 +1317,7 @@
       "details": [
         "Launcher 1.1.30",
         "6 files to download, 16.0 MB"
-      ],
-      "channel": ""
+      ]
     },
     {
       "date": "16 Sep 2026",
@@ -1492,8 +1326,7 @@
       "details": [
         "Launcher 1.1.29",
         "5 files to download, 2.0 MB"
-      ],
-      "channel": ""
+      ]
     },
     {
       "date": "16 Sep 2026",
@@ -1502,8 +1335,7 @@
       "details": [
         "Launcher 1.1.27",
         "The load order moved, so start a new character or expect the old save to complain"
-      ],
-      "channel": ""
+      ]
     },
     {
       "date": "16 Sep 2026",
@@ -1513,8 +1345,7 @@
         "Launcher 1.1.26",
         "5 files to download, 0.0 MB",
         "The load order moved, so start a new character or expect the old save to complain"
-      ],
-      "channel": ""
+      ]
     },
     {
       "date": "16 Sep 2026",
@@ -1523,8 +1354,7 @@
       "details": [
         "Launcher 1.1.25",
         "6 files to download, 6.2 MB"
-      ],
-      "channel": ""
+      ]
     },
     {
       "date": "16 Sep 2026",
@@ -1533,8 +1363,7 @@
       "details": [
         "Launcher 1.1.24",
         "5 files to download, 0.0 MB"
-      ],
-      "channel": ""
+      ]
     },
     {
       "date": "16 Sep 2026",
@@ -1544,8 +1373,7 @@
         "Launcher 1.1.23",
         "6 files to download, 0.0 MB",
         "The load order moved, so start a new character or expect the old save to complain"
-      ],
-      "channel": ""
+      ]
     },
     {
       "date": "16 Sep 2026",
@@ -1554,8 +1382,7 @@
       "details": [
         "Launcher 1.1.22",
         "13 files to download, 0.7 MB"
-      ],
-      "channel": ""
+      ]
     },
     {
       "date": "16 Sep 2026",
@@ -1564,8 +1391,7 @@
       "details": [
         "Launcher 1.1.21",
         "8 files to download, 0.4 MB"
-      ],
-      "channel": ""
+      ]
     },
     {
       "date": "16 Sep 2026",
@@ -1574,8 +1400,7 @@
       "details": [
         "Launcher 1.1.20",
         "1 file to download, 0.0 MB"
-      ],
-      "channel": ""
+      ]
     },
     {
       "date": "15 Sep 2026",
@@ -1583,8 +1408,7 @@
       "body": "",
       "details": [
         "Launcher 1.1.18"
-      ],
-      "channel": ""
+      ]
     },
     {
       "date": "15 Sep 2026",
@@ -1592,8 +1416,7 @@
       "body": "",
       "details": [
         "Launcher 1.1.17"
-      ],
-      "channel": ""
+      ]
     },
     {
       "date": "15 Sep 2026",
@@ -1601,16 +1424,106 @@
       "body": "",
       "details": [
         "Launcher 1.1.16"
-      ],
-      "channel": ""
+      ]
+    },
+    {
+      "date": "15 Sep 2026",
+      "title": "The mod list scan reads the load order Vortex actually writes, instead of a stale copy nothing touches",
+      "body": "",
+      "details": [
+        "Launcher 1.1.15"
+      ]
+    },
+    {
+      "date": "15 Sep 2026",
+      "title": "Connect Discord can no longer stick, the collection card offers it instead of a dead button, Woodworker joins the professions, and the docs stop mixing professions with classes",
+      "body": "",
+      "details": [
+        "Launcher 1.1.14"
+      ]
+    },
+    {
+      "date": "15 Sep 2026",
+      "title": "Connect Discord can no longer stick, the collection card offers it instead of a dead button, and Woodworker joins the professions",
+      "body": "",
+      "details": [
+        "Launcher 1.1.13",
+        "1 file to download, 0.0 MB"
+      ]
+    },
+    {
+      "date": "15 Sep 2026",
+      "title": "Connect Discord can no longer stick, and the collection card offers it instead of a dead button",
+      "body": "",
+      "details": [
+        "Launcher 1.1.12",
+        "129 files to download, 2.1 MB",
+        "The load order moved, so start a new character or expect the old save to complain"
+      ]
+    },
+    {
+      "date": "15 Sep 2026",
+      "title": "Clearing the installer's leftovers can no longer follow a junction out of the folder it is clearing",
+      "body": "",
+      "details": [
+        "Launcher 1.1.11"
+      ]
+    },
+    {
+      "date": "15 Sep 2026",
+      "title": "The installer's leftover folder gets cleared, and the uninstall screen tells the truth about what it removes",
+      "body": "",
+      "details": [
+        "Launcher 1.1.10"
+      ]
+    },
+    {
+      "date": "15 Sep 2026",
+      "title": "The installer's leftover folder gets cleared now, on startup and on uninstall",
+      "body": "",
+      "details": [
+        "Launcher 1.1.9",
+        "129 files to download, 2.1 MB"
+      ]
+    },
+    {
+      "date": "15 Sep 2026",
+      "title": "Sub professions have real names, the installer opens the launcher when it finishes, and confirms you are 18 first",
+      "body": "",
+      "details": [
+        "Launcher 1.1.8"
+      ]
+    },
+    {
+      "date": "15 Sep 2026",
+      "title": "Sub professions have real names now, and the installer opens the launcher for you when it finishes",
+      "body": "",
+      "details": [
+        "Launcher 1.1.6",
+        "129 files to download, 2.1 MB",
+        "The load order moved, so start a new character or expect the old save to complain"
+      ]
+    },
+    {
+      "date": "15 Sep 2026",
+      "title": "The home page sends you to the collection when your mods are missing, instead of just telling you they are",
+      "body": "",
+      "details": [
+        "Launcher 1.1.5"
+      ]
+    },
+    {
+      "date": "15 Sep 2026",
+      "title": "Field of view no longer reads zero, the resolution box explains itself, and uninstalling takes our files back out of your Skyrim",
+      "body": "",
+      "details": [
+        "Launcher 1.1.3"
+      ]
     }
   ],
   "updateRepo": "EvilPatrick06/Thornswood-Releases",
   "voicePort": "7789",
   "collectionUrl": "https://www.nexusmods.com/games/skyrimspecialedition/collections/ombo2a",
   "maxOnline": 25,
-  "discordAppId": "1549251507361292418",
-  "siteUrl": "https://thornswood.net",
-  "presenceImage": "https://thornswood.net/presence.png",
-  "mainVersion": "1.1.45"
+  "mainVersion": ""
 }
