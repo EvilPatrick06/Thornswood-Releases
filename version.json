@@ -1,7 +1,7 @@
 {
-  "launcherVersion": "1.1.43",
-  "launcherUrl": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/569820232",
-  "launcherSha256": "bfc2375dfe4300460b20d9fd5ecee2a0ceba78dc2302105a16c103270ae6bcce",
+  "launcherVersion": "1.1.44",
+  "launcherUrl": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/569848682",
+  "launcherSha256": "6fa8dd8105dd11cf004501edaf60e4a862ff5dd29777fd464d5e5ea1fad6842d",
   "serverAddress": "192.135.112.23",
   "serverPort": "7777",
   "message": "",
@@ -1150,6 +1150,14 @@
   "news": [
     {
       "date": "17 Sep 2026",
+      "title": "Scan and Fix can pull the server's copy of a mismatched plugin now: the file server refused the real plugin names with a 403, so each one is served by its load order position instead",
+      "body": "",
+      "details": [
+        "Launcher 1.1.44"
+      ]
+    },
+    {
+      "date": "17 Sep 2026",
       "title": "Scan checks every plugin's bytes against the server and Fix fetches the server's copy (the LOAD ORDER ERROR one machine had), Start On Save can no longer load a single player save under SkyMP (the crash on a fresh install with old saves), difficulty is Expert, the Downgrade button clicks into Steam's console before it types",
       "body": "",
       "details": [
@@ -1488,14 +1496,6 @@
       "details": [
         "Launcher 1.1.1",
         "7,006 files to download, 1,586.2 MB"
-      ]
-    },
-    {
-      "date": "15 Sep 2026",
-      "title": "1.1  The cities are rebuilt, the mods are on Nexus as a collection, and everyone starts over",
-      "body": "",
-      "details": [
-        "Launcher 1.1.0"
       ]
     }
   ],
