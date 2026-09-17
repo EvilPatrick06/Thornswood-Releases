@@ -1,7 +1,7 @@
 {
-  "launcherVersion": "1.1.45",
-  "launcherUrl": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/570531071",
-  "launcherSha256": "e763046a3ea7bfe74421cd3ffae44628631c7161c075b468b68ff77c5437def2",
+  "launcherVersion": "1.1.46",
+  "launcherUrl": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/571311144",
+  "launcherSha256": "d1b2be23d550332bf641ab04fb812c8abc01c099e4971bfd121a616f5704dfc7",
   "serverAddress": "192.135.112.23",
   "serverPort": "7777",
   "message": "",
@@ -1151,9 +1151,33 @@
       "url": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/570531078",
       "sha256": "960d666b82ed1775723e8f5bfef8190aaacde36faec1eda11e0ff5c4b8b57e15",
       "notes": "an update countdown no longer kicks anybody (a kick without a server restart left existing characters unable to get back in and with no NPCs), a fresh install never gets the shared profile 1 and never deletes your own Skyrim saves, the Downgrade button logs the exact command and what Steam said when a part does not start"
+    },
+    {
+      "id": "20260917-1647",
+      "url": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/571311141",
+      "sha256": "db010aab9b68cda87ef087376edd11a10c94e623c9640745f1c4f01e8f18751d",
+      "notes": "Lockpicking works, the game folder looks after itself, and Windows stops asking about the browser\n\nEverything the dev build has been carrying today.\n\n- Lockpicking. A locked door no longer opens the moment the mini game appears, a chest you have picked can actually be looted, and lockpicks run out instead of lasting forever\n- NirnLab is another server's file and Thornswood's own game folder no longer takes it. The folder brings itself up to date on its own, so this needs nothing from you\n- Windows asking whether the game's browser may reach the network is settled while the folder is set up, and refusing is fine\n- Thornswood now appears in Windows Settings under Installed apps, and the uninstall button there opens the launcher on the page that does it\n- The Play page checks the client bundle now, which is the half that dials the server and the one thing none of the other checks looked at\n- Repair puts this build's own files back rather than only its settings\n- The uninstall says what it actually does, clears up after itself, and tells you what it left and why\n- Dates read month first with a time on them"
     }
   ],
   "news": [
+    {
+      "date": "9-17-2026 4:47 PM",
+      "title": "Lockpicking works, the game folder looks after itself, and Windows stops asking about the browser",
+      "body": "Everything the dev build has been carrying today.",
+      "details": [
+        "Lockpicking. A locked door no longer opens the moment the mini game appears, a chest you have picked can actually be looted, and lockpicks run out instead of lasting forever",
+        "NirnLab is another server's file and Thornswood's own game folder no longer takes it. The folder brings itself up to date on its own, so this needs nothing from you",
+        "Windows asking whether the game's browser may reach the network is settled while the folder is set up, and refusing is fine",
+        "Thornswood now appears in Windows Settings under Installed apps, and the uninstall button there opens the launcher on the page that does it",
+        "The Play page checks the client bundle now, which is the half that dials the server and the one thing none of the other checks looked at",
+        "Repair puts this build's own files back rather than only its settings",
+        "The uninstall says what it actually does, clears up after itself, and tells you what it left and why",
+        "Dates read month first with a time on them",
+        "Launcher 1.1.46",
+        "15 files to download, 4.2 MB"
+      ],
+      "channel": ""
+    },
     {
       "date": "17 Sep 2026",
       "title": "an update countdown no longer kicks anybody (a kick without a server restart left existing characters unable to get back in and with no NPCs), a fresh install never gets the shared profile 1 and never deletes your own Skyrim saves, the Downgrade button logs the exact command and what Steam said when a part does not start",
@@ -1495,18 +1519,11 @@
       "details": [
         "Launcher 1.1.3"
       ]
-    },
-    {
-      "date": "15 Sep 2026",
-      "title": "Installer and ticket fixes",
-      "body": "",
-      "details": [
-        "Launcher 1.1.2"
-      ]
     }
   ],
   "updateRepo": "EvilPatrick06/Thornswood-Releases",
   "voicePort": "7778",
   "collectionUrl": "https://www.nexusmods.com/games/skyrimspecialedition/collections/ombo2a",
-  "maxOnline": 25
+  "maxOnline": 25,
+  "mainVersion": ""
 }
