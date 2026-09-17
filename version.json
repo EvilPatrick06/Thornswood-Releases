@@ -1,7 +1,7 @@
 {
-  "launcherVersion": "1.1.45.3",
-  "launcherUrl": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/570918230",
-  "launcherSha256": "2274131811a9fa395c6a85558a6aa3c6b776787f3fb7133f34687a03737875c6",
+  "launcherVersion": "1.1.45.4",
+  "launcherUrl": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/571059988",
+  "launcherSha256": "105309db795127cf945bd2e75d9027996a2702f4f157f38a4ce1b7c032caad58",
   "serverAddress": "192.135.112.23",
   "serverPort": "7787",
   "message": "",
@@ -1168,13 +1168,28 @@
   "news": [
     {
       "date": "17 Sep 2026",
+      "title": "NirnLab is another server's file now, everywhere, and the browser stays with it where it is present",
+      "body": "",
+      "details": [
+        "SkyrimPlatform will not start on its own browser while NirnLab is in the game folder, which is the PATH error box. The folder the launcher builds no longer takes NirnLab at all, so it runs on the browser we ship",
+        "Nothing asks the firewall about CEFSubprocess.exe once that folder is rebuilt, because that program is NirnLab's and is no longer there",
+        "No pack can carry another server's interface framework any more",
+        "SkyrimPlatform.ini is a machine file and never travels in a pack",
+        "The News tab marks which notes are dev only and says how far dev is ahead of main",
+        "Launcher 1.1.45.4"
+      ],
+      "channel": "dev"
+    },
+    {
+      "date": "17 Sep 2026",
       "title": "the Play page now checks the client bundle, which is the half that dials the server and the one thing none of the other checks looked at, and Repair puts this build's own files back instead of only its settings",
       "body": "",
       "details": [
         "Launcher 1.1.45.3",
         "9 files to download, 0.2 MB",
         "The load order moved, so start a new character or expect the old save to complain"
-      ]
+      ],
+      "channel": "dev"
     },
     {
       "date": "17 Sep 2026",
@@ -1183,7 +1198,8 @@
       "details": [
         "Launcher 1.1.45.2",
         "11 files to download, 2.6 MB"
-      ]
+      ],
+      "channel": "dev"
     },
     {
       "date": "17 Sep 2026",
@@ -1191,7 +1207,8 @@
       "body": "",
       "details": [
         "Launcher 1.1.45.1"
-      ]
+      ],
+      "channel": "dev"
     },
     {
       "date": "17 Sep 2026",
@@ -1200,7 +1217,8 @@
       "details": [
         "Launcher 1.1.45",
         "1 file to download, 1.0 MB"
-      ]
+      ],
+      "channel": ""
     },
     {
       "date": "17 Sep 2026",
@@ -1208,7 +1226,8 @@
       "body": "",
       "details": [
         "Launcher 1.1.44"
-      ]
+      ],
+      "channel": ""
     },
     {
       "date": "17 Sep 2026",
@@ -1217,7 +1236,8 @@
       "details": [
         "Launcher 1.1.43",
         "1 file to download, 1.0 MB"
-      ]
+      ],
+      "channel": ""
     },
     {
       "date": "17 Sep 2026",
@@ -1225,7 +1245,8 @@
       "body": "",
       "details": [
         "Launcher 1.1.42"
-      ]
+      ],
+      "channel": ""
     },
     {
       "date": "17 Sep 2026",
@@ -1234,7 +1255,8 @@
       "details": [
         "Launcher 1.1.41",
         "1 file to download, 1.0 MB"
-      ]
+      ],
+      "channel": ""
     },
     {
       "date": "17 Sep 2026",
@@ -1243,7 +1265,8 @@
       "details": [
         "Launcher 1.1.40",
         "1 file to download, 0.0 MB"
-      ]
+      ],
+      "channel": ""
     },
     {
       "date": "16 Sep 2026",
@@ -1251,7 +1274,8 @@
       "body": "A second launcher no longer counts as the running game. The 16 Sep installer's sign in file is removed from every install and the installer is rebuilt without it.",
       "details": [
         "Launcher 1.1.39"
-      ]
+      ],
+      "channel": ""
     },
     {
       "date": "16 Sep 2026",
@@ -1260,7 +1284,8 @@
       "details": [
         "Launcher 1.1.38",
         "1 file to download, 0.0 MB"
-      ]
+      ],
+      "channel": ""
     },
     {
       "date": "16 Sep 2026",
@@ -1269,7 +1294,8 @@
       "details": [
         "Launcher 1.1.37",
         "6 files to download, 0.1 MB"
-      ]
+      ],
+      "channel": ""
     },
     {
       "date": "16 Sep 2026",
@@ -1278,7 +1304,8 @@
       "details": [
         "Launcher 1.1.36",
         "6 files to download, 0.1 MB"
-      ]
+      ],
+      "channel": ""
     },
     {
       "date": "16 Sep 2026",
@@ -1287,7 +1314,8 @@
       "details": [
         "Launcher 1.1.35",
         "7 files to download, 0.1 MB"
-      ]
+      ],
+      "channel": ""
     },
     {
       "date": "16 Sep 2026",
@@ -1296,7 +1324,8 @@
       "details": [
         "Launcher 1.1.34",
         "18 files to download, 11.5 MB"
-      ]
+      ],
+      "channel": ""
     },
     {
       "date": "16 Sep 2026",
@@ -1305,7 +1334,8 @@
       "details": [
         "Launcher 1.1.33",
         "15 files to download, 8.2 MB"
-      ]
+      ],
+      "channel": ""
     },
     {
       "date": "16 Sep 2026",
@@ -1314,7 +1344,8 @@
       "details": [
         "Launcher 1.1.32",
         "20 files to download, 15.3 MB"
-      ]
+      ],
+      "channel": ""
     },
     {
       "date": "16 Sep 2026",
@@ -1323,7 +1354,8 @@
       "details": [
         "Launcher 1.1.31",
         "7 files to download, 17.0 MB"
-      ]
+      ],
+      "channel": ""
     },
     {
       "date": "16 Sep 2026",
@@ -1332,7 +1364,8 @@
       "details": [
         "Launcher 1.1.30",
         "6 files to download, 16.0 MB"
-      ]
+      ],
+      "channel": ""
     },
     {
       "date": "16 Sep 2026",
@@ -1341,7 +1374,8 @@
       "details": [
         "Launcher 1.1.29",
         "5 files to download, 2.0 MB"
-      ]
+      ],
+      "channel": ""
     },
     {
       "date": "16 Sep 2026",
@@ -1350,7 +1384,8 @@
       "details": [
         "Launcher 1.1.27",
         "The load order moved, so start a new character or expect the old save to complain"
-      ]
+      ],
+      "channel": ""
     },
     {
       "date": "16 Sep 2026",
@@ -1360,7 +1395,8 @@
         "Launcher 1.1.26",
         "5 files to download, 0.0 MB",
         "The load order moved, so start a new character or expect the old save to complain"
-      ]
+      ],
+      "channel": ""
     },
     {
       "date": "16 Sep 2026",
@@ -1369,7 +1405,8 @@
       "details": [
         "Launcher 1.1.25",
         "6 files to download, 6.2 MB"
-      ]
+      ],
+      "channel": ""
     },
     {
       "date": "16 Sep 2026",
@@ -1378,7 +1415,8 @@
       "details": [
         "Launcher 1.1.24",
         "5 files to download, 0.0 MB"
-      ]
+      ],
+      "channel": ""
     },
     {
       "date": "16 Sep 2026",
@@ -1388,7 +1426,8 @@
         "Launcher 1.1.23",
         "6 files to download, 0.0 MB",
         "The load order moved, so start a new character or expect the old save to complain"
-      ]
+      ],
+      "channel": ""
     },
     {
       "date": "16 Sep 2026",
@@ -1397,7 +1436,8 @@
       "details": [
         "Launcher 1.1.22",
         "13 files to download, 0.7 MB"
-      ]
+      ],
+      "channel": ""
     },
     {
       "date": "16 Sep 2026",
@@ -1406,7 +1446,8 @@
       "details": [
         "Launcher 1.1.21",
         "8 files to download, 0.4 MB"
-      ]
+      ],
+      "channel": ""
     },
     {
       "date": "16 Sep 2026",
@@ -1415,7 +1456,8 @@
       "details": [
         "Launcher 1.1.20",
         "1 file to download, 0.0 MB"
-      ]
+      ],
+      "channel": ""
     },
     {
       "date": "15 Sep 2026",
@@ -1423,7 +1465,8 @@
       "body": "",
       "details": [
         "Launcher 1.1.18"
-      ]
+      ],
+      "channel": ""
     },
     {
       "date": "15 Sep 2026",
@@ -1431,7 +1474,8 @@
       "body": "",
       "details": [
         "Launcher 1.1.17"
-      ]
+      ],
+      "channel": ""
     },
     {
       "date": "15 Sep 2026",
@@ -1439,7 +1483,8 @@
       "body": "",
       "details": [
         "Launcher 1.1.16"
-      ]
+      ],
+      "channel": ""
     },
     {
       "date": "15 Sep 2026",
@@ -1447,7 +1492,8 @@
       "body": "",
       "details": [
         "Launcher 1.1.15"
-      ]
+      ],
+      "channel": ""
     },
     {
       "date": "15 Sep 2026",
@@ -1455,7 +1501,8 @@
       "body": "",
       "details": [
         "Launcher 1.1.14"
-      ]
+      ],
+      "channel": ""
     },
     {
       "date": "15 Sep 2026",
@@ -1464,7 +1511,8 @@
       "details": [
         "Launcher 1.1.13",
         "1 file to download, 0.0 MB"
-      ]
+      ],
+      "channel": ""
     },
     {
       "date": "15 Sep 2026",
@@ -1474,7 +1522,8 @@
         "Launcher 1.1.12",
         "129 files to download, 2.1 MB",
         "The load order moved, so start a new character or expect the old save to complain"
-      ]
+      ],
+      "channel": ""
     },
     {
       "date": "15 Sep 2026",
@@ -1482,7 +1531,8 @@
       "body": "",
       "details": [
         "Launcher 1.1.11"
-      ]
+      ],
+      "channel": ""
     },
     {
       "date": "15 Sep 2026",
@@ -1490,7 +1540,8 @@
       "body": "",
       "details": [
         "Launcher 1.1.10"
-      ]
+      ],
+      "channel": ""
     },
     {
       "date": "15 Sep 2026",
@@ -1499,7 +1550,8 @@
       "details": [
         "Launcher 1.1.9",
         "129 files to download, 2.1 MB"
-      ]
+      ],
+      "channel": ""
     },
     {
       "date": "15 Sep 2026",
@@ -1507,17 +1559,8 @@
       "body": "",
       "details": [
         "Launcher 1.1.8"
-      ]
-    },
-    {
-      "date": "15 Sep 2026",
-      "title": "Sub professions have real names now, and the installer opens the launcher for you when it finishes",
-      "body": "",
-      "details": [
-        "Launcher 1.1.6",
-        "129 files to download, 2.1 MB",
-        "The load order moved, so start a new character or expect the old save to complain"
-      ]
+      ],
+      "channel": ""
     }
   ],
   "updateRepo": "EvilPatrick06/Thornswood-Releases",
@@ -1526,5 +1569,6 @@
   "maxOnline": 25,
   "discordAppId": "1549251507361292418",
   "siteUrl": "https://thornswood.net",
-  "presenceImage": "https://thornswood.net/presence.png"
+  "presenceImage": "https://thornswood.net/presence.png",
+  "mainVersion": "1.1.45"
 }
