@@ -1,7 +1,7 @@
 {
-  "launcherVersion": "1.1.39",
-  "launcherUrl": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/569415794",
-  "launcherSha256": "92d2dfa2577755c701fa5de315ef1f294778e5f1f5c06901cd00ad04b28abc93",
+  "launcherVersion": "1.1.40",
+  "launcherUrl": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/569614390",
+  "launcherSha256": "482be02eb4db4396600140f958ae1e1dac03997e8991cc05057e2c67614eaa9d",
   "serverAddress": "192.135.112.23",
   "serverPort": "7777",
   "message": "",
@@ -1127,9 +1127,24 @@
       "url": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/569376086",
       "sha256": "42f889c6c130fe9c4e101098961e307d3c2de62b7af130193a7e5235ba8a4431",
       "notes": "A Downgrade button on the Play page: Steam fetches 1.6.1170 and the launcher puts it in place, nothing to paste. The build line says which build Skyrim is on."
+    },
+    {
+      "id": "20260917-0024",
+      "url": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/569614392",
+      "sha256": "525e77f8b2c21aa384770238f74829962d643a5915fb6c096cb4627ad8621715",
+      "notes": "1.1.40: the downgrade card comes up before the mods card; the GitHub build check compiles again"
     }
   ],
   "news": [
+    {
+      "date": "17 Sep 2026",
+      "title": "1.1.40: the downgrade card comes up before the mods card; the GitHub build check compiles again",
+      "body": "",
+      "details": [
+        "Launcher 1.1.40",
+        "1 file to download, 0.0 MB"
+      ]
+    },
     {
       "date": "16 Sep 2026",
       "title": "The launcher updates itself even when the mods are not deployed",
@@ -1467,15 +1482,6 @@
       "body": "",
       "details": [
         "Launcher 1.0.198"
-      ]
-    },
-    {
-      "date": "15 Sep 2026",
-      "title": "Connect your Discord from the launcher",
-      "body": "",
-      "details": [
-        "Launcher 1.0.197",
-        "1 file to download, 0.0 MB"
       ]
     }
   ],
