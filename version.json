@@ -1,7 +1,7 @@
 {
-  "launcherVersion": "1.1.45.8",
-  "launcherUrl": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/571155670",
-  "launcherSha256": "06efeaaf10bec4750757407050bad62450ce10a51ed64bb915ba5e185a445e01",
+  "launcherVersion": "1.1.45.9",
+  "launcherUrl": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/571160053",
+  "launcherSha256": "8b408cdb86a5ef57c56bad41732fb44cc41d95c5e70ad46391dcc56d4a3be389",
   "serverAddress": "192.135.112.23",
   "serverPort": "7787",
   "message": "",
@@ -1186,6 +1186,17 @@
   "news": [
     {
       "date": "17 Sep 2026",
+      "title": "No administrator prompt out of nowhere",
+      "body": "",
+      "details": [
+        "The firewall rule is only written when you start the folder build yourself. The refresh the launcher runs on its own at startup stays silent",
+        "Without this, the last dev build would have raised a Windows administrator prompt the next time anyone opened the launcher, because the folder refresh that went out earlier today fires once on every install",
+        "Launcher 1.1.45.9"
+      ],
+      "channel": "dev"
+    },
+    {
+      "date": "17 Sep 2026",
       "title": "The firewall rule is written with the folder instead of from a button",
       "body": "",
       "details": [
@@ -1582,17 +1593,6 @@
       "details": [
         "Launcher 1.1.13",
         "1 file to download, 0.0 MB"
-      ],
-      "channel": ""
-    },
-    {
-      "date": "15 Sep 2026",
-      "title": "Connect Discord can no longer stick, and the collection card offers it instead of a dead button",
-      "body": "",
-      "details": [
-        "Launcher 1.1.12",
-        "129 files to download, 2.1 MB",
-        "The load order moved, so start a new character or expect the old save to complain"
       ],
       "channel": ""
     }
