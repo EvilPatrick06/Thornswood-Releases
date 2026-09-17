@@ -1,7 +1,7 @@
 {
-  "launcherVersion": "1.1.45.1",
-  "launcherUrl": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/570809822",
-  "launcherSha256": "1158a791ec518b9ba8fb2d0b62a194d16a2d99597cdebee8a292978b56ba642b",
+  "launcherVersion": "1.1.45.2",
+  "launcherUrl": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/570816407",
+  "launcherSha256": "4ca87d064c64b38650263595d8214334363a5157f7e74c1f9975de3a22a61326",
   "serverAddress": "192.135.112.23",
   "serverPort": "7787",
   "message": "",
@@ -1151,9 +1151,24 @@
       "url": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/570531078",
       "sha256": "960d666b82ed1775723e8f5bfef8190aaacde36faec1eda11e0ff5c4b8b57e15",
       "notes": "an update countdown no longer kicks anybody (a kick without a server restart left existing characters unable to get back in and with no NPCs), a fresh install never gets the shared profile 1 and never deletes your own Skyrim saves, the Downgrade button logs the exact command and what Steam said when a part does not start"
+    },
+    {
+      "id": "20260917-1216-dev",
+      "url": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/570816404",
+      "sha256": "da22aab667460e0da606aa2812709dee8457ca0c61513fe6da6757d2fb73fd8d",
+      "notes": "the in game plugins, which the last dev build was published without: the server probe waits out a restart instead of quitting to the menu, an activation the server answers for stops counting twice, the controls watchdog sits out death and furniture, and one end owns the emote wheel keys"
     }
   ],
   "news": [
+    {
+      "date": "17 Sep 2026",
+      "title": "the in game plugins, which the last dev build was published without: the server probe waits out a restart instead of quitting to the menu, an activation the server answers for stops counting twice, the controls watchdog sits out death and furniture, and one end owns the emote wheel keys",
+      "body": "",
+      "details": [
+        "Launcher 1.1.45.2",
+        "11 files to download, 2.6 MB"
+      ]
+    },
     {
       "date": "17 Sep 2026",
       "title": "the audit fixes: the server probe waits out a restart instead of quitting to the menu, an activation the server answers for stops counting twice, the race menu stops reopening on a character that has a face, a death during a disconnect respawns at a temple, chat can no longer restart the server, Fix no longer writes into another server's collection, and twenty six launcher fixes",
@@ -1494,14 +1509,6 @@
       "body": "",
       "details": [
         "Launcher 1.1.5"
-      ]
-    },
-    {
-      "date": "15 Sep 2026",
-      "title": "Field of view no longer reads zero, the resolution box explains itself, and uninstalling takes our files back out of your Skyrim",
-      "body": "",
-      "details": [
-        "Launcher 1.1.3"
       ]
     }
   ],
