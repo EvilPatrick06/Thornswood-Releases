@@ -1,7 +1,7 @@
 {
-  "launcherVersion": "1.1.36",
-  "launcherUrl": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/569196198",
-  "launcherSha256": "02b8051900e0d718b94cad2130dd5b18db23c5b9244220b76c0568d88decc3f2",
+  "launcherVersion": "1.1.37",
+  "launcherUrl": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/569281542",
+  "launcherSha256": "defe3a0de52a923017cc19255c91791ee0bf32e5e51da218adfe36a1a6f596b4",
   "serverAddress": "192.135.112.23",
   "serverPort": "7777",
   "message": "",
@@ -1115,9 +1115,24 @@
       "url": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/569196196",
       "sha256": "de2dc7afd29c4f69f2af6226b361618e6d3653f43a57bc9a29557447fa2f3fd6",
       "notes": "Dev build for the Owner and Dev roles only, voice port per build, session note for the plugins, other servers' files stay out of releases"
+    },
+    {
+      "id": "20260916-2028",
+      "url": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/569281541",
+      "sha256": "12d8ffd7c6cf423f4159f060a20b2c2bc5371d6a653e15ca8dabcf2a39d92547",
+      "notes": "The launcher holds its files while the game runs, so another launcher opened mid-session cannot change them. Save folder problems no longer stop Play and say why."
     }
   ],
   "news": [
+    {
+      "date": "16 Sep 2026",
+      "title": "The launcher holds its files while the game runs, so another launcher opened mid-session cannot change them. Save folder problems no longer stop Play and say why.",
+      "body": "",
+      "details": [
+        "Launcher 1.1.37",
+        "6 files to download, 0.1 MB"
+      ]
+    },
     {
       "date": "16 Sep 2026",
       "title": "Dev build for the Owner and Dev roles only, voice port per build, session note for the plugins, other servers' files stay out of releases",
@@ -1455,15 +1470,6 @@
       "body": "",
       "details": [
         "The server was turning away every playable race, which is why the world was empty. It is not any more."
-      ]
-    },
-    {
-      "date": "14 Sep 2026",
-      "title": "Your armour stays on and your spells stay in your hand",
-      "body": "",
-      "details": [
-        "Looting a body used to strip whatever you were wearing off you.",
-        "Spells from mods were being taken back out of your hands the moment you equipped them."
       ]
     }
   ],
