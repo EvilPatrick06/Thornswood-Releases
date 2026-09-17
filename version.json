@@ -1,7 +1,7 @@
 {
-  "launcherVersion": "1.1.45.2",
-  "launcherUrl": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/570816407",
-  "launcherSha256": "4ca87d064c64b38650263595d8214334363a5157f7e74c1f9975de3a22a61326",
+  "launcherVersion": "1.1.45.3",
+  "launcherUrl": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/570918230",
+  "launcherSha256": "2274131811a9fa395c6a85558a6aa3c6b776787f3fb7133f34687a03737875c6",
   "serverAddress": "192.135.112.23",
   "serverPort": "7787",
   "message": "",
@@ -1157,9 +1157,25 @@
       "url": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/570816404",
       "sha256": "da22aab667460e0da606aa2812709dee8457ca0c61513fe6da6757d2fb73fd8d",
       "notes": "the in game plugins, which the last dev build was published without: the server probe waits out a restart instead of quitting to the menu, an activation the server answers for stops counting twice, the controls watchdog sits out death and furniture, and one end owns the emote wheel keys"
+    },
+    {
+      "id": "20260917-1315-dev",
+      "url": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/570918233",
+      "sha256": "62b6e46122cb42f9e03502db215e69f8b80f17df5a880d3f9ad391005597ea1b",
+      "notes": "the Play page now checks the client bundle, which is the half that dials the server and the one thing none of the other checks looked at, and Repair puts this build's own files back instead of only its settings"
     }
   ],
   "news": [
+    {
+      "date": "17 Sep 2026",
+      "title": "the Play page now checks the client bundle, which is the half that dials the server and the one thing none of the other checks looked at, and Repair puts this build's own files back instead of only its settings",
+      "body": "",
+      "details": [
+        "Launcher 1.1.45.3",
+        "9 files to download, 0.2 MB",
+        "The load order moved, so start a new character or expect the old save to complain"
+      ]
+    },
     {
       "date": "17 Sep 2026",
       "title": "the in game plugins, which the last dev build was published without: the server probe waits out a restart instead of quitting to the menu, an activation the server answers for stops counting twice, the controls watchdog sits out death and furniture, and one end owns the emote wheel keys",
@@ -1501,14 +1517,6 @@
         "Launcher 1.1.6",
         "129 files to download, 2.1 MB",
         "The load order moved, so start a new character or expect the old save to complain"
-      ]
-    },
-    {
-      "date": "15 Sep 2026",
-      "title": "The home page sends you to the collection when your mods are missing, instead of just telling you they are",
-      "body": "",
-      "details": [
-        "Launcher 1.1.5"
       ]
     }
   ],
