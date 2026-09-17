@@ -1,7 +1,7 @@
 {
-  "launcherVersion": "1.1.45.7",
-  "launcherUrl": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/571138250",
-  "launcherSha256": "692729223f8c76a5246ab6b84620a30a2289cf2922f159d366b019c73cdc435c",
+  "launcherVersion": "1.1.45.8",
+  "launcherUrl": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/571155670",
+  "launcherSha256": "06efeaaf10bec4750757407050bad62450ce10a51ed64bb915ba5e185a445e01",
   "serverAddress": "192.135.112.23",
   "serverPort": "7787",
   "message": "",
@@ -1186,6 +1186,18 @@
   "news": [
     {
       "date": "17 Sep 2026",
+      "title": "The firewall rule is written with the folder instead of from a button",
+      "body": "",
+      "details": [
+        "The button in Settings is gone. A button offering to stop Windows asking about something, which then asks for administrator, is one you should refuse even when it is honest",
+        "It now happens while Thornswood's own Skyrim folder is being made or brought up to date, which is what causes the question in the first place. A firewall rule belongs to a program's exact path, every other server runs from the Steam copy where that was settled long ago, and giving Thornswood a folder of its own makes the same file look like a new program to Windows",
+        "The card says the administrator prompt is coming and why, and that saying no is fine. The rule is a block, the game's browser only ever talks to the game on your own machine, and refusing just means Windows asks you once on the first launch instead",
+        "Launcher 1.1.45.8"
+      ],
+      "channel": "dev"
+    },
+    {
+      "date": "17 Sep 2026",
       "title": "Windows can be told once to stop asking about the game's browser",
       "body": "",
       "details": [
@@ -1581,15 +1593,6 @@
         "Launcher 1.1.12",
         "129 files to download, 2.1 MB",
         "The load order moved, so start a new character or expect the old save to complain"
-      ],
-      "channel": ""
-    },
-    {
-      "date": "15 Sep 2026",
-      "title": "Clearing the installer's leftovers can no longer follow a junction out of the folder it is clearing",
-      "body": "",
-      "details": [
-        "Launcher 1.1.11"
       ],
       "channel": ""
     }
