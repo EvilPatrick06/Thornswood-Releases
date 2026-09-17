@@ -1,7 +1,7 @@
 {
-  "launcherVersion": "1.1.38",
-  "launcherUrl": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/569376087",
-  "launcherSha256": "6d9facf92dbd7407ff611c0310c668b9d201ac825fb019eb93ffc8e17c506dfc",
+  "launcherVersion": "1.1.39",
+  "launcherUrl": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/569415794",
+  "launcherSha256": "92d2dfa2577755c701fa5de315ef1f294778e5f1f5c06901cd00ad04b28abc93",
   "serverAddress": "192.135.112.23",
   "serverPort": "7777",
   "message": "",
@@ -1132,6 +1132,14 @@
   "news": [
     {
       "date": "16 Sep 2026",
+      "title": "The launcher updates itself even when the mods are not deployed",
+      "body": "A second launcher no longer counts as the running game. The 16 Sep installer's sign in file is removed from every install and the installer is rebuilt without it.",
+      "details": [
+        "Launcher 1.1.39"
+      ]
+    },
+    {
+      "date": "16 Sep 2026",
       "title": "A Downgrade button on the Play page: Steam fetches 1.6.1170 and the launcher puts it in place, nothing to paste. The build line says which build Skyrim is on.",
       "body": "",
       "details": [
@@ -1468,15 +1476,6 @@
       "details": [
         "Launcher 1.0.197",
         "1 file to download, 0.0 MB"
-      ]
-    },
-    {
-      "date": "14 Sep 2026",
-      "title": "The launcher reopens, and you can set your field of view",
-      "body": "",
-      "details": [
-        "Closing the launcher used to leave it running where you could not see it, so it refused to open again until you killed it by hand.",
-        "Field of view is in the launcher now, anywhere from 60 to 140."
       ]
     }
   ],
