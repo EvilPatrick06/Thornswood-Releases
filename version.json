@@ -1,7 +1,7 @@
 {
-  "launcherVersion": "1.1.45.4",
-  "launcherUrl": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/571059988",
-  "launcherSha256": "105309db795127cf945bd2e75d9027996a2702f4f157f38a4ce1b7c032caad58",
+  "launcherVersion": "1.1.45.5",
+  "launcherUrl": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/571086176",
+  "launcherSha256": "aa1ef08e1c78d94d4a8b22e40dc34899e09e5f353790ebc0114e5a88ed38460a",
   "serverAddress": "192.135.112.23",
   "serverPort": "7787",
   "message": "",
@@ -1163,9 +1163,29 @@
       "url": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/570918233",
       "sha256": "62b6e46122cb42f9e03502db215e69f8b80f17df5a880d3f9ad391005597ea1b",
       "notes": "the Play page now checks the client bundle, which is the half that dials the server and the one thing none of the other checks looked at, and Repair puts this build's own files back instead of only its settings"
+    },
+    {
+      "id": "20260917-1443-dev",
+      "url": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/571086175",
+      "sha256": "6174f9f97dbdbe57afcba478064af5637099aeeee14da0c1d1aaeadd58a7adea",
+      "notes": "Lockpicking works like lockpicking\n- A locked door no longer opens the moment the mini game appears. The client was telling the server to activate the door at the same time Skyrim was opening the lock screen, and the server has no idea what a lock is, so it just opened it. On a load door that pulled you straight through\n- A chest you have picked can be looted. The chest used to open only in your own game, so the server never handed you its contents and everything you took was thrown away. The lock opening now hands the chest back to the server straight away\n- Lockpicks run out. A pick that broke was only destroyed in your own game, and the server put it back a few seconds later, so picks were endless. Your game now tells the server it broke and the server spends it\n- Only the person picking is affected by any of this, and nothing here changes what a lock is worth"
     }
   ],
   "news": [
+    {
+      "date": "17 Sep 2026",
+      "title": "Lockpicking works like lockpicking",
+      "body": "",
+      "details": [
+        "A locked door no longer opens the moment the mini game appears. The client was telling the server to activate the door at the same time Skyrim was opening the lock screen, and the server has no idea what a lock is, so it just opened it. On a load door that pulled you straight through",
+        "A chest you have picked can be looted. The chest used to open only in your own game, so the server never handed you its contents and everything you took was thrown away. The lock opening now hands the chest back to the server straight away",
+        "Lockpicks run out. A pick that broke was only destroyed in your own game, and the server put it back a few seconds later, so picks were endless. Your game now tells the server it broke and the server spends it",
+        "Only the person picking is affected by any of this, and nothing here changes what a lock is worth",
+        "Launcher 1.1.45.5",
+        "10 files to download, 1.2 MB"
+      ],
+      "channel": "dev"
+    },
     {
       "date": "17 Sep 2026",
       "title": "NirnLab is another server's file now, everywhere, and the browser stays with it where it is present",
@@ -1550,15 +1570,6 @@
       "details": [
         "Launcher 1.1.9",
         "129 files to download, 2.1 MB"
-      ],
-      "channel": ""
-    },
-    {
-      "date": "15 Sep 2026",
-      "title": "Sub professions have real names, the installer opens the launcher when it finishes, and confirms you are 18 first",
-      "body": "",
-      "details": [
-        "Launcher 1.1.8"
       ],
       "channel": ""
     }
