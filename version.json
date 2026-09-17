@@ -1,7 +1,7 @@
 {
-  "launcherVersion": "1.1.40",
-  "launcherUrl": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/569614390",
-  "launcherSha256": "482be02eb4db4396600140f958ae1e1dac03997e8991cc05057e2c67614eaa9d",
+  "launcherVersion": "1.1.41",
+  "launcherUrl": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/569672744",
+  "launcherSha256": "b94818c631cf16f5b5d39cf2013d919cdf9e294cd6a29d812d0c75eb68ba5069",
   "serverAddress": "192.135.112.23",
   "serverPort": "7777",
   "message": "",
@@ -1133,9 +1133,24 @@
       "url": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/569614392",
       "sha256": "525e77f8b2c21aa384770238f74829962d643a5915fb6c096cb4627ad8621715",
       "notes": "1.1.40: the downgrade card comes up before the mods card; the GitHub build check compiles again"
+    },
+    {
+      "id": "20260917-0102",
+      "url": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/569672743",
+      "sha256": "63365e482c57aae89970a4f4cb1eee0ab6415091324e116c46a332798f6530bf",
+      "notes": "1.1.41: your key binds and field of view stay on your machine (the 16 Sep updates put one machine's on everyone; a 120 field of view goes back to 65), locks are back, levers, chains, bars and chairs work, an update closes the game after the five minute warning so the launcher can install it, the Downgrade button types into Steam's console itself, arrival points fixed in Whiterun, Riften, Windhelm, Morthal and Winterhold"
     }
   ],
   "news": [
+    {
+      "date": "17 Sep 2026",
+      "title": "1.1.41: your key binds and field of view stay on your machine (the 16 Sep updates put one machine's on everyone; a 120 field of view goes back to 65), locks are back, levers, chains, bars and chairs work, an update closes the game after the five minute warning so the launcher can install it, the Downgrade button types into Steam's console itself, arrival points fixed in Whiterun, Riften, Windhelm, Morthal and Winterhold",
+      "body": "",
+      "details": [
+        "Launcher 1.1.41",
+        "1 file to download, 1.0 MB"
+      ]
+    },
     {
       "date": "17 Sep 2026",
       "title": "1.1.40: the downgrade card comes up before the mods card; the GitHub build check compiles again",
@@ -1474,14 +1489,6 @@
       "body": "",
       "details": [
         "Launcher 1.0.197"
-      ]
-    },
-    {
-      "date": "15 Sep 2026",
-      "title": "Professions, sub professions and classes at character creation",
-      "body": "",
-      "details": [
-        "Launcher 1.0.198"
       ]
     }
   ],
