@@ -1,7 +1,7 @@
 {
-  "launcherVersion": "1.1.46",
-  "launcherUrl": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/571311144",
-  "launcherSha256": "d1b2be23d550332bf641ab04fb812c8abc01c099e4971bfd121a616f5704dfc7",
+  "launcherVersion": "1.1.47",
+  "launcherUrl": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/571422389",
+  "launcherSha256": "fdd197809c31d924ac386c6a4a44f0c57eb85c88f246d3c59be256b1fc90a1f4",
   "serverAddress": "192.135.112.23",
   "serverPort": "7777",
   "message": "",
@@ -1161,6 +1161,15 @@
   ],
   "news": [
     {
+      "date": "9-17-2026 6:06 PM",
+      "title": "A fresh install can choose a character: the client settings file is created when it is missing, so the first character no longer fails to save",
+      "body": "",
+      "details": [
+        "Launcher 1.1.47"
+      ],
+      "channel": ""
+    },
+    {
       "date": "9-17-2026 4:47 PM",
       "title": "Lockpicking works, the game folder looks after itself, and Windows stops asking about the browser",
       "body": "Everything the dev build has been carrying today.",
@@ -1510,14 +1519,6 @@
       "body": "",
       "details": [
         "Launcher 1.1.5"
-      ]
-    },
-    {
-      "date": "15 Sep 2026",
-      "title": "Field of view no longer reads zero, the resolution box explains itself, and uninstalling takes our files back out of your Skyrim",
-      "body": "",
-      "details": [
-        "Launcher 1.1.3"
       ]
     }
   ],
