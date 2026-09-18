@@ -1,7 +1,7 @@
 {
-  "launcherVersion": "1.1.48",
-  "launcherUrl": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/573419804",
-  "launcherSha256": "13dea7af1551aaa8dc3b75518eb91b6636da11018bd3cb39a4ee963371b0e9ea",
+  "launcherVersion": "1.1.49",
+  "launcherUrl": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/573564731",
+  "launcherSha256": "cb277119d1b8938844e814edc84f86838749fa48564a1e02580f185529763ef6",
   "serverAddress": "192.135.112.23",
   "serverPort": "7777",
   "message": "",
@@ -1163,9 +1163,25 @@
       "url": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/573419803",
       "sha256": "1938a456cb5bce9b26060abc5064a95ee08466c29786950146468ea5215aae38",
       "notes": "voice recovery, join tokens, backups, site hardening"
+    },
+    {
+      "id": "20260918-1615",
+      "url": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/573564733",
+      "sha256": "5ce85a65ad31fa389a41120d018e50a0cc692d683f05f2b1c40b1f8fdd559436",
+      "notes": "voice through the certificate"
     }
   ],
   "news": [
+    {
+      "date": "9-18-2026 4:15 PM",
+      "title": "voice through the certificate",
+      "body": "",
+      "details": [
+        "Launcher 1.1.49",
+        "4 files to download, 0.1 MB"
+      ],
+      "channel": ""
+    },
     {
       "date": "9-18-2026 2:42 PM",
       "title": "voice recovery, join tokens, backups, site hardening",
@@ -1519,21 +1535,12 @@
       "details": [
         "Launcher 1.1.8"
       ]
-    },
-    {
-      "date": "15 Sep 2026",
-      "title": "Sub professions have real names now, and the installer opens the launcher for you when it finishes",
-      "body": "",
-      "details": [
-        "Launcher 1.1.6",
-        "129 files to download, 2.1 MB",
-        "The load order moved, so start a new character or expect the old save to complain"
-      ]
     }
   ],
   "updateRepo": "EvilPatrick06/Thornswood-Releases",
   "voicePort": "7778",
   "collectionUrl": "https://www.nexusmods.com/games/skyrimspecialedition/collections/ombo2a",
   "maxOnline": 25,
-  "mainVersion": ""
+  "mainVersion": "",
+  "voiceUrl": "https://thornswood.net/voice"
 }
