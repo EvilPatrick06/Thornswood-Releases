@@ -1,7 +1,7 @@
 {
-  "launcherVersion": "1.1.50",
-  "launcherUrl": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/574168143",
-  "launcherSha256": "3282967d658c2203a8667d0975ab74892ce73144e06210ca4a29a80b59d2c05d",
+  "launcherVersion": "1.1.51",
+  "launcherUrl": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/575419183",
+  "launcherSha256": "5771c19eceeb61eb59cd3815089fd8e342a57f9714721e9f57f1d5b84ad650ae",
   "serverAddress": "192.135.112.23",
   "serverPort": "7777",
   "message": "",
@@ -1175,9 +1175,25 @@
       "url": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/574168145",
       "sha256": "a0a95506a826c20a77d52610e9afcafede1ffaf7814bae547dce27207691b7d7",
       "notes": "Backdrop and Icon art changes, plus voice, spint, and jump"
+    },
+    {
+      "id": "20260919-1416",
+      "url": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/575419185",
+      "sha256": "a22c8ce645503c0d1874babefc5abc4a841597a1e5b84b353d32c9e10672638d",
+      "notes": "Voice + art chnages"
     }
   ],
   "news": [
+    {
+      "date": "9-19-2026 2:16 PM",
+      "title": "Voice + art chnages",
+      "body": "",
+      "details": [
+        "Launcher 1.1.51",
+        "2 files to download, 0.0 MB"
+      ],
+      "channel": ""
+    },
     {
       "date": "9-18-2026 11:40 PM",
       "title": "Backdrop and Icon art changes, plus voice, spint, and jump",
@@ -1533,15 +1549,6 @@
       "body": "",
       "details": [
         "Launcher 1.1.10"
-      ]
-    },
-    {
-      "date": "15 Sep 2026",
-      "title": "The installer's leftover folder gets cleared now, on startup and on uninstall",
-      "body": "",
-      "details": [
-        "Launcher 1.1.9",
-        "129 files to download, 2.1 MB"
       ]
     }
   ],
