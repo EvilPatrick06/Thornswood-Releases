@@ -1,7 +1,7 @@
 {
-  "launcherVersion": "1.1.51",
-  "launcherUrl": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/575419183",
-  "launcherSha256": "5771c19eceeb61eb59cd3815089fd8e342a57f9714721e9f57f1d5b84ad650ae",
+  "launcherVersion": "1.1.52",
+  "launcherUrl": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/575542037",
+  "launcherSha256": "f474a7685ed30c118794da0c7aee25b26b4fab30a5e7cbb649c8c72a1bb170b8",
   "serverAddress": "192.135.112.23",
   "serverPort": "7787",
   "message": "",
@@ -1181,9 +1181,25 @@
       "url": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/575419185",
       "sha256": "a22c8ce645503c0d1874babefc5abc4a841597a1e5b84b353d32c9e10672638d",
       "notes": "Voice + art chnages"
+    },
+    {
+      "id": "20260919-1546",
+      "url": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/575542038",
+      "sha256": "c48d24b9890dfffb432a8a7dd701c0d9de1012201237a4958b3089d9abc6c430",
+      "notes": "Plugin fixes"
     }
   ],
   "news": [
+    {
+      "date": "9-19-2026 3:46 PM",
+      "title": "Plugin fixes",
+      "body": "",
+      "details": [
+        "Launcher 1.1.52",
+        "1 file to download, 0.0 MB"
+      ],
+      "channel": ""
+    },
     {
       "date": "9-19-2026 2:16 PM",
       "title": "Voice + art chnages",
@@ -1541,14 +1557,6 @@
       "body": "",
       "details": [
         "Launcher 1.1.11"
-      ]
-    },
-    {
-      "date": "15 Sep 2026",
-      "title": "The installer's leftover folder gets cleared, and the uninstall screen tells the truth about what it removes",
-      "body": "",
-      "details": [
-        "Launcher 1.1.10"
       ]
     }
   ],
