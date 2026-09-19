@@ -1,7 +1,7 @@
 {
-  "launcherVersion": "1.1.49",
-  "launcherUrl": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/573564731",
-  "launcherSha256": "cb277119d1b8938844e814edc84f86838749fa48564a1e02580f185529763ef6",
+  "launcherVersion": "1.1.50",
+  "launcherUrl": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/574168143",
+  "launcherSha256": "3282967d658c2203a8667d0975ab74892ce73144e06210ca4a29a80b59d2c05d",
   "serverAddress": "192.135.112.23",
   "serverPort": "7777",
   "message": "",
@@ -1169,9 +1169,25 @@
       "url": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/573564733",
       "sha256": "5ce85a65ad31fa389a41120d018e50a0cc692d683f05f2b1c40b1f8fdd559436",
       "notes": "voice through the certificate"
+    },
+    {
+      "id": "20260918-2340",
+      "url": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/574168145",
+      "sha256": "a0a95506a826c20a77d52610e9afcafede1ffaf7814bae547dce27207691b7d7",
+      "notes": "Backdrop and Icon art changes, plus voice, spint, and jump"
     }
   ],
   "news": [
+    {
+      "date": "9-18-2026 11:40 PM",
+      "title": "Backdrop and Icon art changes, plus voice, spint, and jump",
+      "body": "",
+      "details": [
+        "Launcher 1.1.50",
+        "4 files to download, 0.1 MB"
+      ],
+      "channel": ""
+    },
     {
       "date": "9-18-2026 4:15 PM",
       "title": "voice through the certificate",
@@ -1526,14 +1542,6 @@
       "details": [
         "Launcher 1.1.9",
         "129 files to download, 2.1 MB"
-      ]
-    },
-    {
-      "date": "15 Sep 2026",
-      "title": "Sub professions have real names, the installer opens the launcher when it finishes, and confirms you are 18 first",
-      "body": "",
-      "details": [
-        "Launcher 1.1.8"
       ]
     }
   ],
