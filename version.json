@@ -1,7 +1,7 @@
 {
-  "launcherVersion": "1.1.61.11",
-  "launcherUrl": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/577708113",
-  "launcherSha256": "9197f6629364dc1988121ec2fb6e463c561bf87c00f6cf30f255ae5046e47501",
+  "launcherVersion": "1.1.61.12",
+  "launcherUrl": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/577736894",
+  "launcherSha256": "3b1905e9a4f344aae77374871107d6c198f756d5e9f9840e7dabb4f62a086577",
   "serverAddress": "192.135.112.23",
   "serverPort": "7787",
   "message": "",
@@ -1289,9 +1289,25 @@
       "url": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/577708112",
       "sha256": "c58832a6e2690bb7b943ebff2ae2fc60fac7e04be01377b896edeeaa025d1875",
       "notes": "Buttons the size of their words, the panel leaves on the home answer, a clock on the front log"
+    },
+    {
+      "id": "20260920-1713-dev",
+      "url": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/577736899",
+      "sha256": "63f49ba29c7011588124b7158ed888af0698a8e59a923a34253b1c422bdd25de",
+      "notes": "The menu numbers slots by order, the door learns a new character at once, admins from the site"
     }
   ],
   "news": [
+    {
+      "date": "9-20-2026 5:13 PM",
+      "title": "The menu numbers slots by order, the door learns a new character at once, admins from the site",
+      "body": "",
+      "details": [
+        "Launcher 1.1.61.12",
+        "1 file to download, 0.0 MB"
+      ],
+      "channel": "dev"
+    },
     {
       "date": "9-20-2026 4:51 PM",
       "title": "Buttons the size of their words, the panel leaves on the home answer, a clock on the front log",
@@ -1684,16 +1700,6 @@
       "details": [
         "Launcher 1.1.33",
         "15 files to download, 8.2 MB"
-      ],
-      "channel": ""
-    },
-    {
-      "date": "16 Sep 2026",
-      "title": "Updates reach your game again, and the main menu is only the Thornswood backdrop. Since the move to the Steam copy the launcher had been marking every update as installed without writing a single game file, so nobody got the login fix or the backdrop. Launcher 1.1.32 puts the missed updates back in the queue and installs them properly the next time it opens. The first time it has a lot to download, so give it a while, or run the installer from the site instead. The main menu is now the Thornswood backdrop on any screen, with no buttons, no logo, no save panel and no animation replacer banner, and the game walks you into the creation hall by itself.",
-      "body": "",
-      "details": [
-        "Launcher 1.1.32",
-        "20 files to download, 15.3 MB"
       ],
       "channel": ""
     }
