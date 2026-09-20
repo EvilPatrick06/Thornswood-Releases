@@ -1,7 +1,7 @@
 {
-  "launcherVersion": "1.1.61.8",
-  "launcherUrl": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/577605089",
-  "launcherSha256": "2628d47e376c82e8490666e3f9e58ef0710d91f78c6fbb6ca326afa0fb9d3c82",
+  "launcherVersion": "1.1.61.9",
+  "launcherUrl": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/577681839",
+  "launcherSha256": "c8defd9e8d73bf548eedc70aafd8f923e126a64df1418e00da284f3fc07d74bf",
   "serverAddress": "192.135.112.23",
   "serverPort": "7787",
   "message": "",
@@ -1271,9 +1271,25 @@
       "url": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/577605088",
       "sha256": "3e8e0226453845c9fe94509c256ad9a5f0735b17cebeb8ebb0c27847d586b99c",
       "notes": "The choice draws with the page, the backdrop draws once with mips, the music starts with the page"
+    },
+    {
+      "id": "20260920-1630-dev",
+      "url": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/577681837",
+      "sha256": "4da85887106a86733c988584bad494ba26e25502e33cb34f512ad501c7e371dc",
+      "notes": "Dev talks to the dev voice service, the launcher refuses a wrong load order and fixes it, the K panel redraws only on change and lets class and profession wait"
     }
   ],
   "news": [
+    {
+      "date": "9-20-2026 4:30 PM",
+      "title": "Dev talks to the dev voice service, the launcher refuses a wrong load order and fixes it, the K panel redraws only on change and lets class and profession wait",
+      "body": "",
+      "details": [
+        "Launcher 1.1.61.9",
+        "1 file to download, 0.0 MB"
+      ],
+      "channel": "dev"
+    },
     {
       "date": "9-20-2026 3:35 PM",
       "title": "The choice draws with the page, the backdrop draws once with mips, the music starts with the page",
@@ -1668,16 +1684,6 @@
         "6 files to download, 16.0 MB"
       ],
       "channel": ""
-    },
-    {
-      "date": "16 Sep 2026",
-      "title": "Thornswood main menu backdrop, and voice now follows the character you actually launched",
-      "body": "",
-      "details": [
-        "Launcher 1.1.29",
-        "5 files to download, 2.0 MB"
-      ],
-      "channel": ""
     }
   ],
   "updateRepo": "EvilPatrick06/Thornswood-Releases",
@@ -1685,7 +1691,7 @@
   "collectionUrl": "https://www.nexusmods.com/games/skyrimspecialedition/collections/ombo2a",
   "maxOnline": 25,
   "mainVersion": "1.1.61",
-  "voiceUrl": "https://thornswood.net/voice",
+  "voiceUrl": "https://thornswood.net/voice-dev",
   "discordAppId": "1549251507361292418",
   "siteUrl": "https://thornswood.net",
   "presenceImage": "https://thornswood.net/presence.png"
