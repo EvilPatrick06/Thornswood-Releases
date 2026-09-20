@@ -1,7 +1,7 @@
 {
-  "launcherVersion": "1.1.57",
-  "launcherUrl": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/577200346",
-  "launcherSha256": "dc3206e9e0c5386ec30d538a7602e6e4c751de6f334fcd85b335ab4f0503ee4c",
+  "launcherVersion": "1.1.58",
+  "launcherUrl": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/577232300",
+  "launcherSha256": "35782f711bde19944654f2c30a5ba3edf44cbeb9acf92abb1cae674486dd5fdf",
   "serverAddress": "192.135.112.23",
   "serverPort": "7777",
   "message": "",
@@ -1217,9 +1217,25 @@
       "url": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/577200347",
       "sha256": "a69aea7098d87acf50796a7b0398ce02b485954184cdc8ad4a6b601a941ae714",
       "notes": "voice local range halved"
+    },
+    {
+      "id": "20260920-1124",
+      "url": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/577232301",
+      "sha256": "c777d4dc8e08af8c9ecc5df63994594789b92a9dbcd243e13cf94fbc4af3d8f9",
+      "notes": "jump and sprint clear IsNPC on the press frame, and the light plugins are listed too"
     }
   ],
   "news": [
+    {
+      "date": "9-20-2026 11:24 AM",
+      "title": "jump and sprint clear IsNPC on the press frame, and the light plugins are listed too",
+      "body": "",
+      "details": [
+        "Launcher 1.1.58",
+        "2 files to download, 0.1 MB"
+      ],
+      "channel": ""
+    },
     {
       "date": "9-20-2026 11:04 AM",
       "title": "voice local range halved",
@@ -1585,14 +1601,6 @@
       "body": "",
       "details": [
         "Launcher 1.1.16"
-      ]
-    },
-    {
-      "date": "15 Sep 2026",
-      "title": "The mod list scan reads the load order Vortex actually writes, instead of a stale copy nothing touches",
-      "body": "",
-      "details": [
-        "Launcher 1.1.15"
       ]
     }
   ],
