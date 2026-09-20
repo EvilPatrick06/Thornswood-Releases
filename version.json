@@ -1,7 +1,7 @@
 {
-  "launcherVersion": "1.1.56",
-  "launcherUrl": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/575982410",
-  "launcherSha256": "51d5c2747d52dac093b5e1205eaff90fcb2c8a954091d09d8f132554503ea818",
+  "launcherVersion": "1.1.57",
+  "launcherUrl": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/577200346",
+  "launcherSha256": "dc3206e9e0c5386ec30d538a7602e6e4c751de6f334fcd85b335ab4f0503ee4c",
   "serverAddress": "192.135.112.23",
   "serverPort": "7777",
   "message": "",
@@ -1211,9 +1211,26 @@
       "url": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/575982409",
       "sha256": "ad7cf4a8bf4258fdaa298458008478a824c2e7e522f797d51832b8a89f5ec369",
       "notes": "voice ranges, chat roles, Q menu"
+    },
+    {
+      "id": "20260920-1103",
+      "url": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/577200347",
+      "sha256": "a69aea7098d87acf50796a7b0398ce02b485954184cdc8ad4a6b601a941ae714",
+      "notes": "voice local range halved"
     }
   ],
   "news": [
+    {
+      "date": "9-20-2026 11:04 AM",
+      "title": "voice local range halved",
+      "body": "",
+      "details": [
+        "Launcher 1.1.57",
+        "1 file to download, 0.0 MB",
+        "The load order moved, so start a new character or expect the old save to complain"
+      ],
+      "channel": ""
+    },
     {
       "date": "9-19-2026 8:44 PM",
       "title": "voice ranges, chat roles, Q menu",
@@ -1576,14 +1593,6 @@
       "body": "",
       "details": [
         "Launcher 1.1.15"
-      ]
-    },
-    {
-      "date": "15 Sep 2026",
-      "title": "Connect Discord can no longer stick, the collection card offers it instead of a dead button, Woodworker joins the professions, and the docs stop mixing professions with classes",
-      "body": "",
-      "details": [
-        "Launcher 1.1.14"
       ]
     }
   ],
