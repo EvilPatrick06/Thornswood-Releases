@@ -1,7 +1,7 @@
 {
-  "launcherVersion": "1.1.61.12",
-  "launcherUrl": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/577736894",
-  "launcherSha256": "3b1905e9a4f344aae77374871107d6c198f756d5e9f9840e7dabb4f62a086577",
+  "launcherVersion": "1.1.61.13",
+  "launcherUrl": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/577773183",
+  "launcherSha256": "78d673eca1294f143d069da9aa692ddf5a7ffff45bdd7621553cdd8a737581e6",
   "serverAddress": "192.135.112.23",
   "serverPort": "7787",
   "message": "",
@@ -1295,9 +1295,25 @@
       "url": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/577736899",
       "sha256": "63f49ba29c7011588124b7158ed888af0698a8e59a923a34253b1c422bdd25de",
       "notes": "The menu numbers slots by order, the door learns a new character at once, admins from the site"
+    },
+    {
+      "id": "20260920-1740-dev",
+      "url": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/577773187",
+      "sha256": "515c38061407499633b7d26cc771f086d78be2cd89c273c6706948cc140f60c1",
+      "notes": "Profession first, the race menu closing opens the panel, a spell book for mages, slots by order"
     }
   ],
   "news": [
+    {
+      "date": "9-20-2026 5:40 PM",
+      "title": "Profession first, the race menu closing opens the panel, a spell book for mages, slots by order",
+      "body": "",
+      "details": [
+        "Launcher 1.1.61.13",
+        "2 files to download, 0.2 MB"
+      ],
+      "channel": "dev"
+    },
     {
       "date": "9-20-2026 5:13 PM",
       "title": "The menu numbers slots by order, the door learns a new character at once, admins from the site",
@@ -1690,16 +1706,6 @@
       "details": [
         "Launcher 1.1.34",
         "18 files to download, 11.5 MB"
-      ],
-      "channel": ""
-    },
-    {
-      "date": "16 Sep 2026",
-      "title": "Voice works: the game finds the launcher's microphone again, so the indicator leaves LISTENING ONLY and push to talk reaches the launcher. Emote wheel is back on G, the key file had been cut down to the field of view line. SkyHUD config restored, the incompatible config popup is gone. Door fix: the rescue that pulled you back through the inn door is off. Thornswood's plugins stay idle when the client points at another server, so they no longer draw over Keizaal Online. New main menu art. Launcher checks in with the character's own profile id and logs its own faults. Vortex bookkeeping and face exports no longer ship in updates.",
-      "body": "",
-      "details": [
-        "Launcher 1.1.33",
-        "15 files to download, 8.2 MB"
       ],
       "channel": ""
     }
