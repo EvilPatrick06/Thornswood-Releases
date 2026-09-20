@@ -1,7 +1,7 @@
 {
-  "launcherVersion": "1.1.61.5",
-  "launcherUrl": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/577518842",
-  "launcherSha256": "c5686a6818b200318798c784a9aafd347b6e38e66a5db07bc7dd2dd0fc8a7c68",
+  "launcherVersion": "1.1.61.6",
+  "launcherUrl": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/577545539",
+  "launcherSha256": "875bd5c7da5ab1249df23947e4d4dae6e049d3bdb8c4ad225fd1b2736ed3da09",
   "serverAddress": "192.135.112.23",
   "serverPort": "7787",
   "message": "",
@@ -1253,9 +1253,25 @@
       "url": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/577503151",
       "sha256": "bd9724d84f88b9482ec9e8ec32982dcf1c3fd5f57ac80b8e15901b9fc93eeca9",
       "notes": "the menu holds, drawn for a big screen, and the test track"
+    },
+    {
+      "id": "20260920-1455-dev",
+      "url": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/577545540",
+      "sha256": "a9bc793ea76bfe14357290702db0f58f85f8999ca33e869baf598a1c8c73997c",
+      "notes": "slots, names and the delete icon at the main menu"
     }
   ],
   "news": [
+    {
+      "date": "9-20-2026 2:55 PM",
+      "title": "slots, names and the delete icon at the main menu",
+      "body": "",
+      "details": [
+        "Launcher 1.1.61.6",
+        "8 files to download, 0.7 MB"
+      ],
+      "channel": "dev"
+    },
     {
       "date": "9-20-2026 2:36 PM",
       "title": "music on and at half by default",
@@ -1649,16 +1665,6 @@
         "Launcher 1.1.26",
         "5 files to download, 0.0 MB",
         "The load order moved, so start a new character or expect the old save to complain"
-      ],
-      "channel": ""
-    },
-    {
-      "date": "16 Sep 2026",
-      "title": "Browser backend detects NirnLab correctly, Start On Save is checked for",
-      "body": "",
-      "details": [
-        "Launcher 1.1.25",
-        "6 files to download, 6.2 MB"
       ],
       "channel": ""
     }
