@@ -1,7 +1,7 @@
 {
-  "launcherVersion": "1.1.52",
-  "launcherUrl": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/575542037",
-  "launcherSha256": "f474a7685ed30c118794da0c7aee25b26b4fab30a5e7cbb649c8c72a1bb170b8",
+  "launcherVersion": "1.1.53",
+  "launcherUrl": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/575871490",
+  "launcherSha256": "57a94ed63e7e0f85580ed4ad4aa9f41dc4f2262509206f6fa5faa8300feaf9a1",
   "serverAddress": "192.135.112.23",
   "serverPort": "7777",
   "message": "",
@@ -1187,9 +1187,25 @@
       "url": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/575542038",
       "sha256": "c48d24b9890dfffb432a8a7dd701c0d9de1012201237a4958b3089d9abc6c430",
       "notes": "Plugin fixes"
+    },
+    {
+      "id": "20260919-1944",
+      "url": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/575871489",
+      "sha256": "d8a70b4e44f15edbaa39882a280cdd8a7dab5916b3dd7ccad2f594de3b06ab24",
+      "notes": "jump and sprint, voice ranges, the Q crash"
     }
   ],
   "news": [
+    {
+      "date": "9-19-2026 7:44 PM",
+      "title": "jump and sprint, voice ranges, the Q crash",
+      "body": "",
+      "details": [
+        "Launcher 1.1.53",
+        "2 files to download, 0.1 MB"
+      ],
+      "channel": ""
+    },
     {
       "date": "9-19-2026 3:46 PM",
       "title": "Plugin fixes",
@@ -1549,14 +1565,6 @@
         "Launcher 1.1.12",
         "129 files to download, 2.1 MB",
         "The load order moved, so start a new character or expect the old save to complain"
-      ]
-    },
-    {
-      "date": "15 Sep 2026",
-      "title": "Clearing the installer's leftovers can no longer follow a junction out of the folder it is clearing",
-      "body": "",
-      "details": [
-        "Launcher 1.1.11"
       ]
     }
   ],
