@@ -1,7 +1,7 @@
 {
-  "launcherVersion": "1.1.60",
-  "launcherUrl": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/577255192",
-  "launcherSha256": "5eb164803692f519533986fd184e545ea53376da7ec6b702bd3aab2d14e79fdd",
+  "launcherVersion": "1.1.61",
+  "launcherUrl": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/577267668",
+  "launcherSha256": "7f8a8506ab1b018f4f6aadf3e88d2c93a5966cac9a2184704d95ad4163b2d6a7",
   "serverAddress": "192.135.112.23",
   "serverPort": "7777",
   "message": "",
@@ -1229,9 +1229,25 @@
       "url": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/577239089",
       "sha256": "0226603003e2c978347e1d750f100ab9acaccf3f8caf6b0681d62238a306b2b0",
       "notes": "the IsNPC clear is guarded, so it leaves character creation alone"
+    },
+    {
+      "id": "20260920-1148",
+      "url": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/577267666",
+      "sha256": "2b0f7acdfb1d8ccb110c67e0f7ea4119ddff037b6cf923d8e1ccb98feacd754d",
+      "notes": "profession, class and skill tree on K"
     }
   ],
   "news": [
+    {
+      "date": "9-20-2026 11:48 AM",
+      "title": "profession, class and skill tree on K",
+      "body": "",
+      "details": [
+        "Launcher 1.1.61",
+        "2 files to download, 0.1 MB"
+      ],
+      "channel": ""
+    },
     {
       "date": "9-20-2026 11:40 AM",
       "title": "the microphone is back on",
@@ -1602,14 +1618,6 @@
       "details": [
         "Launcher 1.1.20",
         "1 file to download, 0.0 MB"
-      ]
-    },
-    {
-      "date": "15 Sep 2026",
-      "title": "Close Skyrim and updating work on a collection install, and the launcher removes another server's client",
-      "body": "",
-      "details": [
-        "Launcher 1.1.18"
       ]
     }
   ],
