@@ -1,7 +1,7 @@
 {
-  "launcherVersion": "1.1.58",
-  "launcherUrl": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/577232300",
-  "launcherSha256": "35782f711bde19944654f2c30a5ba3edf44cbeb9acf92abb1cae674486dd5fdf",
+  "launcherVersion": "1.1.59",
+  "launcherUrl": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/577239086",
+  "launcherSha256": "ae64bedd30b40a597b4f5735e4d83bde8fb67538adfd1854da308d7c7f301bbe",
   "serverAddress": "192.135.112.23",
   "serverPort": "7787",
   "message": "",
@@ -1223,9 +1223,25 @@
       "url": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/577232301",
       "sha256": "c777d4dc8e08af8c9ecc5df63994594789b92a9dbcd243e13cf94fbc4af3d8f9",
       "notes": "jump and sprint clear IsNPC on the press frame, and the light plugins are listed too"
+    },
+    {
+      "id": "20260920-1129",
+      "url": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/577239089",
+      "sha256": "0226603003e2c978347e1d750f100ab9acaccf3f8caf6b0681d62238a306b2b0",
+      "notes": "the IsNPC clear is guarded, so it leaves character creation alone"
     }
   ],
   "news": [
+    {
+      "date": "9-20-2026 11:29 AM",
+      "title": "the IsNPC clear is guarded, so it leaves character creation alone",
+      "body": "",
+      "details": [
+        "Launcher 1.1.59",
+        "1 file to download, 0.1 MB"
+      ],
+      "channel": ""
+    },
     {
       "date": "9-20-2026 11:24 AM",
       "title": "jump and sprint clear IsNPC on the press frame, and the light plugins are listed too",
@@ -1593,14 +1609,6 @@
       "body": "",
       "details": [
         "Launcher 1.1.17"
-      ]
-    },
-    {
-      "date": "15 Sep 2026",
-      "title": "Character creation happens inside the launcher window, and Connect Discord comes back on its own after a refusal",
-      "body": "",
-      "details": [
-        "Launcher 1.1.16"
       ]
     }
   ],
