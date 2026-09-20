@@ -1,7 +1,7 @@
 {
-  "launcherVersion": "1.1.61.10",
-  "launcherUrl": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/577693097",
-  "launcherSha256": "dbdfddc26cf0fd7aac174f715b6ac423828c7f47f5c4b07842f7a3f09507b52f",
+  "launcherVersion": "1.1.61.11",
+  "launcherUrl": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/577708113",
+  "launcherSha256": "9197f6629364dc1988121ec2fb6e463c561bf87c00f6cf30f255ae5046e47501",
   "serverAddress": "192.135.112.23",
   "serverPort": "7787",
   "message": "",
@@ -1283,9 +1283,25 @@
       "url": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/577693101",
       "sha256": "849999134c3dbf7e43e87bc098414341bd94b01a30fdb9839feaeaa224cee010",
       "notes": "A light plugin Skyrim.ccc loads is not an issue"
+    },
+    {
+      "id": "20260920-1651-dev",
+      "url": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/577708112",
+      "sha256": "c58832a6e2690bb7b943ebff2ae2fc60fac7e04be01377b896edeeaa025d1875",
+      "notes": "Buttons the size of their words, the panel leaves on the home answer, a clock on the front log"
     }
   ],
   "news": [
+    {
+      "date": "9-20-2026 4:51 PM",
+      "title": "Buttons the size of their words, the panel leaves on the home answer, a clock on the front log",
+      "body": "",
+      "details": [
+        "Launcher 1.1.61.11",
+        "3 files to download, 0.2 MB"
+      ],
+      "channel": "dev"
+    },
     {
       "date": "9-20-2026 4:39 PM",
       "title": "A light plugin Skyrim.ccc loads is not an issue",
@@ -1678,16 +1694,6 @@
       "details": [
         "Launcher 1.1.32",
         "20 files to download, 15.3 MB"
-      ],
-      "channel": ""
-    },
-    {
-      "date": "16 Sep 2026",
-      "title": "Login fixed: the client now sends the login this server answers, so everyone lands in the creation hall again. Main menu backdrop recomposed and full width. Launcher flags MCM Helper light so load orders match the server. Per person settings no longer ride in packs.",
-      "body": "",
-      "details": [
-        "Launcher 1.1.31",
-        "7 files to download, 17.0 MB"
       ],
       "channel": ""
     }
