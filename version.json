@@ -1,7 +1,7 @@
 {
-  "launcherVersion": "1.1.59",
-  "launcherUrl": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/577239086",
-  "launcherSha256": "ae64bedd30b40a597b4f5735e4d83bde8fb67538adfd1854da308d7c7f301bbe",
+  "launcherVersion": "1.1.60",
+  "launcherUrl": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/577255192",
+  "launcherSha256": "5eb164803692f519533986fd184e545ea53376da7ec6b702bd3aab2d14e79fdd",
   "serverAddress": "192.135.112.23",
   "serverPort": "7787",
   "message": "",
@@ -1233,6 +1233,15 @@
   ],
   "news": [
     {
+      "date": "9-20-2026 11:40 AM",
+      "title": "the microphone is back on",
+      "body": "",
+      "details": [
+        "Launcher 1.1.60"
+      ],
+      "channel": ""
+    },
+    {
       "date": "9-20-2026 11:29 AM",
       "title": "the IsNPC clear is guarded, so it leaves character creation alone",
       "body": "",
@@ -1601,14 +1610,6 @@
       "body": "",
       "details": [
         "Launcher 1.1.18"
-      ]
-    },
-    {
-      "date": "15 Sep 2026",
-      "title": "The launcher spots another server's client in your Skyrim and takes it out, instead of launching into their main menu",
-      "body": "",
-      "details": [
-        "Launcher 1.1.17"
       ]
     }
   ],
