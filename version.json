@@ -1,7 +1,7 @@
 {
-  "launcherVersion": "1.1.61.3",
-  "launcherUrl": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/577503149",
-  "launcherSha256": "de4f78a51e72dacfb9d8cfd59f86c5a4f84beff394e1298d110b0054683b900c",
+  "launcherVersion": "1.1.61.4",
+  "launcherUrl": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/577514940",
+  "launcherSha256": "1744af649d44303bcf366cf8b2a46840d5b434e370c7e9021d93e6d2ca857347",
   "serverAddress": "192.135.112.23",
   "serverPort": "7787",
   "message": "",
@@ -1257,6 +1257,15 @@
   ],
   "news": [
     {
+      "date": "9-20-2026 2:33 PM",
+      "title": "the launcher plays the track from a copy, and a music setting",
+      "body": "",
+      "details": [
+        "Launcher 1.1.61.4"
+      ],
+      "channel": "dev"
+    },
+    {
       "date": "9-20-2026 2:26 PM",
       "title": "the menu holds, drawn for a big screen, and the test track",
       "body": "",
@@ -1651,17 +1660,6 @@
       "details": [
         "Launcher 1.1.24",
         "5 files to download, 0.0 MB"
-      ],
-      "channel": ""
-    },
-    {
-      "date": "16 Sep 2026",
-      "title": "Character slot goes inside gameData, which is what turns the login screen off",
-      "body": "",
-      "details": [
-        "Launcher 1.1.23",
-        "6 files to download, 0.0 MB",
-        "The load order moved, so start a new character or expect the old save to complain"
       ],
       "channel": ""
     }
