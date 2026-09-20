@@ -1,7 +1,7 @@
 {
-  "launcherVersion": "1.1.61.2",
-  "launcherUrl": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/577466792",
-  "launcherSha256": "d0b5640dbb0fc9137a95b07b6dcc7052d7d6f444267930b04888eb6096dc10a7",
+  "launcherVersion": "1.1.61.3",
+  "launcherUrl": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/577503149",
+  "launcherSha256": "de4f78a51e72dacfb9d8cfd59f86c5a4f84beff394e1298d110b0054683b900c",
   "serverAddress": "192.135.112.23",
   "serverPort": "7787",
   "message": "",
@@ -1247,9 +1247,26 @@
       "url": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/577466793",
       "sha256": "d826a0cc3129b33c1e2cf8ad2a5c5d32843dca30000da1741898c006b3989b48",
       "notes": "creation in the game, and your character is picked at the main menu"
+    },
+    {
+      "id": "20260920-1426-dev",
+      "url": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/577503151",
+      "sha256": "bd9724d84f88b9482ec9e8ec32982dcf1c3fd5f57ac80b8e15901b9fc93eeca9",
+      "notes": "the menu holds, drawn for a big screen, and the test track"
     }
   ],
   "news": [
+    {
+      "date": "9-20-2026 2:26 PM",
+      "title": "the menu holds, drawn for a big screen, and the test track",
+      "body": "",
+      "details": [
+        "Launcher 1.1.61.3",
+        "5 files to download, 2.0 MB",
+        "The load order moved, so start a new character or expect the old save to complain"
+      ],
+      "channel": "dev"
+    },
     {
       "date": "9-20-2026 2:02 PM",
       "title": "creation in the game, and your character is picked at the main menu",
@@ -1645,16 +1662,6 @@
         "Launcher 1.1.23",
         "6 files to download, 0.0 MB",
         "The load order moved, so start a new character or expect the old save to complain"
-      ],
-      "channel": ""
-    },
-    {
-      "date": "16 Sep 2026",
-      "title": "Crafting assets restored, browser backend picked from what is installed",
-      "body": "",
-      "details": [
-        "Launcher 1.1.22",
-        "13 files to download, 0.7 MB"
       ],
       "channel": ""
     }
