@@ -1,7 +1,7 @@
 {
-  "launcherVersion": "1.1.61.1",
-  "launcherUrl": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/577380431",
-  "launcherSha256": "5482a968d54411919367d5d67ef3b23ebb3e17f3b3c41323ff4ac2f93a0dc915",
+  "launcherVersion": "1.1.61.2",
+  "launcherUrl": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/577466792",
+  "launcherSha256": "d0b5640dbb0fc9137a95b07b6dcc7052d7d6f444267930b04888eb6096dc10a7",
   "serverAddress": "192.135.112.23",
   "serverPort": "7787",
   "message": "",
@@ -1241,9 +1241,25 @@
       "url": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/577380430",
       "sha256": "62e1e15553facafd098d9184552a21ac74e3e38ec90048703995f36682e76d19",
       "notes": "our own SkyMP client, built from the fork"
+    },
+    {
+      "id": "20260920-1402-dev",
+      "url": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/577466793",
+      "sha256": "d826a0cc3129b33c1e2cf8ad2a5c5d32843dca30000da1741898c006b3989b48",
+      "notes": "creation in the game, and your character is picked at the main menu"
     }
   ],
   "news": [
+    {
+      "date": "9-20-2026 2:02 PM",
+      "title": "creation in the game, and your character is picked at the main menu",
+      "body": "",
+      "details": [
+        "Launcher 1.1.61.2",
+        "160 files to download, 41.6 MB"
+      ],
+      "channel": "dev"
+    },
     {
       "date": "9-20-2026 1:02 PM",
       "title": "our own SkyMP client, built from the fork",
@@ -1639,16 +1655,6 @@
       "details": [
         "Launcher 1.1.22",
         "13 files to download, 0.7 MB"
-      ],
-      "channel": ""
-    },
-    {
-      "date": "16 Sep 2026",
-      "title": "Main menu background and logo mesh were another server's, removed",
-      "body": "",
-      "details": [
-        "Launcher 1.1.21",
-        "8 files to download, 0.4 MB"
       ],
       "channel": ""
     }
