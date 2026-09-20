@@ -1,7 +1,7 @@
 {
-  "launcherVersion": "1.1.61.9",
-  "launcherUrl": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/577681839",
-  "launcherSha256": "c8defd9e8d73bf548eedc70aafd8f923e126a64df1418e00da284f3fc07d74bf",
+  "launcherVersion": "1.1.61.10",
+  "launcherUrl": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/577693097",
+  "launcherSha256": "dbdfddc26cf0fd7aac174f715b6ac423828c7f47f5c4b07842f7a3f09507b52f",
   "serverAddress": "192.135.112.23",
   "serverPort": "7787",
   "message": "",
@@ -1277,9 +1277,25 @@
       "url": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/577681837",
       "sha256": "4da85887106a86733c988584bad494ba26e25502e33cb34f512ad501c7e371dc",
       "notes": "Dev talks to the dev voice service, the launcher refuses a wrong load order and fixes it, the K panel redraws only on change and lets class and profession wait"
+    },
+    {
+      "id": "20260920-1639-dev",
+      "url": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/577693101",
+      "sha256": "849999134c3dbf7e43e87bc098414341bd94b01a30fdb9839feaeaa224cee010",
+      "notes": "A light plugin Skyrim.ccc loads is not an issue"
     }
   ],
   "news": [
+    {
+      "date": "9-20-2026 4:39 PM",
+      "title": "A light plugin Skyrim.ccc loads is not an issue",
+      "body": "",
+      "details": [
+        "Launcher 1.1.61.10",
+        "The load order moved, so start a new character or expect the old save to complain"
+      ],
+      "channel": "dev"
+    },
     {
       "date": "9-20-2026 4:30 PM",
       "title": "Dev talks to the dev voice service, the launcher refuses a wrong load order and fixes it, the K panel redraws only on change and lets class and profession wait",
@@ -1672,16 +1688,6 @@
       "details": [
         "Launcher 1.1.31",
         "7 files to download, 17.0 MB"
-      ],
-      "channel": ""
-    },
-    {
-      "date": "16 Sep 2026",
-      "title": "Thornswood main menu backdrop, wider menu plane, and MCM Helper on the light plugin so load orders line up with the server",
-      "body": "",
-      "details": [
-        "Launcher 1.1.30",
-        "6 files to download, 16.0 MB"
       ],
       "channel": ""
     }
