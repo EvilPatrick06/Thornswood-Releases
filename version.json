@@ -1,7 +1,7 @@
 {
-  "launcherVersion": "1.1.61.6",
-  "launcherUrl": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/577545539",
-  "launcherSha256": "875bd5c7da5ab1249df23947e4d4dae6e049d3bdb8c4ad225fd1b2736ed3da09",
+  "launcherVersion": "1.1.61.7",
+  "launcherUrl": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/577566262",
+  "launcherSha256": "2446b6d9c3c473de589e1a7fa27b0176ba8c5737cf7181fe860046b72701a6dd",
   "serverAddress": "192.135.112.23",
   "serverPort": "7787",
   "message": "",
@@ -1259,9 +1259,25 @@
       "url": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/577545540",
       "sha256": "a9bc793ea76bfe14357290702db0f58f85f8999ca33e869baf598a1c8c73997c",
       "notes": "slots, names and the delete icon at the main menu"
+    },
+    {
+      "id": "20260920-1509-dev",
+      "url": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/577566261",
+      "sha256": "17ff5c51a17e2960679a60c72bd93269441d43fb04c06bfa03ccdcca151209a3",
+      "notes": "the menu stays up, comes up fast, over the painting"
     }
   ],
   "news": [
+    {
+      "date": "9-20-2026 3:09 PM",
+      "title": "the menu stays up, comes up fast, over the painting",
+      "body": "",
+      "details": [
+        "Launcher 1.1.61.7",
+        "5 files to download, 4.9 MB"
+      ],
+      "channel": "dev"
+    },
     {
       "date": "9-20-2026 2:55 PM",
       "title": "slots, names and the delete icon at the main menu",
@@ -1653,17 +1669,6 @@
       "body": "",
       "details": [
         "Launcher 1.1.27",
-        "The load order moved, so start a new character or expect the old save to complain"
-      ],
-      "channel": ""
-    },
-    {
-      "date": "16 Sep 2026",
-      "title": "Out of date collection now says so above Play instead of just blocking it",
-      "body": "",
-      "details": [
-        "Launcher 1.1.26",
-        "5 files to download, 0.0 MB",
         "The load order moved, so start a new character or expect the old save to complain"
       ],
       "channel": ""
