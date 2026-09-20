@@ -1,7 +1,7 @@
 {
-  "launcherVersion": "1.1.55",
-  "launcherUrl": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/575958626",
-  "launcherSha256": "d4e017949a5ce36204e8e6705029f880359e48b138bffb247c9c3f67179a170e",
+  "launcherVersion": "1.1.56",
+  "launcherUrl": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/575982410",
+  "launcherSha256": "51d5c2747d52dac093b5e1205eaff90fcb2c8a954091d09d8f132554503ea818",
   "serverAddress": "192.135.112.23",
   "serverPort": "7787",
   "message": "",
@@ -1204,6 +1204,12 @@
       "id": "20260919-2044",
       "url": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/575958625",
       "sha256": "ef2e63c5bbe059854e62012dcee84b2969a0d24b95608933b8ed7e0f8075f0b0",
+      "notes": "voice ranges, chat roles, Q menu"
+    },
+    {
+      "id": "20260919-2101",
+      "url": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/575982409",
+      "sha256": "ad7cf4a8bf4258fdaa298458008478a824c2e7e522f797d51832b8a89f5ec369",
       "notes": "voice ranges, chat roles, Q menu"
     }
   ],
