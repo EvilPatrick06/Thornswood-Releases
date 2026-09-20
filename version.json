@@ -1,7 +1,7 @@
 {
-  "launcherVersion": "1.1.54",
-  "launcherUrl": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/575907654",
-  "launcherSha256": "931f2dccc964982d91f294b85ddd4d154c88d7cb1c00c32f6b881965ec539e05",
+  "launcherVersion": "1.1.55",
+  "launcherUrl": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/575958626",
+  "launcherSha256": "d4e017949a5ce36204e8e6705029f880359e48b138bffb247c9c3f67179a170e",
   "serverAddress": "192.135.112.23",
   "serverPort": "7777",
   "message": "",
@@ -1199,9 +1199,25 @@
       "url": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/575907653",
       "sha256": "354e1663b5f4341352ab4f5e1177e5f44c518eae1fb0c9649402b75937404aa8",
       "notes": "InventoryInjector out of the folder, jump probe"
+    },
+    {
+      "id": "20260919-2044",
+      "url": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/575958625",
+      "sha256": "ef2e63c5bbe059854e62012dcee84b2969a0d24b95608933b8ed7e0f8075f0b0",
+      "notes": "voice ranges, chat roles, Q menu"
     }
   ],
   "news": [
+    {
+      "date": "9-19-2026 8:44 PM",
+      "title": "voice ranges, chat roles, Q menu",
+      "body": "",
+      "details": [
+        "Launcher 1.1.55",
+        "2 files to download, 1.0 MB"
+      ],
+      "channel": ""
+    },
     {
       "date": "9-19-2026 8:10 PM",
       "title": "InventoryInjector out of the folder, jump probe",
@@ -1562,15 +1578,6 @@
       "body": "",
       "details": [
         "Launcher 1.1.14"
-      ]
-    },
-    {
-      "date": "15 Sep 2026",
-      "title": "Connect Discord can no longer stick, the collection card offers it instead of a dead button, and Woodworker joins the professions",
-      "body": "",
-      "details": [
-        "Launcher 1.1.13",
-        "1 file to download, 0.0 MB"
       ]
     }
   ],
