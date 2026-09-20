@@ -1,7 +1,7 @@
 {
-  "launcherVersion": "1.1.56",
-  "launcherUrl": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/575982410",
-  "launcherSha256": "51d5c2747d52dac093b5e1205eaff90fcb2c8a954091d09d8f132554503ea818",
+  "launcherVersion": "1.1.56.1",
+  "launcherUrl": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/575983907",
+  "launcherSha256": "62c0ee1b83693671d3eb755a28ab32f11a80b6af6f790e5885d25cbdc489a478",
   "serverAddress": "192.135.112.23",
   "serverPort": "7787",
   "message": "",
@@ -1211,6 +1211,12 @@
       "url": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/575982409",
       "sha256": "ad7cf4a8bf4258fdaa298458008478a824c2e7e522f797d51832b8a89f5ec369",
       "notes": "voice ranges, chat roles, Q menu"
+    },
+    {
+      "id": "20260919-2102-dev",
+      "url": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/575983909",
+      "sha256": "44a9c0a13b5870e853a3521437291834befa6986421e8f260598a1614f41ebd7",
+      "notes": "voice ranges, chat roles, Q menu"
     }
   ],
   "news": [
@@ -1329,7 +1335,8 @@
       "details": [
         "Launcher 1.1.45",
         "1 file to download, 1.0 MB"
-      ]
+      ],
+      "channel": ""
     },
     {
       "date": "17 Sep 2026",
@@ -1337,7 +1344,8 @@
       "body": "",
       "details": [
         "Launcher 1.1.44"
-      ]
+      ],
+      "channel": ""
     },
     {
       "date": "17 Sep 2026",
@@ -1346,7 +1354,8 @@
       "details": [
         "Launcher 1.1.43",
         "1 file to download, 1.0 MB"
-      ]
+      ],
+      "channel": ""
     },
     {
       "date": "17 Sep 2026",
@@ -1354,7 +1363,8 @@
       "body": "",
       "details": [
         "Launcher 1.1.42"
-      ]
+      ],
+      "channel": ""
     },
     {
       "date": "17 Sep 2026",
@@ -1363,7 +1373,8 @@
       "details": [
         "Launcher 1.1.41",
         "1 file to download, 1.0 MB"
-      ]
+      ],
+      "channel": ""
     },
     {
       "date": "17 Sep 2026",
@@ -1372,7 +1383,8 @@
       "details": [
         "Launcher 1.1.40",
         "1 file to download, 0.0 MB"
-      ]
+      ],
+      "channel": ""
     },
     {
       "date": "16 Sep 2026",
@@ -1380,7 +1392,8 @@
       "body": "A second launcher no longer counts as the running game. The 16 Sep installer's sign in file is removed from every install and the installer is rebuilt without it.",
       "details": [
         "Launcher 1.1.39"
-      ]
+      ],
+      "channel": ""
     },
     {
       "date": "16 Sep 2026",
@@ -1389,7 +1402,8 @@
       "details": [
         "Launcher 1.1.38",
         "1 file to download, 0.0 MB"
-      ]
+      ],
+      "channel": ""
     },
     {
       "date": "16 Sep 2026",
@@ -1398,7 +1412,8 @@
       "details": [
         "Launcher 1.1.37",
         "6 files to download, 0.1 MB"
-      ]
+      ],
+      "channel": ""
     },
     {
       "date": "16 Sep 2026",
@@ -1407,7 +1422,8 @@
       "details": [
         "Launcher 1.1.36",
         "6 files to download, 0.1 MB"
-      ]
+      ],
+      "channel": ""
     },
     {
       "date": "16 Sep 2026",
@@ -1416,7 +1432,8 @@
       "details": [
         "Launcher 1.1.35",
         "7 files to download, 0.1 MB"
-      ]
+      ],
+      "channel": ""
     },
     {
       "date": "16 Sep 2026",
@@ -1425,7 +1442,8 @@
       "details": [
         "Launcher 1.1.34",
         "18 files to download, 11.5 MB"
-      ]
+      ],
+      "channel": ""
     },
     {
       "date": "16 Sep 2026",
@@ -1434,7 +1452,8 @@
       "details": [
         "Launcher 1.1.33",
         "15 files to download, 8.2 MB"
-      ]
+      ],
+      "channel": ""
     },
     {
       "date": "16 Sep 2026",
@@ -1443,7 +1462,8 @@
       "details": [
         "Launcher 1.1.32",
         "20 files to download, 15.3 MB"
-      ]
+      ],
+      "channel": ""
     },
     {
       "date": "16 Sep 2026",
@@ -1452,7 +1472,8 @@
       "details": [
         "Launcher 1.1.31",
         "7 files to download, 17.0 MB"
-      ]
+      ],
+      "channel": ""
     },
     {
       "date": "16 Sep 2026",
@@ -1461,7 +1482,8 @@
       "details": [
         "Launcher 1.1.30",
         "6 files to download, 16.0 MB"
-      ]
+      ],
+      "channel": ""
     },
     {
       "date": "16 Sep 2026",
@@ -1470,7 +1492,8 @@
       "details": [
         "Launcher 1.1.29",
         "5 files to download, 2.0 MB"
-      ]
+      ],
+      "channel": ""
     },
     {
       "date": "16 Sep 2026",
@@ -1479,7 +1502,8 @@
       "details": [
         "Launcher 1.1.27",
         "The load order moved, so start a new character or expect the old save to complain"
-      ]
+      ],
+      "channel": ""
     },
     {
       "date": "16 Sep 2026",
@@ -1489,7 +1513,8 @@
         "Launcher 1.1.26",
         "5 files to download, 0.0 MB",
         "The load order moved, so start a new character or expect the old save to complain"
-      ]
+      ],
+      "channel": ""
     },
     {
       "date": "16 Sep 2026",
@@ -1498,7 +1523,8 @@
       "details": [
         "Launcher 1.1.25",
         "6 files to download, 6.2 MB"
-      ]
+      ],
+      "channel": ""
     },
     {
       "date": "16 Sep 2026",
@@ -1507,7 +1533,8 @@
       "details": [
         "Launcher 1.1.24",
         "5 files to download, 0.0 MB"
-      ]
+      ],
+      "channel": ""
     },
     {
       "date": "16 Sep 2026",
@@ -1517,7 +1544,8 @@
         "Launcher 1.1.23",
         "6 files to download, 0.0 MB",
         "The load order moved, so start a new character or expect the old save to complain"
-      ]
+      ],
+      "channel": ""
     },
     {
       "date": "16 Sep 2026",
@@ -1526,7 +1554,8 @@
       "details": [
         "Launcher 1.1.22",
         "13 files to download, 0.7 MB"
-      ]
+      ],
+      "channel": ""
     },
     {
       "date": "16 Sep 2026",
@@ -1535,7 +1564,8 @@
       "details": [
         "Launcher 1.1.21",
         "8 files to download, 0.4 MB"
-      ]
+      ],
+      "channel": ""
     },
     {
       "date": "16 Sep 2026",
@@ -1544,7 +1574,8 @@
       "details": [
         "Launcher 1.1.20",
         "1 file to download, 0.0 MB"
-      ]
+      ],
+      "channel": ""
     },
     {
       "date": "15 Sep 2026",
@@ -1552,7 +1583,8 @@
       "body": "",
       "details": [
         "Launcher 1.1.18"
-      ]
+      ],
+      "channel": ""
     },
     {
       "date": "15 Sep 2026",
@@ -1560,7 +1592,8 @@
       "body": "",
       "details": [
         "Launcher 1.1.17"
-      ]
+      ],
+      "channel": ""
     },
     {
       "date": "15 Sep 2026",
@@ -1568,7 +1601,8 @@
       "body": "",
       "details": [
         "Launcher 1.1.16"
-      ]
+      ],
+      "channel": ""
     },
     {
       "date": "15 Sep 2026",
@@ -1576,7 +1610,8 @@
       "body": "",
       "details": [
         "Launcher 1.1.15"
-      ]
+      ],
+      "channel": ""
     },
     {
       "date": "15 Sep 2026",
@@ -1584,13 +1619,17 @@
       "body": "",
       "details": [
         "Launcher 1.1.14"
-      ]
+      ],
+      "channel": ""
     }
   ],
   "updateRepo": "EvilPatrick06/Thornswood-Releases",
   "voicePort": "7789",
   "collectionUrl": "https://www.nexusmods.com/games/skyrimspecialedition/collections/ombo2a",
   "maxOnline": 25,
-  "mainVersion": "",
-  "voiceUrl": "https://thornswood.net/voice"
+  "mainVersion": "1.1.56",
+  "voiceUrl": "https://thornswood.net/voice",
+  "discordAppId": "1549251507361292418",
+  "siteUrl": "https://thornswood.net",
+  "presenceImage": "https://thornswood.net/presence.png"
 }
