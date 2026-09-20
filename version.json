@@ -1,7 +1,7 @@
 {
-  "launcherVersion": "1.1.61.13",
-  "launcherUrl": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/577773183",
-  "launcherSha256": "78d673eca1294f143d069da9aa692ddf5a7ffff45bdd7621553cdd8a737581e6",
+  "launcherVersion": "1.1.61.14",
+  "launcherUrl": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/577790372",
+  "launcherSha256": "a0ddbbbe0dd6eeee3134f1507dba16e75855cf1a01925a933662ff42003875b4",
   "serverAddress": "192.135.112.23",
   "serverPort": "7787",
   "message": "",
@@ -1301,9 +1301,25 @@
       "url": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/577773187",
       "sha256": "515c38061407499633b7d26cc771f086d78be2cd89c273c6706948cc140f60c1",
       "notes": "Profession first, the race menu closing opens the panel, a spell book for mages, slots by order"
+    },
+    {
+      "id": "20260920-1751-dev",
+      "url": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/577790370",
+      "sha256": "09a9123130975e87ec785cae4063ffe673627f62554757bb2751ecfe5a98c863",
+      "notes": "Profession first, the race menu opens the panel, a spell book for mages, slots by order, the dresser retired"
     }
   ],
   "news": [
+    {
+      "date": "9-20-2026 5:51 PM",
+      "title": "Profession first, the race menu opens the panel, a spell book for mages, slots by order, the dresser retired",
+      "body": "",
+      "details": [
+        "Launcher 1.1.61.14",
+        "1 file to download, 0.0 MB"
+      ],
+      "channel": "dev"
+    },
     {
       "date": "9-20-2026 5:40 PM",
       "title": "Profession first, the race menu closing opens the panel, a spell book for mages, slots by order",
@@ -1696,16 +1712,6 @@
       "details": [
         "Launcher 1.1.35",
         "7 files to download, 0.1 MB"
-      ],
-      "channel": ""
-    },
-    {
-      "date": "16 Sep 2026",
-      "title": "Voice indicator fixed for real: the page inside the game was still the old one and never took the launcher's state. Switching servers without touching Vortex: the launcher now keeps its own copies of the twelve files in Data\\Platform it owns, puts back any that another server's launcher changed before every Play, and parks any other server's plugin while Thornswood runs, then puts it back the moment the game closes. Start menu entry for the launcher on every machine. Site downloads line corrected to https.",
-      "body": "",
-      "details": [
-        "Launcher 1.1.34",
-        "18 files to download, 11.5 MB"
       ],
       "channel": ""
     }
