@@ -1,7 +1,7 @@
 {
-  "launcherVersion": "1.1.53",
-  "launcherUrl": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/575871490",
-  "launcherSha256": "57a94ed63e7e0f85580ed4ad4aa9f41dc4f2262509206f6fa5faa8300feaf9a1",
+  "launcherVersion": "1.1.54",
+  "launcherUrl": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/575907654",
+  "launcherSha256": "931f2dccc964982d91f294b85ddd4d154c88d7cb1c00c32f6b881965ec539e05",
   "serverAddress": "192.135.112.23",
   "serverPort": "7777",
   "message": "",
@@ -1193,9 +1193,25 @@
       "url": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/575871489",
       "sha256": "d8a70b4e44f15edbaa39882a280cdd8a7dab5916b3dd7ccad2f594de3b06ab24",
       "notes": "jump and sprint, voice ranges, the Q crash"
+    },
+    {
+      "id": "20260919-2010",
+      "url": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/575907653",
+      "sha256": "354e1663b5f4341352ab4f5e1177e5f44c518eae1fb0c9649402b75937404aa8",
+      "notes": "InventoryInjector out of the folder, jump probe"
     }
   ],
   "news": [
+    {
+      "date": "9-19-2026 8:10 PM",
+      "title": "InventoryInjector out of the folder, jump probe",
+      "body": "",
+      "details": [
+        "Launcher 1.1.54",
+        "3 files to download, 1.1 MB"
+      ],
+      "channel": ""
+    },
     {
       "date": "9-19-2026 7:44 PM",
       "title": "jump and sprint, voice ranges, the Q crash",
@@ -1555,16 +1571,6 @@
       "details": [
         "Launcher 1.1.13",
         "1 file to download, 0.0 MB"
-      ]
-    },
-    {
-      "date": "15 Sep 2026",
-      "title": "Connect Discord can no longer stick, and the collection card offers it instead of a dead button",
-      "body": "",
-      "details": [
-        "Launcher 1.1.12",
-        "129 files to download, 2.1 MB",
-        "The load order moved, so start a new character or expect the old save to complain"
       ]
     }
   ],
