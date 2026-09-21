@@ -1,7 +1,7 @@
 {
-  "launcherVersion": "1.1.63",
-  "launcherUrl": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/577958512",
-  "launcherSha256": "b50b5116c46f478902e4ad6bcdc73bd2963e534b900066ff85ef6622a5f5e14c",
+  "launcherVersion": "1.1.64",
+  "launcherUrl": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/577963284",
+  "launcherSha256": "47391f702fcf0bdce17d23492905f0b0a2dd1890149cbfbc4dc61cbfed33782a",
   "serverAddress": "192.135.112.23",
   "serverPort": "7777",
   "message": "",
@@ -1245,6 +1245,15 @@
   ],
   "news": [
     {
+      "date": "9-20-2026 7:39 PM",
+      "title": "The Q favourites menu: a setting this build insists on is never written through another launcher's file",
+      "body": "",
+      "details": [
+        "Launcher 1.1.64"
+      ],
+      "channel": ""
+    },
+    {
       "date": "9-20-2026 7:35 PM",
       "title": "A record of who played and when, for the testing log",
       "body": "",
@@ -1616,15 +1625,6 @@
         "Launcher 1.1.23",
         "6 files to download, 0.0 MB",
         "The load order moved, so start a new character or expect the old save to complain"
-      ]
-    },
-    {
-      "date": "16 Sep 2026",
-      "title": "Crafting assets restored, browser backend picked from what is installed",
-      "body": "",
-      "details": [
-        "Launcher 1.1.22",
-        "13 files to download, 0.7 MB"
       ]
     }
   ],
