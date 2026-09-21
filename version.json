@@ -1,7 +1,7 @@
 {
-  "launcherVersion": "1.1.62",
-  "launcherUrl": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/577904857",
-  "launcherSha256": "d79fc886c3222be0e4137cba099855b78363f983f350985d2f95a69638bf3f14",
+  "launcherVersion": "1.1.63",
+  "launcherUrl": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/577958512",
+  "launcherSha256": "b50b5116c46f478902e4ad6bcdc73bd2963e534b900066ff85ef6622a5f5e14c",
   "serverAddress": "192.135.112.23",
   "serverPort": "7777",
   "message": "",
@@ -1245,6 +1245,15 @@
   ],
   "news": [
     {
+      "date": "9-20-2026 7:35 PM",
+      "title": "A record of who played and when, for the testing log",
+      "body": "",
+      "details": [
+        "Launcher 1.1.63"
+      ],
+      "channel": ""
+    },
+    {
       "date": "9-20-2026 7:02 PM",
       "title": "Character choice at the menu, creation in the game, the K panel, the load order gate, the door and admins from the site",
       "body": "",
@@ -1616,15 +1625,6 @@
       "details": [
         "Launcher 1.1.22",
         "13 files to download, 0.7 MB"
-      ]
-    },
-    {
-      "date": "16 Sep 2026",
-      "title": "Main menu background and logo mesh were another server's, removed",
-      "body": "",
-      "details": [
-        "Launcher 1.1.21",
-        "8 files to download, 0.4 MB"
       ]
     }
   ],
