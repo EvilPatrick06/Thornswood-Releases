@@ -1,7 +1,7 @@
 {
-  "launcherVersion": "1.1.65",
-  "launcherUrl": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/578112085",
-  "launcherSha256": "185c87dc3589f26751a481febad682539829b3c701cf856b6245eda211fe055d",
+  "launcherVersion": "1.1.66",
+  "launcherUrl": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/578124708",
+  "launcherSha256": "f683b02c3bdb9dcbb5777fa2a64acf13034b3cb4642ec8dd34f137bf5b08ddca",
   "serverAddress": "192.135.112.23",
   "serverPort": "7777",
   "message": "",
@@ -1247,9 +1247,25 @@
       "url": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/578112084",
       "sha256": "3c3091de99836b43e81adc2165fa7d3b5e2519e0acc88199c0ff7ebd4c72b593",
       "notes": "The delete icon on the character menu forgets again"
+    },
+    {
+      "id": "20260920-2122",
+      "url": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/578124710",
+      "sha256": "6651cf66a9dfea5fa431a4b9154260d1d4a6f54c3398fd52d2692925def17036",
+      "notes": "Only spells you could learn are open, and the scrollbars match the panel"
     }
   ],
   "news": [
+    {
+      "date": "9-20-2026 9:22 PM",
+      "title": "Only spells you could learn are open, and the scrollbars match the panel",
+      "body": "",
+      "details": [
+        "Launcher 1.1.66",
+        "2 files to download, 0.1 MB"
+      ],
+      "channel": ""
+    },
     {
       "date": "9-20-2026 9:14 PM",
       "title": "The delete icon on the character menu forgets again",
@@ -1623,15 +1639,6 @@
       "details": [
         "Launcher 1.1.25",
         "6 files to download, 6.2 MB"
-      ]
-    },
-    {
-      "date": "16 Sep 2026",
-      "title": "Character slot goes inside gameData, and the launcher now checks for Start On Save",
-      "body": "",
-      "details": [
-        "Launcher 1.1.24",
-        "5 files to download, 0.0 MB"
       ]
     }
   ],
