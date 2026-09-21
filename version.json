@@ -1,7 +1,7 @@
 {
-  "launcherVersion": "1.1.67.3",
-  "launcherUrl": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/579836646",
-  "launcherSha256": "a05b8f5b0a7d38ccc96a9134338db85f232aee1b49812b0aebec56f97edaa751",
+  "launcherVersion": "1.1.69",
+  "launcherUrl": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/579837488",
+  "launcherSha256": "082ca682c3ab44c5c0ec12bf2417ad1208e2c17ae84f8feb3a60c1c29e120390",
   "serverAddress": "192.135.112.23",
   "serverPort": "7787",
   "message": "",
@@ -1253,30 +1253,6 @@
       "url": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/578124710",
       "sha256": "6651cf66a9dfea5fa431a4b9154260d1d4a6f54c3398fd52d2692925def17036",
       "notes": "Only spells you could learn are open, and the scrollbars match the panel"
-    },
-    {
-      "id": "20260921-1006-dev",
-      "url": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/579377540",
-      "sha256": "a549134610300bda896e7d56b000c6fc856e39926ba44f8e2d8cd06a939f841c",
-      "notes": "The K panel, the skill tree on the character, and every class verb"
-    },
-    {
-      "id": "20260921-1426-dev",
-      "url": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/579805636",
-      "sha256": "c153457a96b53fa87b5361ed4e9637872918c76cfbe4d2e25c90e7c03dd92890",
-      "notes": "Locks, keys, claiming a building, nothing spawns, forty gold to start"
-    },
-    {
-      "id": "20260921-1427-dev",
-      "url": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/579807580",
-      "sha256": "c953a8474a064f7feb3bbbade530fca0897c761c2430f1ca8bd6ca15a3b9b123",
-      "notes": "The content plugin the last dev build was missing"
-    },
-    {
-      "id": "20260921-1447-dev",
-      "url": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/579836647",
-      "sha256": "bea517c404ded45175dc46d1c24ada0524582099e7e486b8c00fce16615228e5",
-      "notes": "The launcher said a check in had failed when it had just succeeded"
     }
   ],
   "news": [
@@ -1285,42 +1261,9 @@
       "title": "The launcher said a check in had failed when it had just succeeded",
       "body": "",
       "details": [
-        "Launcher 1.1.67.3",
-        "The load order moved, so start a new character or expect the old save to complain"
+        "Launcher 1.1.69"
       ],
-      "channel": "dev"
-    },
-    {
-      "date": "9-21-2026 2:27 PM",
-      "title": "The content plugin the last dev build was missing",
-      "body": "",
-      "details": [
-        "Launcher 1.1.67.2",
-        "Nothing to download, this one is bookkeeping",
-        "The load order moved, so start a new character or expect the old save to complain"
-      ],
-      "channel": "dev"
-    },
-    {
-      "date": "9-21-2026 2:26 PM",
-      "title": "Locks, keys, claiming a building, nothing spawns, forty gold to start",
-      "body": "",
-      "details": [
-        "Launcher 1.1.67.1",
-        "3 files to download, 1.5 MB",
-        "The load order moved, so start a new character or expect the old save to complain"
-      ],
-      "channel": "dev"
-    },
-    {
-      "date": "9-21-2026 10:06 AM",
-      "title": "The K panel, the skill tree on the character, and every class verb",
-      "body": "",
-      "details": [
-        "Launcher 1.1.66.1",
-        "5 files to download, 1.7 MB"
-      ],
-      "channel": "dev"
+      "channel": ""
     },
     {
       "date": "9-20-2026 9:22 PM",
@@ -1536,8 +1479,7 @@
       "details": [
         "Launcher 1.1.45",
         "1 file to download, 1.0 MB"
-      ],
-      "channel": ""
+      ]
     },
     {
       "date": "17 Sep 2026",
@@ -1545,8 +1487,7 @@
       "body": "",
       "details": [
         "Launcher 1.1.44"
-      ],
-      "channel": ""
+      ]
     },
     {
       "date": "17 Sep 2026",
@@ -1555,8 +1496,7 @@
       "details": [
         "Launcher 1.1.43",
         "1 file to download, 1.0 MB"
-      ],
-      "channel": ""
+      ]
     },
     {
       "date": "17 Sep 2026",
@@ -1564,8 +1504,7 @@
       "body": "",
       "details": [
         "Launcher 1.1.42"
-      ],
-      "channel": ""
+      ]
     },
     {
       "date": "17 Sep 2026",
@@ -1574,8 +1513,7 @@
       "details": [
         "Launcher 1.1.41",
         "1 file to download, 1.0 MB"
-      ],
-      "channel": ""
+      ]
     },
     {
       "date": "17 Sep 2026",
@@ -1584,8 +1522,7 @@
       "details": [
         "Launcher 1.1.40",
         "1 file to download, 0.0 MB"
-      ],
-      "channel": ""
+      ]
     },
     {
       "date": "16 Sep 2026",
@@ -1593,8 +1530,7 @@
       "body": "A second launcher no longer counts as the running game. The 16 Sep installer's sign in file is removed from every install and the installer is rebuilt without it.",
       "details": [
         "Launcher 1.1.39"
-      ],
-      "channel": ""
+      ]
     },
     {
       "date": "16 Sep 2026",
@@ -1603,8 +1539,7 @@
       "details": [
         "Launcher 1.1.38",
         "1 file to download, 0.0 MB"
-      ],
-      "channel": ""
+      ]
     },
     {
       "date": "16 Sep 2026",
@@ -1613,8 +1548,7 @@
       "details": [
         "Launcher 1.1.37",
         "6 files to download, 0.1 MB"
-      ],
-      "channel": ""
+      ]
     },
     {
       "date": "16 Sep 2026",
@@ -1623,8 +1557,7 @@
       "details": [
         "Launcher 1.1.36",
         "6 files to download, 0.1 MB"
-      ],
-      "channel": ""
+      ]
     },
     {
       "date": "16 Sep 2026",
@@ -1633,8 +1566,7 @@
       "details": [
         "Launcher 1.1.35",
         "7 files to download, 0.1 MB"
-      ],
-      "channel": ""
+      ]
     },
     {
       "date": "16 Sep 2026",
@@ -1643,8 +1575,7 @@
       "details": [
         "Launcher 1.1.34",
         "18 files to download, 11.5 MB"
-      ],
-      "channel": ""
+      ]
     },
     {
       "date": "16 Sep 2026",
@@ -1653,8 +1584,7 @@
       "details": [
         "Launcher 1.1.33",
         "15 files to download, 8.2 MB"
-      ],
-      "channel": ""
+      ]
     },
     {
       "date": "16 Sep 2026",
@@ -1663,8 +1593,7 @@
       "details": [
         "Launcher 1.1.32",
         "20 files to download, 15.3 MB"
-      ],
-      "channel": ""
+      ]
     },
     {
       "date": "16 Sep 2026",
@@ -1673,8 +1602,7 @@
       "details": [
         "Launcher 1.1.31",
         "7 files to download, 17.0 MB"
-      ],
-      "channel": ""
+      ]
     },
     {
       "date": "16 Sep 2026",
@@ -1683,15 +1611,42 @@
       "details": [
         "Launcher 1.1.30",
         "6 files to download, 16.0 MB"
-      ],
-      "channel": ""
+      ]
+    },
+    {
+      "date": "16 Sep 2026",
+      "title": "Thornswood main menu backdrop, and voice now follows the character you actually launched",
+      "body": "",
+      "details": [
+        "Launcher 1.1.29",
+        "5 files to download, 2.0 MB"
+      ]
+    },
+    {
+      "date": "16 Sep 2026",
+      "title": "New characters start a new game instead of stopping at an empty save picker",
+      "body": "",
+      "details": [
+        "Launcher 1.1.27",
+        "The load order moved, so start a new character or expect the old save to complain"
+      ]
+    },
+    {
+      "date": "16 Sep 2026",
+      "title": "Out of date collection now says so above Play instead of just blocking it",
+      "body": "",
+      "details": [
+        "Launcher 1.1.26",
+        "5 files to download, 0.0 MB",
+        "The load order moved, so start a new character or expect the old save to complain"
+      ]
     }
   ],
   "updateRepo": "EvilPatrick06/Thornswood-Releases",
   "voicePort": "7789",
   "collectionUrl": "https://www.nexusmods.com/games/skyrimspecialedition/collections/ombo2a",
   "maxOnline": 25,
-  "mainVersion": "1.1.66",
+  "mainVersion": "",
   "voiceUrl": "https://thornswood.net/voice-dev",
   "discordAppId": "1549251507361292418",
   "siteUrl": "https://thornswood.net",
