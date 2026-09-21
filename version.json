@@ -1,7 +1,7 @@
 {
-  "launcherVersion": "1.1.67.2",
-  "launcherUrl": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/579807578",
-  "launcherSha256": "654807198f1f63c37b158ea5480e7879066825725f6f1297e6096582dbdc6c32",
+  "launcherVersion": "1.1.67.3",
+  "launcherUrl": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/579836646",
+  "launcherSha256": "a05b8f5b0a7d38ccc96a9134338db85f232aee1b49812b0aebec56f97edaa751",
   "serverAddress": "192.135.112.23",
   "serverPort": "7787",
   "message": "",
@@ -1271,9 +1271,25 @@
       "url": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/579807580",
       "sha256": "c953a8474a064f7feb3bbbade530fca0897c761c2430f1ca8bd6ca15a3b9b123",
       "notes": "The content plugin the last dev build was missing"
+    },
+    {
+      "id": "20260921-1447-dev",
+      "url": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/579836647",
+      "sha256": "bea517c404ded45175dc46d1c24ada0524582099e7e486b8c00fce16615228e5",
+      "notes": "The launcher said a check in had failed when it had just succeeded"
     }
   ],
   "news": [
+    {
+      "date": "9-21-2026 2:47 PM",
+      "title": "The launcher said a check in had failed when it had just succeeded",
+      "body": "",
+      "details": [
+        "Launcher 1.1.67.3",
+        "The load order moved, so start a new character or expect the old save to complain"
+      ],
+      "channel": "dev"
+    },
     {
       "date": "9-21-2026 2:27 PM",
       "title": "The content plugin the last dev build was missing",
@@ -1667,16 +1683,6 @@
       "details": [
         "Launcher 1.1.30",
         "6 files to download, 16.0 MB"
-      ],
-      "channel": ""
-    },
-    {
-      "date": "16 Sep 2026",
-      "title": "Thornswood main menu backdrop, and voice now follows the character you actually launched",
-      "body": "",
-      "details": [
-        "Launcher 1.1.29",
-        "5 files to download, 2.0 MB"
       ],
       "channel": ""
     }
