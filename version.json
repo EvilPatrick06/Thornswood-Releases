@@ -1,7 +1,7 @@
 {
-  "launcherVersion": "1.1.61.15",
-  "launcherUrl": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/577854356",
-  "launcherSha256": "1500dc29b1e9297c4aefd5a45f78770deb48b44e62b65d90c86b8f4fbfe50f83",
+  "launcherVersion": "1.1.61.16",
+  "launcherUrl": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/577900242",
+  "launcherSha256": "af96c39f43e575abb2ded275beb1066dd925a7342dbca73eaba21fef7622eb3d",
   "serverAddress": "192.135.112.23",
   "serverPort": "7787",
   "message": "",
@@ -1313,9 +1313,25 @@
       "url": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/577854358",
       "sha256": "057e4e0bf605d99d3f7529f8aeee26edb5b0a186f7f87d0049af8ba090aa11d0",
       "notes": "Click to play, fixed slots, Review confirms creation, Play shut until current, the game closes at the countdown"
+    },
+    {
+      "id": "20260920-1900-dev",
+      "url": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/577900241",
+      "sha256": "58c33b3c9752e20a088f893d10d68aa32da776ce46e799ac902074c4c4aacf3c",
+      "notes": "Two spell points to start, the start line names the display mode"
     }
   ],
   "news": [
+    {
+      "date": "9-20-2026 7:00 PM",
+      "title": "Two spell points to start, the start line names the display mode",
+      "body": "",
+      "details": [
+        "Launcher 1.1.61.16",
+        "1 file to download, 0.1 MB"
+      ],
+      "channel": "dev"
+    },
     {
       "date": "9-20-2026 6:29 PM",
       "title": "Click to play, fixed slots, Review confirms creation, Play shut until current, the game closes at the countdown",
@@ -1707,16 +1723,6 @@
       "body": "",
       "details": [
         "Launcher 1.1.37",
-        "6 files to download, 0.1 MB"
-      ],
-      "channel": ""
-    },
-    {
-      "date": "16 Sep 2026",
-      "title": "Dev build for the Owner and Dev roles only, voice port per build, session note for the plugins, other servers' files stay out of releases",
-      "body": "",
-      "details": [
-        "Launcher 1.1.36",
         "6 files to download, 0.1 MB"
       ],
       "channel": ""
