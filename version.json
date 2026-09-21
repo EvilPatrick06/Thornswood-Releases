@@ -1,7 +1,7 @@
 {
-  "launcherVersion": "1.1.71",
-  "launcherUrl": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/579910446",
-  "launcherSha256": "90269548fa1f51da52aa214c6c24d9a71700b584f2b77524bd90e8f0ef88207b",
+  "launcherVersion": "1.1.72",
+  "launcherUrl": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/579924457",
+  "launcherSha256": "cfcccb8a45870adf38f8d6fb7f1fb894fcb377445ef81554e57ab81fa3f0e5fe",
   "serverAddress": "192.135.112.23",
   "serverPort": "7777",
   "message": "",
@@ -1259,9 +1259,26 @@
       "url": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/579910445",
       "sha256": "7cb10fd9856478d4954182c691b02b7cb1cd3d6dc60afb2b5f5c30b206820d74",
       "notes": "The menu choice reaches the client"
+    },
+    {
+      "id": "20260921-1543",
+      "url": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/579924459",
+      "sha256": "f780839ded7a774ebc60d753d8ceb8535f7f7c66d56605c320fd927af9265c88",
+      "notes": "The menu log says why the world did not load"
     }
   ],
   "news": [
+    {
+      "date": "9-21-2026 3:43 PM",
+      "title": "The menu log says why the world did not load",
+      "body": "",
+      "details": [
+        "Launcher 1.1.72",
+        "1 file to download, 0.1 MB",
+        "The load order moved, so start a new character or expect the old save to complain"
+      ],
+      "channel": ""
+    },
     {
       "date": "9-21-2026 3:34 PM",
       "title": "The menu choice reaches the client",
@@ -1636,15 +1653,6 @@
       "details": [
         "Launcher 1.1.30",
         "6 files to download, 16.0 MB"
-      ]
-    },
-    {
-      "date": "16 Sep 2026",
-      "title": "Thornswood main menu backdrop, and voice now follows the character you actually launched",
-      "body": "",
-      "details": [
-        "Launcher 1.1.29",
-        "5 files to download, 2.0 MB"
       ]
     }
   ],
