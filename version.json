@@ -1,7 +1,7 @@
 {
-  "launcherVersion": "1.1.70",
-  "launcherUrl": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/579872087",
-  "launcherSha256": "f9ec84d378f929c68db7a58745dafb45fcc7d6f7ca718055a51621f3e0638e3b",
+  "launcherVersion": "1.1.71",
+  "launcherUrl": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/579910446",
+  "launcherSha256": "90269548fa1f51da52aa214c6c24d9a71700b584f2b77524bd90e8f0ef88207b",
   "serverAddress": "192.135.112.23",
   "serverPort": "7777",
   "message": "",
@@ -1253,9 +1253,25 @@
       "url": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/578124710",
       "sha256": "6651cf66a9dfea5fa431a4b9154260d1d4a6f54c3398fd52d2692925def17036",
       "notes": "Only spells you could learn are open, and the scrollbars match the panel"
+    },
+    {
+      "id": "20260921-1534",
+      "url": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/579910445",
+      "sha256": "7cb10fd9856478d4954182c691b02b7cb1cd3d6dc60afb2b5f5c30b206820d74",
+      "notes": "The menu choice reaches the client"
     }
   ],
   "news": [
+    {
+      "date": "9-21-2026 3:34 PM",
+      "title": "The menu choice reaches the client",
+      "body": "",
+      "details": [
+        "Launcher 1.1.71",
+        "1 file to download, 0.1 MB"
+      ],
+      "channel": ""
+    },
     {
       "date": "9-21-2026 3:09 PM",
       "title": "Three launcher messages that told testers the wrong thing",
@@ -1629,15 +1645,6 @@
       "details": [
         "Launcher 1.1.29",
         "5 files to download, 2.0 MB"
-      ]
-    },
-    {
-      "date": "16 Sep 2026",
-      "title": "New characters start a new game instead of stopping at an empty save picker",
-      "body": "",
-      "details": [
-        "Launcher 1.1.27",
-        "The load order moved, so start a new character or expect the old save to complain"
       ]
     }
   ],
