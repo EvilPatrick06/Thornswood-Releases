@@ -1,7 +1,7 @@
 {
-  "launcherVersion": "1.1.66",
-  "launcherUrl": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/578124708",
-  "launcherSha256": "f683b02c3bdb9dcbb5777fa2a64acf13034b3cb4642ec8dd34f137bf5b08ddca",
+  "launcherVersion": "1.1.69",
+  "launcherUrl": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/579837488",
+  "launcherSha256": "082ca682c3ab44c5c0ec12bf2417ad1208e2c17ae84f8feb3a60c1c29e120390",
   "serverAddress": "192.135.112.23",
   "serverPort": "7777",
   "message": "",
@@ -1257,6 +1257,15 @@
   ],
   "news": [
     {
+      "date": "9-21-2026 2:47 PM",
+      "title": "The launcher said a check in had failed when it had just succeeded",
+      "body": "",
+      "details": [
+        "Launcher 1.1.69"
+      ],
+      "channel": ""
+    },
+    {
       "date": "9-20-2026 9:22 PM",
       "title": "Only spells you could learn are open, and the scrollbars match the panel",
       "body": "",
@@ -1631,15 +1640,6 @@
         "5 files to download, 0.0 MB",
         "The load order moved, so start a new character or expect the old save to complain"
       ]
-    },
-    {
-      "date": "16 Sep 2026",
-      "title": "Browser backend detects NirnLab correctly, Start On Save is checked for",
-      "body": "",
-      "details": [
-        "Launcher 1.1.25",
-        "6 files to download, 6.2 MB"
-      ]
     }
   ],
   "updateRepo": "EvilPatrick06/Thornswood-Releases",
@@ -1647,5 +1647,8 @@
   "collectionUrl": "https://www.nexusmods.com/games/skyrimspecialedition/collections/ombo2a",
   "maxOnline": 25,
   "mainVersion": "",
-  "voiceUrl": "https://thornswood.net/voice"
+  "voiceUrl": "https://thornswood.net/voice",
+  "discordAppId": "1549251507361292418",
+  "siteUrl": "https://thornswood.net",
+  "presenceImage": "https://thornswood.net/presence.png"
 }
