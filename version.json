@@ -1,7 +1,7 @@
 {
-  "launcherVersion": "1.1.73",
-  "launcherUrl": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/580104411",
-  "launcherSha256": "214e83c58504ab922ffd6e705e2a2b28716f7c4fc06cdab1047405f6df05fb19",
+  "launcherVersion": "1.1.74",
+  "launcherUrl": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/580117058",
+  "launcherSha256": "97e42f605b83d5e4bc53e517ab6f7b54cd11d175e08a01c71bd42fb691010f9a",
   "serverAddress": "192.135.112.23",
   "serverPort": "7787",
   "message": "",
@@ -1271,9 +1271,25 @@
       "url": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/580104412",
       "sha256": "5915ae2b4575b8d7474789e11021b813da8f65427bed81d2c9c81da66c6ea4a2",
       "notes": "The client writes down what it says"
+    },
+    {
+      "id": "20260921-1758",
+      "url": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/580117060",
+      "sha256": "5485b6e9dff5df4485fd64f546af92e0cf2a8b93fb6b7fff3f5102fe7b97d361",
+      "notes": "The launcher says when Skyrim is shared with other servers"
     }
   ],
   "news": [
+    {
+      "date": "9-21-2026 5:58 PM",
+      "title": "The launcher says when Skyrim is shared with other servers",
+      "body": "",
+      "details": [
+        "Launcher 1.1.74",
+        "2 files to download, 16.4 MB"
+      ],
+      "channel": ""
+    },
     {
       "date": "9-21-2026 5:49 PM",
       "title": "The client writes down what it says",
@@ -1651,15 +1667,6 @@
       "details": [
         "Launcher 1.1.32",
         "20 files to download, 15.3 MB"
-      ]
-    },
-    {
-      "date": "16 Sep 2026",
-      "title": "Login fixed: the client now sends the login this server answers, so everyone lands in the creation hall again. Main menu backdrop recomposed and full width. Launcher flags MCM Helper light so load orders match the server. Per person settings no longer ride in packs.",
-      "body": "",
-      "details": [
-        "Launcher 1.1.31",
-        "7 files to download, 17.0 MB"
       ]
     }
   ],
