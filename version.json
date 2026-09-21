@@ -1,7 +1,7 @@
 {
-  "launcherVersion": "1.1.72",
-  "launcherUrl": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/579924457",
-  "launcherSha256": "cfcccb8a45870adf38f8d6fb7f1fb894fcb377445ef81554e57ab81fa3f0e5fe",
+  "launcherVersion": "1.1.73",
+  "launcherUrl": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/580104411",
+  "launcherSha256": "214e83c58504ab922ffd6e705e2a2b28716f7c4fc06cdab1047405f6df05fb19",
   "serverAddress": "192.135.112.23",
   "serverPort": "7777",
   "message": "",
@@ -1265,9 +1265,25 @@
       "url": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/579924459",
       "sha256": "f780839ded7a774ebc60d753d8ceb8535f7f7c66d56605c320fd927af9265c88",
       "notes": "The menu log says why the world did not load"
+    },
+    {
+      "id": "20260921-1749",
+      "url": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/580104412",
+      "sha256": "5915ae2b4575b8d7474789e11021b813da8f65427bed81d2c9c81da66c6ea4a2",
+      "notes": "The client writes down what it says"
     }
   ],
   "news": [
+    {
+      "date": "9-21-2026 5:49 PM",
+      "title": "The client writes down what it says",
+      "body": "",
+      "details": [
+        "Launcher 1.1.73",
+        "3 files to download, 16.5 MB"
+      ],
+      "channel": ""
+    },
     {
       "date": "9-21-2026 3:43 PM",
       "title": "The menu log says why the world did not load",
@@ -1644,15 +1660,6 @@
       "details": [
         "Launcher 1.1.31",
         "7 files to download, 17.0 MB"
-      ]
-    },
-    {
-      "date": "16 Sep 2026",
-      "title": "Thornswood main menu backdrop, wider menu plane, and MCM Helper on the light plugin so load orders line up with the server",
-      "body": "",
-      "details": [
-        "Launcher 1.1.30",
-        "6 files to download, 16.0 MB"
       ]
     }
   ],
