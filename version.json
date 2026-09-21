@@ -1,7 +1,7 @@
 {
-  "launcherVersion": "1.1.66.1",
-  "launcherUrl": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/579377541",
-  "launcherSha256": "019d174ed0cb5dce340b5c1e8929cb9fe4d3dcd622e2f0b5457035c5a2d932c1",
+  "launcherVersion": "1.1.67.1",
+  "launcherUrl": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/579805641",
+  "launcherSha256": "155a2bcdf1bdc4867e1cf7569e08d2a55e2ad70172b6ea6f791e4547c9f1673d",
   "serverAddress": "192.135.112.23",
   "serverPort": "7787",
   "message": "",
@@ -1259,9 +1259,26 @@
       "url": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/579377540",
       "sha256": "a549134610300bda896e7d56b000c6fc856e39926ba44f8e2d8cd06a939f841c",
       "notes": "The K panel, the skill tree on the character, and every class verb"
+    },
+    {
+      "id": "20260921-1426-dev",
+      "url": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/579805636",
+      "sha256": "c153457a96b53fa87b5361ed4e9637872918c76cfbe4d2e25c90e7c03dd92890",
+      "notes": "Locks, keys, claiming a building, nothing spawns, forty gold to start"
     }
   ],
   "news": [
+    {
+      "date": "9-21-2026 2:26 PM",
+      "title": "Locks, keys, claiming a building, nothing spawns, forty gold to start",
+      "body": "",
+      "details": [
+        "Launcher 1.1.67.1",
+        "3 files to download, 1.5 MB",
+        "The load order moved, so start a new character or expect the old save to complain"
+      ],
+      "channel": "dev"
+    },
     {
       "date": "9-21-2026 10:06 AM",
       "title": "The K panel, the skill tree on the character, and every class verb",
@@ -1652,17 +1669,6 @@
       "body": "",
       "details": [
         "Launcher 1.1.27",
-        "The load order moved, so start a new character or expect the old save to complain"
-      ],
-      "channel": ""
-    },
-    {
-      "date": "16 Sep 2026",
-      "title": "Out of date collection now says so above Play instead of just blocking it",
-      "body": "",
-      "details": [
-        "Launcher 1.1.26",
-        "5 files to download, 0.0 MB",
         "The load order moved, so start a new character or expect the old save to complain"
       ],
       "channel": ""
