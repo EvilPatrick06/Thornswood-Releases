@@ -1,7 +1,7 @@
 {
-  "launcherVersion": "1.1.61",
-  "launcherUrl": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/577267668",
-  "launcherSha256": "7f8a8506ab1b018f4f6aadf3e88d2c93a5966cac9a2184704d95ad4163b2d6a7",
+  "launcherVersion": "1.1.62",
+  "launcherUrl": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/577904857",
+  "launcherSha256": "d79fc886c3222be0e4137cba099855b78363f983f350985d2f95a69638bf3f14",
   "serverAddress": "192.135.112.23",
   "serverPort": "7777",
   "message": "",
@@ -1235,9 +1235,25 @@
       "url": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/577267666",
       "sha256": "2b0f7acdfb1d8ccb110c67e0f7ea4119ddff037b6cf923d8e1ccb98feacd754d",
       "notes": "profession, class and skill tree on K"
+    },
+    {
+      "id": "20260920-1902",
+      "url": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/577904856",
+      "sha256": "527f7ad5a9a546177ec4e91f129cf05ab0dc569b1b42bae50a2cb22616e78607",
+      "notes": "Character choice at the menu, creation in the game, the K panel, the load order gate, the door and admins from the site"
     }
   ],
   "news": [
+    {
+      "date": "9-20-2026 7:02 PM",
+      "title": "Character choice at the menu, creation in the game, the K panel, the load order gate, the door and admins from the site",
+      "body": "",
+      "details": [
+        "Launcher 1.1.62",
+        "22 files to download, 33.4 MB"
+      ],
+      "channel": ""
+    },
     {
       "date": "9-20-2026 11:48 AM",
       "title": "profession, class and skill tree on K",
@@ -1609,15 +1625,6 @@
       "details": [
         "Launcher 1.1.21",
         "8 files to download, 0.4 MB"
-      ]
-    },
-    {
-      "date": "16 Sep 2026",
-      "title": "Another server's files are moved aside now instead of deleted",
-      "body": "",
-      "details": [
-        "Launcher 1.1.20",
-        "1 file to download, 0.0 MB"
       ]
     }
   ],
