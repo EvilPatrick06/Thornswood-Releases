@@ -1,7 +1,7 @@
 {
-  "launcherVersion": "1.1.61.14",
-  "launcherUrl": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/577790372",
-  "launcherSha256": "a0ddbbbe0dd6eeee3134f1507dba16e75855cf1a01925a933662ff42003875b4",
+  "launcherVersion": "1.1.61.15",
+  "launcherUrl": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/577854356",
+  "launcherSha256": "1500dc29b1e9297c4aefd5a45f78770deb48b44e62b65d90c86b8f4fbfe50f83",
   "serverAddress": "192.135.112.23",
   "serverPort": "7787",
   "message": "",
@@ -1307,9 +1307,25 @@
       "url": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/577790370",
       "sha256": "09a9123130975e87ec785cae4063ffe673627f62554757bb2751ecfe5a98c863",
       "notes": "Profession first, the race menu opens the panel, a spell book for mages, slots by order, the dresser retired"
+    },
+    {
+      "id": "20260920-1829-dev",
+      "url": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/577854358",
+      "sha256": "057e4e0bf605d99d3f7529f8aeee26edb5b0a186f7f87d0049af8ba090aa11d0",
+      "notes": "Click to play, fixed slots, Review confirms creation, Play shut until current, the game closes at the countdown"
     }
   ],
   "news": [
+    {
+      "date": "9-20-2026 6:29 PM",
+      "title": "Click to play, fixed slots, Review confirms creation, Play shut until current, the game closes at the countdown",
+      "body": "",
+      "details": [
+        "Launcher 1.1.61.15",
+        "2 files to download, 0.1 MB"
+      ],
+      "channel": "dev"
+    },
     {
       "date": "9-20-2026 5:51 PM",
       "title": "Profession first, the race menu opens the panel, a spell book for mages, slots by order, the dresser retired",
@@ -1702,16 +1718,6 @@
       "details": [
         "Launcher 1.1.36",
         "6 files to download, 0.1 MB"
-      ],
-      "channel": ""
-    },
-    {
-      "date": "16 Sep 2026",
-      "title": "Discord shows you playing Thornswood, with Download and Discord buttons. A dev build you can install from Settings, on its own server. Each build keeps its own game files.",
-      "body": "",
-      "details": [
-        "Launcher 1.1.35",
-        "7 files to download, 0.1 MB"
       ],
       "channel": ""
     }
