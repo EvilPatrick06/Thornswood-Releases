@@ -1,7 +1,7 @@
 {
-  "launcherVersion": "1.1.61.16",
-  "launcherUrl": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/577900242",
-  "launcherSha256": "af96c39f43e575abb2ded275beb1066dd925a7342dbca73eaba21fef7622eb3d",
+  "launcherVersion": "1.1.62",
+  "launcherUrl": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/577904857",
+  "launcherSha256": "d79fc886c3222be0e4137cba099855b78363f983f350985d2f95a69638bf3f14",
   "serverAddress": "192.135.112.23",
   "serverPort": "7787",
   "message": "",
@@ -1237,250 +1237,22 @@
       "notes": "profession, class and skill tree on K"
     },
     {
-      "id": "20260920-1302-dev",
-      "url": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/577380430",
-      "sha256": "62e1e15553facafd098d9184552a21ac74e3e38ec90048703995f36682e76d19",
-      "notes": "our own SkyMP client, built from the fork"
-    },
-    {
-      "id": "20260920-1402-dev",
-      "url": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/577466793",
-      "sha256": "d826a0cc3129b33c1e2cf8ad2a5c5d32843dca30000da1741898c006b3989b48",
-      "notes": "creation in the game, and your character is picked at the main menu"
-    },
-    {
-      "id": "20260920-1426-dev",
-      "url": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/577503151",
-      "sha256": "bd9724d84f88b9482ec9e8ec32982dcf1c3fd5f57ac80b8e15901b9fc93eeca9",
-      "notes": "the menu holds, drawn for a big screen, and the test track"
-    },
-    {
-      "id": "20260920-1455-dev",
-      "url": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/577545540",
-      "sha256": "a9bc793ea76bfe14357290702db0f58f85f8999ca33e869baf598a1c8c73997c",
-      "notes": "slots, names and the delete icon at the main menu"
-    },
-    {
-      "id": "20260920-1509-dev",
-      "url": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/577566261",
-      "sha256": "17ff5c51a17e2960679a60c72bd93269441d43fb04c06bfa03ccdcca151209a3",
-      "notes": "the menu stays up, comes up fast, over the painting"
-    },
-    {
-      "id": "20260920-1535-dev",
-      "url": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/577605088",
-      "sha256": "3e8e0226453845c9fe94509c256ad9a5f0735b17cebeb8ebb0c27847d586b99c",
-      "notes": "The choice draws with the page, the backdrop draws once with mips, the music starts with the page"
-    },
-    {
-      "id": "20260920-1630-dev",
-      "url": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/577681837",
-      "sha256": "4da85887106a86733c988584bad494ba26e25502e33cb34f512ad501c7e371dc",
-      "notes": "Dev talks to the dev voice service, the launcher refuses a wrong load order and fixes it, the K panel redraws only on change and lets class and profession wait"
-    },
-    {
-      "id": "20260920-1639-dev",
-      "url": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/577693101",
-      "sha256": "849999134c3dbf7e43e87bc098414341bd94b01a30fdb9839feaeaa224cee010",
-      "notes": "A light plugin Skyrim.ccc loads is not an issue"
-    },
-    {
-      "id": "20260920-1651-dev",
-      "url": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/577708112",
-      "sha256": "c58832a6e2690bb7b943ebff2ae2fc60fac7e04be01377b896edeeaa025d1875",
-      "notes": "Buttons the size of their words, the panel leaves on the home answer, a clock on the front log"
-    },
-    {
-      "id": "20260920-1713-dev",
-      "url": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/577736899",
-      "sha256": "63f49ba29c7011588124b7158ed888af0698a8e59a923a34253b1c422bdd25de",
-      "notes": "The menu numbers slots by order, the door learns a new character at once, admins from the site"
-    },
-    {
-      "id": "20260920-1740-dev",
-      "url": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/577773187",
-      "sha256": "515c38061407499633b7d26cc771f086d78be2cd89c273c6706948cc140f60c1",
-      "notes": "Profession first, the race menu closing opens the panel, a spell book for mages, slots by order"
-    },
-    {
-      "id": "20260920-1751-dev",
-      "url": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/577790370",
-      "sha256": "09a9123130975e87ec785cae4063ffe673627f62554757bb2751ecfe5a98c863",
-      "notes": "Profession first, the race menu opens the panel, a spell book for mages, slots by order, the dresser retired"
-    },
-    {
-      "id": "20260920-1829-dev",
-      "url": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/577854358",
-      "sha256": "057e4e0bf605d99d3f7529f8aeee26edb5b0a186f7f87d0049af8ba090aa11d0",
-      "notes": "Click to play, fixed slots, Review confirms creation, Play shut until current, the game closes at the countdown"
-    },
-    {
-      "id": "20260920-1900-dev",
-      "url": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/577900241",
-      "sha256": "58c33b3c9752e20a088f893d10d68aa32da776ce46e799ac902074c4c4aacf3c",
-      "notes": "Two spell points to start, the start line names the display mode"
+      "id": "20260920-1902",
+      "url": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/577904856",
+      "sha256": "527f7ad5a9a546177ec4e91f129cf05ab0dc569b1b42bae50a2cb22616e78607",
+      "notes": "Character choice at the menu, creation in the game, the K panel, the load order gate, the door and admins from the site"
     }
   ],
   "news": [
     {
-      "date": "9-20-2026 7:00 PM",
-      "title": "Two spell points to start, the start line names the display mode",
+      "date": "9-20-2026 7:02 PM",
+      "title": "Character choice at the menu, creation in the game, the K panel, the load order gate, the door and admins from the site",
       "body": "",
       "details": [
-        "Launcher 1.1.61.16",
-        "1 file to download, 0.1 MB"
+        "Launcher 1.1.62",
+        "22 files to download, 33.4 MB"
       ],
-      "channel": "dev"
-    },
-    {
-      "date": "9-20-2026 6:29 PM",
-      "title": "Click to play, fixed slots, Review confirms creation, Play shut until current, the game closes at the countdown",
-      "body": "",
-      "details": [
-        "Launcher 1.1.61.15",
-        "2 files to download, 0.1 MB"
-      ],
-      "channel": "dev"
-    },
-    {
-      "date": "9-20-2026 5:51 PM",
-      "title": "Profession first, the race menu opens the panel, a spell book for mages, slots by order, the dresser retired",
-      "body": "",
-      "details": [
-        "Launcher 1.1.61.14",
-        "1 file to download, 0.0 MB"
-      ],
-      "channel": "dev"
-    },
-    {
-      "date": "9-20-2026 5:40 PM",
-      "title": "Profession first, the race menu closing opens the panel, a spell book for mages, slots by order",
-      "body": "",
-      "details": [
-        "Launcher 1.1.61.13",
-        "2 files to download, 0.2 MB"
-      ],
-      "channel": "dev"
-    },
-    {
-      "date": "9-20-2026 5:13 PM",
-      "title": "The menu numbers slots by order, the door learns a new character at once, admins from the site",
-      "body": "",
-      "details": [
-        "Launcher 1.1.61.12",
-        "1 file to download, 0.0 MB"
-      ],
-      "channel": "dev"
-    },
-    {
-      "date": "9-20-2026 4:51 PM",
-      "title": "Buttons the size of their words, the panel leaves on the home answer, a clock on the front log",
-      "body": "",
-      "details": [
-        "Launcher 1.1.61.11",
-        "3 files to download, 0.2 MB"
-      ],
-      "channel": "dev"
-    },
-    {
-      "date": "9-20-2026 4:39 PM",
-      "title": "A light plugin Skyrim.ccc loads is not an issue",
-      "body": "",
-      "details": [
-        "Launcher 1.1.61.10",
-        "The load order moved, so start a new character or expect the old save to complain"
-      ],
-      "channel": "dev"
-    },
-    {
-      "date": "9-20-2026 4:30 PM",
-      "title": "Dev talks to the dev voice service, the launcher refuses a wrong load order and fixes it, the K panel redraws only on change and lets class and profession wait",
-      "body": "",
-      "details": [
-        "Launcher 1.1.61.9",
-        "1 file to download, 0.0 MB"
-      ],
-      "channel": "dev"
-    },
-    {
-      "date": "9-20-2026 3:35 PM",
-      "title": "The choice draws with the page, the backdrop draws once with mips, the music starts with the page",
-      "body": "",
-      "details": [
-        "Launcher 1.1.61.8",
-        "13 files to download, 12.7 MB"
-      ],
-      "channel": "dev"
-    },
-    {
-      "date": "9-20-2026 3:09 PM",
-      "title": "the menu stays up, comes up fast, over the painting",
-      "body": "",
-      "details": [
-        "Launcher 1.1.61.7",
-        "5 files to download, 4.9 MB"
-      ],
-      "channel": "dev"
-    },
-    {
-      "date": "9-20-2026 2:55 PM",
-      "title": "slots, names and the delete icon at the main menu",
-      "body": "",
-      "details": [
-        "Launcher 1.1.61.6",
-        "8 files to download, 0.7 MB"
-      ],
-      "channel": "dev"
-    },
-    {
-      "date": "9-20-2026 2:36 PM",
-      "title": "music on and at half by default",
-      "body": "",
-      "details": [
-        "Launcher 1.1.61.5"
-      ],
-      "channel": "dev"
-    },
-    {
-      "date": "9-20-2026 2:33 PM",
-      "title": "the launcher plays the track from a copy, and a music setting",
-      "body": "",
-      "details": [
-        "Launcher 1.1.61.4"
-      ],
-      "channel": "dev"
-    },
-    {
-      "date": "9-20-2026 2:26 PM",
-      "title": "the menu holds, drawn for a big screen, and the test track",
-      "body": "",
-      "details": [
-        "Launcher 1.1.61.3",
-        "5 files to download, 2.0 MB",
-        "The load order moved, so start a new character or expect the old save to complain"
-      ],
-      "channel": "dev"
-    },
-    {
-      "date": "9-20-2026 2:02 PM",
-      "title": "creation in the game, and your character is picked at the main menu",
-      "body": "",
-      "details": [
-        "Launcher 1.1.61.2",
-        "160 files to download, 41.6 MB"
-      ],
-      "channel": "dev"
-    },
-    {
-      "date": "9-20-2026 1:02 PM",
-      "title": "our own SkyMP client, built from the fork",
-      "body": "",
-      "details": [
-        "Launcher 1.1.61.1",
-        "14 files to download, 19.4 MB",
-        "The load order moved, so start a new character or expect the old save to complain"
-      ],
-      "channel": "dev"
+      "channel": ""
     },
     {
       "date": "9-20-2026 11:48 AM",
@@ -1647,8 +1419,7 @@
       "details": [
         "Launcher 1.1.45",
         "1 file to download, 1.0 MB"
-      ],
-      "channel": ""
+      ]
     },
     {
       "date": "17 Sep 2026",
@@ -1656,8 +1427,7 @@
       "body": "",
       "details": [
         "Launcher 1.1.44"
-      ],
-      "channel": ""
+      ]
     },
     {
       "date": "17 Sep 2026",
@@ -1666,8 +1436,7 @@
       "details": [
         "Launcher 1.1.43",
         "1 file to download, 1.0 MB"
-      ],
-      "channel": ""
+      ]
     },
     {
       "date": "17 Sep 2026",
@@ -1675,8 +1444,7 @@
       "body": "",
       "details": [
         "Launcher 1.1.42"
-      ],
-      "channel": ""
+      ]
     },
     {
       "date": "17 Sep 2026",
@@ -1685,8 +1453,7 @@
       "details": [
         "Launcher 1.1.41",
         "1 file to download, 1.0 MB"
-      ],
-      "channel": ""
+      ]
     },
     {
       "date": "17 Sep 2026",
@@ -1695,8 +1462,7 @@
       "details": [
         "Launcher 1.1.40",
         "1 file to download, 0.0 MB"
-      ],
-      "channel": ""
+      ]
     },
     {
       "date": "16 Sep 2026",
@@ -1704,8 +1470,7 @@
       "body": "A second launcher no longer counts as the running game. The 16 Sep installer's sign in file is removed from every install and the installer is rebuilt without it.",
       "details": [
         "Launcher 1.1.39"
-      ],
-      "channel": ""
+      ]
     },
     {
       "date": "16 Sep 2026",
@@ -1714,8 +1479,7 @@
       "details": [
         "Launcher 1.1.38",
         "1 file to download, 0.0 MB"
-      ],
-      "channel": ""
+      ]
     },
     {
       "date": "16 Sep 2026",
@@ -1724,17 +1488,150 @@
       "details": [
         "Launcher 1.1.37",
         "6 files to download, 0.1 MB"
-      ],
-      "channel": ""
+      ]
+    },
+    {
+      "date": "16 Sep 2026",
+      "title": "Dev build for the Owner and Dev roles only, voice port per build, session note for the plugins, other servers' files stay out of releases",
+      "body": "",
+      "details": [
+        "Launcher 1.1.36",
+        "6 files to download, 0.1 MB"
+      ]
+    },
+    {
+      "date": "16 Sep 2026",
+      "title": "Discord shows you playing Thornswood, with Download and Discord buttons. A dev build you can install from Settings, on its own server. Each build keeps its own game files.",
+      "body": "",
+      "details": [
+        "Launcher 1.1.35",
+        "7 files to download, 0.1 MB"
+      ]
+    },
+    {
+      "date": "16 Sep 2026",
+      "title": "Voice indicator fixed for real: the page inside the game was still the old one and never took the launcher's state. Switching servers without touching Vortex: the launcher now keeps its own copies of the twelve files in Data\\Platform it owns, puts back any that another server's launcher changed before every Play, and parks any other server's plugin while Thornswood runs, then puts it back the moment the game closes. Start menu entry for the launcher on every machine. Site downloads line corrected to https.",
+      "body": "",
+      "details": [
+        "Launcher 1.1.34",
+        "18 files to download, 11.5 MB"
+      ]
+    },
+    {
+      "date": "16 Sep 2026",
+      "title": "Voice works: the game finds the launcher's microphone again, so the indicator leaves LISTENING ONLY and push to talk reaches the launcher. Emote wheel is back on G, the key file had been cut down to the field of view line. SkyHUD config restored, the incompatible config popup is gone. Door fix: the rescue that pulled you back through the inn door is off. Thornswood's plugins stay idle when the client points at another server, so they no longer draw over Keizaal Online. New main menu art. Launcher checks in with the character's own profile id and logs its own faults. Vortex bookkeeping and face exports no longer ship in updates.",
+      "body": "",
+      "details": [
+        "Launcher 1.1.33",
+        "15 files to download, 8.2 MB"
+      ]
+    },
+    {
+      "date": "16 Sep 2026",
+      "title": "Updates reach your game again, and the main menu is only the Thornswood backdrop. Since the move to the Steam copy the launcher had been marking every update as installed without writing a single game file, so nobody got the login fix or the backdrop. Launcher 1.1.32 puts the missed updates back in the queue and installs them properly the next time it opens. The first time it has a lot to download, so give it a while, or run the installer from the site instead. The main menu is now the Thornswood backdrop on any screen, with no buttons, no logo, no save panel and no animation replacer banner, and the game walks you into the creation hall by itself.",
+      "body": "",
+      "details": [
+        "Launcher 1.1.32",
+        "20 files to download, 15.3 MB"
+      ]
+    },
+    {
+      "date": "16 Sep 2026",
+      "title": "Login fixed: the client now sends the login this server answers, so everyone lands in the creation hall again. Main menu backdrop recomposed and full width. Launcher flags MCM Helper light so load orders match the server. Per person settings no longer ride in packs.",
+      "body": "",
+      "details": [
+        "Launcher 1.1.31",
+        "7 files to download, 17.0 MB"
+      ]
+    },
+    {
+      "date": "16 Sep 2026",
+      "title": "Thornswood main menu backdrop, wider menu plane, and MCM Helper on the light plugin so load orders line up with the server",
+      "body": "",
+      "details": [
+        "Launcher 1.1.30",
+        "6 files to download, 16.0 MB"
+      ]
+    },
+    {
+      "date": "16 Sep 2026",
+      "title": "Thornswood main menu backdrop, and voice now follows the character you actually launched",
+      "body": "",
+      "details": [
+        "Launcher 1.1.29",
+        "5 files to download, 2.0 MB"
+      ]
+    },
+    {
+      "date": "16 Sep 2026",
+      "title": "New characters start a new game instead of stopping at an empty save picker",
+      "body": "",
+      "details": [
+        "Launcher 1.1.27",
+        "The load order moved, so start a new character or expect the old save to complain"
+      ]
+    },
+    {
+      "date": "16 Sep 2026",
+      "title": "Out of date collection now says so above Play instead of just blocking it",
+      "body": "",
+      "details": [
+        "Launcher 1.1.26",
+        "5 files to download, 0.0 MB",
+        "The load order moved, so start a new character or expect the old save to complain"
+      ]
+    },
+    {
+      "date": "16 Sep 2026",
+      "title": "Browser backend detects NirnLab correctly, Start On Save is checked for",
+      "body": "",
+      "details": [
+        "Launcher 1.1.25",
+        "6 files to download, 6.2 MB"
+      ]
+    },
+    {
+      "date": "16 Sep 2026",
+      "title": "Character slot goes inside gameData, and the launcher now checks for Start On Save",
+      "body": "",
+      "details": [
+        "Launcher 1.1.24",
+        "5 files to download, 0.0 MB"
+      ]
+    },
+    {
+      "date": "16 Sep 2026",
+      "title": "Character slot goes inside gameData, which is what turns the login screen off",
+      "body": "",
+      "details": [
+        "Launcher 1.1.23",
+        "6 files to download, 0.0 MB",
+        "The load order moved, so start a new character or expect the old save to complain"
+      ]
+    },
+    {
+      "date": "16 Sep 2026",
+      "title": "Crafting assets restored, browser backend picked from what is installed",
+      "body": "",
+      "details": [
+        "Launcher 1.1.22",
+        "13 files to download, 0.7 MB"
+      ]
+    },
+    {
+      "date": "16 Sep 2026",
+      "title": "Main menu background and logo mesh were another server's, removed",
+      "body": "",
+      "details": [
+        "Launcher 1.1.21",
+        "8 files to download, 0.4 MB"
+      ]
     }
   ],
   "updateRepo": "EvilPatrick06/Thornswood-Releases",
   "voicePort": "7789",
   "collectionUrl": "https://www.nexusmods.com/games/skyrimspecialedition/collections/ombo2a",
   "maxOnline": 25,
-  "mainVersion": "1.1.61",
-  "voiceUrl": "https://thornswood.net/voice-dev",
-  "discordAppId": "1549251507361292418",
-  "siteUrl": "https://thornswood.net",
-  "presenceImage": "https://thornswood.net/presence.png"
+  "mainVersion": "",
+  "voiceUrl": "https://thornswood.net/voice-dev"
 }
