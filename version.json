@@ -1,7 +1,7 @@
 {
-  "launcherVersion": "1.1.64",
-  "launcherUrl": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/577963284",
-  "launcherSha256": "47391f702fcf0bdce17d23492905f0b0a2dd1890149cbfbc4dc61cbfed33782a",
+  "launcherVersion": "1.1.65",
+  "launcherUrl": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/578112085",
+  "launcherSha256": "185c87dc3589f26751a481febad682539829b3c701cf856b6245eda211fe055d",
   "serverAddress": "192.135.112.23",
   "serverPort": "7787",
   "message": "",
@@ -1241,9 +1241,26 @@
       "url": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/577904856",
       "sha256": "527f7ad5a9a546177ec4e91f129cf05ab0dc569b1b42bae50a2cb22616e78607",
       "notes": "Character choice at the menu, creation in the game, the K panel, the load order gate, the door and admins from the site"
+    },
+    {
+      "id": "20260920-2113",
+      "url": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/578112084",
+      "sha256": "3c3091de99836b43e81adc2165fa7d3b5e2519e0acc88199c0ff7ebd4c72b593",
+      "notes": "The delete icon on the character menu forgets again"
     }
   ],
   "news": [
+    {
+      "date": "9-20-2026 9:14 PM",
+      "title": "The delete icon on the character menu forgets again",
+      "body": "",
+      "details": [
+        "Launcher 1.1.65",
+        "7 files to download, 18.3 MB",
+        "The load order moved, so start a new character or expect the old save to complain"
+      ],
+      "channel": ""
+    },
     {
       "date": "9-20-2026 7:39 PM",
       "title": "The Q favourites menu: a setting this build insists on is never written through another launcher's file",
@@ -1615,16 +1632,6 @@
       "details": [
         "Launcher 1.1.24",
         "5 files to download, 0.0 MB"
-      ]
-    },
-    {
-      "date": "16 Sep 2026",
-      "title": "Character slot goes inside gameData, which is what turns the login screen off",
-      "body": "",
-      "details": [
-        "Launcher 1.1.23",
-        "6 files to download, 0.0 MB",
-        "The load order moved, so start a new character or expect the old save to complain"
       ]
     }
   ],
