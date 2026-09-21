@@ -1,7 +1,7 @@
 {
-  "launcherVersion": "1.1.69",
-  "launcherUrl": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/579837488",
-  "launcherSha256": "082ca682c3ab44c5c0ec12bf2417ad1208e2c17ae84f8feb3a60c1c29e120390",
+  "launcherVersion": "1.1.70",
+  "launcherUrl": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/579872087",
+  "launcherSha256": "f9ec84d378f929c68db7a58745dafb45fcc7d6f7ca718055a51621f3e0638e3b",
   "serverAddress": "192.135.112.23",
   "serverPort": "7777",
   "message": "",
@@ -1257,6 +1257,15 @@
   ],
   "news": [
     {
+      "date": "9-21-2026 3:09 PM",
+      "title": "Three launcher messages that told testers the wrong thing",
+      "body": "",
+      "details": [
+        "Launcher 1.1.70"
+      ],
+      "channel": ""
+    },
+    {
       "date": "9-21-2026 2:47 PM",
       "title": "The launcher said a check in had failed when it had just succeeded",
       "body": "",
@@ -1628,16 +1637,6 @@
       "body": "",
       "details": [
         "Launcher 1.1.27",
-        "The load order moved, so start a new character or expect the old save to complain"
-      ]
-    },
-    {
-      "date": "16 Sep 2026",
-      "title": "Out of date collection now says so above Play instead of just blocking it",
-      "body": "",
-      "details": [
-        "Launcher 1.1.26",
-        "5 files to download, 0.0 MB",
         "The load order moved, so start a new character or expect the old save to complain"
       ]
     }
