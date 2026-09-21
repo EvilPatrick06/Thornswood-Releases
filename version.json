@@ -1,7 +1,7 @@
 {
-  "launcherVersion": "1.1.67.1",
-  "launcherUrl": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/579805641",
-  "launcherSha256": "155a2bcdf1bdc4867e1cf7569e08d2a55e2ad70172b6ea6f791e4547c9f1673d",
+  "launcherVersion": "1.1.67.2",
+  "launcherUrl": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/579807578",
+  "launcherSha256": "654807198f1f63c37b158ea5480e7879066825725f6f1297e6096582dbdc6c32",
   "serverAddress": "192.135.112.23",
   "serverPort": "7787",
   "message": "",
@@ -1265,9 +1265,26 @@
       "url": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/579805636",
       "sha256": "c153457a96b53fa87b5361ed4e9637872918c76cfbe4d2e25c90e7c03dd92890",
       "notes": "Locks, keys, claiming a building, nothing spawns, forty gold to start"
+    },
+    {
+      "id": "20260921-1427-dev",
+      "url": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/579807580",
+      "sha256": "c953a8474a064f7feb3bbbade530fca0897c761c2430f1ca8bd6ca15a3b9b123",
+      "notes": "The content plugin the last dev build was missing"
     }
   ],
   "news": [
+    {
+      "date": "9-21-2026 2:27 PM",
+      "title": "The content plugin the last dev build was missing",
+      "body": "",
+      "details": [
+        "Launcher 1.1.67.2",
+        "Nothing to download, this one is bookkeeping",
+        "The load order moved, so start a new character or expect the old save to complain"
+      ],
+      "channel": "dev"
+    },
     {
       "date": "9-21-2026 2:26 PM",
       "title": "Locks, keys, claiming a building, nothing spawns, forty gold to start",
@@ -1660,16 +1677,6 @@
       "details": [
         "Launcher 1.1.29",
         "5 files to download, 2.0 MB"
-      ],
-      "channel": ""
-    },
-    {
-      "date": "16 Sep 2026",
-      "title": "New characters start a new game instead of stopping at an empty save picker",
-      "body": "",
-      "details": [
-        "Launcher 1.1.27",
-        "The load order moved, so start a new character or expect the old save to complain"
       ],
       "channel": ""
     }
