@@ -1,7 +1,7 @@
 {
-  "launcherVersion": "1.1.76.1",
-  "launcherUrl": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/580528419",
-  "launcherSha256": "43a9c183cba947d9c37c8c7fd535cfba9cdff0d600a36d0b8381a04a88343696",
+  "launcherVersion": "1.1.77",
+  "launcherUrl": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/580540435",
+  "launcherSha256": "210a7b3059ae8864e45a3fb47f5bb734b414e009a8b3ecbec79677615d8c1602",
   "serverAddress": "192.135.112.23",
   "serverPort": "7787",
   "message": "",
@@ -1285,22 +1285,22 @@
       "notes": "The shift goes on, a farmhand's press is not yours, and the town gates open"
     },
     {
-      "id": "20260921-2220-dev",
-      "url": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/580528421",
-      "sha256": "4a9514a7b1ca9482c2873d474b445075d9ea6e3839b8599191e07dd5e0c55f24",
-      "notes": "NPCs stay where they are put"
+      "id": "20260921-2228",
+      "url": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/580540434",
+      "sha256": "e2ced52ca374af854bee312c201e6255345fd83173e0ffd0d83a4454eaa9610f",
+      "notes": "Back to the 1.1.75 plugin"
     }
   ],
   "news": [
     {
-      "date": "9-21-2026 10:20 PM",
-      "title": "NPCs stay where they are put",
+      "date": "9-21-2026 10:28 PM",
+      "title": "Back to the 1.1.75 plugin",
       "body": "",
       "details": [
-        "Launcher 1.1.76.1",
-        "4 files to download, 2.9 MB"
+        "Launcher 1.1.77",
+        "2 files to download, 1.5 MB"
       ],
-      "channel": "dev"
+      "channel": ""
     },
     {
       "date": "9-21-2026 10:11 PM",
@@ -1594,8 +1594,7 @@
       "details": [
         "Launcher 1.1.45",
         "1 file to download, 1.0 MB"
-      ],
-      "channel": ""
+      ]
     },
     {
       "date": "17 Sep 2026",
@@ -1603,8 +1602,7 @@
       "body": "",
       "details": [
         "Launcher 1.1.44"
-      ],
-      "channel": ""
+      ]
     },
     {
       "date": "17 Sep 2026",
@@ -1613,8 +1611,7 @@
       "details": [
         "Launcher 1.1.43",
         "1 file to download, 1.0 MB"
-      ],
-      "channel": ""
+      ]
     },
     {
       "date": "17 Sep 2026",
@@ -1622,8 +1619,7 @@
       "body": "",
       "details": [
         "Launcher 1.1.42"
-      ],
-      "channel": ""
+      ]
     },
     {
       "date": "17 Sep 2026",
@@ -1632,8 +1628,7 @@
       "details": [
         "Launcher 1.1.41",
         "1 file to download, 1.0 MB"
-      ],
-      "channel": ""
+      ]
     },
     {
       "date": "17 Sep 2026",
@@ -1642,8 +1637,7 @@
       "details": [
         "Launcher 1.1.40",
         "1 file to download, 0.0 MB"
-      ],
-      "channel": ""
+      ]
     },
     {
       "date": "16 Sep 2026",
@@ -1651,8 +1645,7 @@
       "body": "A second launcher no longer counts as the running game. The 16 Sep installer's sign in file is removed from every install and the installer is rebuilt without it.",
       "details": [
         "Launcher 1.1.39"
-      ],
-      "channel": ""
+      ]
     },
     {
       "date": "16 Sep 2026",
@@ -1661,8 +1654,7 @@
       "details": [
         "Launcher 1.1.38",
         "1 file to download, 0.0 MB"
-      ],
-      "channel": ""
+      ]
     },
     {
       "date": "16 Sep 2026",
@@ -1671,8 +1663,7 @@
       "details": [
         "Launcher 1.1.37",
         "6 files to download, 0.1 MB"
-      ],
-      "channel": ""
+      ]
     },
     {
       "date": "16 Sep 2026",
@@ -1681,8 +1672,7 @@
       "details": [
         "Launcher 1.1.36",
         "6 files to download, 0.1 MB"
-      ],
-      "channel": ""
+      ]
     },
     {
       "date": "16 Sep 2026",
@@ -1691,15 +1681,14 @@
       "details": [
         "Launcher 1.1.35",
         "7 files to download, 0.1 MB"
-      ],
-      "channel": ""
+      ]
     }
   ],
   "updateRepo": "EvilPatrick06/Thornswood-Releases",
   "voicePort": "7789",
   "collectionUrl": "https://www.nexusmods.com/games/skyrimspecialedition/collections/ombo2a",
   "maxOnline": 25,
-  "mainVersion": "1.1.76",
+  "mainVersion": "",
   "voiceUrl": "https://thornswood.net/voice-dev",
   "discordAppId": "1549251507361292418",
   "siteUrl": "https://thornswood.net",
