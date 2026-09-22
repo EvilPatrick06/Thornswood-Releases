@@ -1,7 +1,7 @@
 {
-  "launcherVersion": "1.1.79",
-  "launcherUrl": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/581981590",
-  "launcherSha256": "5169f5abc6b2544b788b2012ef2f083c81da659af9bceb1371d22e38e9743cb6",
+  "launcherVersion": "1.1.80",
+  "launcherUrl": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/582119188",
+  "launcherSha256": "09393cbe0999572a17db565728c9f62bf827075ce0ddc8c9942169acb68f5165",
   "serverAddress": "192.135.112.23",
   "serverPort": "7777",
   "message": "",
@@ -1305,6 +1305,19 @@
   ],
   "news": [
     {
+      "date": "9-22-2026 1:44 PM",
+      "title": "The launcher sends its logs for you, and a session that went wrong is marked",
+      "body": "When something breaks, nobody will ask you to go and find four files any more. The launcher sends its own log and the game's logs when you close the game, and again at the next start if it was killed before it could. Chat is now written down too, with a name and a time, so a report about something somebody said can be answered by reading it instead of asking both people. Voice is not recorded and nothing reads your machine.",
+      "details": [
+        "Bug reports no longer start with being asked for log files",
+        "Chat is kept for a year and only moderators can read it. See the Rules page",
+        "The launcher puts a new mod load order in place by itself instead of asking you to press Fix",
+        "The theme plays on every build now. Settings, Music turns it off",
+        "Launcher 1.1.80"
+      ],
+      "channel": ""
+    },
+    {
       "date": "9-22-2026 12:23 PM",
       "title": "The launcher sends its logs when you close the game, so nobody has to ask you for them",
       "body": "When a session ends, the launcher sends its own log and the game's logs to the site. That is the only moment it can: the game wipes those files every time it starts, which is why every bug report so far has begun with somebody being asked to go and find four files. If the launcher is killed or the game takes it down, the logs go at the next start instead. Nothing you type is in them and they are the launcher's own files, not yours.",
@@ -1694,15 +1707,6 @@
       "details": [
         "Launcher 1.1.38",
         "1 file to download, 0.0 MB"
-      ]
-    },
-    {
-      "date": "16 Sep 2026",
-      "title": "The launcher holds its files while the game runs, so another launcher opened mid-session cannot change them. Save folder problems no longer stop Play and say why.",
-      "body": "",
-      "details": [
-        "Launcher 1.1.37",
-        "6 files to download, 0.1 MB"
       ]
     }
   ],
