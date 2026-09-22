@@ -1,7 +1,7 @@
 {
-  "launcherVersion": "1.1.77.1",
-  "launcherUrl": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/580552915",
-  "launcherSha256": "98b861e62ebcf53f0cf7f143643a089f7159cb329bd10e538afef0b2893fc00b",
+  "launcherVersion": "1.1.77.2",
+  "launcherUrl": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/580600676",
+  "launcherSha256": "5e25c5f03a62cfd8fef30b74f791b7b3f5fea83209987befa7cec0270e67a8a3",
   "serverAddress": "192.135.112.23",
   "serverPort": "7787",
   "message": "",
@@ -1301,9 +1301,25 @@
       "url": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/580552914",
       "sha256": "f819d94932e4afe186f3f59467a07cfe9b5ff6161034e9415a9a7cd2beee6a02",
       "notes": "The shift, the press test and the town gates, at a version dev can take"
+    },
+    {
+      "id": "20260921-2306-dev",
+      "url": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/580600674",
+      "sha256": "90280b7393d173cb828e2975c7debdc19efd5a6e8799f7df9d70f24927f36aee",
+      "notes": "The town gates, the press test, and the clothes come back on"
     }
   ],
   "news": [
+    {
+      "date": "9-21-2026 11:06 PM",
+      "title": "The town gates, the press test, and the clothes come back on",
+      "body": "",
+      "details": [
+        "Launcher 1.1.77.2",
+        "2 files to download, 1.5 MB"
+      ],
+      "channel": "dev"
+    },
     {
       "date": "9-21-2026 10:37 PM",
       "title": "The shift, the press test and the town gates, at a version dev can take",
@@ -1693,16 +1709,6 @@
       "details": [
         "Launcher 1.1.38",
         "1 file to download, 0.0 MB"
-      ],
-      "channel": ""
-    },
-    {
-      "date": "16 Sep 2026",
-      "title": "The launcher holds its files while the game runs, so another launcher opened mid-session cannot change them. Save folder problems no longer stop Play and say why.",
-      "body": "",
-      "details": [
-        "Launcher 1.1.37",
-        "6 files to download, 0.1 MB"
       ],
       "channel": ""
     }
