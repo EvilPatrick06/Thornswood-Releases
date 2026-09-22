@@ -1,7 +1,7 @@
 {
-  "launcherVersion": "1.1.77.4",
-  "launcherUrl": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/581839986",
-  "launcherSha256": "7f9661b959ec4767987f570e97661656b7ff4ccc2762a28e9fdb194b512631bf",
+  "launcherVersion": "1.1.78",
+  "launcherUrl": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/581859987",
+  "launcherSha256": "201d7d9c2e4bf76331665cd6dcb5b6987d64104b163af657b006789586bc605c",
   "serverAddress": "192.135.112.23",
   "serverPort": "7787",
   "message": "",
@@ -1291,86 +1291,22 @@
       "notes": "Back to the 1.1.75 plugin"
     },
     {
-      "id": "20260921-2230-dev",
-      "url": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/580543801",
-      "sha256": "b2c40967e1240c1c0d73a0958fb32d5e326457048ca113e15b4829d963eec9cc",
-      "notes": "The shift, the press test and the town gates, on dev this time"
-    },
-    {
-      "id": "20260921-2237-dev",
-      "url": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/580552914",
-      "sha256": "f819d94932e4afe186f3f59467a07cfe9b5ff6161034e9415a9a7cd2beee6a02",
-      "notes": "The shift, the press test and the town gates, at a version dev can take"
-    },
-    {
-      "id": "20260921-2306-dev",
-      "url": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/580600674",
-      "sha256": "90280b7393d173cb828e2975c7debdc19efd5a6e8799f7df9d70f24927f36aee",
-      "notes": "The town gates, the press test, and the clothes come back on"
-    },
-    {
-      "id": "20260921-2347-dev",
-      "url": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/580670340",
-      "sha256": "9aaf2e1072080b899955c14e6f30fc235a4a04bf4f16f929d95d2eb5bc8ecae1",
-      "notes": "The axe is counted"
-    },
-    {
-      "id": "20260922-1100-dev",
-      "url": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/581839988",
-      "sha256": "f3cc21c63bce1457a0f08676a5d400a5a0a3abee21f36453ddf77ae7efb29d95",
-      "notes": "Load order checks, the scan, and the dev build's own shortcut"
+      "id": "20260922-1111",
+      "url": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/581859989",
+      "sha256": "c088be616c31d96646ed1ad20a28e6df94c8452daa5177759c65ccf40c3d6fe4",
+      "notes": "Everything from dev, the final theme for everybody, and one card a person on the sessions page"
     }
   ],
   "news": [
     {
-      "date": "9-22-2026 11:00 AM",
-      "title": "Load order checks, the scan, and the dev build's own shortcut",
+      "date": "9-22-2026 11:11 AM",
+      "title": "Everything from dev, the final theme for everybody, and one card a person on the sessions page",
       "body": "",
       "details": [
-        "Launcher 1.1.77.4",
-        "1 file to download, 0.1 MB"
+        "Launcher 1.1.78",
+        "5 files to download, 5.6 MB"
       ],
-      "channel": "dev"
-    },
-    {
-      "date": "9-21-2026 11:47 PM",
-      "title": "The axe is counted",
-      "body": "",
-      "details": [
-        "Launcher 1.1.77.3",
-        "2 files to download, 1.5 MB"
-      ],
-      "channel": "dev"
-    },
-    {
-      "date": "9-21-2026 11:06 PM",
-      "title": "The town gates, the press test, and the clothes come back on",
-      "body": "",
-      "details": [
-        "Launcher 1.1.77.2",
-        "2 files to download, 1.5 MB"
-      ],
-      "channel": "dev"
-    },
-    {
-      "date": "9-21-2026 10:37 PM",
-      "title": "The shift, the press test and the town gates, at a version dev can take",
-      "body": "",
-      "details": [
-        "Launcher 1.1.77.1",
-        "1 file to download, 0.1 MB"
-      ],
-      "channel": "dev"
-    },
-    {
-      "date": "9-21-2026 10:30 PM",
-      "title": "The shift, the press test and the town gates, on dev this time",
-      "body": "",
-      "details": [
-        "Launcher 1.1.76.1",
-        "5 files to download, 3.1 MB"
-      ],
-      "channel": "dev"
+      "channel": ""
     },
     {
       "date": "9-21-2026 10:28 PM",
@@ -1674,8 +1610,7 @@
       "details": [
         "Launcher 1.1.45",
         "1 file to download, 1.0 MB"
-      ],
-      "channel": ""
+      ]
     },
     {
       "date": "17 Sep 2026",
@@ -1683,8 +1618,7 @@
       "body": "",
       "details": [
         "Launcher 1.1.44"
-      ],
-      "channel": ""
+      ]
     },
     {
       "date": "17 Sep 2026",
@@ -1693,8 +1627,7 @@
       "details": [
         "Launcher 1.1.43",
         "1 file to download, 1.0 MB"
-      ],
-      "channel": ""
+      ]
     },
     {
       "date": "17 Sep 2026",
@@ -1702,8 +1635,7 @@
       "body": "",
       "details": [
         "Launcher 1.1.42"
-      ],
-      "channel": ""
+      ]
     },
     {
       "date": "17 Sep 2026",
@@ -1712,8 +1644,7 @@
       "details": [
         "Launcher 1.1.41",
         "1 file to download, 1.0 MB"
-      ],
-      "channel": ""
+      ]
     },
     {
       "date": "17 Sep 2026",
@@ -1722,15 +1653,49 @@
       "details": [
         "Launcher 1.1.40",
         "1 file to download, 0.0 MB"
-      ],
-      "channel": ""
+      ]
+    },
+    {
+      "date": "16 Sep 2026",
+      "title": "The launcher updates itself even when the mods are not deployed",
+      "body": "A second launcher no longer counts as the running game. The 16 Sep installer's sign in file is removed from every install and the installer is rebuilt without it.",
+      "details": [
+        "Launcher 1.1.39"
+      ]
+    },
+    {
+      "date": "16 Sep 2026",
+      "title": "A Downgrade button on the Play page: Steam fetches 1.6.1170 and the launcher puts it in place, nothing to paste. The build line says which build Skyrim is on.",
+      "body": "",
+      "details": [
+        "Launcher 1.1.38",
+        "1 file to download, 0.0 MB"
+      ]
+    },
+    {
+      "date": "16 Sep 2026",
+      "title": "The launcher holds its files while the game runs, so another launcher opened mid-session cannot change them. Save folder problems no longer stop Play and say why.",
+      "body": "",
+      "details": [
+        "Launcher 1.1.37",
+        "6 files to download, 0.1 MB"
+      ]
+    },
+    {
+      "date": "16 Sep 2026",
+      "title": "Dev build for the Owner and Dev roles only, voice port per build, session note for the plugins, other servers' files stay out of releases",
+      "body": "",
+      "details": [
+        "Launcher 1.1.36",
+        "6 files to download, 0.1 MB"
+      ]
     }
   ],
   "updateRepo": "EvilPatrick06/Thornswood-Releases",
   "voicePort": "7789",
   "collectionUrl": "https://www.nexusmods.com/games/skyrimspecialedition/collections/ombo2a",
   "maxOnline": 25,
-  "mainVersion": "1.1.77",
+  "mainVersion": "",
   "voiceUrl": "https://thornswood.net/voice-dev",
   "discordAppId": "1549251507361292418",
   "siteUrl": "https://thornswood.net",
