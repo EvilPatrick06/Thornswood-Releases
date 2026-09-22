@@ -1,7 +1,7 @@
 {
-  "launcherVersion": "1.1.77.2",
-  "launcherUrl": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/580600676",
-  "launcherSha256": "5e25c5f03a62cfd8fef30b74f791b7b3f5fea83209987befa7cec0270e67a8a3",
+  "launcherVersion": "1.1.77.3",
+  "launcherUrl": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/580670342",
+  "launcherSha256": "c46933b965b4ac5af0b7fba673af7e89ce97aed849f01a2bcd3fd7e1cc257f49",
   "serverAddress": "192.135.112.23",
   "serverPort": "7787",
   "message": "",
@@ -1307,9 +1307,25 @@
       "url": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/580600674",
       "sha256": "90280b7393d173cb828e2975c7debdc19efd5a6e8799f7df9d70f24927f36aee",
       "notes": "The town gates, the press test, and the clothes come back on"
+    },
+    {
+      "id": "20260921-2347-dev",
+      "url": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/580670340",
+      "sha256": "9aaf2e1072080b899955c14e6f30fc235a4a04bf4f16f929d95d2eb5bc8ecae1",
+      "notes": "The axe is counted"
     }
   ],
   "news": [
+    {
+      "date": "9-21-2026 11:47 PM",
+      "title": "The axe is counted",
+      "body": "",
+      "details": [
+        "Launcher 1.1.77.3",
+        "2 files to download, 1.5 MB"
+      ],
+      "channel": "dev"
+    },
     {
       "date": "9-21-2026 11:06 PM",
       "title": "The town gates, the press test, and the clothes come back on",
@@ -1699,16 +1715,6 @@
       "body": "A second launcher no longer counts as the running game. The 16 Sep installer's sign in file is removed from every install and the installer is rebuilt without it.",
       "details": [
         "Launcher 1.1.39"
-      ],
-      "channel": ""
-    },
-    {
-      "date": "16 Sep 2026",
-      "title": "A Downgrade button on the Play page: Steam fetches 1.6.1170 and the launcher puts it in place, nothing to paste. The build line says which build Skyrim is on.",
-      "body": "",
-      "details": [
-        "Launcher 1.1.38",
-        "1 file to download, 0.0 MB"
       ],
       "channel": ""
     }
