@@ -1,7 +1,7 @@
 {
-  "launcherVersion": "1.1.77",
-  "launcherUrl": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/580540435",
-  "launcherSha256": "210a7b3059ae8864e45a3fb47f5bb734b414e009a8b3ecbec79677615d8c1602",
+  "launcherVersion": "1.1.78",
+  "launcherUrl": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/581859987",
+  "launcherSha256": "201d7d9c2e4bf76331665cd6dcb5b6987d64104b163af657b006789586bc605c",
   "serverAddress": "192.135.112.23",
   "serverPort": "7777",
   "message": "",
@@ -1289,9 +1289,25 @@
       "url": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/580540434",
       "sha256": "e2ced52ca374af854bee312c201e6255345fd83173e0ffd0d83a4454eaa9610f",
       "notes": "Back to the 1.1.75 plugin"
+    },
+    {
+      "id": "20260922-1111",
+      "url": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/581859989",
+      "sha256": "c088be616c31d96646ed1ad20a28e6df94c8452daa5177759c65ccf40c3d6fe4",
+      "notes": "Everything from dev, the final theme for everybody, and one card a person on the sessions page"
     }
   ],
   "news": [
+    {
+      "date": "9-22-2026 11:11 AM",
+      "title": "Everything from dev, the final theme for everybody, and one card a person on the sessions page",
+      "body": "",
+      "details": [
+        "Launcher 1.1.78",
+        "5 files to download, 5.6 MB"
+      ],
+      "channel": ""
+    },
     {
       "date": "9-21-2026 10:28 PM",
       "title": "Back to the 1.1.75 plugin",
@@ -1672,15 +1688,6 @@
       "details": [
         "Launcher 1.1.36",
         "6 files to download, 0.1 MB"
-      ]
-    },
-    {
-      "date": "16 Sep 2026",
-      "title": "Discord shows you playing Thornswood, with Download and Discord buttons. A dev build you can install from Settings, on its own server. Each build keeps its own game files.",
-      "body": "",
-      "details": [
-        "Launcher 1.1.35",
-        "7 files to download, 0.1 MB"
       ]
     }
   ],
