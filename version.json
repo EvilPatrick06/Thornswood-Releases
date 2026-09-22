@@ -1,7 +1,7 @@
 {
-  "launcherVersion": "1.1.78",
-  "launcherUrl": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/581859987",
-  "launcherSha256": "201d7d9c2e4bf76331665cd6dcb5b6987d64104b163af657b006789586bc605c",
+  "launcherVersion": "1.1.79",
+  "launcherUrl": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/581981590",
+  "launcherSha256": "5169f5abc6b2544b788b2012ef2f083c81da659af9bceb1371d22e38e9743cb6",
   "serverAddress": "192.135.112.23",
   "serverPort": "7787",
   "message": "",
@@ -1295,9 +1295,25 @@
       "url": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/581859989",
       "sha256": "c088be616c31d96646ed1ad20a28e6df94c8452daa5177759c65ccf40c3d6fe4",
       "notes": "Everything from dev, the final theme for everybody, and one card a person on the sessions page"
+    },
+    {
+      "id": "20260922-1223",
+      "url": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/581981580",
+      "sha256": "af3d44394ecc6648bef776e48899a15d6a12f915b46d25dead11c57352eaa2e5",
+      "notes": "Every session's logs are collected, and one that went wrong says so"
     }
   ],
   "news": [
+    {
+      "date": "9-22-2026 12:23 PM",
+      "title": "Every session's logs are collected, and one that went wrong says so",
+      "body": "",
+      "details": [
+        "Launcher 1.1.79",
+        "1 file to download, 1.3 MB"
+      ],
+      "channel": ""
+    },
     {
       "date": "9-22-2026 11:11 AM",
       "title": "Everything from dev, the final theme for everybody, and one card a person on the sessions page",
@@ -1678,15 +1694,6 @@
       "body": "",
       "details": [
         "Launcher 1.1.37",
-        "6 files to download, 0.1 MB"
-      ]
-    },
-    {
-      "date": "16 Sep 2026",
-      "title": "Dev build for the Owner and Dev roles only, voice port per build, session note for the plugins, other servers' files stay out of releases",
-      "body": "",
-      "details": [
-        "Launcher 1.1.36",
         "6 files to download, 0.1 MB"
       ]
     }
