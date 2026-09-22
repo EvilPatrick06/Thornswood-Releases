@@ -1,7 +1,7 @@
 {
   "launcherVersion": "1.1.80",
-  "launcherUrl": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/582119188",
-  "launcherSha256": "09393cbe0999572a17db565728c9f62bf827075ce0ddc8c9942169acb68f5165",
+  "launcherUrl": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/582456094",
+  "launcherSha256": "e21e04ad3288ab18e5ef6e67addcbecef79e7aa56679cf61c07e848c416c5fcd",
   "serverAddress": "192.135.112.23",
   "serverPort": "7777",
   "message": "",
@@ -1301,9 +1301,26 @@
       "url": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/581981580",
       "sha256": "af3d44394ecc6648bef776e48899a15d6a12f915b46d25dead11c57352eaa2e5",
       "notes": "The launcher sends its logs when you close the game, so nobody has to ask you for them"
+    },
+    {
+      "id": "20260922-1719",
+      "url": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/582456098",
+      "sha256": "0d20e4fc2602670b075ae4529f5585ddf0694ef49b026517568e06648158743b",
+      "notes": "The mod list has a new revision, and the world has started over.\nBefore you press Play, update the Thornswood collection in Vortex to revision 5. The launcher tells you if you have not.\nTaken out: Tavern Games, Respawn - Death Overhaul and SunHelm Survival, which did not work on this server.\nImmersive Armors is now the script free version.\nNew: Playable Rieklings, with RaceCompatibility.\nThe collection now carries the plugin order, so let Vortex sort and do not move plugins by hand.\nBecause the load order changed, everybody makes a new character, and every house and farm is unclaimed again."
     }
   ],
   "news": [
+    {
+      "date": "9-22-2026 5:19 PM",
+      "title": "The mod list has a new revision, and the world has started over.",
+      "body": "Before you press Play, update the Thornswood collection in Vortex to revision 5. The launcher tells you if you have not. Taken out: Tavern Games, Respawn - Death Overhaul and SunHelm Survival, which did not work on this server. Immersive Armors is now the script free version. New: Playable Rieklings, with RaceCompatibility. The collection now carries the plugin order, so let Vortex sort and do not move plugins by hand. Because the load order changed, everybody makes a new character, and every house and farm is unclaimed again.",
+      "details": [
+        "Launcher 1.1.80",
+        "1 file to download, 0.0 MB",
+        "The load order moved, so start a new character or expect the old save to complain"
+      ],
+      "channel": ""
+    },
     {
       "date": "9-22-2026 1:44 PM",
       "title": "The launcher sends its logs for you, and a session that went wrong is marked",
@@ -1699,15 +1716,6 @@
       "details": [
         "Launcher 1.1.39"
       ]
-    },
-    {
-      "date": "16 Sep 2026",
-      "title": "A Downgrade button on the Play page: Steam fetches 1.6.1170 and the launcher puts it in place, nothing to paste. The build line says which build Skyrim is on.",
-      "body": "",
-      "details": [
-        "Launcher 1.1.38",
-        "1 file to download, 0.0 MB"
-      ]
     }
   ],
   "updateRepo": "EvilPatrick06/Thornswood-Releases",
@@ -1718,5 +1726,6 @@
   "voiceUrl": "https://thornswood.net/voice",
   "discordAppId": "1549251507361292418",
   "siteUrl": "https://thornswood.net",
-  "presenceImage": "https://thornswood.net/presence.png"
+  "presenceImage": "https://thornswood.net/presence.png",
+  "collectionRevision": 5
 }
