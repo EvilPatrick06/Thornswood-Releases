@@ -1,7 +1,7 @@
 {
-  "launcherVersion": "1.1.76.1",
-  "launcherUrl": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/580543800",
-  "launcherSha256": "dea73ff5a307062f7754ed9841fb9a3c6553d998bbf83d7b85f7e62241c78272",
+  "launcherVersion": "1.1.77.1",
+  "launcherUrl": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/580552915",
+  "launcherSha256": "98b861e62ebcf53f0cf7f143643a089f7159cb329bd10e538afef0b2893fc00b",
   "serverAddress": "192.135.112.23",
   "serverPort": "7787",
   "message": "",
@@ -1295,9 +1295,25 @@
       "url": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/580543801",
       "sha256": "b2c40967e1240c1c0d73a0958fb32d5e326457048ca113e15b4829d963eec9cc",
       "notes": "The shift, the press test and the town gates, on dev this time"
+    },
+    {
+      "id": "20260921-2237-dev",
+      "url": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/580552914",
+      "sha256": "f819d94932e4afe186f3f59467a07cfe9b5ff6161034e9415a9a7cd2beee6a02",
+      "notes": "The shift, the press test and the town gates, at a version dev can take"
     }
   ],
   "news": [
+    {
+      "date": "9-21-2026 10:37 PM",
+      "title": "The shift, the press test and the town gates, at a version dev can take",
+      "body": "",
+      "details": [
+        "Launcher 1.1.77.1",
+        "1 file to download, 0.1 MB"
+      ],
+      "channel": "dev"
+    },
     {
       "date": "9-21-2026 10:30 PM",
       "title": "The shift, the press test and the town gates, on dev this time",
@@ -1686,16 +1702,6 @@
       "body": "",
       "details": [
         "Launcher 1.1.37",
-        "6 files to download, 0.1 MB"
-      ],
-      "channel": ""
-    },
-    {
-      "date": "16 Sep 2026",
-      "title": "Dev build for the Owner and Dev roles only, voice port per build, session note for the plugins, other servers' files stay out of releases",
-      "body": "",
-      "details": [
-        "Launcher 1.1.36",
         "6 files to download, 0.1 MB"
       ],
       "channel": ""
