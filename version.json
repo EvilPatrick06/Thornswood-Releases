@@ -1,7 +1,7 @@
 {
-  "launcherVersion": "1.1.80",
-  "launcherUrl": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/582456094",
-  "launcherSha256": "e21e04ad3288ab18e5ef6e67addcbecef79e7aa56679cf61c07e848c416c5fcd",
+  "launcherVersion": "1.1.81",
+  "launcherUrl": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/582460506",
+  "launcherSha256": "51f371b8f424c092fcac5aa717e3ba87b635b841af45f07e3018143c1b3be9ea",
   "serverAddress": "192.135.112.23",
   "serverPort": "7777",
   "message": "",
@@ -1311,6 +1311,15 @@
   ],
   "news": [
     {
+      "date": "9-22-2026 5:22 PM",
+      "title": "The launcher now tells you when your mod collection is out of date.",
+      "body": "It reads which revision of the Thornswood collection you have installed and compares it with the newest one. If you are behind, it says so before you press Play instead of letting you join and fail on a load order mismatch. This is the half that was missing from the update a few minutes ago. That one asked you to update to revision 5; this one is the launcher that can actually check. Nothing else changed. If you already updated your collection, you will see nothing new.",
+      "details": [
+        "Launcher 1.1.81"
+      ],
+      "channel": ""
+    },
+    {
       "date": "9-22-2026 5:19 PM",
       "title": "The mod list has a new revision, and the world has started over.",
       "body": "Before you press Play, update the Thornswood collection in Vortex to revision 5. The launcher tells you if you have not. Taken out: Tavern Games, Respawn - Death Overhaul and SunHelm Survival, which did not work on this server. Immersive Armors is now the script free version. New: Playable Rieklings, with RaceCompatibility. The collection now carries the plugin order, so let Vortex sort and do not move plugins by hand. Because the load order changed, everybody makes a new character, and every house and farm is unclaimed again.",
@@ -1707,14 +1716,6 @@
       "details": [
         "Launcher 1.1.40",
         "1 file to download, 0.0 MB"
-      ]
-    },
-    {
-      "date": "16 Sep 2026",
-      "title": "The launcher updates itself even when the mods are not deployed",
-      "body": "A second launcher no longer counts as the running game. The 16 Sep installer's sign in file is removed from every install and the installer is rebuilt without it.",
-      "details": [
-        "Launcher 1.1.39"
       ]
     }
   ],
