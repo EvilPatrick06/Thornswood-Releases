@@ -1,7 +1,7 @@
 {
-  "launcherVersion": "1.1.74",
-  "launcherUrl": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/580117058",
-  "launcherSha256": "97e42f605b83d5e4bc53e517ab6f7b54cd11d175e08a01c71bd42fb691010f9a",
+  "launcherVersion": "1.1.75",
+  "launcherUrl": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/580119361",
+  "launcherSha256": "6411599a1f4e016e858d58c22e1a013db07d3fa20f53074bab64c0b1428c2c7d",
   "serverAddress": "192.135.112.23",
   "serverPort": "7777",
   "message": "",
@@ -1281,6 +1281,15 @@
   ],
   "news": [
     {
+      "date": "9-21-2026 6:00 PM",
+      "title": "Thornswood runs from its own Skyrim, never a shared one",
+      "body": "",
+      "details": [
+        "Launcher 1.1.75"
+      ],
+      "channel": ""
+    },
+    {
       "date": "9-21-2026 5:58 PM",
       "title": "The launcher says when Skyrim is shared with other servers",
       "body": "",
@@ -1658,15 +1667,6 @@
       "details": [
         "Launcher 1.1.33",
         "15 files to download, 8.2 MB"
-      ]
-    },
-    {
-      "date": "16 Sep 2026",
-      "title": "Updates reach your game again, and the main menu is only the Thornswood backdrop. Since the move to the Steam copy the launcher had been marking every update as installed without writing a single game file, so nobody got the login fix or the backdrop. Launcher 1.1.32 puts the missed updates back in the queue and installs them properly the next time it opens. The first time it has a lot to download, so give it a while, or run the installer from the site instead. The main menu is now the Thornswood backdrop on any screen, with no buttons, no logo, no save panel and no animation replacer banner, and the game walks you into the creation hall by itself.",
-      "body": "",
-      "details": [
-        "Launcher 1.1.32",
-        "20 files to download, 15.3 MB"
       ]
     }
   ],
