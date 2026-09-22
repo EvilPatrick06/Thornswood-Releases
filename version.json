@@ -1,7 +1,7 @@
 {
-  "launcherVersion": "1.1.75",
-  "launcherUrl": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/580119361",
-  "launcherSha256": "6411599a1f4e016e858d58c22e1a013db07d3fa20f53074bab64c0b1428c2c7d",
+  "launcherVersion": "1.1.76",
+  "launcherUrl": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/580514449",
+  "launcherSha256": "24df9cf03118df46ef52a9185ab04e83b587880202fafb8f67eb382d281d4aca",
   "serverAddress": "192.135.112.23",
   "serverPort": "7777",
   "message": "",
@@ -1277,9 +1277,25 @@
       "url": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/580117060",
       "sha256": "5485b6e9dff5df4485fd64f546af92e0cf2a8b93fb6b7fff3f5102fe7b97d361",
       "notes": "The launcher says when Skyrim is shared with other servers"
+    },
+    {
+      "id": "20260921-2211",
+      "url": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/580514450",
+      "sha256": "2e0562318994092cbea94abb09daca521fd8f198a40b919ec37ee044e82ec74c",
+      "notes": "The shift goes on, a farmhand's press is not yours, and the town gates open"
     }
   ],
   "news": [
+    {
+      "date": "9-21-2026 10:11 PM",
+      "title": "The shift goes on, a farmhand's press is not yours, and the town gates open",
+      "body": "",
+      "details": [
+        "Launcher 1.1.76",
+        "1 file to download, 0.1 MB"
+      ],
+      "channel": ""
+    },
     {
       "date": "9-21-2026 6:00 PM",
       "title": "Thornswood runs from its own Skyrim, never a shared one",
@@ -1658,15 +1674,6 @@
       "details": [
         "Launcher 1.1.34",
         "18 files to download, 11.5 MB"
-      ]
-    },
-    {
-      "date": "16 Sep 2026",
-      "title": "Voice works: the game finds the launcher's microphone again, so the indicator leaves LISTENING ONLY and push to talk reaches the launcher. Emote wheel is back on G, the key file had been cut down to the field of view line. SkyHUD config restored, the incompatible config popup is gone. Door fix: the rescue that pulled you back through the inn door is off. Thornswood's plugins stay idle when the client points at another server, so they no longer draw over Keizaal Online. New main menu art. Launcher checks in with the character's own profile id and logs its own faults. Vortex bookkeeping and face exports no longer ship in updates.",
-      "body": "",
-      "details": [
-        "Launcher 1.1.33",
-        "15 files to download, 8.2 MB"
       ]
     }
   ],
