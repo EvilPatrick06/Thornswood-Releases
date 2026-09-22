@@ -1,7 +1,7 @@
 {
-  "launcherVersion": "1.1.77.3",
-  "launcherUrl": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/580670342",
-  "launcherSha256": "c46933b965b4ac5af0b7fba673af7e89ce97aed849f01a2bcd3fd7e1cc257f49",
+  "launcherVersion": "1.1.77.4",
+  "launcherUrl": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/581839986",
+  "launcherSha256": "7f9661b959ec4767987f570e97661656b7ff4ccc2762a28e9fdb194b512631bf",
   "serverAddress": "192.135.112.23",
   "serverPort": "7787",
   "message": "",
@@ -1313,9 +1313,25 @@
       "url": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/580670340",
       "sha256": "9aaf2e1072080b899955c14e6f30fc235a4a04bf4f16f929d95d2eb5bc8ecae1",
       "notes": "The axe is counted"
+    },
+    {
+      "id": "20260922-1100-dev",
+      "url": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/581839988",
+      "sha256": "f3cc21c63bce1457a0f08676a5d400a5a0a3abee21f36453ddf77ae7efb29d95",
+      "notes": "Load order checks, the scan, and the dev build's own shortcut"
     }
   ],
   "news": [
+    {
+      "date": "9-22-2026 11:00 AM",
+      "title": "Load order checks, the scan, and the dev build's own shortcut",
+      "body": "",
+      "details": [
+        "Launcher 1.1.77.4",
+        "1 file to download, 0.1 MB"
+      ],
+      "channel": "dev"
+    },
     {
       "date": "9-21-2026 11:47 PM",
       "title": "The axe is counted",
@@ -1706,15 +1722,6 @@
       "details": [
         "Launcher 1.1.40",
         "1 file to download, 0.0 MB"
-      ],
-      "channel": ""
-    },
-    {
-      "date": "16 Sep 2026",
-      "title": "The launcher updates itself even when the mods are not deployed",
-      "body": "A second launcher no longer counts as the running game. The 16 Sep installer's sign in file is removed from every install and the installer is rebuilt without it.",
-      "details": [
-        "Launcher 1.1.39"
       ],
       "channel": ""
     }
