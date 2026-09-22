@@ -1,7 +1,7 @@
 {
-  "launcherVersion": "1.1.77",
-  "launcherUrl": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/580540435",
-  "launcherSha256": "210a7b3059ae8864e45a3fb47f5bb734b414e009a8b3ecbec79677615d8c1602",
+  "launcherVersion": "1.1.76.1",
+  "launcherUrl": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/580543800",
+  "launcherSha256": "dea73ff5a307062f7754ed9841fb9a3c6553d998bbf83d7b85f7e62241c78272",
   "serverAddress": "192.135.112.23",
   "serverPort": "7787",
   "message": "",
@@ -1289,9 +1289,25 @@
       "url": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/580540434",
       "sha256": "e2ced52ca374af854bee312c201e6255345fd83173e0ffd0d83a4454eaa9610f",
       "notes": "Back to the 1.1.75 plugin"
+    },
+    {
+      "id": "20260921-2230-dev",
+      "url": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/580543801",
+      "sha256": "b2c40967e1240c1c0d73a0958fb32d5e326457048ca113e15b4829d963eec9cc",
+      "notes": "The shift, the press test and the town gates, on dev this time"
     }
   ],
   "news": [
+    {
+      "date": "9-21-2026 10:30 PM",
+      "title": "The shift, the press test and the town gates, on dev this time",
+      "body": "",
+      "details": [
+        "Launcher 1.1.76.1",
+        "5 files to download, 3.1 MB"
+      ],
+      "channel": "dev"
+    },
     {
       "date": "9-21-2026 10:28 PM",
       "title": "Back to the 1.1.75 plugin",
@@ -1594,7 +1610,8 @@
       "details": [
         "Launcher 1.1.45",
         "1 file to download, 1.0 MB"
-      ]
+      ],
+      "channel": ""
     },
     {
       "date": "17 Sep 2026",
@@ -1602,7 +1619,8 @@
       "body": "",
       "details": [
         "Launcher 1.1.44"
-      ]
+      ],
+      "channel": ""
     },
     {
       "date": "17 Sep 2026",
@@ -1611,7 +1629,8 @@
       "details": [
         "Launcher 1.1.43",
         "1 file to download, 1.0 MB"
-      ]
+      ],
+      "channel": ""
     },
     {
       "date": "17 Sep 2026",
@@ -1619,7 +1638,8 @@
       "body": "",
       "details": [
         "Launcher 1.1.42"
-      ]
+      ],
+      "channel": ""
     },
     {
       "date": "17 Sep 2026",
@@ -1628,7 +1648,8 @@
       "details": [
         "Launcher 1.1.41",
         "1 file to download, 1.0 MB"
-      ]
+      ],
+      "channel": ""
     },
     {
       "date": "17 Sep 2026",
@@ -1637,7 +1658,8 @@
       "details": [
         "Launcher 1.1.40",
         "1 file to download, 0.0 MB"
-      ]
+      ],
+      "channel": ""
     },
     {
       "date": "16 Sep 2026",
@@ -1645,7 +1667,8 @@
       "body": "A second launcher no longer counts as the running game. The 16 Sep installer's sign in file is removed from every install and the installer is rebuilt without it.",
       "details": [
         "Launcher 1.1.39"
-      ]
+      ],
+      "channel": ""
     },
     {
       "date": "16 Sep 2026",
@@ -1654,7 +1677,8 @@
       "details": [
         "Launcher 1.1.38",
         "1 file to download, 0.0 MB"
-      ]
+      ],
+      "channel": ""
     },
     {
       "date": "16 Sep 2026",
@@ -1663,7 +1687,8 @@
       "details": [
         "Launcher 1.1.37",
         "6 files to download, 0.1 MB"
-      ]
+      ],
+      "channel": ""
     },
     {
       "date": "16 Sep 2026",
@@ -1672,23 +1697,15 @@
       "details": [
         "Launcher 1.1.36",
         "6 files to download, 0.1 MB"
-      ]
-    },
-    {
-      "date": "16 Sep 2026",
-      "title": "Discord shows you playing Thornswood, with Download and Discord buttons. A dev build you can install from Settings, on its own server. Each build keeps its own game files.",
-      "body": "",
-      "details": [
-        "Launcher 1.1.35",
-        "7 files to download, 0.1 MB"
-      ]
+      ],
+      "channel": ""
     }
   ],
   "updateRepo": "EvilPatrick06/Thornswood-Releases",
   "voicePort": "7789",
   "collectionUrl": "https://www.nexusmods.com/games/skyrimspecialedition/collections/ombo2a",
   "maxOnline": 25,
-  "mainVersion": "",
+  "mainVersion": "1.1.77",
   "voiceUrl": "https://thornswood.net/voice-dev",
   "discordAppId": "1549251507361292418",
   "siteUrl": "https://thornswood.net",
