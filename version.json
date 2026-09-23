@@ -1,7 +1,7 @@
 {
-  "launcherVersion": "1.1.91.2",
-  "launcherUrl": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/584310835",
-  "launcherSha256": "a6cad810642174719827de2a7c2ee3b6f11a72a13bc93498827dceab48305539",
+  "launcherVersion": "1.1.91.3",
+  "launcherUrl": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/584551391",
+  "launcherSha256": "1ebfa1755a6e484692ebea33eeb4a200d57e60afb2df293003f2ba25ec8e9f47",
   "serverAddress": "192.135.112.23",
   "serverPort": "7787",
   "message": "",
@@ -1373,9 +1373,27 @@
       "url": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/584310836",
       "sha256": "e063e9022f5513b8ee9a895e7d3c637f0654f2b066f2b55269e45c2a5c56da13",
       "notes": "A warrior can finally climb, and the frame says where it goes\nKilling something now counts as a warrior's work, the same way mining counts as a miner's. The plugin also writes a line every thirty seconds saying what it spent the frame on, which is how the lag gets found.\n- pick Warrior and your kills raise your rank\n- the alchemist and the enchanter were already climbing at their bench\n- nothing else changes"
+    },
+    {
+      "id": "20260923-1444-dev",
+      "url": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/584551396",
+      "sha256": "c4b1ab3027f2099653c3cdf9300c5b16f4fa73ad3282e1cd8b0833385920f771",
+      "notes": "The launcher log answers a question it used to raise\nWhen the game will not leave the main menu, the log now says whether Skyrim was ever asked to load at all. That is the difference between two completely different faults, and nobody could tell them apart without sitting at the machine.\n- nothing changes in the game\n- the plugin log carries one more line while it waits"
     }
   ],
   "news": [
+    {
+      "date": "9-23-2026 2:44 PM",
+      "title": "The launcher log answers a question it used to raise",
+      "body": "When the game will not leave the main menu, the log now says whether Skyrim was ever asked to load at all. That is the difference between two completely different faults, and nobody could tell them apart without sitting at the machine.",
+      "details": [
+        "nothing changes in the game",
+        "the plugin log carries one more line while it waits",
+        "Launcher 1.1.91.3",
+        "1 file to download, 0.2 MB"
+      ],
+      "channel": "dev"
+    },
     {
       "date": "9-23-2026 11:56 AM",
       "title": "A warrior can finally climb, and the frame says where it goes",
@@ -1793,16 +1811,6 @@
       "details": [
         "Launcher 1.1.54",
         "3 files to download, 1.1 MB"
-      ],
-      "channel": ""
-    },
-    {
-      "date": "9-19-2026 7:44 PM",
-      "title": "jump and sprint, voice ranges, the Q crash",
-      "body": "",
-      "details": [
-        "Launcher 1.1.53",
-        "2 files to download, 0.1 MB"
       ],
       "channel": ""
     }
