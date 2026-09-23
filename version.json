@@ -1,7 +1,7 @@
 {
-  "launcherVersion": "1.1.83",
-  "launcherUrl": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/582914808",
-  "launcherSha256": "656c28871c5d10470a1fdbcb603625642b325553df66654f512deec6d77f45c8",
+  "launcherVersion": "1.1.84",
+  "launcherUrl": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/582922320",
+  "launcherSha256": "49d7281d46a7f59f3a800f993edb642d4bf97bbb016e68fbd7dab605164260c5",
   "serverAddress": "192.135.112.23",
   "serverPort": "7777",
   "message": "",
@@ -1323,6 +1323,15 @@
   ],
   "news": [
     {
+      "date": "9-22-2026 10:07 PM",
+      "title": "The client repair now finds the files it downloads.",
+      "body": "The last two updates added the check and the repair. This one fixes the lookup: the launcher was opening the right download and reading the wrong paths inside it, so it found nothing and said the file was still missing. If your Client row is red, open the launcher and leave it a minute. It fetches what is missing on start and whenever you press Recheck, and the row turns green on its own.",
+      "details": [
+        "Launcher 1.1.84"
+      ],
+      "channel": ""
+    },
+    {
       "date": "9-22-2026 10:02 PM",
       "title": "The SkyMP client files are in this update, so a broken install can repair itself.",
       "body": "Nothing about the game changes here. This update carries the six files that make up the SkyMP client, so a launcher that finds one of them missing has somewhere to fetch it from. If your Client row is red, open the launcher and give it a moment.",
@@ -1723,15 +1732,6 @@
       "body": "",
       "details": [
         "Launcher 1.1.44"
-      ]
-    },
-    {
-      "date": "17 Sep 2026",
-      "title": "Scan checks every plugin's bytes against the server and Fix fetches the server's copy (the LOAD ORDER ERROR one machine had), Start On Save can no longer load a single player save under SkyMP (the crash on a fresh install with old saves), difficulty is Expert, the Downgrade button clicks into Steam's console before it types",
-      "body": "",
-      "details": [
-        "Launcher 1.1.43",
-        "1 file to download, 1.0 MB"
       ]
     }
   ],
