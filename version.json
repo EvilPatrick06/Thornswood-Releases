@@ -1,7 +1,7 @@
 {
-  "launcherVersion": "1.1.91.6",
-  "launcherUrl": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/584631198",
-  "launcherSha256": "33f56d04657c1cd31f7bc9b7aa1ea5c466edb64cc97a06b743516dbf4a03436c",
+  "launcherVersion": "1.1.91.7",
+  "launcherUrl": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/584784991",
+  "launcherSha256": "11b6d638127fe2a2be6bb9554f44359c5f4e9b53603e544688a312c0300a02cb",
   "serverAddress": "192.135.112.23",
   "serverPort": "7787",
   "message": "",
@@ -1397,9 +1397,25 @@
       "url": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/584631192",
       "sha256": "1eefe8c270fb7e964aa069555cf414052acd8764cb81e9acd37aef7f655792c0",
       "notes": "The game tells you when you are on fire\nCatching fire, standing in one and it going out now say so on screen instead of only in a log nobody reads while they are playing.\n- a notice when you catch fire and when it goes out\n- the console refusal speaks the same way as everything else"
+    },
+    {
+      "id": "20260923-1752-dev",
+      "url": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/584784990",
+      "sha256": "e2dd2465ba977b03d8e1e3e5bb8de896f22738ccd8dfc22ca0a3f97719a8c3f5",
+      "notes": "The launcher and the plugins catch up with tonight's fixes"
     }
   ],
   "news": [
+    {
+      "date": "9-23-2026 5:52 PM",
+      "title": "The launcher and the plugins catch up with tonight's fixes",
+      "body": "",
+      "details": [
+        "Launcher 1.1.91.7",
+        "1 file to download, 0.0 MB"
+      ],
+      "channel": "dev"
+    },
     {
       "date": "9-23-2026 3:41 PM",
       "title": "The game tells you when you are on fire",
@@ -1824,16 +1840,6 @@
       "details": [
         "Launcher 1.1.59",
         "1 file to download, 0.1 MB"
-      ],
-      "channel": ""
-    },
-    {
-      "date": "9-20-2026 11:24 AM",
-      "title": "jump and sprint clear IsNPC on the press frame, and the light plugins are listed too",
-      "body": "",
-      "details": [
-        "Launcher 1.1.58",
-        "2 files to download, 0.1 MB"
       ],
       "channel": ""
     }
