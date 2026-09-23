@@ -1,7 +1,7 @@
 {
-  "launcherVersion": "1.1.91",
-  "launcherUrl": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/583860975",
-  "launcherSha256": "7ad8126aec81b890e73453cda3ec90e997af124b88c723132a93b1ea3dbb5a02",
+  "launcherVersion": "1.1.91.1",
+  "launcherUrl": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/584195928",
+  "launcherSha256": "c4d88ad08fc9a5609cd1196c0dd74781f5a9031c339974b514e5eed30bc83b06",
   "serverAddress": "192.135.112.23",
   "serverPort": "7787",
   "message": "",
@@ -1361,9 +1361,28 @@
       "url": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/583860974",
       "sha256": "51f4a743f1a028df231a30b30f4c35f6b36c351c9e2908793eddd4fda82a3fd1",
       "notes": "Your party, found.\n\nEverybody in your party now has their name in green above their head, a marker on your map, and an arrow on a strip under your compass telling you which way they are and how far.\n\n- Green on the strip means the same room as you. Gold means somewhere else in Skyrim.\n- The map markers are named after them and do not let you fast travel: somebody's position is a thing to walk to.\n- All of it turns off the moment they leave the party, including the green on their name.\n\nThe strip is ours rather than Skyrim's own compass. That one only draws quest targets and map markers and there is no way to put a person on it without changing the game files, so we drew our own under it instead. It updates five times a second, which is faster than the compass would have.\n\nNothing else to press. Open P to see your party, and it all just works while you are in one."
+    },
+    {
+      "id": "20260923-1051-dev",
+      "url": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/584195927",
+      "sha256": "29202d4b423a51c267b6e56739cc590839e86dcbd64318683f4e970d63a5670b",
+      "notes": "Fires warm you, and the meter finally moves\nThe temperature meter never found a fire, because it only knew Skyrim's own and this build uses Embers XD's. It knows both now, 62 of them across five plugins.\n- walk up to a fire and the meter climbs as you get closer\n- stand in the coals and you catch light and take damage\n- the launcher's scan says which problems it found, not just how many"
     }
   ],
   "news": [
+    {
+      "date": "9-23-2026 10:51 AM",
+      "title": "Fires warm you, and the meter finally moves",
+      "body": "The temperature meter never found a fire, because it only knew Skyrim's own and this build uses Embers XD's. It knows both now, 62 of them across five plugins.",
+      "details": [
+        "walk up to a fire and the meter climbs as you get closer",
+        "stand in the coals and you catch light and take damage",
+        "the launcher's scan says which problems it found, not just how many",
+        "Launcher 1.1.91.1",
+        "4 files to download, 3.0 MB"
+      ],
+      "channel": "dev"
+    },
     {
       "date": "9-23-2026 7:46 AM",
       "title": "Your party, found.",
@@ -1777,23 +1796,13 @@
         "1 file to download, 0.0 MB"
       ],
       "channel": ""
-    },
-    {
-      "date": "9-19-2026 2:16 PM",
-      "title": "Voice + art chnages",
-      "body": "",
-      "details": [
-        "Launcher 1.1.51",
-        "2 files to download, 0.0 MB"
-      ],
-      "channel": ""
     }
   ],
   "updateRepo": "EvilPatrick06/Thornswood-Releases",
   "voicePort": "7789",
   "collectionUrl": "https://www.nexusmods.com/games/skyrimspecialedition/collections/ombo2a",
   "maxOnline": 25,
-  "mainVersion": "",
+  "mainVersion": "1.1.91",
   "voiceUrl": "https://thornswood.net/voice-dev",
   "discordAppId": "1549251507361292418",
   "siteUrl": "https://thornswood.net",
