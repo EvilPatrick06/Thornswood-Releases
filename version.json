@@ -1,7 +1,7 @@
 {
-  "launcherVersion": "1.1.81",
-  "launcherUrl": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/582460506",
-  "launcherSha256": "51f371b8f424c092fcac5aa717e3ba87b635b841af45f07e3018143c1b3be9ea",
+  "launcherVersion": "1.1.82",
+  "launcherUrl": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/582897694",
+  "launcherSha256": "e7ca3345a94547bc845e8ce137092bd7ad36d9cafc3f851c6df904f3d5971a12",
   "serverAddress": "192.135.112.23",
   "serverPort": "7777",
   "message": "",
@@ -1307,9 +1307,26 @@
       "url": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/582456098",
       "sha256": "0d20e4fc2602670b075ae4529f5585ddf0694ef49b026517568e06648158743b",
       "notes": "The mod list has a new revision, and the world has started over.\nBefore you press Play, update the Thornswood collection in Vortex to revision 5. The launcher tells you if you have not.\nTaken out: Tavern Games, Respawn - Death Overhaul and SunHelm Survival, which did not work on this server.\nImmersive Armors is now the script free version.\nNew: Playable Rieklings, with RaceCompatibility.\nThe collection now carries the plugin order, so let Vortex sort and do not move plugins by hand.\nBecause the load order changed, everybody makes a new character, and every house and farm is unclaimed again."
+    },
+    {
+      "id": "20260922-2151",
+      "url": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/582897693",
+      "sha256": "8b54466f5dda272598a6926ff2915ba63593950bf0e36665a10a250b1062042a",
+      "notes": "If the launcher ever says a client file is missing, it now goes and gets it.\n\nThe Play page checks the six files that make up the SkyMP client against the\nrecord they were built from, instead of guessing from the text inside one of\nthem. If any is missing or is the wrong build, the launcher fetches it back on\nits own, from your own kept copies or from the update feed.\n\nNobody gets told to reinstall Thornswood over this again. If you hit the\n\"skymp5-client.js is missing\" screen on a fresh install, update and open the\nlauncher and it sorts itself out."
     }
   ],
   "news": [
+    {
+      "date": "9-22-2026 9:51 PM",
+      "title": "If the launcher ever says a client file is missing, it now goes and gets it.",
+      "body": "The Play page checks the six files that make up the SkyMP client against the record they were built from, instead of guessing from the text inside one of them. If any is missing or is the wrong build, the launcher fetches it back on its own, from your own kept copies or from the update feed. Nobody gets told to reinstall Thornswood over this again. If you hit the \"skymp5-client.js is missing\" screen on a fresh install, update and open the launcher and it sorts itself out.",
+      "details": [
+        "Launcher 1.1.82",
+        "1 file to download, 0.2 MB",
+        "The load order moved, so start a new character or expect the old save to complain"
+      ],
+      "channel": ""
+    },
     {
       "date": "9-22-2026 5:22 PM",
       "title": "The launcher now tells you when your mod collection is out of date.",
@@ -1707,15 +1724,6 @@
       "details": [
         "Launcher 1.1.41",
         "1 file to download, 1.0 MB"
-      ]
-    },
-    {
-      "date": "17 Sep 2026",
-      "title": "1.1.40: the downgrade card comes up before the mods card; the GitHub build check compiles again",
-      "body": "",
-      "details": [
-        "Launcher 1.1.40",
-        "1 file to download, 0.0 MB"
       ]
     }
   ],
