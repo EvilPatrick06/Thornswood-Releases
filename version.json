@@ -1,7 +1,7 @@
 {
-  "launcherVersion": "1.1.89",
-  "launcherUrl": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/583218839",
-  "launcherSha256": "5462fc4fe8db5e44f753163670c3eb04a585127f0693e700b42e76087d34a666",
+  "launcherVersion": "1.1.90.1",
+  "launcherUrl": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/583322174",
+  "launcherSha256": "0f28f4cae47931d13ca29759badd34249e7b38c3b3dbb3913a1487ba945e6780",
   "serverAddress": "192.135.112.23",
   "serverPort": "7787",
   "message": "",
@@ -1349,9 +1349,29 @@
       "url": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/583218841",
       "sha256": "9a26f5eb15c949c22aa409d615d6a5d70a072ca10c99bd8ecc295dbb37470f48",
       "notes": "Cold, heat and fire are real now.\n\nThe Temp bar on your screen finally moves. It was stuck on Fine 50 everywhere because nothing was ever telling the server where you were standing. It does now, and it reads all of this:\n\n- A roof over you, and how far the nearest lit fire is. Fires warm you by how close you are, so it climbs as you walk to a hearth and falls as you walk away. Forges, the Skyforge, smelters and cooking spits count too.\n- The weather, including how hard the wind is blowing, and whether it is day or night, and how high up you are.\n- Swimming, and wading, which are not the same thing. Different waters are different temperatures: meltwater, marsh, a puddle, a river, an indoor pool, and lava.\n- What you are wearing. Bare skin is the coldest thing there is, fur is the warmest, metal is the worst of the things that are not nothing, and every piece counts on its own: a hood, a scarf, a cloak, gloves and boots are five separate decisions. The same coat that saves you in a blizzard cooks you at a forge.\n\nSTAND IN A FIRE AND YOU BURN. It spreads to anybody standing next to you, so mind where you are.\n\nThe four bars are half again bigger and easier to read.\n\nThe countdown before an update now says your game is about to close and why, instead of talking about the launcher, and it sits where you can see it rather than up by the compass.\n\nIf the character creation menu has been opening every time you log in on a character you already made, that is fixed."
+    },
+    {
+      "id": "20260923-0220-dev",
+      "url": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/583322173",
+      "sha256": "809992b2ca7cd8e76d69089785d128f21582bcfb2a4c4a1c07a9cafd62defeea",
+      "notes": "Look at somebody and press a key.\n\nFriends, parties, trading, muting and journals are all in, and none of them needs a cursor.\n\n- Look at a person and three keys appear with their name: G asks them to be friends, H offers a trade, L stops you hearing them. Press G again on a friend to take them off your list.\n- P opens your friends and your party: who is online, who is with you, and who to ask. Work you do with your party in the same place counts for more.\n- J opens your journals. As many as you like, pages inside them, and you can share a whole journal or a single page with a friend. It is not a copy, so if you correct a page they see the correction.\n- Trading is two piles and two agreements. Add what you like, set gold, and nothing moves until you have both agreed. Change either side and both agreements come off, so what you agreed to is what you get.\n\nThe old trade menu people remember was a Skyrim Together mod that is not in this game. This one is ours.\n\nVOICE ACTUALLY HAS RANGE NOW. Whisper, normal and yell were all carrying the same distance because of a number the browser was ignoring. A whisper now stops at a table, normal at a room, and a yell reaches across a market and is louder than the other two at the same distance.\n\nDice are rolled by the server. /roll 20, or /roll 6x3 for three of them. Nobody can type a number and call it a roll.\n\nGold, weapons and armour no longer turn up in chests. That rule always existed and the first person to open any chest got the loot anyway, because of when the check ran.\n\n/help is a menu now: /help talking, /help people, /help living, /help work, /help land, /help staff.\n\nAnd if the console has been flashing open and shut when you press the key: that is us, it is the same for everybody, and it says so now instead of doing it silently."
     }
   ],
   "news": [
+    {
+      "date": "9-23-2026 2:20 AM",
+      "title": "Look at somebody and press a key.",
+      "body": "Friends, parties, trading, muting and journals are all in, and none of them needs a cursor. The old trade menu people remember was a Skyrim Together mod that is not in this game. This one is ours. VOICE ACTUALLY HAS RANGE NOW. Whisper, normal and yell were all carrying the same distance because of a number the browser was ignoring. A whisper now stops at a table, normal at a room, and a yell reaches across a market and is louder than the other two at the same distance. Dice are rolled by the server. /roll 20, or /roll 6x3 for three of them. Nobody can type a number and call it a roll. Gold, weapons and armour no longer turn up in chests. That rule always existed and the first person to open any chest got the loot anyway, because of when the check ran. /help is a menu now: /help talking, /help people, /help living, /help work, /help land, /help staff. And if the console has been flashing open and shut when you press the key: that is us, it is the same for everybody, and it says so now instead of doing it silently.",
+      "details": [
+        "Look at a person and three keys appear with their name: G asks them to be friends, H offers a trade, L stops you hearing them. Press G again on a friend to take them off your list.",
+        "P opens your friends and your party: who is online, who is with you, and who to ask. Work you do with your party in the same place counts for more.",
+        "J opens your journals. As many as you like, pages inside them, and you can share a whole journal or a single page with a friend. It is not a copy, so if you correct a page they see the correction.",
+        "Trading is two piles and two agreements. Add what you like, set gold, and nothing moves until you have both agreed. Change either side and both agreements come off, so what you agreed to is what you get.",
+        "Launcher 1.1.90.1",
+        "9 files to download, 3.1 MB"
+      ],
+      "channel": "dev"
+    },
     {
       "date": "9-23-2026 1:18 AM",
       "title": "Cold, heat and fire are real now.",
@@ -1758,23 +1778,13 @@
         "4 files to download, 0.1 MB"
       ],
       "channel": ""
-    },
-    {
-      "date": "9-18-2026 4:15 PM",
-      "title": "voice through the certificate",
-      "body": "",
-      "details": [
-        "Launcher 1.1.49",
-        "4 files to download, 0.1 MB"
-      ],
-      "channel": ""
     }
   ],
   "updateRepo": "EvilPatrick06/Thornswood-Releases",
   "voicePort": "7789",
   "collectionUrl": "https://www.nexusmods.com/games/skyrimspecialedition/collections/ombo2a",
   "maxOnline": 25,
-  "mainVersion": "",
+  "mainVersion": "1.1.89",
   "voiceUrl": "https://thornswood.net/voice-dev",
   "discordAppId": "1549251507361292418",
   "siteUrl": "https://thornswood.net",
