@@ -1,7 +1,7 @@
 {
-  "launcherVersion": "1.1.86",
-  "launcherUrl": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/583031190",
-  "launcherSha256": "efc1c47f50c3cd04d74bb604f5320190c6a4908bdc61ce842a55d7fbd0f014d3",
+  "launcherVersion": "1.1.87",
+  "launcherUrl": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/583092482",
+  "launcherSha256": "6549a54c9e54c837db1d1c6c4881b914a9b8be8d4acdc740ff2cd33af53002cd",
   "serverAddress": "192.135.112.23",
   "serverPort": "7787",
   "message": "",
@@ -1331,9 +1331,25 @@
       "url": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/583031181",
       "sha256": "b8b01a65e9d60579daf78771c3f0960c9e18ddc9695b59429851c82cbdc0401d",
       "notes": "Three chopping blocks are gone, and the SkyUI map error is fixed for everyone.\n\nThe chopping blocks at Solitude, Solitude Stables and Dragon Bridge are taken\nout of the world. They are not just switched off now, they are not there.\n\nThe SkyUI ERROR CODE 5 box about map.swf went out in the last update for new\ninstalls only. This one removes the file from installs that already have it,\nwhich is everybody who was seeing the box. The good world map stays."
+    },
+    {
+      "id": "20260922-2356",
+      "url": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/583092484",
+      "sha256": "c69ade81713e68d196bbfa08ca4132df9dfa9345484bc8d5606e5d495895b449",
+      "notes": "The close game button is quicker, and you can teleport anywhere with a name.\n\nThe character page's Close the game button now asks the engine to exit\nproperly instead of throwing quietly, and it puts the browser down first so\nthere is less to unwind on the way out.\n\nFor playtesters: /tp now reaches any named place in the world, not just the\nnine holds. Type part of a name, like /tp bannered or /tp jorrvaskr. Where\nseveral places share a name it lists them rather than guessing. There are also\n/give and /spawn now, for any of the 1,823 items and 115 creatures this server\nknows by name: /give iron ore 5, /spawn cow 3."
     }
   ],
   "news": [
+    {
+      "date": "9-22-2026 11:56 PM",
+      "title": "The close game button is quicker, and you can teleport anywhere with a name.",
+      "body": "The character page's Close the game button now asks the engine to exit properly instead of throwing quietly, and it puts the browser down first so there is less to unwind on the way out. For playtesters: /tp now reaches any named place in the world, not just the nine holds. Type part of a name, like /tp bannered or /tp jorrvaskr. Where several places share a name it lists them rather than guessing. There are also /give and /spawn now, for any of the 1,823 items and 115 creatures this server knows by name: /give iron ore 5, /spawn cow 3.",
+      "details": [
+        "Launcher 1.1.87",
+        "2 files to download, 0.2 MB"
+      ],
+      "channel": ""
+    },
     {
       "date": "9-22-2026 11:14 PM",
       "title": "Three chopping blocks are gone, and the SkyUI map error is fixed for everyone.",
@@ -1734,24 +1750,6 @@
       "body": "",
       "details": [
         "Launcher 1.1.47"
-      ],
-      "channel": ""
-    },
-    {
-      "date": "9-17-2026 4:47 PM",
-      "title": "Lockpicking works, the game folder looks after itself, and Windows stops asking about the browser",
-      "body": "Everything the dev build has been carrying today.",
-      "details": [
-        "Lockpicking. A locked door no longer opens the moment the mini game appears, a chest you have picked can actually be looted, and lockpicks run out instead of lasting forever",
-        "NirnLab is another server's file and Thornswood's own game folder no longer takes it. The folder brings itself up to date on its own, so this needs nothing from you",
-        "Windows asking whether the game's browser may reach the network is settled while the folder is set up, and refusing is fine",
-        "Thornswood now appears in Windows Settings under Installed apps, and the uninstall button there opens the launcher on the page that does it",
-        "The Play page checks the client bundle now, which is the half that dials the server and the one thing none of the other checks looked at",
-        "Repair puts this build's own files back rather than only its settings",
-        "The uninstall says what it actually does, clears up after itself, and tells you what it left and why",
-        "Dates read month first with a time on them",
-        "Launcher 1.1.46",
-        "15 files to download, 4.2 MB"
       ],
       "channel": ""
     }
