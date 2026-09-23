@@ -1,7 +1,7 @@
 {
-  "launcherVersion": "1.1.87",
-  "launcherUrl": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/583092482",
-  "launcherSha256": "6549a54c9e54c837db1d1c6c4881b914a9b8be8d4acdc740ff2cd33af53002cd",
+  "launcherVersion": "1.1.88",
+  "launcherUrl": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/583111890",
+  "launcherSha256": "a7ad34cd70c4ddb9f77672902693ac1a2b6d11612a5aab3ca19d185a567268d8",
   "serverAddress": "192.135.112.23",
   "serverPort": "7787",
   "message": "",
@@ -1337,9 +1337,25 @@
       "url": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/583092484",
       "sha256": "c69ade81713e68d196bbfa08ca4132df9dfa9345484bc8d5606e5d495895b449",
       "notes": "The close game button is quicker, and you can teleport anywhere with a name.\n\nThe character page's Close the game button now asks the engine to exit\nproperly instead of throwing quietly, and it puts the browser down first so\nthere is less to unwind on the way out.\n\nFor playtesters: /tp now reaches any named place in the world, not just the\nnine holds. Type part of a name, like /tp bannered or /tp jorrvaskr. Where\nseveral places share a name it lists them rather than guessing. There are also\n/give and /spawn now, for any of the 1,823 items and 115 creatures this server\nknows by name: /give iron ore 5, /spawn cow 3."
+    },
+    {
+      "id": "20260923-0009",
+      "url": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/583111891",
+      "sha256": "441177a601579e6981939497ef3f4a124e4a3eb2e41b7e65001298c888bf8a40",
+      "notes": "No more phantom item notifications, and the meters on screen are readable.\n\nThe client was re-applying your whole inventory every five seconds, for ever.\nWhen a difference could not be resolved it handed the same thing over again\nand again, and Skyrim announced every one. That is the boots that kept being\nlooted while you stood still, and the flood after closing a bench. It now\nstops retrying a difference that is not closing.\n\nThe four meters bottom left are bigger, sit on a backing so they are readable\nagainst anything, and no longer fade out. Temp says Temp, has a thermometer\ninstead of a second water drop, and reads as a word and a number with a\ncolour: Freezing, Cold, Chilly, Fine, Warm, Hot, Burning."
     }
   ],
   "news": [
+    {
+      "date": "9-23-2026 12:09 AM",
+      "title": "No more phantom item notifications, and the meters on screen are readable.",
+      "body": "The client was re-applying your whole inventory every five seconds, for ever. When a difference could not be resolved it handed the same thing over again and again, and Skyrim announced every one. That is the boots that kept being looted while you stood still, and the flood after closing a bench. It now stops retrying a difference that is not closing. The four meters bottom left are bigger, sit on a backing so they are readable against anything, and no longer fade out. Temp says Temp, has a thermometer instead of a second water drop, and reads as a word and a number with a colour: Freezing, Cold, Chilly, Fine, Warm, Hot, Burning.",
+      "details": [
+        "Launcher 1.1.88",
+        "1 file to download, 1.4 MB"
+      ],
+      "channel": ""
+    },
     {
       "date": "9-22-2026 11:56 PM",
       "title": "The close game button is quicker, and you can teleport anywhere with a name.",
@@ -1743,15 +1759,6 @@
         "The load order moved, so start a new character or expect the old save to complain"
       ],
       "channel": ""
-    },
-    {
-      "date": "9-17-2026 6:06 PM",
-      "title": "A fresh install can choose a character: the client settings file is created when it is missing, so the first character no longer fails to save",
-      "body": "",
-      "details": [
-        "Launcher 1.1.47"
-      ],
-      "channel": ""
     }
   ],
   "updateRepo": "EvilPatrick06/Thornswood-Releases",
@@ -1765,9 +1772,9 @@
   "presenceImage": "https://thornswood.net/presence.png",
   "collectionRevision": 5,
   "clientRuntime": {
-    "url": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/583010016",
-    "sha256": "f9405e5ad77eff03b758f5e8fd259a8ececdda15844a4fc2fff4746849710799",
-    "bytes": 6536021,
-    "forkCommit": "5075734f"
+    "url": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/583111894",
+    "sha256": "3fb5bb91f773e065b85be1ce190e341e5394e059673bfcda1a0268a524f1ce5c",
+    "bytes": 6538349,
+    "forkCommit": "c8832519"
   }
 }
