@@ -1,7 +1,7 @@
 {
-  "launcherVersion": "1.1.91.4",
-  "launcherUrl": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/584576539",
-  "launcherSha256": "a329e9f2cb9ff2e65c4b51400ca44140ab23d38d0ee2514a1bf2cd8bf30c3a7b",
+  "launcherVersion": "1.1.91.5",
+  "launcherUrl": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/584609571",
+  "launcherSha256": "6e831dc164b7df771580de7e2d927d47039a650ae4b36375aee3c22d962bf92a",
   "serverAddress": "192.135.112.23",
   "serverPort": "7787",
   "message": "",
@@ -1385,9 +1385,27 @@
       "url": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/584576540",
       "sha256": "c9acce0b6c5fb95f3ff8a16f646ee9dcc095ab503b6ddd43170ff406be14e668",
       "notes": "A leftover file from September is cleaned off your machine\nOne of the launcher's own working files was accidentally included in nine updates back in September. It expired the day it was made and opens nothing, but it does not belong on anybody's disk, so this update deletes it.\n- nothing in the game changes\n- the installer publisher now finds what the packager built"
+    },
+    {
+      "id": "20260923-1524-dev",
+      "url": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/584609572",
+      "sha256": "9713bce07445aad5eb4d26982bde6c5927ff5ef6b0d9db4fea42ccb33c406eaf",
+      "notes": "A developer tool stops being bound to F8 on everybody's game\nThe coordinate marker that measures arrival points was shipping to every install on an unmodified F8. It is still there for the people who use it and is simply not bound for anybody else.\n- F8 does nothing unless the site says you work on this\n- nothing else in the game changes"
     }
   ],
   "news": [
+    {
+      "date": "9-23-2026 3:24 PM",
+      "title": "A developer tool stops being bound to F8 on everybody's game",
+      "body": "The coordinate marker that measures arrival points was shipping to every install on an unmodified F8. It is still there for the people who use it and is simply not bound for anybody else.",
+      "details": [
+        "F8 does nothing unless the site says you work on this",
+        "nothing else in the game changes",
+        "Launcher 1.1.91.5",
+        "1 file to download, 0.0 MB"
+      ],
+      "channel": "dev"
+    },
     {
       "date": "9-23-2026 3:03 PM",
       "title": "A leftover file from September is cleaned off your machine",
@@ -1809,16 +1827,6 @@
         "Launcher 1.1.57",
         "1 file to download, 0.0 MB",
         "The load order moved, so start a new character or expect the old save to complain"
-      ],
-      "channel": ""
-    },
-    {
-      "date": "9-19-2026 8:44 PM",
-      "title": "voice ranges, chat roles, Q menu",
-      "body": "",
-      "details": [
-        "Launcher 1.1.55",
-        "2 files to download, 1.0 MB"
       ],
       "channel": ""
     }
