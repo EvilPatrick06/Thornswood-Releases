@@ -1,7 +1,7 @@
 {
   "launcherVersion": "1.1.83",
-  "launcherUrl": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/582912113",
-  "launcherSha256": "595d40c7a2843adec50d62b4f519f48bec66541c28b3d6983747e48aec05ffea",
+  "launcherUrl": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/582914808",
+  "launcherSha256": "656c28871c5d10470a1fdbcb603625642b325553df66654f512deec6d77f45c8",
   "serverAddress": "192.135.112.23",
   "serverPort": "7777",
   "message": "",
@@ -1313,9 +1313,25 @@
       "url": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/582897693",
       "sha256": "8b54466f5dda272598a6926ff2915ba63593950bf0e36665a10a250b1062042a",
       "notes": "If the launcher ever says a client file is missing, it now goes and gets it.\n\nThe Play page checks the six files that make up the SkyMP client against the\nrecord they were built from, instead of guessing from the text inside one of\nthem. If any is missing or is the wrong build, the launcher fetches it back on\nits own, from your own kept copies or from the update feed.\n\nNobody gets told to reinstall Thornswood over this again. If you hit the\n\"skymp5-client.js is missing\" screen on a fresh install, update and open the\nlauncher and it sorts itself out."
+    },
+    {
+      "id": "20260922-2202",
+      "url": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/582914809",
+      "sha256": "6c30cfbcce0e3eca2327d6cb5e44a46f2ea919c3d79fe5deac9cd50e2684a9bf",
+      "notes": "The SkyMP client files are in this update, so a broken install can repair itself.\n\nNothing about the game changes here. This update carries the six files that\nmake up the SkyMP client, so a launcher that finds one of them missing has\nsomewhere to fetch it from.\n\nIf your Client row is red, open the launcher and give it a moment."
     }
   ],
   "news": [
+    {
+      "date": "9-22-2026 10:02 PM",
+      "title": "The SkyMP client files are in this update, so a broken install can repair itself.",
+      "body": "Nothing about the game changes here. This update carries the six files that make up the SkyMP client, so a launcher that finds one of them missing has somewhere to fetch it from. If your Client row is red, open the launcher and give it a moment.",
+      "details": [
+        "Launcher 1.1.83",
+        "6 files to download, 18.3 MB"
+      ],
+      "channel": ""
+    },
     {
       "date": "9-22-2026 10:00 PM",
       "title": "A missing client file is now actually put back, instead of just being named.",
@@ -1716,14 +1732,6 @@
       "details": [
         "Launcher 1.1.43",
         "1 file to download, 1.0 MB"
-      ]
-    },
-    {
-      "date": "17 Sep 2026",
-      "title": "1.1.42: Thornswood can run from a Skyrim folder of its own (Settings, Maintenance), the Downgrade button clears the console line and runs the command, uninstall takes the installer's files out of the Steam copy",
-      "body": "",
-      "details": [
-        "Launcher 1.1.42"
       ]
     }
   ],
