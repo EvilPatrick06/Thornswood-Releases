@@ -1,7 +1,7 @@
 {
-  "launcherVersion": "1.1.82",
-  "launcherUrl": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/582897694",
-  "launcherSha256": "e7ca3345a94547bc845e8ce137092bd7ad36d9cafc3f851c6df904f3d5971a12",
+  "launcherVersion": "1.1.83",
+  "launcherUrl": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/582912113",
+  "launcherSha256": "595d40c7a2843adec50d62b4f519f48bec66541c28b3d6983747e48aec05ffea",
   "serverAddress": "192.135.112.23",
   "serverPort": "7777",
   "message": "",
@@ -1317,6 +1317,15 @@
   ],
   "news": [
     {
+      "date": "9-22-2026 10:00 PM",
+      "title": "A missing client file is now actually put back, instead of just being named.",
+      "body": "The last update added the check that spots when one of the SkyMP client files is missing or is the wrong build. This one does something about it: the launcher repairs them when it starts, and again whenever you press Recheck. If your Play button is blocked on a red Client row, open the launcher and give it a moment. It will fetch what is missing and the row goes green on its own.",
+      "details": [
+        "Launcher 1.1.83"
+      ],
+      "channel": ""
+    },
+    {
       "date": "9-22-2026 9:51 PM",
       "title": "If the launcher ever says a client file is missing, it now goes and gets it.",
       "body": "The Play page checks the six files that make up the SkyMP client against the record they were built from, instead of guessing from the text inside one of them. If any is missing or is the wrong build, the launcher fetches it back on its own, from your own kept copies or from the update feed. Nobody gets told to reinstall Thornswood over this again. If you hit the \"skymp5-client.js is missing\" screen on a fresh install, update and open the launcher and it sorts itself out.",
@@ -1715,15 +1724,6 @@
       "body": "",
       "details": [
         "Launcher 1.1.42"
-      ]
-    },
-    {
-      "date": "17 Sep 2026",
-      "title": "1.1.41: your key binds and field of view stay on your machine (the 16 Sep updates put one machine's on everyone; a 120 field of view goes back to 65), locks are back, levers, chains, bars and chairs work, an update closes the game after the five minute warning so the launcher can install it, the Downgrade button types into Steam's console itself, arrival points fixed in Whiterun, Riften, Windhelm, Morthal and Winterhold",
-      "body": "",
-      "details": [
-        "Launcher 1.1.41",
-        "1 file to download, 1.0 MB"
       ]
     }
   ],
