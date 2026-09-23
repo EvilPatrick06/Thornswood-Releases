@@ -1,7 +1,7 @@
 {
-  "launcherVersion": "1.1.91.3",
-  "launcherUrl": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/584551391",
-  "launcherSha256": "1ebfa1755a6e484692ebea33eeb4a200d57e60afb2df293003f2ba25ec8e9f47",
+  "launcherVersion": "1.1.91.4",
+  "launcherUrl": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/584576539",
+  "launcherSha256": "a329e9f2cb9ff2e65c4b51400ca44140ab23d38d0ee2514a1bf2cd8bf30c3a7b",
   "serverAddress": "192.135.112.23",
   "serverPort": "7787",
   "message": "",
@@ -1379,9 +1379,27 @@
       "url": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/584551396",
       "sha256": "c4b1ab3027f2099653c3cdf9300c5b16f4fa73ad3282e1cd8b0833385920f771",
       "notes": "The launcher log answers a question it used to raise\nWhen the game will not leave the main menu, the log now says whether Skyrim was ever asked to load at all. That is the difference between two completely different faults, and nobody could tell them apart without sitting at the machine.\n- nothing changes in the game\n- the plugin log carries one more line while it waits"
+    },
+    {
+      "id": "20260923-1503-dev",
+      "url": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/584576540",
+      "sha256": "c9acce0b6c5fb95f3ff8a16f646ee9dcc095ab503b6ddd43170ff406be14e668",
+      "notes": "A leftover file from September is cleaned off your machine\nOne of the launcher's own working files was accidentally included in nine updates back in September. It expired the day it was made and opens nothing, but it does not belong on anybody's disk, so this update deletes it.\n- nothing in the game changes\n- the installer publisher now finds what the packager built"
     }
   ],
   "news": [
+    {
+      "date": "9-23-2026 3:03 PM",
+      "title": "A leftover file from September is cleaned off your machine",
+      "body": "One of the launcher's own working files was accidentally included in nine updates back in September. It expired the day it was made and opens nothing, but it does not belong on anybody's disk, so this update deletes it.",
+      "details": [
+        "nothing in the game changes",
+        "the installer publisher now finds what the packager built",
+        "Launcher 1.1.91.4",
+        "Nothing to download, this one is bookkeeping"
+      ],
+      "channel": "dev"
+    },
     {
       "date": "9-23-2026 2:44 PM",
       "title": "The launcher log answers a question it used to raise",
@@ -1801,16 +1819,6 @@
       "details": [
         "Launcher 1.1.55",
         "2 files to download, 1.0 MB"
-      ],
-      "channel": ""
-    },
-    {
-      "date": "9-19-2026 8:10 PM",
-      "title": "InventoryInjector out of the folder, jump probe",
-      "body": "",
-      "details": [
-        "Launcher 1.1.54",
-        "3 files to download, 1.1 MB"
       ],
       "channel": ""
     }
