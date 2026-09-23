@@ -1,7 +1,7 @@
 {
-  "launcherVersion": "1.1.84",
-  "launcherUrl": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/582922320",
-  "launcherSha256": "49d7281d46a7f59f3a800f993edb642d4bf97bbb016e68fbd7dab605164260c5",
+  "launcherVersion": "1.1.85",
+  "launcherUrl": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/583010017",
+  "launcherSha256": "c7227b4d878557b24ecbb54c3eccec1416b6208bb2fe8dc69de256ee58637e44",
   "serverAddress": "192.135.112.23",
   "serverPort": "7787",
   "message": "",
@@ -1319,9 +1319,31 @@
       "url": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/582914809",
       "sha256": "6c30cfbcce0e3eca2327d6cb5e44a46f2ea919c3d79fe5deac9cd50e2684a9bf",
       "notes": "The SkyMP client files are in this update, so a broken install can repair itself.\n\nNothing about the game changes here. This update carries the six files that\nmake up the SkyMP client, so a launcher that finds one of them missing has\nsomewhere to fetch it from.\n\nIf your Client row is red, open the launcher and give it a moment."
+    },
+    {
+      "id": "20260922-2302",
+      "url": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/583010015",
+      "sha256": "da0619185b0cbd1f52b04fb42e36b0b81197cb4a2515a403c1e77c0185a97a42",
+      "notes": "Hunger, thirst and exhaustion arrive, and a few things stop getting in your way.\n\nNew: your character now gets hungry, thirsty and tired. Nothing here can kill\nyou or knock you out. An empty meter makes you worse at things, and that is\nall. Say /needs to see where you stand, /rest sit or bed to recover, /eat and\n/drink, and /bard if you are playing music in an inn, which helps everyone\nresting near you. The numbers are a first guess and we want to hear what feels\nwrong.\n\nAlso in this one:\n  - The SkyUI error box about map.swf on the way in is gone, and the good\n    world map stays.\n  - Character creation has a Not now button. Closing it no longer reopens\n    thirty seconds later.\n  - Mages see their two spell points while creating instead of only after.\n  - The character page has a Close the game button.\n  - Mouse 4 and Mouse 5 can be set as your voice key.\n  - Three chopping blocks around Solitude and Dragon Bridge are out of use."
     }
   ],
   "news": [
+    {
+      "date": "9-22-2026 11:02 PM",
+      "title": "Hunger, thirst and exhaustion arrive, and a few things stop getting in your way.",
+      "body": "New: your character now gets hungry, thirsty and tired. Nothing here can kill you or knock you out. An empty meter makes you worse at things, and that is all. Say /needs to see where you stand, /rest sit or bed to recover, /eat and /drink, and /bard if you are playing music in an inn, which helps everyone resting near you. The numbers are a first guess and we want to hear what feels wrong. Also in this one: world map stays. thirty seconds later.",
+      "details": [
+        "The SkyUI error box about map.swf on the way in is gone, and the good",
+        "Character creation has a Not now button. Closing it no longer reopens",
+        "Mages see their two spell points while creating instead of only after.",
+        "The character page has a Close the game button.",
+        "Mouse 4 and Mouse 5 can be set as your voice key.",
+        "Three chopping blocks around Solitude and Dragon Bridge are out of use.",
+        "Launcher 1.1.85",
+        "3 files to download, 0.3 MB"
+      ],
+      "channel": ""
+    },
     {
       "date": "9-22-2026 10:07 PM",
       "title": "The client repair now finds the files it downloads.",
@@ -1725,14 +1747,6 @@
         "Launcher 1.1.45",
         "1 file to download, 1.0 MB"
       ]
-    },
-    {
-      "date": "17 Sep 2026",
-      "title": "Scan and Fix can pull the server's copy of a mismatched plugin now: the file server refused the real plugin names with a 403, so each one is served by its load order position instead",
-      "body": "",
-      "details": [
-        "Launcher 1.1.44"
-      ]
     }
   ],
   "updateRepo": "EvilPatrick06/Thornswood-Releases",
@@ -1744,5 +1758,11 @@
   "discordAppId": "1549251507361292418",
   "siteUrl": "https://thornswood.net",
   "presenceImage": "https://thornswood.net/presence.png",
-  "collectionRevision": 5
+  "collectionRevision": 5,
+  "clientRuntime": {
+    "url": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/583010016",
+    "sha256": "f9405e5ad77eff03b758f5e8fd259a8ececdda15844a4fc2fff4746849710799",
+    "bytes": 6536021,
+    "forkCommit": "5075734f"
+  }
 }
