@@ -1,7 +1,7 @@
 {
-  "launcherVersion": "1.1.88",
-  "launcherUrl": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/583111890",
-  "launcherSha256": "a7ad34cd70c4ddb9f77672902693ac1a2b6d11612a5aab3ca19d185a567268d8",
+  "launcherVersion": "1.1.88.1",
+  "launcherUrl": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/583213982",
+  "launcherSha256": "e41392023c8019c911c7cb352dfe8f4fe0153a5a7e6b0a4b786efcabed461b05",
   "serverAddress": "192.135.112.23",
   "serverPort": "7787",
   "message": "",
@@ -1343,9 +1343,29 @@
       "url": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/583111891",
       "sha256": "441177a601579e6981939497ef3f4a124e4a3eb2e41b7e65001298c888bf8a40",
       "notes": "No more phantom item notifications, and the meters on screen are readable.\n\nThe client was re-applying your whole inventory every five seconds, for ever.\nWhen a difference could not be resolved it handed the same thing over again\nand again, and Skyrim announced every one. That is the boots that kept being\nlooted while you stood still, and the flood after closing a bench. It now\nstops retrying a difference that is not closing.\n\nThe four meters bottom left are bigger, sit on a backing so they are readable\nagainst anything, and no longer fade out. Temp says Temp, has a thermometer\ninstead of a second water drop, and reads as a word and a number with a\ncolour: Freezing, Cold, Chilly, Fine, Warm, Hot, Burning."
+    },
+    {
+      "id": "20260923-0114-dev",
+      "url": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/583213981",
+      "sha256": "dcf222cb2c8d3e8a6147cae4de9cb3f953a0fcdb0d415107fdce51669d2e2561",
+      "notes": "Cold, heat and fire are real now.\n\nThe Temp bar on your screen finally moves. It was stuck on Fine 50 everywhere because nothing was ever telling the server where you were standing. It does now, and it reads all of this:\n\n- A roof over you, and how far the nearest lit fire is. Fires warm you by how close you are, so it climbs as you walk to a hearth and falls as you walk away. Forges, the Skyforge, smelters and cooking spits count too.\n- The weather, including how hard the wind is blowing, and whether it is day or night, and how high up you are.\n- Swimming, and wading, which are not the same thing. Different waters are different temperatures: meltwater, marsh, a puddle, a river, an indoor pool, and lava.\n- What you are wearing. Bare skin is the coldest thing there is, fur is the warmest, metal is the worst of the things that are not nothing, and every piece counts on its own: a hood, a scarf, a cloak, gloves and boots are five separate decisions. The same coat that saves you in a blizzard cooks you at a forge.\n\nSTAND IN A FIRE AND YOU BURN. It spreads to anybody standing next to you, so mind where you are.\n\nThe four bars are half again bigger and easier to read.\n\nThe countdown before an update now says your game is about to close and why, instead of talking about the launcher, and it sits where you can see it rather than up by the compass.\n\nIf the character creation menu has been opening every time you log in on a character you already made, that is fixed."
     }
   ],
   "news": [
+    {
+      "date": "9-23-2026 1:14 AM",
+      "title": "Cold, heat and fire are real now.",
+      "body": "The Temp bar on your screen finally moves. It was stuck on Fine 50 everywhere because nothing was ever telling the server where you were standing. It does now, and it reads all of this: STAND IN A FIRE AND YOU BURN. It spreads to anybody standing next to you, so mind where you are. The four bars are half again bigger and easier to read. The countdown before an update now says your game is about to close and why, instead of talking about the launcher, and it sits where you can see it rather than up by the compass. If the character creation menu has been opening every time you log in on a character you already made, that is fixed.",
+      "details": [
+        "A roof over you, and how far the nearest lit fire is. Fires warm you by how close you are, so it climbs as you walk to a hearth and falls as you walk away. Forges, the Skyforge, smelters and cooking spits count too.",
+        "The weather, including how hard the wind is blowing, and whether it is day or night, and how high up you are.",
+        "Swimming, and wading, which are not the same thing. Different waters are different temperatures: meltwater, marsh, a puddle, a river, an indoor pool, and lava.",
+        "What you are wearing. Bare skin is the coldest thing there is, fur is the warmest, metal is the worst of the things that are not nothing, and every piece counts on its own: a hood, a scarf, a cloak, gloves and boots are five separate decisions. The same coat that saves you in a blizzard cooks you at a forge.",
+        "Launcher 1.1.88.1",
+        "3 files to download, 1.6 MB"
+      ],
+      "channel": "dev"
+    },
     {
       "date": "9-23-2026 12:09 AM",
       "title": "No more phantom item notifications, and the meters on screen are readable.",
@@ -1748,24 +1768,13 @@
         "4 files to download, 0.1 MB"
       ],
       "channel": ""
-    },
-    {
-      "date": "9-18-2026 2:42 PM",
-      "title": "voice recovery, join tokens, backups, site hardening",
-      "body": "",
-      "details": [
-        "Launcher 1.1.48",
-        "3 files to download, 1.1 MB",
-        "The load order moved, so start a new character or expect the old save to complain"
-      ],
-      "channel": ""
     }
   ],
   "updateRepo": "EvilPatrick06/Thornswood-Releases",
   "voicePort": "7789",
   "collectionUrl": "https://www.nexusmods.com/games/skyrimspecialedition/collections/ombo2a",
   "maxOnline": 25,
-  "mainVersion": "",
+  "mainVersion": "1.1.88",
   "voiceUrl": "https://thornswood.net/voice-dev",
   "discordAppId": "1549251507361292418",
   "siteUrl": "https://thornswood.net",
