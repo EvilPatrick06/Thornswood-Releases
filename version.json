@@ -1,7 +1,7 @@
 {
-  "launcherVersion": "1.1.91.5",
-  "launcherUrl": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/584609571",
-  "launcherSha256": "6e831dc164b7df771580de7e2d927d47039a650ae4b36375aee3c22d962bf92a",
+  "launcherVersion": "1.1.91.6",
+  "launcherUrl": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/584631198",
+  "launcherSha256": "33f56d04657c1cd31f7bc9b7aa1ea5c466edb64cc97a06b743516dbf4a03436c",
   "serverAddress": "192.135.112.23",
   "serverPort": "7787",
   "message": "",
@@ -1391,9 +1391,27 @@
       "url": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/584609572",
       "sha256": "9713bce07445aad5eb4d26982bde6c5927ff5ef6b0d9db4fea42ccb33c406eaf",
       "notes": "A developer tool stops being bound to F8 on everybody's game\nThe coordinate marker that measures arrival points was shipping to every install on an unmodified F8. It is still there for the people who use it and is simply not bound for anybody else.\n- F8 does nothing unless the site says you work on this\n- nothing else in the game changes"
+    },
+    {
+      "id": "20260923-1541-dev",
+      "url": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/584631192",
+      "sha256": "1eefe8c270fb7e964aa069555cf414052acd8764cb81e9acd37aef7f655792c0",
+      "notes": "The game tells you when you are on fire\nCatching fire, standing in one and it going out now say so on screen instead of only in a log nobody reads while they are playing.\n- a notice when you catch fire and when it goes out\n- the console refusal speaks the same way as everything else"
     }
   ],
   "news": [
+    {
+      "date": "9-23-2026 3:41 PM",
+      "title": "The game tells you when you are on fire",
+      "body": "Catching fire, standing in one and it going out now say so on screen instead of only in a log nobody reads while they are playing.",
+      "details": [
+        "a notice when you catch fire and when it goes out",
+        "the console refusal speaks the same way as everything else",
+        "Launcher 1.1.91.6",
+        "1 file to download, 0.2 MB"
+      ],
+      "channel": "dev"
+    },
     {
       "date": "9-23-2026 3:24 PM",
       "title": "A developer tool stops being bound to F8 on everybody's game",
@@ -1816,17 +1834,6 @@
       "details": [
         "Launcher 1.1.58",
         "2 files to download, 0.1 MB"
-      ],
-      "channel": ""
-    },
-    {
-      "date": "9-20-2026 11:04 AM",
-      "title": "voice local range halved",
-      "body": "",
-      "details": [
-        "Launcher 1.1.57",
-        "1 file to download, 0.0 MB",
-        "The load order moved, so start a new character or expect the old save to complain"
       ],
       "channel": ""
     }
