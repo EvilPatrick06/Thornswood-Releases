@@ -1,7 +1,7 @@
 {
-  "launcherVersion": "1.1.85",
-  "launcherUrl": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/583010017",
-  "launcherSha256": "c7227b4d878557b24ecbb54c3eccec1416b6208bb2fe8dc69de256ee58637e44",
+  "launcherVersion": "1.1.86",
+  "launcherUrl": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/583031190",
+  "launcherSha256": "efc1c47f50c3cd04d74bb604f5320190c6a4908bdc61ce842a55d7fbd0f014d3",
   "serverAddress": "192.135.112.23",
   "serverPort": "7787",
   "message": "",
@@ -1325,9 +1325,25 @@
       "url": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/583010015",
       "sha256": "da0619185b0cbd1f52b04fb42e36b0b81197cb4a2515a403c1e77c0185a97a42",
       "notes": "Hunger, thirst and exhaustion arrive, and a few things stop getting in your way.\n\nNew: your character now gets hungry, thirsty and tired. Nothing here can kill\nyou or knock you out. An empty meter makes you worse at things, and that is\nall. Say /needs to see where you stand, /rest sit or bed to recover, /eat and\n/drink, and /bard if you are playing music in an inn, which helps everyone\nresting near you. The numbers are a first guess and we want to hear what feels\nwrong.\n\nAlso in this one:\n  - The SkyUI error box about map.swf on the way in is gone, and the good\n    world map stays.\n  - Character creation has a Not now button. Closing it no longer reopens\n    thirty seconds later.\n  - Mages see their two spell points while creating instead of only after.\n  - The character page has a Close the game button.\n  - Mouse 4 and Mouse 5 can be set as your voice key.\n  - Three chopping blocks around Solitude and Dragon Bridge are out of use."
+    },
+    {
+      "id": "20260922-2314",
+      "url": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/583031181",
+      "sha256": "b8b01a65e9d60579daf78771c3f0960c9e18ddc9695b59429851c82cbdc0401d",
+      "notes": "Three chopping blocks are gone, and the SkyUI map error is fixed for everyone.\n\nThe chopping blocks at Solitude, Solitude Stables and Dragon Bridge are taken\nout of the world. They are not just switched off now, they are not there.\n\nThe SkyUI ERROR CODE 5 box about map.swf went out in the last update for new\ninstalls only. This one removes the file from installs that already have it,\nwhich is everybody who was seeing the box. The good world map stays."
     }
   ],
   "news": [
+    {
+      "date": "9-22-2026 11:14 PM",
+      "title": "Three chopping blocks are gone, and the SkyUI map error is fixed for everyone.",
+      "body": "The chopping blocks at Solitude, Solitude Stables and Dragon Bridge are taken out of the world. They are not just switched off now, they are not there. The SkyUI ERROR CODE 5 box about map.swf went out in the last update for new installs only. This one removes the file from installs that already have it, which is everybody who was seeing the box. The good world map stays.",
+      "details": [
+        "Launcher 1.1.86",
+        "1 file to download, 0.2 MB"
+      ],
+      "channel": ""
+    },
     {
       "date": "9-22-2026 11:02 PM",
       "title": "Hunger, thirst and exhaustion arrive, and a few things stop getting in your way.",
@@ -1738,15 +1754,6 @@
         "15 files to download, 4.2 MB"
       ],
       "channel": ""
-    },
-    {
-      "date": "17 Sep 2026",
-      "title": "an update countdown no longer kicks anybody (a kick without a server restart left existing characters unable to get back in and with no NPCs), a fresh install never gets the shared profile 1 and never deletes your own Skyrim saves, the Downgrade button logs the exact command and what Steam said when a part does not start",
-      "body": "",
-      "details": [
-        "Launcher 1.1.45",
-        "1 file to download, 1.0 MB"
-      ]
     }
   ],
   "updateRepo": "EvilPatrick06/Thornswood-Releases",
