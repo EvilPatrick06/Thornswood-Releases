@@ -1,7 +1,7 @@
 {
-  "launcherVersion": "1.1.91.7",
-  "launcherUrl": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/584784991",
-  "launcherSha256": "11b6d638127fe2a2be6bb9554f44359c5f4e9b53603e544688a312c0300a02cb",
+  "launcherVersion": "1.1.91.8",
+  "launcherUrl": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/584873881",
+  "launcherSha256": "df72ee38d46924f4c636bbdc3ba9abe20f7f2965d63465c8fa476e2f1a12679f",
   "serverAddress": "192.135.112.23",
   "serverPort": "7787",
   "message": "",
@@ -1403,9 +1403,25 @@
       "url": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/584784990",
       "sha256": "e2dd2465ba977b03d8e1e3e5bb8de896f22738ccd8dfc22ca0a3f97719a8c3f5",
       "notes": "The launcher and the plugins catch up with tonight's fixes"
+    },
+    {
+      "id": "20260923-1850-dev",
+      "url": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/584873880",
+      "sha256": "8d4f1fe0619e76237d4a834a104390827f04b3935bca76c3e613dab1fbbfc769",
+      "notes": "Fires warm you again, and /needs says what the temperature is doing"
     }
   ],
   "news": [
+    {
+      "date": "9-23-2026 6:50 PM",
+      "title": "Fires warm you again, and /needs says what the temperature is doing",
+      "body": "",
+      "details": [
+        "Launcher 1.1.91.8",
+        "2 files to download, 1.6 MB"
+      ],
+      "channel": "dev"
+    },
     {
       "date": "9-23-2026 5:52 PM",
       "title": "The launcher and the plugins catch up with tonight's fixes",
@@ -1830,16 +1846,6 @@
       "body": "",
       "details": [
         "Launcher 1.1.60"
-      ],
-      "channel": ""
-    },
-    {
-      "date": "9-20-2026 11:29 AM",
-      "title": "the IsNPC clear is guarded, so it leaves character creation alone",
-      "body": "",
-      "details": [
-        "Launcher 1.1.59",
-        "1 file to download, 0.1 MB"
       ],
       "channel": ""
     }
