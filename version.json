@@ -1,7 +1,7 @@
 {
-  "launcherVersion": "1.1.92.5",
-  "launcherUrl": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/586545065",
-  "launcherSha256": "2b8994fb1017bf214158f21764a044f8b1b8ddeb684671dc2a1e04dc0f3160e6",
+  "launcherVersion": "1.1.92.6",
+  "launcherUrl": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/586784084",
+  "launcherSha256": "ccb48c96ceef2540a941d07dbd289bf203c97730de03a196ef8fe330ef5cc2a3",
   "serverAddress": "192.135.112.23",
   "serverPort": "7787",
   "message": "",
@@ -1397,9 +1397,32 @@
       "url": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/586545064",
       "sha256": "3c9c0201de8795faf96621733e2b29c2f71ec88bcb4026515a6d5f35c8c5a945",
       "notes": "Your session logs finally reach us, and a bad launcher update can no longer leave you without one\nThe launcher's own update, the Play page and the uninstall all changed in this build.\n- If the game crashes, the launcher now sends the crash log and the game's platform log with the rest of that session's logs, so nobody has to ask you to dig them out. Until this build no session's logs had ever arrived: every upload was being turned away.\n- If a new version of the launcher fails to start, you are put back on the version you had instead of being left with no launcher and a reinstall.\n- The Play page has a row for the Address Library, which several of the collection's mods need to load. If it is missing the row turns amber and says what to do. It does not stop you playing.\n- Uninstalling from Windows Settings now opens straight on the uninstall, without checking for updates, joining voice or touching the game folder first."
+    },
+    {
+      "id": "20260924-1436-dev",
+      "url": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/586784086",
+      "sha256": "9743619ce49b5bc9c56600ecfaa63c92ecc2e6fafe644889828af1aa079d861a",
+      "notes": "Press U at a door to make a key mold, and J opens only our journal\nKey molds, the journal and your keys around the game's menus all changed in this dev build.\n- Carrying a blank Key Mold and looking at a door shows a prompt: press U to press the mold into that lock. Whoever holds the building has to be there. At a forge the mold then cuts keys for that house, and it is not used up.\n- J opens our journal alone. The game's own journal no longer opens behind it, and Escape still opens the game's menu.\n- P, J, G, H and L no longer open our windows while you type a character's name or have one of the game's menus open, such as the inventory or the map.\n- The party and trade windows now look like the K panel and the journal.\n- Arriving at your inn tells you where you are.\n- The launcher's moving title strip stops while the game runs, so it no longer takes processor time from the game.\n- The Help page explains parties, and the server-down countdown shows even when the server never answers at all."
     }
   ],
   "news": [
+    {
+      "date": "9-24-2026 2:36 PM",
+      "title": "Press U at a door to make a key mold, and J opens only our journal",
+      "body": "Key molds, the journal and your keys around the game's menus all changed in this dev build.",
+      "details": [
+        "Carrying a blank Key Mold and looking at a door shows a prompt: press U to press the mold into that lock. Whoever holds the building has to be there. At a forge the mold then cuts keys for that house, and it is not used up.",
+        "J opens our journal alone. The game's own journal no longer opens behind it, and Escape still opens the game's menu.",
+        "P, J, G, H and L no longer open our windows while you type a character's name or have one of the game's menus open, such as the inventory or the map.",
+        "The party and trade windows now look like the K panel and the journal.",
+        "Arriving at your inn tells you where you are.",
+        "The launcher's moving title strip stops while the game runs, so it no longer takes processor time from the game.",
+        "The Help page explains parties, and the server-down countdown shows even when the server never answers at all.",
+        "Launcher 1.1.92.6",
+        "6 files to download, 0.3 MB"
+      ],
+      "channel": "dev"
+    },
     {
       "date": "9-24-2026 12:21 PM",
       "title": "Your session logs finally reach us, and a bad launcher update can no longer leave you without one",
@@ -1813,16 +1836,6 @@
       "details": [
         "Launcher 1.1.59",
         "1 file to download, 0.1 MB"
-      ],
-      "channel": ""
-    },
-    {
-      "date": "9-20-2026 11:24 AM",
-      "title": "jump and sprint clear IsNPC on the press frame, and the light plugins are listed too",
-      "body": "",
-      "details": [
-        "Launcher 1.1.58",
-        "2 files to download, 0.1 MB"
       ],
       "channel": ""
     }
