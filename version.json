@@ -1,7 +1,7 @@
 {
-  "launcherVersion": "1.1.92.3",
-  "launcherUrl": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/586317005",
-  "launcherSha256": "e4d1232c9e80282fae987b47640a9b6fc64c923708c93e9b62d435dfcfad97af",
+  "launcherVersion": "1.1.92.4",
+  "launcherUrl": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/586418180",
+  "launcherSha256": "31d49d7c2ee623448e1cd538899a2d5e534356ba45190fbe0b193741779eb532",
   "serverAddress": "192.135.112.23",
   "serverPort": "7787",
   "message": "",
@@ -1385,9 +1385,24 @@
       "url": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/586317015",
       "sha256": "6b3137d667281fd162480b0c7b51ca10af7628cb3083d5b8967bcea7343c2642",
       "notes": "Keys you can make. A smith forges a blank Key Mold at a forge from one iron ingot. Take it to the door of the place with whoever holds it standing there and say /mold: the blank becomes that door's mold and goes to the holder. At a forge, crafting a Key then cuts one for that house, and the mold is not used up. One key opens every door of the property. This build carries the updated Thornswood Content plugin that makes the two recipes, for the dev build only, until it goes up on Nexus.\n\nIf you mute somebody, you no longer hear them. The mute used to stop at the game's overlay while their voice kept playing through the launcher.\n\nA command typed while your character is on its way back after a restart now waits and runs the moment you arrive, instead of saying the server cannot find your character.\n\nWhen the server goes down, the game says so and counts down to the main menu, instead of throwing you out with no word.\n\nThe journal wears the same look as the K panel.\n\nWalking into a new cell no longer trips the fire check, which was losing your position report to the server for that moment.\n\nThe Downgrade button asks before it takes over Steam's window.\n\nThe launcher can show a notice above Play, and says plainly when Discord or the site did not answer rather than telling you that you are not in the Discord.\n\nThe first-run card asks for a name that belongs in Skyrim.\n"
+    },
+    {
+      "id": "20260924-1106-dev",
+      "url": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/586418179",
+      "sha256": "cfa5150f27f02fafe744b6fab2128a772cfde4440f8956ab2a8a22e198738cf8",
+      "notes": "If your Mods page says your load order is not the server's at position 52, with Hothtrooper44_Armor_Ecksstra.esp where the server has SkyHUD.esp, press Fix: it now flags that plugin light, the way the Nexus copy already is, and the two orders line up. Pressing Fix before only reordered the list, which could never clear it."
     }
   ],
   "news": [
+    {
+      "date": "9-24-2026 11:07 AM",
+      "title": "If your Mods page says your load order is not the server's at position 52, with Hothtrooper44_Armor_Ecksstra.esp where the server has SkyHUD.esp, press Fix: it now flags that plugin light, the way the Nexus copy already is, and the two orders line up. Pressing Fix before only reordered the list, which could never clear it.",
+      "body": "",
+      "details": [
+        "Launcher 1.1.92.4"
+      ],
+      "channel": "dev"
+    },
     {
       "date": "9-24-2026 10:08 AM",
       "title": "Keys you can make. A smith forges a blank Key Mold at a forge from one iron ingot. Take it to the door of the place with whoever holds it standing there and say /mold: the blank becomes that door's mold and goes to the holder. At a forge, crafting a Key then cuts one for that house, and the mold is not used up. One key opens every door of the property. This build carries the updated Thornswood Content plugin that makes the two recipes, for the dev build only, until it goes up on Nexus.",
@@ -1799,16 +1814,6 @@
         "Launcher 1.1.57",
         "1 file to download, 0.0 MB",
         "The load order moved, so start a new character or expect the old save to complain"
-      ],
-      "channel": ""
-    },
-    {
-      "date": "9-19-2026 8:44 PM",
-      "title": "voice ranges, chat roles, Q menu",
-      "body": "",
-      "details": [
-        "Launcher 1.1.55",
-        "2 files to download, 1.0 MB"
       ],
       "channel": ""
     }
