@@ -1,7 +1,7 @@
 {
-  "launcherVersion": "1.1.92",
-  "launcherUrl": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/585078234",
-  "launcherSha256": "9ce8a883fbfe089f78ad7adf75558fda3ce30547463e0bf8c403ae82b1a7887f",
+  "launcherVersion": "1.1.92.1",
+  "launcherUrl": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/585079686",
+  "launcherSha256": "159dbfe8c4835ecba5fe3167ac7cd78cbeebcae03797db1bc8464904a1463c83",
   "serverAddress": "192.135.112.23",
   "serverPort": "7787",
   "message": "",
@@ -1367,9 +1367,25 @@
       "url": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/585078233",
       "sha256": "93e166aac20216b87bd35bd632a7439ef19fad1f8c8baf644d1d60f9b65fd6ac",
       "notes": "Everything from tonight's dev testing, now on the live build.\n\nWarmth: fires, cooking fires, forges and braziers warm you again, and standing in one will set you alight. Rain, snow, wind and a roof over your head all count. Water is cold. The reading moves quickly while you are warming and slowly while you are not, so it settles where you would expect.\n\nHunger and Thirst: the two meters are named properly now, they move at a rate you can feel, and eating and drinking actually register. Potions and poisons count as drink, because they are liquid. Ale makes you hungrier, and each one hits harder than the last.\n\nMining: one press is a spell of work rather than a click for every swing, and you use the pick on your own hip.\n\nArriving: you come back dressed, in the clothes you left in.\n\nWorking a trade tires you, by the swing, and your rank is what it costs you rather than how fast the clock runs.\n\nHarvesting something your trade cannot use now simply refuses, instead of taking the plant and giving you nothing.\n\nThe chat window no longer loses the server while you are typing, and the update countdown stops promising a kick to people it was never going to kick."
+    },
+    {
+      "id": "20260923-2138-dev",
+      "url": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/585079691",
+      "sha256": "120ecff989eb1167097a41efeef3beb1bc1cba0b591ec22c3b1c515c6349e29c",
+      "notes": "Fire you are standing in keeps burning on screen for as long as it is burning you. The flames used to run out after a few seconds while the damage carried on.\n\nA people's own dress is theirs to make. Bosmer, Dunmer, Orsimer, Telvanni, Skaal, Nord Mail, Redguard Knight, Alik'r, Yokudan, Colovian and riekling gear can only be made by someone of that people. A tier of metal is not: Nordic Carved, Ancient Nord, Nord Hero, Elven, Orcish, Imperial, Glass, Dwarven, Chitin and Bonemold stay open to any smith who has the perk for them."
     }
   ],
   "news": [
+    {
+      "date": "9-23-2026 9:38 PM",
+      "title": "Fire you are standing in keeps burning on screen for as long as it is burning you. The flames used to run out after a few seconds while the damage carried on.",
+      "body": "A people's own dress is theirs to make. Bosmer, Dunmer, Orsimer, Telvanni, Skaal, Nord Mail, Redguard Knight, Alik'r, Yokudan, Colovian and riekling gear can only be made by someone of that people. A tier of metal is not: Nordic Carved, Ancient Nord, Nord Hero, Elven, Orcish, Imperial, Glass, Dwarven, Chitin and Bonemold stay open to any smith who has the perk for them.",
+      "details": [
+        "Launcher 1.1.92.1",
+        "3 files to download, 1.7 MB"
+      ],
+      "channel": "dev"
+    },
     {
       "date": "9-23-2026 9:37 PM",
       "title": "Everything from tonight's dev testing, now on the live build.",
@@ -1783,23 +1799,13 @@
         "2 files to download, 0.1 MB"
       ],
       "channel": ""
-    },
-    {
-      "date": "9-19-2026 3:46 PM",
-      "title": "Plugin fixes",
-      "body": "",
-      "details": [
-        "Launcher 1.1.52",
-        "1 file to download, 0.0 MB"
-      ],
-      "channel": ""
     }
   ],
   "updateRepo": "EvilPatrick06/Thornswood-Releases",
   "voicePort": "7789",
   "collectionUrl": "https://www.nexusmods.com/games/skyrimspecialedition/collections/ombo2a",
   "maxOnline": 25,
-  "mainVersion": "",
+  "mainVersion": "1.1.92",
   "voiceUrl": "https://thornswood.net/voice-dev",
   "discordAppId": "1549251507361292418",
   "siteUrl": "https://thornswood.net",
