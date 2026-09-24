@@ -1,7 +1,7 @@
 {
-  "launcherVersion": "1.1.92.2",
-  "launcherUrl": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/585165224",
-  "launcherSha256": "f9a7ca6c11b801bf28c67aa2989157eb14f11f3d4f55131a6364422fd44d16a9",
+  "launcherVersion": "1.1.92.3",
+  "launcherUrl": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/586317005",
+  "launcherSha256": "e4d1232c9e80282fae987b47640a9b6fc64c923708c93e9b62d435dfcfad97af",
   "serverAddress": "192.135.112.23",
   "serverPort": "7787",
   "message": "",
@@ -1379,9 +1379,25 @@
       "url": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/585165222",
       "sha256": "7fbd10d89f60abaf627efee65ac8c34cdac22a5521083faa6467b1f16fa054db",
       "notes": "Keys, properly. A smith forges a blank key mold at a forge, one iron ingot. Take it to the door of the place with whoever holds it standing there and say /mold: the blank is spent and a mold for that door goes to the holder. Back at a forge, crafting a Key costs an ingot and comes out cut for that house. The mold is not used up, so it cuts as many keys as you want, and one key opens every door of the property.\n\nNone of that could happen before. Both items existed and nothing in the game made either one.\n\nThe house parts are gone from the forge: nails, hinges, locks and iron fittings refuse with a line saying why. Fishing poles are the woodworker's now, not everybody's."
+    },
+    {
+      "id": "20260924-1008-dev",
+      "url": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/586317015",
+      "sha256": "6b3137d667281fd162480b0c7b51ca10af7628cb3083d5b8967bcea7343c2642",
+      "notes": "Keys you can make. A smith forges a blank Key Mold at a forge from one iron ingot. Take it to the door of the place with whoever holds it standing there and say /mold: the blank becomes that door's mold and goes to the holder. At a forge, crafting a Key then cuts one for that house, and the mold is not used up. One key opens every door of the property. This build carries the updated Thornswood Content plugin that makes the two recipes, for the dev build only, until it goes up on Nexus.\n\nIf you mute somebody, you no longer hear them. The mute used to stop at the game's overlay while their voice kept playing through the launcher.\n\nA command typed while your character is on its way back after a restart now waits and runs the moment you arrive, instead of saying the server cannot find your character.\n\nWhen the server goes down, the game says so and counts down to the main menu, instead of throwing you out with no word.\n\nThe journal wears the same look as the K panel.\n\nWalking into a new cell no longer trips the fire check, which was losing your position report to the server for that moment.\n\nThe Downgrade button asks before it takes over Steam's window.\n\nThe launcher can show a notice above Play, and says plainly when Discord or the site did not answer rather than telling you that you are not in the Discord.\n\nThe first-run card asks for a name that belongs in Skyrim.\n"
     }
   ],
   "news": [
+    {
+      "date": "9-24-2026 10:08 AM",
+      "title": "Keys you can make. A smith forges a blank Key Mold at a forge from one iron ingot. Take it to the door of the place with whoever holds it standing there and say /mold: the blank becomes that door's mold and goes to the holder. At a forge, crafting a Key then cuts one for that house, and the mold is not used up. One key opens every door of the property. This build carries the updated Thornswood Content plugin that makes the two recipes, for the dev build only, until it goes up on Nexus.",
+      "body": "If you mute somebody, you no longer hear them. The mute used to stop at the game's overlay while their voice kept playing through the launcher. A command typed while your character is on its way back after a restart now waits and runs the moment you arrive, instead of saying the server cannot find your character. When the server goes down, the game says so and counts down to the main menu, instead of throwing you out with no word. The journal wears the same look as the K panel. Walking into a new cell no longer trips the fire check, which was losing your position report to the server for that moment. The Downgrade button asks before it takes over Steam's window. The launcher can show a notice above Play, and says plainly when Discord or the site did not answer rather than telling you that you are not in the Discord. The first-run card asks for a name that belongs in Skyrim.",
+      "details": [
+        "Launcher 1.1.92.3",
+        "5 files to download, 0.5 MB"
+      ],
+      "channel": "dev"
+    },
     {
       "date": "9-23-2026 10:46 PM",
       "title": "Keys, properly. A smith forges a blank key mold at a forge, one iron ingot. Take it to the door of the place with whoever holds it standing there and say /mold: the blank is spent and a mold for that door goes to the holder. Back at a forge, crafting a Key costs an ingot and comes out cut for that house. The mold is not used up, so it cuts as many keys as you want, and one key opens every door of the property.",
@@ -1793,16 +1809,6 @@
       "details": [
         "Launcher 1.1.55",
         "2 files to download, 1.0 MB"
-      ],
-      "channel": ""
-    },
-    {
-      "date": "9-19-2026 8:10 PM",
-      "title": "InventoryInjector out of the folder, jump probe",
-      "body": "",
-      "details": [
-        "Launcher 1.1.54",
-        "3 files to download, 1.1 MB"
       ],
       "channel": ""
     }
