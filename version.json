@@ -1,7 +1,7 @@
 {
-  "launcherVersion": "1.1.92.4",
-  "launcherUrl": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/586418180",
-  "launcherSha256": "31d49d7c2ee623448e1cd538899a2d5e534356ba45190fbe0b193741779eb532",
+  "launcherVersion": "1.1.92.5",
+  "launcherUrl": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/586545065",
+  "launcherSha256": "2b8994fb1017bf214158f21764a044f8b1b8ddeb684671dc2a1e04dc0f3160e6",
   "serverAddress": "192.135.112.23",
   "serverPort": "7787",
   "message": "",
@@ -1391,9 +1391,29 @@
       "url": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/586418179",
       "sha256": "cfa5150f27f02fafe744b6fab2128a772cfde4440f8956ab2a8a22e198738cf8",
       "notes": "If your Mods page says your load order is not the server's at position 52, with Hothtrooper44_Armor_Ecksstra.esp where the server has SkyHUD.esp, press Fix: it now flags that plugin light, the way the Nexus copy already is, and the two orders line up. Pressing Fix before only reordered the list, which could never clear it."
+    },
+    {
+      "id": "20260924-1220-dev",
+      "url": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/586545064",
+      "sha256": "3c9c0201de8795faf96621733e2b29c2f71ec88bcb4026515a6d5f35c8c5a945",
+      "notes": "Your session logs finally reach us, and a bad launcher update can no longer leave you without one\nThe launcher's own update, the Play page and the uninstall all changed in this build.\n- If the game crashes, the launcher now sends the crash log and the game's platform log with the rest of that session's logs, so nobody has to ask you to dig them out. Until this build no session's logs had ever arrived: every upload was being turned away.\n- If a new version of the launcher fails to start, you are put back on the version you had instead of being left with no launcher and a reinstall.\n- The Play page has a row for the Address Library, which several of the collection's mods need to load. If it is missing the row turns amber and says what to do. It does not stop you playing.\n- Uninstalling from Windows Settings now opens straight on the uninstall, without checking for updates, joining voice or touching the game folder first."
     }
   ],
   "news": [
+    {
+      "date": "9-24-2026 12:21 PM",
+      "title": "Your session logs finally reach us, and a bad launcher update can no longer leave you without one",
+      "body": "The launcher's own update, the Play page and the uninstall all changed in this build.",
+      "details": [
+        "If the game crashes, the launcher now sends the crash log and the game's platform log with the rest of that session's logs, so nobody has to ask you to dig them out. Until this build no session's logs had ever arrived: every upload was being turned away.",
+        "If a new version of the launcher fails to start, you are put back on the version you had instead of being left with no launcher and a reinstall.",
+        "The Play page has a row for the Address Library, which several of the collection's mods need to load. If it is missing the row turns amber and says what to do. It does not stop you playing.",
+        "Uninstalling from Windows Settings now opens straight on the uninstall, without checking for updates, joining voice or touching the game folder first.",
+        "Launcher 1.1.92.5",
+        "4 files to download, 0.4 MB"
+      ],
+      "channel": "dev"
+    },
     {
       "date": "9-24-2026 11:07 AM",
       "title": "If your Mods page says your load order is not the server's at position 52, with Hothtrooper44_Armor_Ecksstra.esp where the server has SkyHUD.esp, press Fix: it now flags that plugin light, the way the Nexus copy already is, and the two orders line up. Pressing Fix before only reordered the list, which could never clear it.",
@@ -1803,17 +1823,6 @@
       "details": [
         "Launcher 1.1.58",
         "2 files to download, 0.1 MB"
-      ],
-      "channel": ""
-    },
-    {
-      "date": "9-20-2026 11:04 AM",
-      "title": "voice local range halved",
-      "body": "",
-      "details": [
-        "Launcher 1.1.57",
-        "1 file to download, 0.0 MB",
-        "The load order moved, so start a new character or expect the old save to complain"
       ],
       "channel": ""
     }
