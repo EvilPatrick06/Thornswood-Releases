@@ -1,7 +1,7 @@
 {
-  "launcherVersion": "1.1.91.10",
-  "launcherUrl": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/584942487",
-  "launcherSha256": "da5d6d5bd2c496addfd56018ba3ed1d112d056a725b9ac495bd6bf5f46c2edff",
+  "launcherVersion": "1.1.92",
+  "launcherUrl": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/585078234",
+  "launcherSha256": "9ce8a883fbfe089f78ad7adf75558fda3ce30547463e0bf8c403ae82b1a7887f",
   "serverAddress": "192.135.112.23",
   "serverPort": "7787",
   "message": "",
@@ -1363,180 +1363,22 @@
       "notes": "Your party, found.\n\nEverybody in your party now has their name in green above their head, a marker on your map, and an arrow on a strip under your compass telling you which way they are and how far.\n\n- Green on the strip means the same room as you. Gold means somewhere else in Skyrim.\n- The map markers are named after them and do not let you fast travel: somebody's position is a thing to walk to.\n- All of it turns off the moment they leave the party, including the green on their name.\n\nThe strip is ours rather than Skyrim's own compass. That one only draws quest targets and map markers and there is no way to put a person on it without changing the game files, so we drew our own under it instead. It updates five times a second, which is faster than the compass would have.\n\nNothing else to press. Open P to see your party, and it all just works while you are in one."
     },
     {
-      "id": "20260923-1051-dev",
-      "url": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/584195927",
-      "sha256": "29202d4b423a51c267b6e56739cc590839e86dcbd64318683f4e970d63a5670b",
-      "notes": "Fires warm you, and the meter finally moves\nThe temperature meter never found a fire, because it only knew Skyrim's own and this build uses Embers XD's. It knows both now, 62 of them across five plugins.\n- walk up to a fire and the meter climbs as you get closer\n- stand in the coals and you catch light and take damage\n- the launcher's scan says which problems it found, not just how many"
-    },
-    {
-      "id": "20260923-1156-dev",
-      "url": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/584310836",
-      "sha256": "e063e9022f5513b8ee9a895e7d3c637f0654f2b066f2b55269e45c2a5c56da13",
-      "notes": "A warrior can finally climb, and the frame says where it goes\nKilling something now counts as a warrior's work, the same way mining counts as a miner's. The plugin also writes a line every thirty seconds saying what it spent the frame on, which is how the lag gets found.\n- pick Warrior and your kills raise your rank\n- the alchemist and the enchanter were already climbing at their bench\n- nothing else changes"
-    },
-    {
-      "id": "20260923-1444-dev",
-      "url": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/584551396",
-      "sha256": "c4b1ab3027f2099653c3cdf9300c5b16f4fa73ad3282e1cd8b0833385920f771",
-      "notes": "The launcher log answers a question it used to raise\nWhen the game will not leave the main menu, the log now says whether Skyrim was ever asked to load at all. That is the difference between two completely different faults, and nobody could tell them apart without sitting at the machine.\n- nothing changes in the game\n- the plugin log carries one more line while it waits"
-    },
-    {
-      "id": "20260923-1503-dev",
-      "url": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/584576540",
-      "sha256": "c9acce0b6c5fb95f3ff8a16f646ee9dcc095ab503b6ddd43170ff406be14e668",
-      "notes": "A leftover file from September is cleaned off your machine\nOne of the launcher's own working files was accidentally included in nine updates back in September. It expired the day it was made and opens nothing, but it does not belong on anybody's disk, so this update deletes it.\n- nothing in the game changes\n- the installer publisher now finds what the packager built"
-    },
-    {
-      "id": "20260923-1524-dev",
-      "url": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/584609572",
-      "sha256": "9713bce07445aad5eb4d26982bde6c5927ff5ef6b0d9db4fea42ccb33c406eaf",
-      "notes": "A developer tool stops being bound to F8 on everybody's game\nThe coordinate marker that measures arrival points was shipping to every install on an unmodified F8. It is still there for the people who use it and is simply not bound for anybody else.\n- F8 does nothing unless the site says you work on this\n- nothing else in the game changes"
-    },
-    {
-      "id": "20260923-1541-dev",
-      "url": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/584631192",
-      "sha256": "1eefe8c270fb7e964aa069555cf414052acd8764cb81e9acd37aef7f655792c0",
-      "notes": "The game tells you when you are on fire\nCatching fire, standing in one and it going out now say so on screen instead of only in a log nobody reads while they are playing.\n- a notice when you catch fire and when it goes out\n- the console refusal speaks the same way as everything else"
-    },
-    {
-      "id": "20260923-1752-dev",
-      "url": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/584784990",
-      "sha256": "e2dd2465ba977b03d8e1e3e5bb8de896f22738ccd8dfc22ca0a3f97719a8c3f5",
-      "notes": "The launcher and the plugins catch up with tonight's fixes"
-    },
-    {
-      "id": "20260923-1850-dev",
-      "url": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/584873880",
-      "sha256": "8d4f1fe0619e76237d4a834a104390827f04b3935bca76c3e613dab1fbbfc769",
-      "notes": "Fires warm you again, and /needs says what the temperature is doing"
-    },
-    {
-      "id": "20260923-1907-dev",
-      "url": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/584898391",
-      "sha256": "12a43b551cf6f331912880e2424fbf85929cd30e2428fea51951e56dd43632b0",
-      "notes": "Mining is one press and a spell of work"
-    },
-    {
-      "id": "20260923-1942-dev",
-      "url": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/584942485",
-      "sha256": "37f7e696bf3c681c0f03e266e0babc9c9f643e75fb3251348f5de7d7b3294b71",
-      "notes": "Fires finally warm you, because the client now looks in the room rather than asking the engine"
+      "id": "20260923-2137",
+      "url": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/585078233",
+      "sha256": "93e166aac20216b87bd35bd632a7439ef19fad1f8c8baf644d1d60f9b65fd6ac",
+      "notes": "Everything from tonight's dev testing, now on the live build.\n\nWarmth: fires, cooking fires, forges and braziers warm you again, and standing in one will set you alight. Rain, snow, wind and a roof over your head all count. Water is cold. The reading moves quickly while you are warming and slowly while you are not, so it settles where you would expect.\n\nHunger and Thirst: the two meters are named properly now, they move at a rate you can feel, and eating and drinking actually register. Potions and poisons count as drink, because they are liquid. Ale makes you hungrier, and each one hits harder than the last.\n\nMining: one press is a spell of work rather than a click for every swing, and you use the pick on your own hip.\n\nArriving: you come back dressed, in the clothes you left in.\n\nWorking a trade tires you, by the swing, and your rank is what it costs you rather than how fast the clock runs.\n\nHarvesting something your trade cannot use now simply refuses, instead of taking the plant and giving you nothing.\n\nThe chat window no longer loses the server while you are typing, and the update countdown stops promising a kick to people it was never going to kick."
     }
   ],
   "news": [
     {
-      "date": "9-23-2026 7:42 PM",
-      "title": "Fires finally warm you, because the client now looks in the room rather than asking the engine",
-      "body": "",
+      "date": "9-23-2026 9:37 PM",
+      "title": "Everything from tonight's dev testing, now on the live build.",
+      "body": "Warmth: fires, cooking fires, forges and braziers warm you again, and standing in one will set you alight. Rain, snow, wind and a roof over your head all count. Water is cold. The reading moves quickly while you are warming and slowly while you are not, so it settles where you would expect. Hunger and Thirst: the two meters are named properly now, they move at a rate you can feel, and eating and drinking actually register. Potions and poisons count as drink, because they are liquid. Ale makes you hungrier, and each one hits harder than the last. Mining: one press is a spell of work rather than a click for every swing, and you use the pick on your own hip. Arriving: you come back dressed, in the clothes you left in. Working a trade tires you, by the swing, and your rank is what it costs you rather than how fast the clock runs. Harvesting something your trade cannot use now simply refuses, instead of taking the plant and giving you nothing. The chat window no longer loses the server while you are typing, and the update countdown stops promising a kick to people it was never going to kick.",
       "details": [
-        "Launcher 1.1.91.10",
-        "1 file to download, 0.2 MB"
+        "Launcher 1.1.92",
+        "3 files to download, 0.3 MB"
       ],
-      "channel": "dev"
-    },
-    {
-      "date": "9-23-2026 7:07 PM",
-      "title": "Mining is one press and a spell of work",
-      "body": "",
-      "details": [
-        "Launcher 1.1.91.9",
-        "Nothing to download, this one is bookkeeping"
-      ],
-      "channel": "dev"
-    },
-    {
-      "date": "9-23-2026 6:50 PM",
-      "title": "Fires warm you again, and /needs says what the temperature is doing",
-      "body": "",
-      "details": [
-        "Launcher 1.1.91.8",
-        "2 files to download, 1.6 MB"
-      ],
-      "channel": "dev"
-    },
-    {
-      "date": "9-23-2026 5:52 PM",
-      "title": "The launcher and the plugins catch up with tonight's fixes",
-      "body": "",
-      "details": [
-        "Launcher 1.1.91.7",
-        "1 file to download, 0.0 MB"
-      ],
-      "channel": "dev"
-    },
-    {
-      "date": "9-23-2026 3:41 PM",
-      "title": "The game tells you when you are on fire",
-      "body": "Catching fire, standing in one and it going out now say so on screen instead of only in a log nobody reads while they are playing.",
-      "details": [
-        "a notice when you catch fire and when it goes out",
-        "the console refusal speaks the same way as everything else",
-        "Launcher 1.1.91.6",
-        "1 file to download, 0.2 MB"
-      ],
-      "channel": "dev"
-    },
-    {
-      "date": "9-23-2026 3:24 PM",
-      "title": "A developer tool stops being bound to F8 on everybody's game",
-      "body": "The coordinate marker that measures arrival points was shipping to every install on an unmodified F8. It is still there for the people who use it and is simply not bound for anybody else.",
-      "details": [
-        "F8 does nothing unless the site says you work on this",
-        "nothing else in the game changes",
-        "Launcher 1.1.91.5",
-        "1 file to download, 0.0 MB"
-      ],
-      "channel": "dev"
-    },
-    {
-      "date": "9-23-2026 3:03 PM",
-      "title": "A leftover file from September is cleaned off your machine",
-      "body": "One of the launcher's own working files was accidentally included in nine updates back in September. It expired the day it was made and opens nothing, but it does not belong on anybody's disk, so this update deletes it.",
-      "details": [
-        "nothing in the game changes",
-        "the installer publisher now finds what the packager built",
-        "Launcher 1.1.91.4",
-        "Nothing to download, this one is bookkeeping"
-      ],
-      "channel": "dev"
-    },
-    {
-      "date": "9-23-2026 2:44 PM",
-      "title": "The launcher log answers a question it used to raise",
-      "body": "When the game will not leave the main menu, the log now says whether Skyrim was ever asked to load at all. That is the difference between two completely different faults, and nobody could tell them apart without sitting at the machine.",
-      "details": [
-        "nothing changes in the game",
-        "the plugin log carries one more line while it waits",
-        "Launcher 1.1.91.3",
-        "1 file to download, 0.2 MB"
-      ],
-      "channel": "dev"
-    },
-    {
-      "date": "9-23-2026 11:56 AM",
-      "title": "A warrior can finally climb, and the frame says where it goes",
-      "body": "Killing something now counts as a warrior's work, the same way mining counts as a miner's. The plugin also writes a line every thirty seconds saying what it spent the frame on, which is how the lag gets found.",
-      "details": [
-        "pick Warrior and your kills raise your rank",
-        "the alchemist and the enchanter were already climbing at their bench",
-        "nothing else changes",
-        "Launcher 1.1.91.2",
-        "1 file to download, 0.2 MB"
-      ],
-      "channel": "dev"
-    },
-    {
-      "date": "9-23-2026 10:51 AM",
-      "title": "Fires warm you, and the meter finally moves",
-      "body": "The temperature meter never found a fire, because it only knew Skyrim's own and this build uses Embers XD's. It knows both now, 62 of them across five plugins.",
-      "details": [
-        "walk up to a fire and the meter climbs as you get closer",
-        "stand in the coals and you catch light and take damage",
-        "the launcher's scan says which problems it found, not just how many",
-        "Launcher 1.1.91.1",
-        "4 files to download, 3.0 MB"
-      ],
-      "channel": "dev"
+      "channel": ""
     },
     {
       "date": "9-23-2026 7:46 AM",
@@ -1861,13 +1703,103 @@
         "22 files to download, 33.4 MB"
       ],
       "channel": ""
+    },
+    {
+      "date": "9-20-2026 11:48 AM",
+      "title": "profession, class and skill tree on K",
+      "body": "",
+      "details": [
+        "Launcher 1.1.61",
+        "2 files to download, 0.1 MB"
+      ],
+      "channel": ""
+    },
+    {
+      "date": "9-20-2026 11:40 AM",
+      "title": "the microphone is back on",
+      "body": "",
+      "details": [
+        "Launcher 1.1.60"
+      ],
+      "channel": ""
+    },
+    {
+      "date": "9-20-2026 11:29 AM",
+      "title": "the IsNPC clear is guarded, so it leaves character creation alone",
+      "body": "",
+      "details": [
+        "Launcher 1.1.59",
+        "1 file to download, 0.1 MB"
+      ],
+      "channel": ""
+    },
+    {
+      "date": "9-20-2026 11:24 AM",
+      "title": "jump and sprint clear IsNPC on the press frame, and the light plugins are listed too",
+      "body": "",
+      "details": [
+        "Launcher 1.1.58",
+        "2 files to download, 0.1 MB"
+      ],
+      "channel": ""
+    },
+    {
+      "date": "9-20-2026 11:04 AM",
+      "title": "voice local range halved",
+      "body": "",
+      "details": [
+        "Launcher 1.1.57",
+        "1 file to download, 0.0 MB",
+        "The load order moved, so start a new character or expect the old save to complain"
+      ],
+      "channel": ""
+    },
+    {
+      "date": "9-19-2026 8:44 PM",
+      "title": "voice ranges, chat roles, Q menu",
+      "body": "",
+      "details": [
+        "Launcher 1.1.55",
+        "2 files to download, 1.0 MB"
+      ],
+      "channel": ""
+    },
+    {
+      "date": "9-19-2026 8:10 PM",
+      "title": "InventoryInjector out of the folder, jump probe",
+      "body": "",
+      "details": [
+        "Launcher 1.1.54",
+        "3 files to download, 1.1 MB"
+      ],
+      "channel": ""
+    },
+    {
+      "date": "9-19-2026 7:44 PM",
+      "title": "jump and sprint, voice ranges, the Q crash",
+      "body": "",
+      "details": [
+        "Launcher 1.1.53",
+        "2 files to download, 0.1 MB"
+      ],
+      "channel": ""
+    },
+    {
+      "date": "9-19-2026 3:46 PM",
+      "title": "Plugin fixes",
+      "body": "",
+      "details": [
+        "Launcher 1.1.52",
+        "1 file to download, 0.0 MB"
+      ],
+      "channel": ""
     }
   ],
   "updateRepo": "EvilPatrick06/Thornswood-Releases",
   "voicePort": "7789",
   "collectionUrl": "https://www.nexusmods.com/games/skyrimspecialedition/collections/ombo2a",
   "maxOnline": 25,
-  "mainVersion": "1.1.91",
+  "mainVersion": "",
   "voiceUrl": "https://thornswood.net/voice-dev",
   "discordAppId": "1549251507361292418",
   "siteUrl": "https://thornswood.net",
