@@ -1,7 +1,7 @@
 {
-  "launcherVersion": "1.1.92",
-  "launcherUrl": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/585078234",
-  "launcherSha256": "9ce8a883fbfe089f78ad7adf75558fda3ce30547463e0bf8c403ae82b1a7887f",
+  "launcherVersion": "1.1.93",
+  "launcherUrl": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/586932626",
+  "launcherSha256": "f2ea5b17a3cba5bf2b2a95af6a193b37c525a7dfe4add57800ed387ebb5c9522",
   "serverAddress": "192.135.112.23",
   "serverPort": "7777",
   "message": "",
@@ -1367,9 +1367,28 @@
       "url": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/585078233",
       "sha256": "93e166aac20216b87bd35bd632a7439ef19fad1f8c8baf644d1d60f9b65fd6ac",
       "notes": "Everything from tonight's dev testing, now on the live build.\n\nWarmth: fires, cooking fires, forges and braziers warm you again, and standing in one will set you alight. Rain, snow, wind and a roof over your head all count. Water is cold. The reading moves quickly while you are warming and slowly while you are not, so it settles where you would expect.\n\nHunger and Thirst: the two meters are named properly now, they move at a rate you can feel, and eating and drinking actually register. Potions and poisons count as drink, because they are liquid. Ale makes you hungrier, and each one hits harder than the last.\n\nMining: one press is a spell of work rather than a click for every swing, and you use the pick on your own hip.\n\nArriving: you come back dressed, in the clothes you left in.\n\nWorking a trade tires you, by the swing, and your rank is what it costs you rather than how fast the clock runs.\n\nHarvesting something your trade cannot use now simply refuses, instead of taking the plant and giving you nothing.\n\nThe chat window no longer loses the server while you are typing, and the update countdown stops promising a kick to people it was never going to kick."
+    },
+    {
+      "id": "20260924-1559",
+      "url": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/586932622",
+      "sha256": "91ad15d711c67630e2f7766503031e281b3596e27816c664c13ceea76dadd476",
+      "notes": "The launcher finds your mods when Vortex keeps them in a different Skyrim folder\nIf Vortex on your machine deploys into a Skyrim folder other than the one Steam uses, the launcher now finds it instead of saying nothing is deployed.\n- If the launcher said Vortex had nothing deployed while Vortex showed everything deployed, press Scan: it now names the folder Vortex really uses, and Fix builds Thornswood's own game folder from it.\n- Nothing else in that folder is used. The game itself still comes from your Steam copy of Skyrim, and only the files Vortex deployed are brought in, so another server's files never mix with Thornswood's.\n- Settings has a Choose Vortex's folder button for the rare folder the launcher cannot find by itself."
     }
   ],
   "news": [
+    {
+      "date": "9-24-2026 3:59 PM",
+      "title": "The launcher finds your mods when Vortex keeps them in a different Skyrim folder",
+      "body": "If Vortex on your machine deploys into a Skyrim folder other than the one Steam uses, the launcher now finds it instead of saying nothing is deployed.",
+      "details": [
+        "If the launcher said Vortex had nothing deployed while Vortex showed everything deployed, press Scan: it now names the folder Vortex really uses, and Fix builds Thornswood's own game folder from it.",
+        "Nothing else in that folder is used. The game itself still comes from your Steam copy of Skyrim, and only the files Vortex deployed are brought in, so another server's files never mix with Thornswood's.",
+        "Settings has a Choose Vortex's folder button for the rare folder the launcher cannot find by itself.",
+        "Launcher 1.1.93",
+        "21 files to download, 17.4 MB"
+      ],
+      "channel": ""
+    },
     {
       "date": "9-23-2026 9:37 PM",
       "title": "Everything from tonight's dev testing, now on the live build.",
@@ -1781,16 +1800,6 @@
       "details": [
         "Launcher 1.1.53",
         "2 files to download, 0.1 MB"
-      ],
-      "channel": ""
-    },
-    {
-      "date": "9-19-2026 3:46 PM",
-      "title": "Plugin fixes",
-      "body": "",
-      "details": [
-        "Launcher 1.1.52",
-        "1 file to download, 0.0 MB"
       ],
       "channel": ""
     }
