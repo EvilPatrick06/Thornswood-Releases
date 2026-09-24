@@ -1,7 +1,7 @@
 {
-  "launcherVersion": "1.1.92.1",
-  "launcherUrl": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/585079686",
-  "launcherSha256": "159dbfe8c4835ecba5fe3167ac7cd78cbeebcae03797db1bc8464904a1463c83",
+  "launcherVersion": "1.1.92.2",
+  "launcherUrl": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/585165224",
+  "launcherSha256": "f9a7ca6c11b801bf28c67aa2989157eb14f11f3d4f55131a6364422fd44d16a9",
   "serverAddress": "192.135.112.23",
   "serverPort": "7787",
   "message": "",
@@ -1373,9 +1373,25 @@
       "url": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/585079691",
       "sha256": "120ecff989eb1167097a41efeef3beb1bc1cba0b591ec22c3b1c515c6349e29c",
       "notes": "Fire you are standing in keeps burning on screen for as long as it is burning you. The flames used to run out after a few seconds while the damage carried on.\n\nA people's own dress is theirs to make. Bosmer, Dunmer, Orsimer, Telvanni, Skaal, Nord Mail, Redguard Knight, Alik'r, Yokudan, Colovian and riekling gear can only be made by someone of that people. A tier of metal is not: Nordic Carved, Ancient Nord, Nord Hero, Elven, Orcish, Imperial, Glass, Dwarven, Chitin and Bonemold stay open to any smith who has the perk for them."
+    },
+    {
+      "id": "20260923-2246-dev",
+      "url": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/585165222",
+      "sha256": "7fbd10d89f60abaf627efee65ac8c34cdac22a5521083faa6467b1f16fa054db",
+      "notes": "Keys, properly. A smith forges a blank key mold at a forge, one iron ingot. Take it to the door of the place with whoever holds it standing there and say /mold: the blank is spent and a mold for that door goes to the holder. Back at a forge, crafting a Key costs an ingot and comes out cut for that house. The mold is not used up, so it cuts as many keys as you want, and one key opens every door of the property.\n\nNone of that could happen before. Both items existed and nothing in the game made either one.\n\nThe house parts are gone from the forge: nails, hinges, locks and iron fittings refuse with a line saying why. Fishing poles are the woodworker's now, not everybody's."
     }
   ],
   "news": [
+    {
+      "date": "9-23-2026 10:46 PM",
+      "title": "Keys, properly. A smith forges a blank key mold at a forge, one iron ingot. Take it to the door of the place with whoever holds it standing there and say /mold: the blank is spent and a mold for that door goes to the holder. Back at a forge, crafting a Key costs an ingot and comes out cut for that house. The mold is not used up, so it cuts as many keys as you want, and one key opens every door of the property.",
+      "body": "None of that could happen before. Both items existed and nothing in the game made either one. The house parts are gone from the forge: nails, hinges, locks and iron fittings refuse with a line saying why. Fishing poles are the woodworker's now, not everybody's.",
+      "details": [
+        "Launcher 1.1.92.2",
+        "Nothing to download, this one is bookkeeping"
+      ],
+      "channel": "dev"
+    },
     {
       "date": "9-23-2026 9:38 PM",
       "title": "Fire you are standing in keeps burning on screen for as long as it is burning you. The flames used to run out after a few seconds while the damage carried on.",
@@ -1787,16 +1803,6 @@
       "details": [
         "Launcher 1.1.54",
         "3 files to download, 1.1 MB"
-      ],
-      "channel": ""
-    },
-    {
-      "date": "9-19-2026 7:44 PM",
-      "title": "jump and sprint, voice ranges, the Q crash",
-      "body": "",
-      "details": [
-        "Launcher 1.1.53",
-        "2 files to download, 0.1 MB"
       ],
       "channel": ""
     }
