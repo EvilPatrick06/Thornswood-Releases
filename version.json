@@ -1,7 +1,7 @@
 {
-  "launcherVersion": "1.1.91.9",
-  "launcherUrl": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/584898390",
-  "launcherSha256": "3812727c1edc82c41e9feb42b190b0ecbfb4d5886af04186af3e0ac64b7e4e4d",
+  "launcherVersion": "1.1.91.10",
+  "launcherUrl": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/584942487",
+  "launcherSha256": "da5d6d5bd2c496addfd56018ba3ed1d112d056a725b9ac495bd6bf5f46c2edff",
   "serverAddress": "192.135.112.23",
   "serverPort": "7787",
   "message": "",
@@ -1415,9 +1415,25 @@
       "url": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/584898391",
       "sha256": "12a43b551cf6f331912880e2424fbf85929cd30e2428fea51951e56dd43632b0",
       "notes": "Mining is one press and a spell of work"
+    },
+    {
+      "id": "20260923-1942-dev",
+      "url": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/584942485",
+      "sha256": "37f7e696bf3c681c0f03e266e0babc9c9f643e75fb3251348f5de7d7b3294b71",
+      "notes": "Fires finally warm you, because the client now looks in the room rather than asking the engine"
     }
   ],
   "news": [
+    {
+      "date": "9-23-2026 7:42 PM",
+      "title": "Fires finally warm you, because the client now looks in the room rather than asking the engine",
+      "body": "",
+      "details": [
+        "Launcher 1.1.91.10",
+        "1 file to download, 0.2 MB"
+      ],
+      "channel": "dev"
+    },
     {
       "date": "9-23-2026 7:07 PM",
       "title": "Mining is one press and a spell of work",
@@ -1843,16 +1859,6 @@
       "details": [
         "Launcher 1.1.62",
         "22 files to download, 33.4 MB"
-      ],
-      "channel": ""
-    },
-    {
-      "date": "9-20-2026 11:48 AM",
-      "title": "profession, class and skill tree on K",
-      "body": "",
-      "details": [
-        "Launcher 1.1.61",
-        "2 files to download, 0.1 MB"
       ],
       "channel": ""
     }
