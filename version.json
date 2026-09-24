@@ -1,7 +1,7 @@
 {
-  "launcherVersion": "1.1.91.8",
-  "launcherUrl": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/584873881",
-  "launcherSha256": "df72ee38d46924f4c636bbdc3ba9abe20f7f2965d63465c8fa476e2f1a12679f",
+  "launcherVersion": "1.1.91.9",
+  "launcherUrl": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/584898390",
+  "launcherSha256": "3812727c1edc82c41e9feb42b190b0ecbfb4d5886af04186af3e0ac64b7e4e4d",
   "serverAddress": "192.135.112.23",
   "serverPort": "7787",
   "message": "",
@@ -1409,9 +1409,25 @@
       "url": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/584873880",
       "sha256": "8d4f1fe0619e76237d4a834a104390827f04b3935bca76c3e613dab1fbbfc769",
       "notes": "Fires warm you again, and /needs says what the temperature is doing"
+    },
+    {
+      "id": "20260923-1907-dev",
+      "url": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/584898391",
+      "sha256": "12a43b551cf6f331912880e2424fbf85929cd30e2428fea51951e56dd43632b0",
+      "notes": "Mining is one press and a spell of work"
     }
   ],
   "news": [
+    {
+      "date": "9-23-2026 7:07 PM",
+      "title": "Mining is one press and a spell of work",
+      "body": "",
+      "details": [
+        "Launcher 1.1.91.9",
+        "Nothing to download, this one is bookkeeping"
+      ],
+      "channel": "dev"
+    },
     {
       "date": "9-23-2026 6:50 PM",
       "title": "Fires warm you again, and /needs says what the temperature is doing",
@@ -1837,15 +1853,6 @@
       "details": [
         "Launcher 1.1.61",
         "2 files to download, 0.1 MB"
-      ],
-      "channel": ""
-    },
-    {
-      "date": "9-20-2026 11:40 AM",
-      "title": "the microphone is back on",
-      "body": "",
-      "details": [
-        "Launcher 1.1.60"
       ],
       "channel": ""
     }
