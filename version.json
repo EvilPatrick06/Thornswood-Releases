@@ -1,7 +1,7 @@
 {
-  "launcherVersion": "1.1.91",
-  "launcherUrl": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/583860975",
-  "launcherSha256": "7ad8126aec81b890e73453cda3ec90e997af124b88c723132a93b1ea3dbb5a02",
+  "launcherVersion": "1.1.92",
+  "launcherUrl": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/585078234",
+  "launcherSha256": "9ce8a883fbfe089f78ad7adf75558fda3ce30547463e0bf8c403ae82b1a7887f",
   "serverAddress": "192.135.112.23",
   "serverPort": "7777",
   "message": "",
@@ -1361,9 +1361,25 @@
       "url": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/583860974",
       "sha256": "51f4a743f1a028df231a30b30f4c35f6b36c351c9e2908793eddd4fda82a3fd1",
       "notes": "Your party, found.\n\nEverybody in your party now has their name in green above their head, a marker on your map, and an arrow on a strip under your compass telling you which way they are and how far.\n\n- Green on the strip means the same room as you. Gold means somewhere else in Skyrim.\n- The map markers are named after them and do not let you fast travel: somebody's position is a thing to walk to.\n- All of it turns off the moment they leave the party, including the green on their name.\n\nThe strip is ours rather than Skyrim's own compass. That one only draws quest targets and map markers and there is no way to put a person on it without changing the game files, so we drew our own under it instead. It updates five times a second, which is faster than the compass would have.\n\nNothing else to press. Open P to see your party, and it all just works while you are in one."
+    },
+    {
+      "id": "20260923-2137",
+      "url": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/585078233",
+      "sha256": "93e166aac20216b87bd35bd632a7439ef19fad1f8c8baf644d1d60f9b65fd6ac",
+      "notes": "Everything from tonight's dev testing, now on the live build.\n\nWarmth: fires, cooking fires, forges and braziers warm you again, and standing in one will set you alight. Rain, snow, wind and a roof over your head all count. Water is cold. The reading moves quickly while you are warming and slowly while you are not, so it settles where you would expect.\n\nHunger and Thirst: the two meters are named properly now, they move at a rate you can feel, and eating and drinking actually register. Potions and poisons count as drink, because they are liquid. Ale makes you hungrier, and each one hits harder than the last.\n\nMining: one press is a spell of work rather than a click for every swing, and you use the pick on your own hip.\n\nArriving: you come back dressed, in the clothes you left in.\n\nWorking a trade tires you, by the swing, and your rank is what it costs you rather than how fast the clock runs.\n\nHarvesting something your trade cannot use now simply refuses, instead of taking the plant and giving you nothing.\n\nThe chat window no longer loses the server while you are typing, and the update countdown stops promising a kick to people it was never going to kick."
     }
   ],
   "news": [
+    {
+      "date": "9-23-2026 9:37 PM",
+      "title": "Everything from tonight's dev testing, now on the live build.",
+      "body": "Warmth: fires, cooking fires, forges and braziers warm you again, and standing in one will set you alight. Rain, snow, wind and a roof over your head all count. Water is cold. The reading moves quickly while you are warming and slowly while you are not, so it settles where you would expect. Hunger and Thirst: the two meters are named properly now, they move at a rate you can feel, and eating and drinking actually register. Potions and poisons count as drink, because they are liquid. Ale makes you hungrier, and each one hits harder than the last. Mining: one press is a spell of work rather than a click for every swing, and you use the pick on your own hip. Arriving: you come back dressed, in the clothes you left in. Working a trade tires you, by the swing, and your rank is what it costs you rather than how fast the clock runs. Harvesting something your trade cannot use now simply refuses, instead of taking the plant and giving you nothing. The chat window no longer loses the server while you are typing, and the update countdown stops promising a kick to people it was never going to kick.",
+      "details": [
+        "Launcher 1.1.92",
+        "3 files to download, 0.3 MB"
+      ],
+      "channel": ""
+    },
     {
       "date": "9-23-2026 7:46 AM",
       "title": "Your party, found.",
@@ -1775,16 +1791,6 @@
       "details": [
         "Launcher 1.1.52",
         "1 file to download, 0.0 MB"
-      ],
-      "channel": ""
-    },
-    {
-      "date": "9-19-2026 2:16 PM",
-      "title": "Voice + art chnages",
-      "body": "",
-      "details": [
-        "Launcher 1.1.51",
-        "2 files to download, 0.0 MB"
       ],
       "channel": ""
     }
