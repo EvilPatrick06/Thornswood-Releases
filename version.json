@@ -1,7 +1,7 @@
 {
-  "launcherVersion": "1.1.92.3",
-  "launcherUrl": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/588939435",
-  "launcherSha256": "c96696c1eb33f9899f1b98205e65fe6100facfdf94afef5c87a0edc3012bcf8b",
+  "launcherVersion": "1.1.94.4",
+  "launcherUrl": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/589041054",
+  "launcherSha256": "671c856ce89d3bc9fc471009bb1bc36a788d02c24c26eebc4f14d002a2d46fb5",
   "serverAddress": "192.135.112.23",
   "serverPort": "7787",
   "message": "",
@@ -455,9 +455,25 @@
       "url": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/588939434",
       "sha256": "f9b7c9b7a7ebbef96086b4eea99afd6004a3f026327b377d97d945a5e6debe51",
       "notes": "Take your time with the scroll\nReading the sealed scroll no longer eats into the three minutes you have to pick a character. The clock starts when you press Continue.\n- The dev build is back on the newest main, with the scroll intro and the moving menu painting"
+    },
+    {
+      "id": "20260925-1506-dev",
+      "url": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/589041055",
+      "sha256": "ed97cf1acdcf9cbbe1114d29dfc347b341341bad36e7a6c67f70a075255dd1c7",
+      "notes": "The scroll glows\nThe sealed scroll at the start now has a soft gold glow, so it is clear you can click it."
     }
   ],
   "news": [
+    {
+      "date": "9-25-2026 3:06 PM",
+      "title": "The scroll glows",
+      "body": "The sealed scroll at the start now has a soft gold glow, so it is clear you can click it.",
+      "details": [
+        "Launcher 1.1.94.4",
+        "2 files to download, 1.4 MB"
+      ],
+      "channel": "dev"
+    },
     {
       "date": "9-25-2026 2:09 PM",
       "title": "Take your time with the scroll",
@@ -887,17 +903,6 @@
       "details": [
         "Launcher 1.1.66",
         "2 files to download, 0.1 MB"
-      ],
-      "channel": "dev"
-    },
-    {
-      "date": "9-20-2026 9:14 PM",
-      "title": "The delete icon on the character menu forgets again",
-      "body": "",
-      "details": [
-        "Launcher 1.1.65",
-        "7 files to download, 18.3 MB",
-        "The load order moved, so start a new character or expect the old save to complain"
       ],
       "channel": "dev"
     }
