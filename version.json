@@ -1,7 +1,7 @@
 {
-  "launcherVersion": "1.1.94.12",
-  "launcherUrl": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/589425547",
-  "launcherSha256": "71866815db0b2b71757d4e9e67883bcedfaa83c88450f19218520b50c38063bd",
+  "launcherVersion": "1.1.94.13",
+  "launcherUrl": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/589432011",
+  "launcherSha256": "a87ca50a95d6268c54a42bd16338fc228347c41867cbe5e28bf403f3f5d742fe",
   "serverAddress": "192.135.112.23",
   "serverPort": "7787",
   "message": "",
@@ -509,9 +509,26 @@
       "url": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/589425549",
       "sha256": "876f3aab7c11d62602702b5ddfd3dde78d96d7ff4958ff44e8427545de2a16c8",
       "notes": "The launcher music is back\n- The Thornswood theme plays in the launcher again; taking it out was a mix-up.\n- The Music switch and volume are back on Settings, set the way you had them."
+    },
+    {
+      "id": "20260925-1904-dev",
+      "url": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/589432012",
+      "sha256": "d1c27a332f7a88915ae4b205a2481c3e77bdbafabd7d1d82610556f6b636faed",
+      "notes": "The new icon is the dev launcher's own\n- The dev launcher keeps the new emblem on its banner, side bar, taskbar and shortcuts.\n- The main launcher goes back to the original Thornswood icon."
     }
   ],
   "news": [
+    {
+      "date": "9-25-2026 7:04 PM",
+      "title": "The new icon is the dev launcher's own",
+      "body": "",
+      "details": [
+        "The dev launcher keeps the new emblem on its banner, side bar, taskbar and shortcuts.",
+        "The main launcher goes back to the original Thornswood icon.",
+        "Launcher 1.1.94.13"
+      ],
+      "channel": "dev"
+    },
     {
       "date": "9-25-2026 7:00 PM",
       "title": "The launcher music is back",
@@ -958,16 +975,6 @@
       "details": [
         "Launcher 1.1.77",
         "2 files to download, 1.5 MB"
-      ],
-      "channel": ""
-    },
-    {
-      "date": "9-21-2026 10:11 PM",
-      "title": "The shift goes on, a farmhand's press is not yours, and the town gates open",
-      "body": "",
-      "details": [
-        "Launcher 1.1.76",
-        "1 file to download, 0.1 MB"
       ],
       "channel": ""
     }
