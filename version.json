@@ -1,7 +1,7 @@
 {
-  "launcherVersion": "1.1.94.2",
-  "launcherUrl": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/587380022",
-  "launcherSha256": "642413be2b657b417b63368b05c021600944d08f8bbda501e9861b4f78d73382",
+  "launcherVersion": "1.1.94.3",
+  "launcherUrl": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/587438110",
+  "launcherSha256": "05c87eecca32d5b3235d6e668a7d3a7316e69b80424d78a613571a4a923cf0a2",
   "serverAddress": "192.135.112.23",
   "serverPort": "7787",
   "message": "",
@@ -1415,9 +1415,27 @@
       "url": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/587380019",
       "sha256": "754ce98938a43310afe1c08de6c9304159ef55234d104e6bc75ec5dee9b53e40",
       "notes": "Downgrading Skyrim finishes on its own, and brewed potions count as a drink\n- The Downgrade button clears out files an earlier try left behind before it asks Steam for each part, so Steam fetches the right version and nothing from another version ends up in your game.\n- If you switch to another window while a part downloads, the launcher still brings Steam's console forward and types the next part for you. If it cannot, the line under the button says the command is on your clipboard: click the command line at the bottom of Steam's console, press Ctrl+V, then Enter.\n- A potion you brew at an alchemy lab now counts as a mouthful towards thirst when you drink it, the same as any other potion, instead of as a meal."
+    },
+    {
+      "id": "20260924-2136-dev",
+      "url": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/587438109",
+      "sha256": "d969169987738d25c9acb0f34bf88284cf3e7993db1c19b463299f50bfb73643",
+      "notes": "The Downgrade button shows its progress and says why it stopped\n- A bar under the Downgrade button shows how far the downgrade has got: each of the three downloads with the size Steam gives for it, then the copy into your game.\n- When the downgrade stops for any reason, the line under the button says why and what to do next, not only the launcher log.\n- If Windows will not open Steam's links on your machine, the launcher asks Steam directly, so Steam's console still opens."
     }
   ],
   "news": [
+    {
+      "date": "9-24-2026 9:36 PM",
+      "title": "The Downgrade button shows its progress and says why it stopped",
+      "body": "",
+      "details": [
+        "A bar under the Downgrade button shows how far the downgrade has got: each of the three downloads with the size Steam gives for it, then the copy into your game.",
+        "When the downgrade stops for any reason, the line under the button says why and what to do next, not only the launcher log.",
+        "If Windows will not open Steam's links on your machine, the launcher asks Steam directly, so Steam's console still opens.",
+        "Launcher 1.1.94.3"
+      ],
+      "channel": "dev"
+    },
     {
       "date": "9-24-2026 8:58 PM",
       "title": "Downgrading Skyrim finishes on its own, and brewed potions count as a drink",
@@ -1841,16 +1859,6 @@
       "details": [
         "Launcher 1.1.62",
         "22 files to download, 33.4 MB"
-      ],
-      "channel": ""
-    },
-    {
-      "date": "9-20-2026 11:48 AM",
-      "title": "profession, class and skill tree on K",
-      "body": "",
-      "details": [
-        "Launcher 1.1.61",
-        "2 files to download, 0.1 MB"
       ],
       "channel": ""
     }
