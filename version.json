@@ -1,7 +1,7 @@
 {
-  "launcherVersion": "1.1.94.11",
-  "launcherUrl": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/589407687",
-  "launcherSha256": "535bfdb48bcdbec7010b4abfdaabdfd7e47dc37d1b612b18a1efefeec3ceea04",
+  "launcherVersion": "1.1.94.12",
+  "launcherUrl": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/589425547",
+  "launcherSha256": "71866815db0b2b71757d4e9e67883bcedfaa83c88450f19218520b50c38063bd",
   "serverAddress": "192.135.112.23",
   "serverPort": "7787",
   "message": "",
@@ -503,9 +503,26 @@
       "url": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/589407689",
       "sha256": "c98cbe86415521d1cf0a09bac7cd25eb50e5d7b4dbad9ad64512b557ae6d26c3",
       "notes": "The launcher is quiet now\n- The launcher no longer plays music, and the Music setting is gone.\n- The Thornswood theme still plays on the game's start screen, same as before."
+    },
+    {
+      "id": "20260925-1900-dev",
+      "url": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/589425549",
+      "sha256": "876f3aab7c11d62602702b5ddfd3dde78d96d7ff4958ff44e8427545de2a16c8",
+      "notes": "The launcher music is back\n- The Thornswood theme plays in the launcher again; taking it out was a mix-up.\n- The Music switch and volume are back on Settings, set the way you had them."
     }
   ],
   "news": [
+    {
+      "date": "9-25-2026 7:00 PM",
+      "title": "The launcher music is back",
+      "body": "",
+      "details": [
+        "The Thornswood theme plays in the launcher again; taking it out was a mix-up.",
+        "The Music switch and volume are back on Settings, set the way you had them.",
+        "Launcher 1.1.94.12"
+      ],
+      "channel": "dev"
+    },
     {
       "date": "9-25-2026 6:47 PM",
       "title": "The launcher is quiet now",
@@ -951,15 +968,6 @@
       "details": [
         "Launcher 1.1.76",
         "1 file to download, 0.1 MB"
-      ],
-      "channel": ""
-    },
-    {
-      "date": "9-21-2026 6:00 PM",
-      "title": "Thornswood runs from its own Skyrim, never a shared one",
-      "body": "",
-      "details": [
-        "Launcher 1.1.75"
       ],
       "channel": ""
     }
