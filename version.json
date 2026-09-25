@@ -1,7 +1,7 @@
 {
-  "launcherVersion": "1.1.94.6",
-  "launcherUrl": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/589087505",
-  "launcherSha256": "51370e37e6ce14fcd1810ce2592378f49a11674967c3e954af39163f872bd444",
+  "launcherVersion": "1.1.94.7",
+  "launcherUrl": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/589136217",
+  "launcherSha256": "b9f2155118c1d13f200240d309c2825e9b8aa6bc1c99f83f31edce7393819cad",
   "serverAddress": "192.135.112.23",
   "serverPort": "7787",
   "message": "",
@@ -473,9 +473,27 @@
       "url": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/589087506",
       "sha256": "dbac7666cb5fd39d52580642953ac507a8feeef57ad05502e2a0f160353fb433",
       "notes": "The scroll's Continue gives you the full three minutes to choose\n- Time spent reading the sealed scroll no longer counts against choosing a character.\n- After you press Continue you get the whole three minutes to pick one before the game falls back to your last character.\n- The sealed scroll has a soft gold glow, so it is clear you can click it."
+    },
+    {
+      "id": "20260925-1600-dev",
+      "url": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/589136224",
+      "sha256": "ac3f6dd8ca81eed2fe4e8488cb962a681875e18f070d7821dcd898470ad56cd1",
+      "notes": "The start screen waits for you\n- You can stay on the sealed scroll and the character list for as long as you like. The game never picks a character for you.\n- If you ticked Start without the scroll next time, the game goes in as your last character after three minutes on the character list, as before."
     }
   ],
   "news": [
+    {
+      "date": "9-25-2026 4:00 PM",
+      "title": "The start screen waits for you",
+      "body": "",
+      "details": [
+        "You can stay on the sealed scroll and the character list for as long as you like. The game never picks a character for you.",
+        "If you ticked Start without the scroll next time, the game goes in as your last character after three minutes on the character list, as before.",
+        "Launcher 1.1.94.7",
+        "2 files to download, 1.4 MB"
+      ],
+      "channel": "dev"
+    },
     {
       "date": "9-25-2026 3:33 PM",
       "title": "The scroll's Continue gives you the full three minutes to choose",
@@ -912,15 +930,6 @@
         "1 file to download, 0.1 MB"
       ],
       "channel": ""
-    },
-    {
-      "date": "9-21-2026 3:09 PM",
-      "title": "Three launcher messages that told testers the wrong thing",
-      "body": "",
-      "details": [
-        "Launcher 1.1.70"
-      ],
-      "channel": ""
     }
   ],
   "updateRepo": "EvilPatrick06/Thornswood-Releases",
@@ -934,9 +943,9 @@
   "presenceImage": "https://thornswood.net/presence.png",
   "collectionRevision": 5,
   "clientRuntime": {
-    "url": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/588939444",
-    "sha256": "bbfbf72e5309115331b3f5781cfbdf0c99374c96084837a96bbb73bc0afa473e",
-    "bytes": 6539011,
-    "forkCommit": "390e6501"
+    "url": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/589136219",
+    "sha256": "e8d401bbfa52d9eb76ab5a4b5d894f7ef081006bd697628539265f57193e270b",
+    "bytes": 6539703,
+    "forkCommit": "d0006351"
   }
 }
