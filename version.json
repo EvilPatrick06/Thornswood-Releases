@@ -1,7 +1,7 @@
 {
-    "launcherVersion":  "1.1.95.1",
-    "launcherUrl":  "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/589480868",
-    "launcherSha256":  "2e88f3975979ca4f411eb7b456fbb8804caacff32fd4bf957382bc050e2b67d6",
+    "launcherVersion":  "1.1.95.2",
+    "launcherUrl":  "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/589481196",
+    "launcherSha256":  "303421641f7eb0e02d3810a4b0ab565c48c2ddf7bc88507ac74d2e3b2218b183",
     "serverAddress":  "192.135.112.23",
     "serverPort":  "7787",
     "message":  "",
@@ -520,6 +520,12 @@
                       "id":  "20260925-1739-dev",
                       "url":  "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/589480870",
                       "sha256":  "5cc9b9fb22e537faa18005ae1ca6c7764755d6cd66ed91c52d1366052ad781b5",
+                      "notes":  "Mods page and creation race fixes\n- Mods page shows one clear line when the collection is not deployed (#533)\n- Creation and race selection no longer fight each other (#616)"
+                  },
+                  {
+                      "id":  "20260925-1739-dev",
+                      "url":  "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/589481197",
+                      "sha256":  "aea6f916bb75e9579c7417c8b564aa0afbfdff5f1037378636b2b7b18840ae1b",
                       "notes":  "Mods page and creation race fixes\n- Mods page shows one clear line when the collection is not deployed (#533)\n- Creation and race selection no longer fight each other (#616)"
                   }
               ],
