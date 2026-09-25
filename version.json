@@ -1,7 +1,7 @@
 {
-  "launcherVersion": "1.1.92.6",
-  "launcherUrl": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/586784084",
-  "launcherSha256": "ccb48c96ceef2540a941d07dbd289bf203c97730de03a196ef8fe330ef5cc2a3",
+  "launcherVersion": "1.1.94.1",
+  "launcherUrl": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/587287292",
+  "launcherSha256": "205812d9f5825b9348b33a4e2be308f972b9d3284c9d913f3e7577b77800db41",
   "serverAddress": "192.135.112.23",
   "serverPort": "7787",
   "message": "",
@@ -1403,9 +1403,25 @@
       "url": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/586784086",
       "sha256": "9743619ce49b5bc9c56600ecfaa63c92ecc2e6fafe644889828af1aa079d861a",
       "notes": "Press U at a door to make a key mold, and J opens only our journal\nKey molds, the journal and your keys around the game's menus all changed in this dev build.\n- Carrying a blank Key Mold and looking at a door shows a prompt: press U to press the mold into that lock. Whoever holds the building has to be there. At a forge the mold then cuts keys for that house, and it is not used up.\n- J opens our journal alone. The game's own journal no longer opens behind it, and Escape still opens the game's menu.\n- P, J, G, H and L no longer open our windows while you type a character's name or have one of the game's menus open, such as the inventory or the map.\n- The party and trade windows now look like the K panel and the journal.\n- Arriving at your inn tells you where you are.\n- The launcher's moving title strip stops while the game runs, so it no longer takes processor time from the game.\n- The Help page explains parties, and the server-down countdown shows even when the server never answers at all."
+    },
+    {
+      "id": "20260924-1951-dev",
+      "url": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/587287293",
+      "sha256": "6ede312bd4c4ee34a6fed29d4fbc7579150f10f2c0ab9a9211364f7d9d6b489c",
+      "notes": "Creation can close Skyrim, and the race table reads the winning plugin"
     }
   ],
   "news": [
+    {
+      "date": "9-24-2026 7:51 PM",
+      "title": "Creation can close Skyrim, and the race table reads the winning plugin",
+      "body": "",
+      "details": [
+        "Launcher 1.1.94.1",
+        "4 files to download, 0.4 MB"
+      ],
+      "channel": "dev"
+    },
     {
       "date": "9-24-2026 2:36 PM",
       "title": "Press U at a door to make a key mold, and J opens only our journal",
@@ -1828,23 +1844,13 @@
         "Launcher 1.1.60"
       ],
       "channel": ""
-    },
-    {
-      "date": "9-20-2026 11:29 AM",
-      "title": "the IsNPC clear is guarded, so it leaves character creation alone",
-      "body": "",
-      "details": [
-        "Launcher 1.1.59",
-        "1 file to download, 0.1 MB"
-      ],
-      "channel": ""
     }
   ],
   "updateRepo": "EvilPatrick06/Thornswood-Releases",
   "voicePort": "7789",
   "collectionUrl": "https://www.nexusmods.com/games/skyrimspecialedition/collections/ombo2a",
   "maxOnline": 25,
-  "mainVersion": "1.1.92",
+  "mainVersion": "1.1.94",
   "voiceUrl": "https://thornswood.net/voice-dev",
   "discordAppId": "1549251507361292418",
   "siteUrl": "https://thornswood.net",
