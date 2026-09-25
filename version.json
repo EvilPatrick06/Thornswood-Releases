@@ -1,7 +1,7 @@
 {
-  "launcherVersion": "1.1.92.1",
-  "launcherUrl": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/587578831",
-  "launcherSha256": "e54a6cecc4843af824812d00f223d3f6b65d92f566c4d4aef3435b601a1822c7",
+  "launcherVersion": "1.1.92.2",
+  "launcherUrl": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/587730997",
+  "launcherSha256": "1afe8fcd797ede08c4a5056bdfb9ea5900798781e69523996bf7e3fb93cb33be",
   "serverAddress": "192.135.112.23",
   "serverPort": "7787",
   "message": "",
@@ -443,9 +443,26 @@
       "url": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/587578832",
       "sha256": "48ec1471a287367d39fe32c7e9c7665f974bd7b423f47443e967028c2a0c2e27",
       "notes": "A sealed scroll now opens Thornswood"
+    },
+    {
+      "id": "20260925-0246-dev",
+      "url": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/587730996",
+      "sha256": "5fb3d1ef0f0794e49d6cd6e63f948fca7c44665cdd34ee385f0806569620e6f8",
+      "notes": "The menu painting moves again, and the scroll reads like ink"
     }
   ],
   "news": [
+    {
+      "date": "9-25-2026 2:47 AM",
+      "title": "The menu painting moves again, and the scroll reads like ink",
+      "body": "",
+      "details": [
+        "Launcher 1.1.92.2",
+        "48 files to download, 19.6 MB",
+        "The load order moved, so start a new character or expect the old save to complain"
+      ],
+      "channel": "dev"
+    },
     {
       "date": "9-25-2026 1:07 AM",
       "title": "A sealed scroll now opens Thornswood",
@@ -873,15 +890,6 @@
       "body": "",
       "details": [
         "Launcher 1.1.64"
-      ],
-      "channel": "dev"
-    },
-    {
-      "date": "9-20-2026 7:35 PM",
-      "title": "A record of who played and when, for the testing log",
-      "body": "",
-      "details": [
-        "Launcher 1.1.63"
       ],
       "channel": "dev"
     }
