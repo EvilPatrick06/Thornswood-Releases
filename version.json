@@ -1,7 +1,7 @@
 {
-  "launcherVersion": "1.1.94.4",
-  "launcherUrl": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/589041054",
-  "launcherSha256": "671c856ce89d3bc9fc471009bb1bc36a788d02c24c26eebc4f14d002a2d46fb5",
+  "launcherVersion": "1.1.94.5",
+  "launcherUrl": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/589046975",
+  "launcherSha256": "a478e0840f16127472f04f1cdc5f90394241fba8afe267a22ffd06a80081201b",
   "serverAddress": "192.135.112.23",
   "serverPort": "7787",
   "message": "",
@@ -461,9 +461,25 @@
       "url": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/589041055",
       "sha256": "ed97cf1acdcf9cbbe1114d29dfc347b341341bad36e7a6c67f70a075255dd1c7",
       "notes": "The scroll glows\nThe sealed scroll at the start now has a soft gold glow, so it is clear you can click it."
+    },
+    {
+      "id": "20260925-1509-dev",
+      "url": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/589046974",
+      "sha256": "a48cf4cc4d383a5e4f221d8a7494e560b024ace4fc8a3caefaa3a2d18483f73c",
+      "notes": "..."
     }
   ],
   "news": [
+    {
+      "date": "9-25-2026 3:09 PM",
+      "title": "...",
+      "body": "",
+      "details": [
+        "Launcher 1.1.94.5",
+        "1 file to download, 0.0 MB"
+      ],
+      "channel": "dev"
+    },
     {
       "date": "9-25-2026 3:06 PM",
       "title": "The scroll glows",
@@ -893,16 +909,6 @@
       "body": "",
       "details": [
         "Launcher 1.1.69"
-      ],
-      "channel": "dev"
-    },
-    {
-      "date": "9-20-2026 9:22 PM",
-      "title": "Only spells you could learn are open, and the scrollbars match the panel",
-      "body": "",
-      "details": [
-        "Launcher 1.1.66",
-        "2 files to download, 0.1 MB"
       ],
       "channel": "dev"
     }
