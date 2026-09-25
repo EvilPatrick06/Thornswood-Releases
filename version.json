@@ -518,12 +518,6 @@
                   },
                   {
                       "id":  "20260925-1739-dev",
-                      "url":  "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/589480870",
-                      "sha256":  "5cc9b9fb22e537faa18005ae1ca6c7764755d6cd66ed91c52d1366052ad781b5",
-                      "notes":  "Mods page and creation race fixes\n- Mods page shows one clear line when the collection is not deployed (#533)\n- Creation and race selection no longer fight each other (#616)"
-                  },
-                  {
-                      "id":  "20260925-1739-dev",
                       "url":  "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/589481197",
                       "sha256":  "aea6f916bb75e9579c7417c8b564aa0afbfdff5f1037378636b2b7b18840ae1b",
                       "notes":  "Mods page and creation race fixes\n- Mods page shows one clear line when the collection is not deployed (#533)\n- Creation and race selection no longer fight each other (#616)"
