@@ -1,7 +1,7 @@
 {
-  "launcherVersion": "1.1.94.1",
-  "launcherUrl": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/587287292",
-  "launcherSha256": "205812d9f5825b9348b33a4e2be308f972b9d3284c9d913f3e7577b77800db41",
+  "launcherVersion": "1.1.94.2",
+  "launcherUrl": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/587380022",
+  "launcherSha256": "642413be2b657b417b63368b05c021600944d08f8bbda501e9861b4f78d73382",
   "serverAddress": "192.135.112.23",
   "serverPort": "7787",
   "message": "",
@@ -1409,9 +1409,27 @@
       "url": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/587287293",
       "sha256": "6ede312bd4c4ee34a6fed29d4fbc7579150f10f2c0ab9a9211364f7d9d6b489c",
       "notes": "Creation can close Skyrim, and the race table reads the winning plugin"
+    },
+    {
+      "id": "20260924-2058-dev",
+      "url": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/587380019",
+      "sha256": "754ce98938a43310afe1c08de6c9304159ef55234d104e6bc75ec5dee9b53e40",
+      "notes": "Downgrading Skyrim finishes on its own, and brewed potions count as a drink\n- The Downgrade button clears out files an earlier try left behind before it asks Steam for each part, so Steam fetches the right version and nothing from another version ends up in your game.\n- If you switch to another window while a part downloads, the launcher still brings Steam's console forward and types the next part for you. If it cannot, the line under the button says the command is on your clipboard: click the command line at the bottom of Steam's console, press Ctrl+V, then Enter.\n- A potion you brew at an alchemy lab now counts as a mouthful towards thirst when you drink it, the same as any other potion, instead of as a meal."
     }
   ],
   "news": [
+    {
+      "date": "9-24-2026 8:58 PM",
+      "title": "Downgrading Skyrim finishes on its own, and brewed potions count as a drink",
+      "body": "",
+      "details": [
+        "The Downgrade button clears out files an earlier try left behind before it asks Steam for each part, so Steam fetches the right version and nothing from another version ends up in your game.",
+        "If you switch to another window while a part downloads, the launcher still brings Steam's console forward and types the next part for you. If it cannot, the line under the button says the command is on your clipboard: click the command line at the bottom of Steam's console, press Ctrl+V, then Enter.",
+        "A potion you brew at an alchemy lab now counts as a mouthful towards thirst when you drink it, the same as any other potion, instead of as a meal.",
+        "Launcher 1.1.94.2"
+      ],
+      "channel": "dev"
+    },
     {
       "date": "9-24-2026 7:51 PM",
       "title": "Creation can close Skyrim, and the race table reads the winning plugin",
@@ -1833,15 +1851,6 @@
       "details": [
         "Launcher 1.1.61",
         "2 files to download, 0.1 MB"
-      ],
-      "channel": ""
-    },
-    {
-      "date": "9-20-2026 11:40 AM",
-      "title": "the microphone is back on",
-      "body": "",
-      "details": [
-        "Launcher 1.1.60"
       ],
       "channel": ""
     }
