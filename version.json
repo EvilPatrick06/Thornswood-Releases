@@ -1,7 +1,7 @@
 {
-  "launcherVersion": "1.1.94.7",
-  "launcherUrl": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/589136217",
-  "launcherSha256": "b9f2155118c1d13f200240d309c2825e9b8aa6bc1c99f83f31edce7393819cad",
+  "launcherVersion": "1.1.94.8",
+  "launcherUrl": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/589188943",
+  "launcherSha256": "195d4c6c78cc813b4352eb92d1d57de42768f96929c24ccc07ad3adc8264f408",
   "serverAddress": "192.135.112.23",
   "serverPort": "7787",
   "message": "",
@@ -479,9 +479,27 @@
       "url": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/589136224",
       "sha256": "ac3f6dd8ca81eed2fe4e8488cb962a681875e18f070d7821dcd898470ad56cd1",
       "notes": "The start screen waits for you\n- You can stay on the sealed scroll and the character list for as long as you like. The game never picks a character for you.\n- If you ticked Start without the scroll next time, the game goes in as your last character after three minutes on the character list, as before."
+    },
+    {
+      "id": "20260925-1632-dev",
+      "url": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/589188942",
+      "sha256": "6f49af796cc775d1d05103f870dfd7e31371ea67f32b2366ef996d3fc648519e",
+      "notes": "An easy way to bring the sealed scroll back\n- If you ticked Start without the scroll next time, the character list now has a small tick box above Close the game: Show the sealed scroll next time.\n- Tick it and the sealed scroll is back the next time you start. Untick it to keep going straight to your characters."
     }
   ],
   "news": [
+    {
+      "date": "9-25-2026 4:32 PM",
+      "title": "An easy way to bring the sealed scroll back",
+      "body": "",
+      "details": [
+        "If you ticked Start without the scroll next time, the character list now has a small tick box above Close the game: Show the sealed scroll next time.",
+        "Tick it and the sealed scroll is back the next time you start. Untick it to keep going straight to your characters.",
+        "Launcher 1.1.94.8",
+        "2 files to download, 1.4 MB"
+      ],
+      "channel": "dev"
+    },
     {
       "date": "9-25-2026 4:00 PM",
       "title": "The start screen waits for you",
@@ -918,16 +936,6 @@
         "Launcher 1.1.72",
         "1 file to download, 0.1 MB",
         "The load order moved, so start a new character or expect the old save to complain"
-      ],
-      "channel": ""
-    },
-    {
-      "date": "9-21-2026 3:34 PM",
-      "title": "The menu choice reaches the client",
-      "body": "",
-      "details": [
-        "Launcher 1.1.71",
-        "1 file to download, 0.1 MB"
       ],
       "channel": ""
     }
