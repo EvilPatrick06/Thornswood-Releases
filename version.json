@@ -1,7 +1,7 @@
 {
-  "launcherVersion": "1.1.94.10",
-  "launcherUrl": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/589401666",
-  "launcherSha256": "d96ae96e44ea811daa2a908d9895715b6ca208d5c3131174b8a666102ca92f7f",
+  "launcherVersion": "1.1.94.11",
+  "launcherUrl": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/589407687",
+  "launcherSha256": "535bfdb48bcdbec7010b4abfdaabdfd7e47dc37d1b612b18a1efefeec3ceea04",
   "serverAddress": "192.135.112.23",
   "serverPort": "7787",
   "message": "",
@@ -497,9 +497,26 @@
       "url": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/589401665",
       "sha256": "7253f896a724bc4efe1210046e4e4e29adebcaf5503c9c3f4f1280cf8f429a0c",
       "notes": "Launcher tidy up: the white strip is gone\n- No more light strip along the top edge of the launcher window.\n- The server ping and voice status update quietly instead of flashing checking.\n- A new Thornswood icon on the banner, the side bar and the taskbar.\n- The Play page has no scroll bar, and the banner is just the icon, the name, the art and your stats.\n- Played, Sessions, Last played and Updated are easier to read over the banner."
+    },
+    {
+      "id": "20260925-1847-dev",
+      "url": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/589407689",
+      "sha256": "c98cbe86415521d1cf0a09bac7cd25eb50e5d7b4dbad9ad64512b557ae6d26c3",
+      "notes": "The launcher is quiet now\n- The launcher no longer plays music, and the Music setting is gone.\n- The Thornswood theme still plays on the game's start screen, same as before."
     }
   ],
   "news": [
+    {
+      "date": "9-25-2026 6:47 PM",
+      "title": "The launcher is quiet now",
+      "body": "",
+      "details": [
+        "The launcher no longer plays music, and the Music setting is gone.",
+        "The Thornswood theme still plays on the game's start screen, same as before.",
+        "Launcher 1.1.94.11"
+      ],
+      "channel": "dev"
+    },
     {
       "date": "9-25-2026 6:43 PM",
       "title": "Launcher tidy up: the white strip is gone",
@@ -943,16 +960,6 @@
       "body": "",
       "details": [
         "Launcher 1.1.75"
-      ],
-      "channel": ""
-    },
-    {
-      "date": "9-21-2026 5:58 PM",
-      "title": "The launcher says when Skyrim is shared with other servers",
-      "body": "",
-      "details": [
-        "Launcher 1.1.74",
-        "2 files to download, 16.4 MB"
       ],
       "channel": ""
     }
