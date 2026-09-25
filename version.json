@@ -1,7 +1,7 @@
 {
-  "launcherVersion": "1.1.92.2",
-  "launcherUrl": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/587730997",
-  "launcherSha256": "1afe8fcd797ede08c4a5056bdfb9ea5900798781e69523996bf7e3fb93cb33be",
+  "launcherVersion": "1.1.92.3",
+  "launcherUrl": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/588939435",
+  "launcherSha256": "c96696c1eb33f9899f1b98205e65fe6100facfdf94afef5c87a0edc3012bcf8b",
   "serverAddress": "192.135.112.23",
   "serverPort": "7787",
   "message": "",
@@ -449,9 +449,26 @@
       "url": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/587730996",
       "sha256": "5fb3d1ef0f0794e49d6cd6e63f948fca7c44665cdd34ee385f0806569620e6f8",
       "notes": "The menu painting moves again, and the scroll reads like ink"
+    },
+    {
+      "id": "20260925-1408-dev",
+      "url": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/588939434",
+      "sha256": "f9b7c9b7a7ebbef96086b4eea99afd6004a3f026327b377d97d945a5e6debe51",
+      "notes": "Take your time with the scroll\nReading the sealed scroll no longer eats into the three minutes you have to pick a character. The clock starts when you press Continue.\n- The dev build is back on the newest main, with the scroll intro and the moving menu painting"
     }
   ],
   "news": [
+    {
+      "date": "9-25-2026 2:09 PM",
+      "title": "Take your time with the scroll",
+      "body": "Reading the sealed scroll no longer eats into the three minutes you have to pick a character. The clock starts when you press Continue.",
+      "details": [
+        "The dev build is back on the newest main, with the scroll intro and the moving menu painting",
+        "Launcher 1.1.92.3",
+        "24 files to download, 25.9 MB"
+      ],
+      "channel": "dev"
+    },
     {
       "date": "9-25-2026 2:47 AM",
       "title": "The menu painting moves again, and the scroll reads like ink",
@@ -883,15 +900,6 @@
         "The load order moved, so start a new character or expect the old save to complain"
       ],
       "channel": "dev"
-    },
-    {
-      "date": "9-20-2026 7:39 PM",
-      "title": "The Q favourites menu: a setting this build insists on is never written through another launcher's file",
-      "body": "",
-      "details": [
-        "Launcher 1.1.64"
-      ],
-      "channel": "dev"
     }
   ],
   "updateRepo": "EvilPatrick06/Thornswood-Releases",
@@ -905,9 +913,9 @@
   "presenceImage": "https://thornswood.net/presence.png",
   "collectionRevision": 5,
   "clientRuntime": {
-    "url": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/583111894",
-    "sha256": "3fb5bb91f773e065b85be1ce190e341e5394e059673bfcda1a0268a524f1ce5c",
-    "bytes": 6538349,
-    "forkCommit": "c8832519"
+    "url": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/588939444",
+    "sha256": "bbfbf72e5309115331b3f5781cfbdf0c99374c96084837a96bbb73bc0afa473e",
+    "bytes": 6539011,
+    "forkCommit": "390e6501"
   }
 }
