@@ -1,7 +1,7 @@
 {
-  "launcherVersion": "1.1.94.8",
-  "launcherUrl": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/589188943",
-  "launcherSha256": "195d4c6c78cc813b4352eb92d1d57de42768f96929c24ccc07ad3adc8264f408",
+  "launcherVersion": "1.1.94.9",
+  "launcherUrl": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/589195096",
+  "launcherSha256": "75cb7b3adfc0f75c378da535a249f624f20f4155d6ae115d39a3f77761216d6e",
   "serverAddress": "192.135.112.23",
   "serverPort": "7787",
   "message": "",
@@ -485,9 +485,27 @@
       "url": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/589188942",
       "sha256": "6f49af796cc775d1d05103f870dfd7e31371ea67f32b2366ef996d3fc648519e",
       "notes": "An easy way to bring the sealed scroll back\n- If you ticked Start without the scroll next time, the character list now has a small tick box above Close the game: Show the sealed scroll next time.\n- Tick it and the sealed scroll is back the next time you start. Untick it to keep going straight to your characters."
+    },
+    {
+      "id": "20260925-1635-dev",
+      "url": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/589195098",
+      "sha256": "0d27ddf25bfc09d55f7b531ca7621d591a38996a42a3d1bbf52d3b5f86cde19f",
+      "notes": "The sealed scroll opens only when you click it\n- Typing in another window while the game sits on the start screen no longer opens the scroll or moves you on.\n- Click the sealed scroll to open it and click Continue to go to your characters. No key does either."
     }
   ],
   "news": [
+    {
+      "date": "9-25-2026 4:35 PM",
+      "title": "The sealed scroll opens only when you click it",
+      "body": "",
+      "details": [
+        "Typing in another window while the game sits on the start screen no longer opens the scroll or moves you on.",
+        "Click the sealed scroll to open it and click Continue to go to your characters. No key does either.",
+        "Launcher 1.1.94.9",
+        "1 file to download, 0.0 MB"
+      ],
+      "channel": "dev"
+    },
     {
       "date": "9-25-2026 4:32 PM",
       "title": "An easy way to bring the sealed scroll back",
@@ -925,17 +943,6 @@
       "details": [
         "Launcher 1.1.73",
         "3 files to download, 16.5 MB"
-      ],
-      "channel": ""
-    },
-    {
-      "date": "9-21-2026 3:43 PM",
-      "title": "The menu log says why the world did not load",
-      "body": "",
-      "details": [
-        "Launcher 1.1.72",
-        "1 file to download, 0.1 MB",
-        "The load order moved, so start a new character or expect the old save to complain"
       ],
       "channel": ""
     }
