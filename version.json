@@ -1,7 +1,7 @@
 {
-  "launcherVersion": "1.1.94.5",
-  "launcherUrl": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/589046975",
-  "launcherSha256": "a478e0840f16127472f04f1cdc5f90394241fba8afe267a22ffd06a80081201b",
+  "launcherVersion": "1.1.94.6",
+  "launcherUrl": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/589087505",
+  "launcherSha256": "51370e37e6ce14fcd1810ce2592378f49a11674967c3e954af39163f872bd444",
   "serverAddress": "192.135.112.23",
   "serverPort": "7787",
   "message": "",
@@ -467,9 +467,28 @@
       "url": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/589046974",
       "sha256": "a48cf4cc4d383a5e4f221d8a7494e560b024ace4fc8a3caefaa3a2d18483f73c",
       "notes": "..."
+    },
+    {
+      "id": "20260925-1533-dev",
+      "url": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/589087506",
+      "sha256": "dbac7666cb5fd39d52580642953ac507a8feeef57ad05502e2a0f160353fb433",
+      "notes": "The scroll's Continue gives you the full three minutes to choose\n- Time spent reading the sealed scroll no longer counts against choosing a character.\n- After you press Continue you get the whole three minutes to pick one before the game falls back to your last character.\n- The sealed scroll has a soft gold glow, so it is clear you can click it."
     }
   ],
   "news": [
+    {
+      "date": "9-25-2026 3:33 PM",
+      "title": "The scroll's Continue gives you the full three minutes to choose",
+      "body": "",
+      "details": [
+        "Time spent reading the sealed scroll no longer counts against choosing a character.",
+        "After you press Continue you get the whole three minutes to pick one before the game falls back to your last character.",
+        "The sealed scroll has a soft gold glow, so it is clear you can click it.",
+        "Launcher 1.1.94.6",
+        "1 file to download, 0.0 MB"
+      ],
+      "channel": "dev"
+    },
     {
       "date": "9-25-2026 3:09 PM",
       "title": "...",
@@ -635,7 +654,7 @@
         "Launcher 1.1.92",
         "3 files to download, 0.3 MB"
       ],
-      "channel": "dev"
+      "channel": ""
     },
     {
       "date": "9-23-2026 7:46 AM",
@@ -648,7 +667,7 @@
         "Launcher 1.1.91",
         "3 files to download, 0.3 MB"
       ],
-      "channel": "dev"
+      "channel": ""
     },
     {
       "date": "9-23-2026 2:21 AM",
@@ -662,7 +681,7 @@
         "Launcher 1.1.90",
         "6 files to download, 0.3 MB"
       ],
-      "channel": "dev"
+      "channel": ""
     },
     {
       "date": "9-23-2026 1:18 AM",
@@ -676,7 +695,7 @@
         "Launcher 1.1.89",
         "2 files to download, 1.5 MB"
       ],
-      "channel": "dev"
+      "channel": ""
     },
     {
       "date": "9-23-2026 12:09 AM",
@@ -686,7 +705,7 @@
         "Launcher 1.1.88",
         "1 file to download, 1.4 MB"
       ],
-      "channel": "dev"
+      "channel": ""
     },
     {
       "date": "9-22-2026 11:56 PM",
@@ -696,7 +715,7 @@
         "Launcher 1.1.87",
         "2 files to download, 0.2 MB"
       ],
-      "channel": "dev"
+      "channel": ""
     },
     {
       "date": "9-22-2026 11:14 PM",
@@ -706,7 +725,7 @@
         "Launcher 1.1.86",
         "1 file to download, 0.2 MB"
       ],
-      "channel": "dev"
+      "channel": ""
     },
     {
       "date": "9-22-2026 11:02 PM",
@@ -722,7 +741,7 @@
         "Launcher 1.1.85",
         "3 files to download, 0.3 MB"
       ],
-      "channel": "dev"
+      "channel": ""
     },
     {
       "date": "9-22-2026 10:07 PM",
@@ -731,7 +750,7 @@
       "details": [
         "Launcher 1.1.84"
       ],
-      "channel": "dev"
+      "channel": ""
     },
     {
       "date": "9-22-2026 10:02 PM",
@@ -741,7 +760,7 @@
         "Launcher 1.1.83",
         "6 files to download, 18.3 MB"
       ],
-      "channel": "dev"
+      "channel": ""
     },
     {
       "date": "9-22-2026 10:00 PM",
@@ -750,7 +769,7 @@
       "details": [
         "Launcher 1.1.83"
       ],
-      "channel": "dev"
+      "channel": ""
     },
     {
       "date": "9-22-2026 9:51 PM",
@@ -761,7 +780,7 @@
         "1 file to download, 0.2 MB",
         "The load order moved, so start a new character or expect the old save to complain"
       ],
-      "channel": "dev"
+      "channel": ""
     },
     {
       "date": "9-22-2026 5:22 PM",
@@ -770,7 +789,7 @@
       "details": [
         "Launcher 1.1.81"
       ],
-      "channel": "dev"
+      "channel": ""
     },
     {
       "date": "9-22-2026 5:19 PM",
@@ -781,7 +800,7 @@
         "1 file to download, 0.0 MB",
         "The load order moved, so start a new character or expect the old save to complain"
       ],
-      "channel": "dev"
+      "channel": ""
     },
     {
       "date": "9-22-2026 1:44 PM",
@@ -794,7 +813,7 @@
         "The theme plays on every build now. Settings, Music turns it off",
         "Launcher 1.1.80"
       ],
-      "channel": "dev"
+      "channel": ""
     },
     {
       "date": "9-22-2026 12:23 PM",
@@ -808,7 +827,7 @@
         "Launcher 1.1.79",
         "1 file to download, 1.3 MB"
       ],
-      "channel": "dev"
+      "channel": ""
     },
     {
       "date": "9-22-2026 11:11 AM",
@@ -822,7 +841,7 @@
         "Launcher 1.1.78",
         "5 files to download, 5.6 MB"
       ],
-      "channel": "dev"
+      "channel": ""
     },
     {
       "date": "9-21-2026 10:28 PM",
@@ -832,7 +851,7 @@
         "Launcher 1.1.77",
         "2 files to download, 1.5 MB"
       ],
-      "channel": "dev"
+      "channel": ""
     },
     {
       "date": "9-21-2026 10:11 PM",
@@ -842,7 +861,7 @@
         "Launcher 1.1.76",
         "1 file to download, 0.1 MB"
       ],
-      "channel": "dev"
+      "channel": ""
     },
     {
       "date": "9-21-2026 6:00 PM",
@@ -851,7 +870,7 @@
       "details": [
         "Launcher 1.1.75"
       ],
-      "channel": "dev"
+      "channel": ""
     },
     {
       "date": "9-21-2026 5:58 PM",
@@ -861,7 +880,7 @@
         "Launcher 1.1.74",
         "2 files to download, 16.4 MB"
       ],
-      "channel": "dev"
+      "channel": ""
     },
     {
       "date": "9-21-2026 5:49 PM",
@@ -871,7 +890,7 @@
         "Launcher 1.1.73",
         "3 files to download, 16.5 MB"
       ],
-      "channel": "dev"
+      "channel": ""
     },
     {
       "date": "9-21-2026 3:43 PM",
@@ -882,7 +901,7 @@
         "1 file to download, 0.1 MB",
         "The load order moved, so start a new character or expect the old save to complain"
       ],
-      "channel": "dev"
+      "channel": ""
     },
     {
       "date": "9-21-2026 3:34 PM",
@@ -892,7 +911,7 @@
         "Launcher 1.1.71",
         "1 file to download, 0.1 MB"
       ],
-      "channel": "dev"
+      "channel": ""
     },
     {
       "date": "9-21-2026 3:09 PM",
@@ -901,23 +920,14 @@
       "details": [
         "Launcher 1.1.70"
       ],
-      "channel": "dev"
-    },
-    {
-      "date": "9-21-2026 2:47 PM",
-      "title": "The launcher said a check in had failed when it had just succeeded",
-      "body": "",
-      "details": [
-        "Launcher 1.1.69"
-      ],
-      "channel": "dev"
+      "channel": ""
     }
   ],
   "updateRepo": "EvilPatrick06/Thornswood-Releases",
   "voicePort": "7789",
   "collectionUrl": "https://www.nexusmods.com/games/skyrimspecialedition/collections/ombo2a",
   "maxOnline": 25,
-  "mainVersion": "1.1.37",
+  "mainVersion": "1.1.94",
   "voiceUrl": "https://thornswood.net/voice-dev",
   "discordAppId": "1549251507361292418",
   "siteUrl": "https://thornswood.net",
