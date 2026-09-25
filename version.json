@@ -1,845 +1,854 @@
 {
-  "launcherVersion": "1.1.94",
-  "launcherUrl": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/587122255",
-  "launcherSha256": "8d5ffda17c740f340c431236fb15df74fd83abc5e5dd742db85a21bdda09f950",
-  "serverAddress": "192.135.112.23",
-  "serverPort": "7777",
-  "message": "",
-  "packs": [
-    {
-      "id": "20260915-0030",
-      "url": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/565069058",
-      "sha256": "5bf7ff5c7009e24a8c21e599bb732ba11402035a7a4199d91cdf3180360cf1b3",
-      "notes": "Connect your Discord from the launcher"
-    },
-    {
-      "id": "20260915-2018",
-      "url": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/566972912",
-      "sha256": "fba2f375c52a299ccb991e11462982c90f114287343005d360c5df601453a075",
-      "notes": "Sub professions have real names now, and the installer opens the launcher for you when it finishes"
-    },
-    {
-      "id": "20260915-2104",
-      "url": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/567041252",
-      "sha256": "11726cf7205b8aec9262c4477398058e1fe70d8787ec4c151ee3e03fb1b839b1",
-      "notes": "The installer's leftover folder gets cleared now, on startup and on uninstall"
-    },
-    {
-      "id": "20260915-2144",
-      "url": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/567106507",
-      "sha256": "266c8e38bb86ba819b0f5a7313e02954d161d972e42a1d26f28b0379c5091595",
-      "notes": "Connect Discord can no longer stick, and the collection card offers it instead of a dead button"
-    },
-    {
-      "id": "20260915-2213",
-      "url": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/567149745",
-      "sha256": "d96004f19c83b9886eabc4ed8f15ded7e79feed7dac9c8c80eef4a7216778242",
-      "notes": "Connect Discord can no longer stick, the collection card offers it instead of a dead button, and Woodworker joins the professions"
-    },
-    {
-      "id": "20260916-0049",
-      "url": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/567378260",
-      "sha256": "e605344f7e5e70fa7991b709404cffaf350cb72c53efbaf1b981305305bc4c49",
-      "notes": "Another server's files are moved aside now instead of deleted"
-    },
-    {
-      "id": "20260916-0112",
-      "url": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/567410231",
-      "sha256": "3de9702870de0bbb3e08f2e449e7823a308a4e1872fda3c3d86f5f2bc0dc8dff",
-      "notes": "Main menu background and logo mesh were another server's, removed"
-    },
-    {
-      "id": "20260916-0130",
-      "url": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/567439170",
-      "sha256": "86c54d292b8d97834969292dac702f067a9044231750230ccee3ee668b333bff",
-      "notes": "Crafting assets restored, browser backend picked from what is installed"
-    },
-    {
-      "id": "20260916-0141",
-      "url": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/567455069",
-      "sha256": "897972a5fff59c013888c2f92c7c6b662ff20a7abbe0a6adb740198b48900995",
-      "notes": "Character slot goes inside gameData, which is what turns the login screen off"
-    },
-    {
-      "id": "20260916-0146",
-      "url": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/567461540",
-      "sha256": "8f55a55f774fa7156a85ac6bbf0dd57a63fd9069d86cdfc24b32dc0ea1ca3644",
-      "notes": "Character slot goes inside gameData, and the launcher now checks for Start On Save"
-    },
-    {
-      "id": "20260916-0205",
-      "url": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/567491237",
-      "sha256": "000161e88c8747cb41fc8b6ff1fbdb3b0e0c715a4d0385c6a9868d61aa3457bc",
-      "notes": "Browser backend detects NirnLab correctly, Start On Save is checked for"
-    },
-    {
-      "id": "20260916-0213",
-      "url": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/567504574",
-      "sha256": "8804b3d1a99ca7714bcd8a3a479a40faeea238c786a5f9a6820d9093b9c8e914",
-      "notes": "Out of date collection now says so above Play instead of just blocking it"
-    },
-    {
-      "id": "20260916-0222",
-      "url": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/567521068",
-      "sha256": "7d9f66e83d2230c1b4ee77664bec23a7f6de911db453f74e2fe48f711602038a",
-      "notes": "New characters start a new game instead of stopping at an empty save picker"
-    },
-    {
-      "id": "20260916-0247",
-      "url": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/567561712",
-      "sha256": "505f77bae3069db0846045b6b96efa4912e5e5b00c712a3df4a2483119c35c1a",
-      "notes": "Thornswood main menu backdrop, and voice now follows the character you actually launched"
-    },
-    {
-      "id": "20260916-0314",
-      "url": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/567606983",
-      "sha256": "6c74e3d6da0093cc09a911c36823de15d051c04ece75fb2a369af97baa4a0426",
-      "notes": "Thornswood main menu backdrop, wider menu plane, and MCM Helper on the light plugin so load orders line up with the server"
-    },
-    {
-      "id": "20260916-0937",
-      "url": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/568260637",
-      "sha256": "0e069f92b37cfce576f5b8d889d0840ea7776f09ef6ddf62cf8775cd81839dd2",
-      "notes": "Login fixed: the client now sends the login this server answers, so everyone lands in the creation hall again. Main menu backdrop recomposed and full width. Launcher flags MCM Helper light so load orders match the server. Per person settings no longer ride in packs."
-    },
-    {
-      "id": "20260916-1217",
-      "url": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/568524760",
-      "sha256": "6e74fed5956804f6af502a464ebf6a28abbc8c89441ee14b711f5663bc45429a",
-      "notes": "Updates reach your game again, and the main menu is only the Thornswood backdrop. Since the move to the Steam copy the launcher had been marking every update as installed without writing a single game file, so nobody got the login fix or the backdrop. Launcher 1.1.32 puts the missed updates back in the queue and installs them properly the next time it opens. The first time it has a lot to download, so give it a while, or run the installer from the site instead. The main menu is now the Thornswood backdrop on any screen, with no buttons, no logo, no save panel and no animation replacer banner, and the game walks you into the creation hall by itself."
-    },
-    {
-      "id": "20260916-1410",
-      "url": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/568708207",
-      "sha256": "104593aa2639bcf086a4af1dc41a6a69a2e35b8c61ea9695f33b002ecf7f0454",
-      "notes": "Voice works: the game finds the launcher's microphone again, so the indicator leaves LISTENING ONLY and push to talk reaches the launcher. Emote wheel is back on G, the key file had been cut down to the field of view line. SkyHUD config restored, the incompatible config popup is gone. Door fix: the rescue that pulled you back through the inn door is off. Thornswood's plugins stay idle when the client points at another server, so they no longer draw over Keizaal Online. New main menu art. Launcher checks in with the character's own profile id and logs its own faults. Vortex bookkeeping and face exports no longer ship in updates."
-    },
-    {
-      "id": "20260916-1523",
-      "url": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/568826369",
-      "sha256": "dd590ecbe347b5c75167701a3085df83e8e54f0de9cb1d51e3f7a9a66ab5b3e5",
-      "notes": "Voice indicator fixed for real: the page inside the game was still the old one and never took the launcher's state. Switching servers without touching Vortex: the launcher now keeps its own copies of the twelve files in Data\\Platform it owns, puts back any that another server's launcher changed before every Play, and parks any other server's plugin while Thornswood runs, then puts it back the moment the game closes. Start menu entry for the launcher on every machine. Site downloads line corrected to https."
-    },
-    {
-      "id": "20260916-1800",
-      "url": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/569049168",
-      "sha256": "63dc395f18dc995bf9ddbe3f053528d12708469cebb08a7fcc7516eb4147d2f6",
-      "notes": "Discord shows you playing Thornswood, with Download and Discord buttons. A dev build you can install from Settings, on its own server. Each build keeps its own game files."
-    },
-    {
-      "id": "20260916-1927",
-      "url": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/569196196",
-      "sha256": "de2dc7afd29c4f69f2af6226b361618e6d3653f43a57bc9a29557447fa2f3fd6",
-      "notes": "Dev build for the Owner and Dev roles only, voice port per build, session note for the plugins, other servers' files stay out of releases"
-    },
-    {
-      "id": "20260916-2028",
-      "url": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/569281541",
-      "sha256": "12d8ffd7c6cf423f4159f060a20b2c2bc5371d6a653e15ca8dabcf2a39d92547",
-      "notes": "The launcher holds its files while the game runs, so another launcher opened mid-session cannot change them. Save folder problems no longer stop Play and say why."
-    },
-    {
-      "id": "20260916-2136",
-      "url": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/569376086",
-      "sha256": "42f889c6c130fe9c4e101098961e307d3c2de62b7af130193a7e5235ba8a4431",
-      "notes": "A Downgrade button on the Play page: Steam fetches 1.6.1170 and the launcher puts it in place, nothing to paste. The build line says which build Skyrim is on."
-    },
-    {
-      "id": "20260917-0024",
-      "url": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/569614392",
-      "sha256": "525e77f8b2c21aa384770238f74829962d643a5915fb6c096cb4627ad8621715",
-      "notes": "1.1.40: the downgrade card comes up before the mods card; the GitHub build check compiles again"
-    },
-    {
-      "id": "20260917-0102",
-      "url": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/569672743",
-      "sha256": "63365e482c57aae89970a4f4cb1eee0ab6415091324e116c46a332798f6530bf",
-      "notes": "1.1.41: your key binds and field of view stay on your machine (the 16 Sep updates put one machine's on everyone; a 120 field of view goes back to 65), locks are back, levers, chains, bars and chairs work, an update closes the game after the five minute warning so the launcher can install it, the Downgrade button types into Steam's console itself, arrival points fixed in Whiterun, Riften, Windhelm, Morthal and Winterhold"
-    },
-    {
-      "id": "20260917-0230",
-      "url": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/569820230",
-      "sha256": "960d666b82ed1775723e8f5bfef8190aaacde36faec1eda11e0ff5c4b8b57e15",
-      "notes": "Scan checks every plugin's bytes against the server and Fix fetches the server's copy (the LOAD ORDER ERROR one machine had), Start On Save can no longer load a single player save under SkyMP (the crash on a fresh install with old saves), difficulty is Expert, the Downgrade button clicks into Steam's console before it types"
-    },
-    {
-      "id": "20260917-0925",
-      "url": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/570531078",
-      "sha256": "960d666b82ed1775723e8f5bfef8190aaacde36faec1eda11e0ff5c4b8b57e15",
-      "notes": "an update countdown no longer kicks anybody (a kick without a server restart left existing characters unable to get back in and with no NPCs), a fresh install never gets the shared profile 1 and never deletes your own Skyrim saves, the Downgrade button logs the exact command and what Steam said when a part does not start"
-    },
-    {
-      "id": "20260917-1647",
-      "url": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/571311141",
-      "sha256": "db010aab9b68cda87ef087376edd11a10c94e623c9640745f1c4f01e8f18751d",
-      "notes": "Lockpicking works, the game folder looks after itself, and Windows stops asking about the browser\n\nEverything the dev build has been carrying today.\n\n- Lockpicking. A locked door no longer opens the moment the mini game appears, a chest you have picked can actually be looted, and lockpicks run out instead of lasting forever\n- NirnLab is another server's file and Thornswood's own game folder no longer takes it. The folder brings itself up to date on its own, so this needs nothing from you\n- Windows asking whether the game's browser may reach the network is settled while the folder is set up, and refusing is fine\n- Thornswood now appears in Windows Settings under Installed apps, and the uninstall button there opens the launcher on the page that does it\n- The Play page checks the client bundle now, which is the half that dials the server and the one thing none of the other checks looked at\n- Repair puts this build's own files back rather than only its settings\n- The uninstall says what it actually does, clears up after itself, and tells you what it left and why\n- Dates read month first with a time on them"
-    },
-    {
-      "id": "20260918-1442",
-      "url": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/573419803",
-      "sha256": "1938a456cb5bce9b26060abc5064a95ee08466c29786950146468ea5215aae38",
-      "notes": "voice recovery, join tokens, backups, site hardening"
-    },
-    {
-      "id": "20260918-1615",
-      "url": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/573564733",
-      "sha256": "5ce85a65ad31fa389a41120d018e50a0cc692d683f05f2b1c40b1f8fdd559436",
-      "notes": "voice through the certificate"
-    },
-    {
-      "id": "20260918-2340",
-      "url": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/574168145",
-      "sha256": "a0a95506a826c20a77d52610e9afcafede1ffaf7814bae547dce27207691b7d7",
-      "notes": "Backdrop and Icon art changes, plus voice, spint, and jump"
-    },
-    {
-      "id": "20260919-1416",
-      "url": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/575419185",
-      "sha256": "a22c8ce645503c0d1874babefc5abc4a841597a1e5b84b353d32c9e10672638d",
-      "notes": "Voice + art chnages"
-    },
-    {
-      "id": "20260919-1546",
-      "url": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/575542038",
-      "sha256": "c48d24b9890dfffb432a8a7dd701c0d9de1012201237a4958b3089d9abc6c430",
-      "notes": "Plugin fixes"
-    },
-    {
-      "id": "20260919-1944",
-      "url": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/575871489",
-      "sha256": "d8a70b4e44f15edbaa39882a280cdd8a7dab5916b3dd7ccad2f594de3b06ab24",
-      "notes": "jump and sprint, voice ranges, the Q crash"
-    },
-    {
-      "id": "20260919-2010",
-      "url": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/575907653",
-      "sha256": "354e1663b5f4341352ab4f5e1177e5f44c518eae1fb0c9649402b75937404aa8",
-      "notes": "InventoryInjector out of the folder, jump probe"
-    },
-    {
-      "id": "20260919-2044",
-      "url": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/575958625",
-      "sha256": "ef2e63c5bbe059854e62012dcee84b2969a0d24b95608933b8ed7e0f8075f0b0",
-      "notes": "voice ranges, chat roles, Q menu"
-    },
-    {
-      "id": "20260919-2101",
-      "url": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/575982409",
-      "sha256": "ad7cf4a8bf4258fdaa298458008478a824c2e7e522f797d51832b8a89f5ec369",
-      "notes": "voice ranges, chat roles, Q menu"
-    },
-    {
-      "id": "20260920-1103",
-      "url": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/577200347",
-      "sha256": "a69aea7098d87acf50796a7b0398ce02b485954184cdc8ad4a6b601a941ae714",
-      "notes": "voice local range halved"
-    },
-    {
-      "id": "20260920-1124",
-      "url": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/577232301",
-      "sha256": "c777d4dc8e08af8c9ecc5df63994594789b92a9dbcd243e13cf94fbc4af3d8f9",
-      "notes": "jump and sprint clear IsNPC on the press frame, and the light plugins are listed too"
-    },
-    {
-      "id": "20260920-1129",
-      "url": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/577239089",
-      "sha256": "0226603003e2c978347e1d750f100ab9acaccf3f8caf6b0681d62238a306b2b0",
-      "notes": "the IsNPC clear is guarded, so it leaves character creation alone"
-    },
-    {
-      "id": "20260920-1148",
-      "url": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/577267666",
-      "sha256": "2b0f7acdfb1d8ccb110c67e0f7ea4119ddff037b6cf923d8e1ccb98feacd754d",
-      "notes": "profession, class and skill tree on K"
-    },
-    {
-      "id": "20260920-1902",
-      "url": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/577904856",
-      "sha256": "527f7ad5a9a546177ec4e91f129cf05ab0dc569b1b42bae50a2cb22616e78607",
-      "notes": "Character choice at the menu, creation in the game, the K panel, the load order gate, the door and admins from the site"
-    },
-    {
-      "id": "20260920-2113",
-      "url": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/578112084",
-      "sha256": "3c3091de99836b43e81adc2165fa7d3b5e2519e0acc88199c0ff7ebd4c72b593",
-      "notes": "The delete icon on the character menu forgets again"
-    },
-    {
-      "id": "20260920-2122",
-      "url": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/578124710",
-      "sha256": "6651cf66a9dfea5fa431a4b9154260d1d4a6f54c3398fd52d2692925def17036",
-      "notes": "Only spells you could learn are open, and the scrollbars match the panel"
-    },
-    {
-      "id": "20260921-1534",
-      "url": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/579910445",
-      "sha256": "7cb10fd9856478d4954182c691b02b7cb1cd3d6dc60afb2b5f5c30b206820d74",
-      "notes": "The menu choice reaches the client"
-    },
-    {
-      "id": "20260921-1543",
-      "url": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/579924459",
-      "sha256": "f780839ded7a774ebc60d753d8ceb8535f7f7c66d56605c320fd927af9265c88",
-      "notes": "The menu log says why the world did not load"
-    },
-    {
-      "id": "20260921-1749",
-      "url": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/580104412",
-      "sha256": "5915ae2b4575b8d7474789e11021b813da8f65427bed81d2c9c81da66c6ea4a2",
-      "notes": "The client writes down what it says"
-    },
-    {
-      "id": "20260921-1758",
-      "url": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/580117060",
-      "sha256": "5485b6e9dff5df4485fd64f546af92e0cf2a8b93fb6b7fff3f5102fe7b97d361",
-      "notes": "The launcher says when Skyrim is shared with other servers"
-    },
-    {
-      "id": "20260921-2211",
-      "url": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/580514450",
-      "sha256": "2e0562318994092cbea94abb09daca521fd8f198a40b919ec37ee044e82ec74c",
-      "notes": "The shift goes on, a farmhand's press is not yours, and the town gates open"
-    },
-    {
-      "id": "20260921-2228",
-      "url": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/580540434",
-      "sha256": "e2ced52ca374af854bee312c201e6255345fd83173e0ffd0d83a4454eaa9610f",
-      "notes": "Back to the 1.1.75 plugin"
-    },
-    {
-      "id": "20260922-1111",
-      "url": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/581859989",
-      "sha256": "c088be616c31d96646ed1ad20a28e6df94c8452daa5177759c65ccf40c3d6fe4",
-      "notes": "The theme plays for everybody, and the launcher stops asking you to press Fix"
-    },
-    {
-      "id": "20260922-1223",
-      "url": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/581981580",
-      "sha256": "af3d44394ecc6648bef776e48899a15d6a12f915b46d25dead11c57352eaa2e5",
-      "notes": "The launcher sends its logs when you close the game, so nobody has to ask you for them"
-    },
-    {
-      "id": "20260922-1719",
-      "url": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/582456098",
-      "sha256": "0d20e4fc2602670b075ae4529f5585ddf0694ef49b026517568e06648158743b",
-      "notes": "The mod list has a new revision, and the world has started over.\nBefore you press Play, update the Thornswood collection in Vortex to revision 5. The launcher tells you if you have not.\nTaken out: Tavern Games, Respawn - Death Overhaul and SunHelm Survival, which did not work on this server.\nImmersive Armors is now the script free version.\nNew: Playable Rieklings, with RaceCompatibility.\nThe collection now carries the plugin order, so let Vortex sort and do not move plugins by hand.\nBecause the load order changed, everybody makes a new character, and every house and farm is unclaimed again."
-    },
-    {
-      "id": "20260922-2151",
-      "url": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/582897693",
-      "sha256": "8b54466f5dda272598a6926ff2915ba63593950bf0e36665a10a250b1062042a",
-      "notes": "If the launcher ever says a client file is missing, it now goes and gets it.\n\nThe Play page checks the six files that make up the SkyMP client against the\nrecord they were built from, instead of guessing from the text inside one of\nthem. If any is missing or is the wrong build, the launcher fetches it back on\nits own, from your own kept copies or from the update feed.\n\nNobody gets told to reinstall Thornswood over this again. If you hit the\n\"skymp5-client.js is missing\" screen on a fresh install, update and open the\nlauncher and it sorts itself out."
-    },
-    {
-      "id": "20260922-2202",
-      "url": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/582914809",
-      "sha256": "6c30cfbcce0e3eca2327d6cb5e44a46f2ea919c3d79fe5deac9cd50e2684a9bf",
-      "notes": "The SkyMP client files are in this update, so a broken install can repair itself.\n\nNothing about the game changes here. This update carries the six files that\nmake up the SkyMP client, so a launcher that finds one of them missing has\nsomewhere to fetch it from.\n\nIf your Client row is red, open the launcher and give it a moment."
-    },
-    {
-      "id": "20260922-2302",
-      "url": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/583010015",
-      "sha256": "da0619185b0cbd1f52b04fb42e36b0b81197cb4a2515a403c1e77c0185a97a42",
-      "notes": "Hunger, thirst and exhaustion arrive, and a few things stop getting in your way.\n\nNew: your character now gets hungry, thirsty and tired. Nothing here can kill\nyou or knock you out. An empty meter makes you worse at things, and that is\nall. Say /needs to see where you stand, /rest sit or bed to recover, /eat and\n/drink, and /bard if you are playing music in an inn, which helps everyone\nresting near you. The numbers are a first guess and we want to hear what feels\nwrong.\n\nAlso in this one:\n  - The SkyUI error box about map.swf on the way in is gone, and the good\n    world map stays.\n  - Character creation has a Not now button. Closing it no longer reopens\n    thirty seconds later.\n  - Mages see their two spell points while creating instead of only after.\n  - The character page has a Close the game button.\n  - Mouse 4 and Mouse 5 can be set as your voice key.\n  - Three chopping blocks around Solitude and Dragon Bridge are out of use."
-    },
-    {
-      "id": "20260922-2314",
-      "url": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/583031181",
-      "sha256": "b8b01a65e9d60579daf78771c3f0960c9e18ddc9695b59429851c82cbdc0401d",
-      "notes": "Three chopping blocks are gone, and the SkyUI map error is fixed for everyone.\n\nThe chopping blocks at Solitude, Solitude Stables and Dragon Bridge are taken\nout of the world. They are not just switched off now, they are not there.\n\nThe SkyUI ERROR CODE 5 box about map.swf went out in the last update for new\ninstalls only. This one removes the file from installs that already have it,\nwhich is everybody who was seeing the box. The good world map stays."
-    },
-    {
-      "id": "20260922-2356",
-      "url": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/583092484",
-      "sha256": "c69ade81713e68d196bbfa08ca4132df9dfa9345484bc8d5606e5d495895b449",
-      "notes": "The close game button is quicker, and you can teleport anywhere with a name.\n\nThe character page's Close the game button now asks the engine to exit\nproperly instead of throwing quietly, and it puts the browser down first so\nthere is less to unwind on the way out.\n\nFor playtesters: /tp now reaches any named place in the world, not just the\nnine holds. Type part of a name, like /tp bannered or /tp jorrvaskr. Where\nseveral places share a name it lists them rather than guessing. There are also\n/give and /spawn now, for any of the 1,823 items and 115 creatures this server\nknows by name: /give iron ore 5, /spawn cow 3."
-    },
-    {
-      "id": "20260923-0009",
-      "url": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/583111891",
-      "sha256": "441177a601579e6981939497ef3f4a124e4a3eb2e41b7e65001298c888bf8a40",
-      "notes": "No more phantom item notifications, and the meters on screen are readable.\n\nThe client was re-applying your whole inventory every five seconds, for ever.\nWhen a difference could not be resolved it handed the same thing over again\nand again, and Skyrim announced every one. That is the boots that kept being\nlooted while you stood still, and the flood after closing a bench. It now\nstops retrying a difference that is not closing.\n\nThe four meters bottom left are bigger, sit on a backing so they are readable\nagainst anything, and no longer fade out. Temp says Temp, has a thermometer\ninstead of a second water drop, and reads as a word and a number with a\ncolour: Freezing, Cold, Chilly, Fine, Warm, Hot, Burning."
-    },
-    {
-      "id": "20260923-0118",
-      "url": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/583218841",
-      "sha256": "9a26f5eb15c949c22aa409d615d6a5d70a072ca10c99bd8ecc295dbb37470f48",
-      "notes": "Cold, heat and fire are real now.\n\nThe Temp bar on your screen finally moves. It was stuck on Fine 50 everywhere because nothing was ever telling the server where you were standing. It does now, and it reads all of this:\n\n- A roof over you, and how far the nearest lit fire is. Fires warm you by how close you are, so it climbs as you walk to a hearth and falls as you walk away. Forges, the Skyforge, smelters and cooking spits count too.\n- The weather, including how hard the wind is blowing, and whether it is day or night, and how high up you are.\n- Swimming, and wading, which are not the same thing. Different waters are different temperatures: meltwater, marsh, a puddle, a river, an indoor pool, and lava.\n- What you are wearing. Bare skin is the coldest thing there is, fur is the warmest, metal is the worst of the things that are not nothing, and every piece counts on its own: a hood, a scarf, a cloak, gloves and boots are five separate decisions. The same coat that saves you in a blizzard cooks you at a forge.\n\nSTAND IN A FIRE AND YOU BURN. It spreads to anybody standing next to you, so mind where you are.\n\nThe four bars are half again bigger and easier to read.\n\nThe countdown before an update now says your game is about to close and why, instead of talking about the launcher, and it sits where you can see it rather than up by the compass.\n\nIf the character creation menu has been opening every time you log in on a character you already made, that is fixed."
-    },
-    {
-      "id": "20260923-0221",
-      "url": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/583323029",
-      "sha256": "dcd19bc5ea86d50cbb135e70ea5529a852a9918738d4a38a75138130dd778dff",
-      "notes": "Look at somebody and press a key.\n\nFriends, parties, trading, muting and journals are all in, and none of them needs a cursor.\n\n- Look at a person and three keys appear with their name: G asks them to be friends, H offers a trade, L stops you hearing them. Press G again on a friend to take them off your list.\n- P opens your friends and your party: who is online, who is with you, and who to ask. Work you do with your party in the same place counts for more.\n- J opens your journals. As many as you like, pages inside them, and you can share a whole journal or a single page with a friend. It is not a copy, so if you correct a page they see the correction.\n- Trading is two piles and two agreements. Add what you like, set gold, and nothing moves until you have both agreed. Change either side and both agreements come off, so what you agreed to is what you get.\n\nThe old trade menu people remember was a Skyrim Together mod that is not in this game. This one is ours.\n\nVOICE ACTUALLY HAS RANGE NOW. Whisper, normal and yell were all carrying the same distance because of a number the browser was ignoring. A whisper now stops at a table, normal at a room, and a yell reaches across a market and is louder than the other two at the same distance.\n\nDice are rolled by the server. /roll 20, or /roll 6x3 for three of them. Nobody can type a number and call it a roll.\n\nGold, weapons and armour no longer turn up in chests. That rule always existed and the first person to open any chest got the loot anyway, because of when the check ran.\n\n/help is a menu now: /help talking, /help people, /help living, /help work, /help land, /help staff.\n\nAnd if the console has been flashing open and shut when you press the key: that is us, it is the same for everybody, and it says so now instead of doing it silently."
-    },
-    {
-      "id": "20260923-0746",
-      "url": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/583860974",
-      "sha256": "51f4a743f1a028df231a30b30f4c35f6b36c351c9e2908793eddd4fda82a3fd1",
-      "notes": "Your party, found.\n\nEverybody in your party now has their name in green above their head, a marker on your map, and an arrow on a strip under your compass telling you which way they are and how far.\n\n- Green on the strip means the same room as you. Gold means somewhere else in Skyrim.\n- The map markers are named after them and do not let you fast travel: somebody's position is a thing to walk to.\n- All of it turns off the moment they leave the party, including the green on their name.\n\nThe strip is ours rather than Skyrim's own compass. That one only draws quest targets and map markers and there is no way to put a person on it without changing the game files, so we drew our own under it instead. It updates five times a second, which is faster than the compass would have.\n\nNothing else to press. Open P to see your party, and it all just works while you are in one."
-    },
-    {
-      "id": "20260923-2137",
-      "url": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/585078233",
-      "sha256": "93e166aac20216b87bd35bd632a7439ef19fad1f8c8baf644d1d60f9b65fd6ac",
-      "notes": "Everything from tonight's dev testing, now on the live build.\n\nWarmth: fires, cooking fires, forges and braziers warm you again, and standing in one will set you alight. Rain, snow, wind and a roof over your head all count. Water is cold. The reading moves quickly while you are warming and slowly while you are not, so it settles where you would expect.\n\nHunger and Thirst: the two meters are named properly now, they move at a rate you can feel, and eating and drinking actually register. Potions and poisons count as drink, because they are liquid. Ale makes you hungrier, and each one hits harder than the last.\n\nMining: one press is a spell of work rather than a click for every swing, and you use the pick on your own hip.\n\nArriving: you come back dressed, in the clothes you left in.\n\nWorking a trade tires you, by the swing, and your rank is what it costs you rather than how fast the clock runs.\n\nHarvesting something your trade cannot use now simply refuses, instead of taking the plant and giving you nothing.\n\nThe chat window no longer loses the server while you are typing, and the update countdown stops promising a kick to people it was never going to kick."
-    },
-    {
-      "id": "20260924-1559",
-      "url": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/586932622",
-      "sha256": "91ad15d711c67630e2f7766503031e281b3596e27816c664c13ceea76dadd476",
-      "notes": "The launcher finds your mods when Vortex keeps them in a different Skyrim folder\nIf Vortex on your machine deploys into a Skyrim folder other than the one Steam uses, the launcher now finds it instead of saying nothing is deployed.\n- If the launcher said Vortex had nothing deployed while Vortex showed everything deployed, press Scan: it now names the folder Vortex really uses, and Fix builds Thornswood's own game folder from it.\n- Nothing else in that folder is used. The game itself still comes from your Steam copy of Skyrim, and only the files Vortex deployed are brought in, so another server's files never mix with Thornswood's.\n- Settings has a Choose Vortex's folder button for the rare folder the launcher cannot find by itself."
-    },
-    {
-      "id": "20260924-1810",
-      "url": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/587122257",
-      "sha256": "1a67e3c99b1d6a7c4fc06be90a96795afefde0a40a105bf512e90c2f6b84b2c8",
-      "notes": "The Downgrade button works on its own again.\nIt finds Steam's window however your Steam draws it, and types each command into Steam's console for you.\nIt now sees Steam finish each of the three parts and asks for the next one, so you are not left with only the first.\nIf Steam refuses a part, the launcher tells you why straight away instead of waiting.\nIt checks the download is the right version of Skyrim before it replaces anything."
-    }
-  ],
-  "news": [
-    {
-      "date": "9-24-2026 6:10 PM",
-      "title": "The Downgrade button works on its own again.",
-      "body": "It finds Steam's window however your Steam draws it, and types each command into Steam's console for you. It now sees Steam finish each of the three parts and asks for the next one, so you are not left with only the first. If Steam refuses a part, the launcher tells you why straight away instead of waiting. It checks the download is the right version of Skyrim before it replaces anything.",
-      "details": [
-        "Launcher 1.1.94",
-        "21 files to download, 17.4 MB"
-      ],
-      "channel": ""
-    },
-    {
-      "date": "9-24-2026 3:59 PM",
-      "title": "The launcher finds your mods when Vortex keeps them in a different Skyrim folder",
-      "body": "If Vortex on your machine deploys into a Skyrim folder other than the one Steam uses, the launcher now finds it instead of saying nothing is deployed.",
-      "details": [
-        "If the launcher said Vortex had nothing deployed while Vortex showed everything deployed, press Scan: it now names the folder Vortex really uses, and Fix builds Thornswood's own game folder from it.",
-        "Nothing else in that folder is used. The game itself still comes from your Steam copy of Skyrim, and only the files Vortex deployed are brought in, so another server's files never mix with Thornswood's.",
-        "Settings has a Choose Vortex's folder button for the rare folder the launcher cannot find by itself.",
-        "Launcher 1.1.93",
-        "21 files to download, 17.4 MB"
-      ],
-      "channel": ""
-    },
-    {
-      "date": "9-23-2026 9:37 PM",
-      "title": "Everything from tonight's dev testing, now on the live build.",
-      "body": "Warmth: fires, cooking fires, forges and braziers warm you again, and standing in one will set you alight. Rain, snow, wind and a roof over your head all count. Water is cold. The reading moves quickly while you are warming and slowly while you are not, so it settles where you would expect. Hunger and Thirst: the two meters are named properly now, they move at a rate you can feel, and eating and drinking actually register. Potions and poisons count as drink, because they are liquid. Ale makes you hungrier, and each one hits harder than the last. Mining: one press is a spell of work rather than a click for every swing, and you use the pick on your own hip. Arriving: you come back dressed, in the clothes you left in. Working a trade tires you, by the swing, and your rank is what it costs you rather than how fast the clock runs. Harvesting something your trade cannot use now simply refuses, instead of taking the plant and giving you nothing. The chat window no longer loses the server while you are typing, and the update countdown stops promising a kick to people it was never going to kick.",
-      "details": [
-        "Launcher 1.1.92",
-        "3 files to download, 0.3 MB"
-      ],
-      "channel": ""
-    },
-    {
-      "date": "9-23-2026 7:46 AM",
-      "title": "Your party, found.",
-      "body": "Everybody in your party now has their name in green above their head, a marker on your map, and an arrow on a strip under your compass telling you which way they are and how far. The strip is ours rather than Skyrim's own compass. That one only draws quest targets and map markers and there is no way to put a person on it without changing the game files, so we drew our own under it instead. It updates five times a second, which is faster than the compass would have. Nothing else to press. Open P to see your party, and it all just works while you are in one.",
-      "details": [
-        "Green on the strip means the same room as you. Gold means somewhere else in Skyrim.",
-        "The map markers are named after them and do not let you fast travel: somebody's position is a thing to walk to.",
-        "All of it turns off the moment they leave the party, including the green on their name.",
-        "Launcher 1.1.91",
-        "3 files to download, 0.3 MB"
-      ],
-      "channel": ""
-    },
-    {
-      "date": "9-23-2026 2:21 AM",
-      "title": "Look at somebody and press a key.",
-      "body": "Friends, parties, trading, muting and journals are all in, and none of them needs a cursor. The old trade menu people remember was a Skyrim Together mod that is not in this game. This one is ours. VOICE ACTUALLY HAS RANGE NOW. Whisper, normal and yell were all carrying the same distance because of a number the browser was ignoring. A whisper now stops at a table, normal at a room, and a yell reaches across a market and is louder than the other two at the same distance. Dice are rolled by the server. /roll 20, or /roll 6x3 for three of them. Nobody can type a number and call it a roll. Gold, weapons and armour no longer turn up in chests. That rule always existed and the first person to open any chest got the loot anyway, because of when the check ran. /help is a menu now: /help talking, /help people, /help living, /help work, /help land, /help staff. And if the console has been flashing open and shut when you press the key: that is us, it is the same for everybody, and it says so now instead of doing it silently.",
-      "details": [
-        "Look at a person and three keys appear with their name: G asks them to be friends, H offers a trade, L stops you hearing them. Press G again on a friend to take them off your list.",
-        "P opens your friends and your party: who is online, who is with you, and who to ask. Work you do with your party in the same place counts for more.",
-        "J opens your journals. As many as you like, pages inside them, and you can share a whole journal or a single page with a friend. It is not a copy, so if you correct a page they see the correction.",
-        "Trading is two piles and two agreements. Add what you like, set gold, and nothing moves until you have both agreed. Change either side and both agreements come off, so what you agreed to is what you get.",
-        "Launcher 1.1.90",
-        "6 files to download, 0.3 MB"
-      ],
-      "channel": ""
-    },
-    {
-      "date": "9-23-2026 1:18 AM",
-      "title": "Cold, heat and fire are real now.",
-      "body": "The Temp bar on your screen finally moves. It was stuck on Fine 50 everywhere because nothing was ever telling the server where you were standing. It does now, and it reads all of this: STAND IN A FIRE AND YOU BURN. It spreads to anybody standing next to you, so mind where you are. The four bars are half again bigger and easier to read. The countdown before an update now says your game is about to close and why, instead of talking about the launcher, and it sits where you can see it rather than up by the compass. If the character creation menu has been opening every time you log in on a character you already made, that is fixed.",
-      "details": [
-        "A roof over you, and how far the nearest lit fire is. Fires warm you by how close you are, so it climbs as you walk to a hearth and falls as you walk away. Forges, the Skyforge, smelters and cooking spits count too.",
-        "The weather, including how hard the wind is blowing, and whether it is day or night, and how high up you are.",
-        "Swimming, and wading, which are not the same thing. Different waters are different temperatures: meltwater, marsh, a puddle, a river, an indoor pool, and lava.",
-        "What you are wearing. Bare skin is the coldest thing there is, fur is the warmest, metal is the worst of the things that are not nothing, and every piece counts on its own: a hood, a scarf, a cloak, gloves and boots are five separate decisions. The same coat that saves you in a blizzard cooks you at a forge.",
-        "Launcher 1.1.89",
-        "2 files to download, 1.5 MB"
-      ],
-      "channel": ""
-    },
-    {
-      "date": "9-23-2026 12:09 AM",
-      "title": "No more phantom item notifications, and the meters on screen are readable.",
-      "body": "The client was re-applying your whole inventory every five seconds, for ever. When a difference could not be resolved it handed the same thing over again and again, and Skyrim announced every one. That is the boots that kept being looted while you stood still, and the flood after closing a bench. It now stops retrying a difference that is not closing. The four meters bottom left are bigger, sit on a backing so they are readable against anything, and no longer fade out. Temp says Temp, has a thermometer instead of a second water drop, and reads as a word and a number with a colour: Freezing, Cold, Chilly, Fine, Warm, Hot, Burning.",
-      "details": [
-        "Launcher 1.1.88",
-        "1 file to download, 1.4 MB"
-      ],
-      "channel": ""
-    },
-    {
-      "date": "9-22-2026 11:56 PM",
-      "title": "The close game button is quicker, and you can teleport anywhere with a name.",
-      "body": "The character page's Close the game button now asks the engine to exit properly instead of throwing quietly, and it puts the browser down first so there is less to unwind on the way out. For playtesters: /tp now reaches any named place in the world, not just the nine holds. Type part of a name, like /tp bannered or /tp jorrvaskr. Where several places share a name it lists them rather than guessing. There are also /give and /spawn now, for any of the 1,823 items and 115 creatures this server knows by name: /give iron ore 5, /spawn cow 3.",
-      "details": [
-        "Launcher 1.1.87",
-        "2 files to download, 0.2 MB"
-      ],
-      "channel": ""
-    },
-    {
-      "date": "9-22-2026 11:14 PM",
-      "title": "Three chopping blocks are gone, and the SkyUI map error is fixed for everyone.",
-      "body": "The chopping blocks at Solitude, Solitude Stables and Dragon Bridge are taken out of the world. They are not just switched off now, they are not there. The SkyUI ERROR CODE 5 box about map.swf went out in the last update for new installs only. This one removes the file from installs that already have it, which is everybody who was seeing the box. The good world map stays.",
-      "details": [
-        "Launcher 1.1.86",
-        "1 file to download, 0.2 MB"
-      ],
-      "channel": ""
-    },
-    {
-      "date": "9-22-2026 11:02 PM",
-      "title": "Hunger, thirst and exhaustion arrive, and a few things stop getting in your way.",
-      "body": "New: your character now gets hungry, thirsty and tired. Nothing here can kill you or knock you out. An empty meter makes you worse at things, and that is all. Say /needs to see where you stand, /rest sit or bed to recover, /eat and /drink, and /bard if you are playing music in an inn, which helps everyone resting near you. The numbers are a first guess and we want to hear what feels wrong. Also in this one: world map stays. thirty seconds later.",
-      "details": [
-        "The SkyUI error box about map.swf on the way in is gone, and the good",
-        "Character creation has a Not now button. Closing it no longer reopens",
-        "Mages see their two spell points while creating instead of only after.",
-        "The character page has a Close the game button.",
-        "Mouse 4 and Mouse 5 can be set as your voice key.",
-        "Three chopping blocks around Solitude and Dragon Bridge are out of use.",
-        "Launcher 1.1.85",
-        "3 files to download, 0.3 MB"
-      ],
-      "channel": ""
-    },
-    {
-      "date": "9-22-2026 10:07 PM",
-      "title": "The client repair now finds the files it downloads.",
-      "body": "The last two updates added the check and the repair. This one fixes the lookup: the launcher was opening the right download and reading the wrong paths inside it, so it found nothing and said the file was still missing. If your Client row is red, open the launcher and leave it a minute. It fetches what is missing on start and whenever you press Recheck, and the row turns green on its own.",
-      "details": [
-        "Launcher 1.1.84"
-      ],
-      "channel": ""
-    },
-    {
-      "date": "9-22-2026 10:02 PM",
-      "title": "The SkyMP client files are in this update, so a broken install can repair itself.",
-      "body": "Nothing about the game changes here. This update carries the six files that make up the SkyMP client, so a launcher that finds one of them missing has somewhere to fetch it from. If your Client row is red, open the launcher and give it a moment.",
-      "details": [
-        "Launcher 1.1.83",
-        "6 files to download, 18.3 MB"
-      ],
-      "channel": ""
-    },
-    {
-      "date": "9-22-2026 10:00 PM",
-      "title": "A missing client file is now actually put back, instead of just being named.",
-      "body": "The last update added the check that spots when one of the SkyMP client files is missing or is the wrong build. This one does something about it: the launcher repairs them when it starts, and again whenever you press Recheck. If your Play button is blocked on a red Client row, open the launcher and give it a moment. It will fetch what is missing and the row goes green on its own.",
-      "details": [
-        "Launcher 1.1.83"
-      ],
-      "channel": ""
-    },
-    {
-      "date": "9-22-2026 9:51 PM",
-      "title": "If the launcher ever says a client file is missing, it now goes and gets it.",
-      "body": "The Play page checks the six files that make up the SkyMP client against the record they were built from, instead of guessing from the text inside one of them. If any is missing or is the wrong build, the launcher fetches it back on its own, from your own kept copies or from the update feed. Nobody gets told to reinstall Thornswood over this again. If you hit the \"skymp5-client.js is missing\" screen on a fresh install, update and open the launcher and it sorts itself out.",
-      "details": [
-        "Launcher 1.1.82",
-        "1 file to download, 0.2 MB",
-        "The load order moved, so start a new character or expect the old save to complain"
-      ],
-      "channel": ""
-    },
-    {
-      "date": "9-22-2026 5:22 PM",
-      "title": "The launcher now tells you when your mod collection is out of date.",
-      "body": "It reads which revision of the Thornswood collection you have installed and compares it with the newest one. If you are behind, it says so before you press Play instead of letting you join and fail on a load order mismatch. This is the half that was missing from the update a few minutes ago. That one asked you to update to revision 5; this one is the launcher that can actually check. Nothing else changed. If you already updated your collection, you will see nothing new.",
-      "details": [
-        "Launcher 1.1.81"
-      ],
-      "channel": ""
-    },
-    {
-      "date": "9-22-2026 5:19 PM",
-      "title": "The mod list has a new revision, and the world has started over.",
-      "body": "Before you press Play, update the Thornswood collection in Vortex to revision 5. The launcher tells you if you have not. Taken out: Tavern Games, Respawn - Death Overhaul and SunHelm Survival, which did not work on this server. Immersive Armors is now the script free version. New: Playable Rieklings, with RaceCompatibility. The collection now carries the plugin order, so let Vortex sort and do not move plugins by hand. Because the load order changed, everybody makes a new character, and every house and farm is unclaimed again.",
-      "details": [
-        "Launcher 1.1.80",
-        "1 file to download, 0.0 MB",
-        "The load order moved, so start a new character or expect the old save to complain"
-      ],
-      "channel": ""
-    },
-    {
-      "date": "9-22-2026 1:44 PM",
-      "title": "The launcher sends its logs for you, and a session that went wrong is marked",
-      "body": "When something breaks, nobody will ask you to go and find four files any more. The launcher sends its own log and the game's logs when you close the game, and again at the next start if it was killed before it could. Chat is now written down too, with a name and a time, so a report about something somebody said can be answered by reading it instead of asking both people. Voice is not recorded and nothing reads your machine.",
-      "details": [
-        "Bug reports no longer start with being asked for log files",
-        "Chat is kept for a year and only moderators can read it. See the Rules page",
-        "The launcher puts a new mod load order in place by itself instead of asking you to press Fix",
-        "The theme plays on every build now. Settings, Music turns it off",
-        "Launcher 1.1.80"
-      ],
-      "channel": ""
-    },
-    {
-      "date": "9-22-2026 12:23 PM",
-      "title": "The launcher sends its logs when you close the game, so nobody has to ask you for them",
-      "body": "When a session ends, the launcher sends its own log and the game's logs to the site. That is the only moment it can: the game wipes those files every time it starts, which is why every bug report so far has begun with somebody being asked to go and find four files. If the launcher is killed or the game takes it down, the logs go at the next start instead. Nothing you type is in them and they are the launcher's own files, not yours.",
-      "details": [
-        "Nobody will be asked to find and paste log files for a bug report any more",
-        "A session that crashed is marked, so it can be found without reading forty of them",
-        "A session stopped by a failed update or a wrong load order is marked separately",
-        "Logs are kept for a year, and only for sessions the launcher actually reported",
-        "Launcher 1.1.79",
-        "1 file to download, 1.3 MB"
-      ],
-      "channel": ""
-    },
-    {
-      "date": "9-22-2026 11:11 AM",
-      "title": "The theme plays for everybody, and the launcher stops asking you to press Fix",
-      "body": "Everything that had been sitting on the dev build since the 21st, plus the finished music track, which was dev only until now. If an update moves the mod load order, the launcher now puts the new list in place by itself instead of letting the game turn you away and expecting you to work out that Fix was the answer.",
-      "details": [
-        "The Thornswood theme now plays in the launcher, at the game menu and through the loading screen, on every build. Settings, Music turns it off",
-        "An update that moves the load order no longer needs you to press Fix afterwards",
-        "Voice one way, where you could hear them and they could not hear you, is fixed",
-        "The door no longer refuses everybody in silence when it cannot reach Discord",
-        "Launcher 1.1.78",
-        "5 files to download, 5.6 MB"
-      ],
-      "channel": ""
-    },
-    {
-      "date": "9-21-2026 10:28 PM",
-      "title": "Back to the 1.1.75 plugin",
-      "body": "",
-      "details": [
-        "Launcher 1.1.77",
-        "2 files to download, 1.5 MB"
-      ],
-      "channel": ""
-    },
-    {
-      "date": "9-21-2026 10:11 PM",
-      "title": "The shift goes on, a farmhand's press is not yours, and the town gates open",
-      "body": "",
-      "details": [
-        "Launcher 1.1.76",
-        "1 file to download, 0.1 MB"
-      ],
-      "channel": ""
-    },
-    {
-      "date": "9-21-2026 6:00 PM",
-      "title": "Thornswood runs from its own Skyrim, never a shared one",
-      "body": "",
-      "details": [
-        "Launcher 1.1.75"
-      ],
-      "channel": ""
-    },
-    {
-      "date": "9-21-2026 5:58 PM",
-      "title": "The launcher says when Skyrim is shared with other servers",
-      "body": "",
-      "details": [
-        "Launcher 1.1.74",
-        "2 files to download, 16.4 MB"
-      ],
-      "channel": ""
-    },
-    {
-      "date": "9-21-2026 5:49 PM",
-      "title": "The client writes down what it says",
-      "body": "",
-      "details": [
-        "Launcher 1.1.73",
-        "3 files to download, 16.5 MB"
-      ],
-      "channel": ""
-    },
-    {
-      "date": "9-21-2026 3:43 PM",
-      "title": "The menu log says why the world did not load",
-      "body": "",
-      "details": [
-        "Launcher 1.1.72",
-        "1 file to download, 0.1 MB",
-        "The load order moved, so start a new character or expect the old save to complain"
-      ],
-      "channel": ""
-    },
-    {
-      "date": "9-21-2026 3:34 PM",
-      "title": "The menu choice reaches the client",
-      "body": "",
-      "details": [
-        "Launcher 1.1.71",
-        "1 file to download, 0.1 MB"
-      ],
-      "channel": ""
-    },
-    {
-      "date": "9-21-2026 3:09 PM",
-      "title": "Three launcher messages that told testers the wrong thing",
-      "body": "",
-      "details": [
-        "Launcher 1.1.70"
-      ],
-      "channel": ""
-    },
-    {
-      "date": "9-21-2026 2:47 PM",
-      "title": "The launcher said a check in had failed when it had just succeeded",
-      "body": "",
-      "details": [
-        "Launcher 1.1.69"
-      ],
-      "channel": ""
-    },
-    {
-      "date": "9-20-2026 9:22 PM",
-      "title": "Only spells you could learn are open, and the scrollbars match the panel",
-      "body": "",
-      "details": [
-        "Launcher 1.1.66",
-        "2 files to download, 0.1 MB"
-      ],
-      "channel": ""
-    },
-    {
-      "date": "9-20-2026 9:14 PM",
-      "title": "The delete icon on the character menu forgets again",
-      "body": "",
-      "details": [
-        "Launcher 1.1.65",
-        "7 files to download, 18.3 MB",
-        "The load order moved, so start a new character or expect the old save to complain"
-      ],
-      "channel": ""
-    },
-    {
-      "date": "9-20-2026 7:39 PM",
-      "title": "The Q favourites menu: a setting this build insists on is never written through another launcher's file",
-      "body": "",
-      "details": [
-        "Launcher 1.1.64"
-      ],
-      "channel": ""
-    },
-    {
-      "date": "9-20-2026 7:35 PM",
-      "title": "A record of who played and when, for the testing log",
-      "body": "",
-      "details": [
-        "Launcher 1.1.63"
-      ],
-      "channel": ""
-    },
-    {
-      "date": "9-20-2026 7:02 PM",
-      "title": "Character choice at the menu, creation in the game, the K panel, the load order gate, the door and admins from the site",
-      "body": "",
-      "details": [
-        "Launcher 1.1.62",
-        "22 files to download, 33.4 MB"
-      ],
-      "channel": ""
-    },
-    {
-      "date": "9-20-2026 11:48 AM",
-      "title": "profession, class and skill tree on K",
-      "body": "",
-      "details": [
-        "Launcher 1.1.61",
-        "2 files to download, 0.1 MB"
-      ],
-      "channel": ""
-    },
-    {
-      "date": "9-20-2026 11:40 AM",
-      "title": "the microphone is back on",
-      "body": "",
-      "details": [
-        "Launcher 1.1.60"
-      ],
-      "channel": ""
-    },
-    {
-      "date": "9-20-2026 11:29 AM",
-      "title": "the IsNPC clear is guarded, so it leaves character creation alone",
-      "body": "",
-      "details": [
-        "Launcher 1.1.59",
-        "1 file to download, 0.1 MB"
-      ],
-      "channel": ""
-    },
-    {
-      "date": "9-20-2026 11:24 AM",
-      "title": "jump and sprint clear IsNPC on the press frame, and the light plugins are listed too",
-      "body": "",
-      "details": [
-        "Launcher 1.1.58",
-        "2 files to download, 0.1 MB"
-      ],
-      "channel": ""
-    },
-    {
-      "date": "9-20-2026 11:04 AM",
-      "title": "voice local range halved",
-      "body": "",
-      "details": [
-        "Launcher 1.1.57",
-        "1 file to download, 0.0 MB",
-        "The load order moved, so start a new character or expect the old save to complain"
-      ],
-      "channel": ""
-    },
-    {
-      "date": "9-19-2026 8:44 PM",
-      "title": "voice ranges, chat roles, Q menu",
-      "body": "",
-      "details": [
-        "Launcher 1.1.55",
-        "2 files to download, 1.0 MB"
-      ],
-      "channel": ""
-    },
-    {
-      "date": "9-19-2026 8:10 PM",
-      "title": "InventoryInjector out of the folder, jump probe",
-      "body": "",
-      "details": [
-        "Launcher 1.1.54",
-        "3 files to download, 1.1 MB"
-      ],
-      "channel": ""
-    }
-  ],
-  "updateRepo": "EvilPatrick06/Thornswood-Releases",
-  "voicePort": "7778",
-  "collectionUrl": "https://www.nexusmods.com/games/skyrimspecialedition/collections/ombo2a",
-  "maxOnline": 25,
-  "mainVersion": "",
-  "voiceUrl": "https://thornswood.net/voice",
-  "discordAppId": "1549251507361292418",
-  "siteUrl": "https://thornswood.net",
-  "presenceImage": "https://thornswood.net/presence.png",
-  "collectionRevision": 5,
-  "clientRuntime": {
-    "url": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/583111894",
-    "sha256": "3fb5bb91f773e065b85be1ce190e341e5394e059673bfcda1a0268a524f1ce5c",
-    "bytes": 6538349,
-    "forkCommit": "c8832519"
-  }
+    "launcherVersion":  "1.1.95",
+    "launcherUrl":  "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/589417290",
+    "launcherSha256":  "7e0466ff94febbe755ce8c46d5c6d58eed155fc82907aa2e4d55032da5e7df8b",
+    "serverAddress":  "192.135.112.23",
+    "serverPort":  "7777",
+    "message":  "",
+    "packs":  [
+                  {
+                      "id":  "20260915-0030",
+                      "url":  "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/565069058",
+                      "sha256":  "5bf7ff5c7009e24a8c21e599bb732ba11402035a7a4199d91cdf3180360cf1b3",
+                      "notes":  "Connect your Discord from the launcher"
+                  },
+                  {
+                      "id":  "20260915-2018",
+                      "url":  "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/566972912",
+                      "sha256":  "fba2f375c52a299ccb991e11462982c90f114287343005d360c5df601453a075",
+                      "notes":  "Sub professions have real names now, and the installer opens the launcher for you when it finishes"
+                  },
+                  {
+                      "id":  "20260915-2104",
+                      "url":  "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/567041252",
+                      "sha256":  "11726cf7205b8aec9262c4477398058e1fe70d8787ec4c151ee3e03fb1b839b1",
+                      "notes":  "The installer\u0027s leftover folder gets cleared now, on startup and on uninstall"
+                  },
+                  {
+                      "id":  "20260915-2144",
+                      "url":  "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/567106507",
+                      "sha256":  "266c8e38bb86ba819b0f5a7313e02954d161d972e42a1d26f28b0379c5091595",
+                      "notes":  "Connect Discord can no longer stick, and the collection card offers it instead of a dead button"
+                  },
+                  {
+                      "id":  "20260915-2213",
+                      "url":  "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/567149745",
+                      "sha256":  "d96004f19c83b9886eabc4ed8f15ded7e79feed7dac9c8c80eef4a7216778242",
+                      "notes":  "Connect Discord can no longer stick, the collection card offers it instead of a dead button, and Woodworker joins the professions"
+                  },
+                  {
+                      "id":  "20260916-0049",
+                      "url":  "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/567378260",
+                      "sha256":  "e605344f7e5e70fa7991b709404cffaf350cb72c53efbaf1b981305305bc4c49",
+                      "notes":  "Another server\u0027s files are moved aside now instead of deleted"
+                  },
+                  {
+                      "id":  "20260916-0112",
+                      "url":  "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/567410231",
+                      "sha256":  "3de9702870de0bbb3e08f2e449e7823a308a4e1872fda3c3d86f5f2bc0dc8dff",
+                      "notes":  "Main menu background and logo mesh were another server\u0027s, removed"
+                  },
+                  {
+                      "id":  "20260916-0130",
+                      "url":  "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/567439170",
+                      "sha256":  "86c54d292b8d97834969292dac702f067a9044231750230ccee3ee668b333bff",
+                      "notes":  "Crafting assets restored, browser backend picked from what is installed"
+                  },
+                  {
+                      "id":  "20260916-0141",
+                      "url":  "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/567455069",
+                      "sha256":  "897972a5fff59c013888c2f92c7c6b662ff20a7abbe0a6adb740198b48900995",
+                      "notes":  "Character slot goes inside gameData, which is what turns the login screen off"
+                  },
+                  {
+                      "id":  "20260916-0146",
+                      "url":  "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/567461540",
+                      "sha256":  "8f55a55f774fa7156a85ac6bbf0dd57a63fd9069d86cdfc24b32dc0ea1ca3644",
+                      "notes":  "Character slot goes inside gameData, and the launcher now checks for Start On Save"
+                  },
+                  {
+                      "id":  "20260916-0205",
+                      "url":  "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/567491237",
+                      "sha256":  "000161e88c8747cb41fc8b6ff1fbdb3b0e0c715a4d0385c6a9868d61aa3457bc",
+                      "notes":  "Browser backend detects NirnLab correctly, Start On Save is checked for"
+                  },
+                  {
+                      "id":  "20260916-0213",
+                      "url":  "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/567504574",
+                      "sha256":  "8804b3d1a99ca7714bcd8a3a479a40faeea238c786a5f9a6820d9093b9c8e914",
+                      "notes":  "Out of date collection now says so above Play instead of just blocking it"
+                  },
+                  {
+                      "id":  "20260916-0222",
+                      "url":  "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/567521068",
+                      "sha256":  "7d9f66e83d2230c1b4ee77664bec23a7f6de911db453f74e2fe48f711602038a",
+                      "notes":  "New characters start a new game instead of stopping at an empty save picker"
+                  },
+                  {
+                      "id":  "20260916-0247",
+                      "url":  "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/567561712",
+                      "sha256":  "505f77bae3069db0846045b6b96efa4912e5e5b00c712a3df4a2483119c35c1a",
+                      "notes":  "Thornswood main menu backdrop, and voice now follows the character you actually launched"
+                  },
+                  {
+                      "id":  "20260916-0314",
+                      "url":  "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/567606983",
+                      "sha256":  "6c74e3d6da0093cc09a911c36823de15d051c04ece75fb2a369af97baa4a0426",
+                      "notes":  "Thornswood main menu backdrop, wider menu plane, and MCM Helper on the light plugin so load orders line up with the server"
+                  },
+                  {
+                      "id":  "20260916-0937",
+                      "url":  "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/568260637",
+                      "sha256":  "0e069f92b37cfce576f5b8d889d0840ea7776f09ef6ddf62cf8775cd81839dd2",
+                      "notes":  "Login fixed: the client now sends the login this server answers, so everyone lands in the creation hall again. Main menu backdrop recomposed and full width. Launcher flags MCM Helper light so load orders match the server. Per person settings no longer ride in packs."
+                  },
+                  {
+                      "id":  "20260916-1217",
+                      "url":  "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/568524760",
+                      "sha256":  "6e74fed5956804f6af502a464ebf6a28abbc8c89441ee14b711f5663bc45429a",
+                      "notes":  "Updates reach your game again, and the main menu is only the Thornswood backdrop. Since the move to the Steam copy the launcher had been marking every update as installed without writing a single game file, so nobody got the login fix or the backdrop. Launcher 1.1.32 puts the missed updates back in the queue and installs them properly the next time it opens. The first time it has a lot to download, so give it a while, or run the installer from the site instead. The main menu is now the Thornswood backdrop on any screen, with no buttons, no logo, no save panel and no animation replacer banner, and the game walks you into the creation hall by itself."
+                  },
+                  {
+                      "id":  "20260916-1410",
+                      "url":  "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/568708207",
+                      "sha256":  "104593aa2639bcf086a4af1dc41a6a69a2e35b8c61ea9695f33b002ecf7f0454",
+                      "notes":  "Voice works: the game finds the launcher\u0027s microphone again, so the indicator leaves LISTENING ONLY and push to talk reaches the launcher. Emote wheel is back on G, the key file had been cut down to the field of view line. SkyHUD config restored, the incompatible config popup is gone. Door fix: the rescue that pulled you back through the inn door is off. Thornswood\u0027s plugins stay idle when the client points at another server, so they no longer draw over Keizaal Online. New main menu art. Launcher checks in with the character\u0027s own profile id and logs its own faults. Vortex bookkeeping and face exports no longer ship in updates."
+                  },
+                  {
+                      "id":  "20260916-1523",
+                      "url":  "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/568826369",
+                      "sha256":  "dd590ecbe347b5c75167701a3085df83e8e54f0de9cb1d51e3f7a9a66ab5b3e5",
+                      "notes":  "Voice indicator fixed for real: the page inside the game was still the old one and never took the launcher\u0027s state. Switching servers without touching Vortex: the launcher now keeps its own copies of the twelve files in Data\\Platform it owns, puts back any that another server\u0027s launcher changed before every Play, and parks any other server\u0027s plugin while Thornswood runs, then puts it back the moment the game closes. Start menu entry for the launcher on every machine. Site downloads line corrected to https."
+                  },
+                  {
+                      "id":  "20260916-1800",
+                      "url":  "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/569049168",
+                      "sha256":  "63dc395f18dc995bf9ddbe3f053528d12708469cebb08a7fcc7516eb4147d2f6",
+                      "notes":  "Discord shows you playing Thornswood, with Download and Discord buttons. A dev build you can install from Settings, on its own server. Each build keeps its own game files."
+                  },
+                  {
+                      "id":  "20260916-1927",
+                      "url":  "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/569196196",
+                      "sha256":  "de2dc7afd29c4f69f2af6226b361618e6d3653f43a57bc9a29557447fa2f3fd6",
+                      "notes":  "Dev build for the Owner and Dev roles only, voice port per build, session note for the plugins, other servers\u0027 files stay out of releases"
+                  },
+                  {
+                      "id":  "20260916-2028",
+                      "url":  "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/569281541",
+                      "sha256":  "12d8ffd7c6cf423f4159f060a20b2c2bc5371d6a653e15ca8dabcf2a39d92547",
+                      "notes":  "The launcher holds its files while the game runs, so another launcher opened mid-session cannot change them. Save folder problems no longer stop Play and say why."
+                  },
+                  {
+                      "id":  "20260916-2136",
+                      "url":  "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/569376086",
+                      "sha256":  "42f889c6c130fe9c4e101098961e307d3c2de62b7af130193a7e5235ba8a4431",
+                      "notes":  "A Downgrade button on the Play page: Steam fetches 1.6.1170 and the launcher puts it in place, nothing to paste. The build line says which build Skyrim is on."
+                  },
+                  {
+                      "id":  "20260917-0024",
+                      "url":  "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/569614392",
+                      "sha256":  "525e77f8b2c21aa384770238f74829962d643a5915fb6c096cb4627ad8621715",
+                      "notes":  "1.1.40: the downgrade card comes up before the mods card; the GitHub build check compiles again"
+                  },
+                  {
+                      "id":  "20260917-0102",
+                      "url":  "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/569672743",
+                      "sha256":  "63365e482c57aae89970a4f4cb1eee0ab6415091324e116c46a332798f6530bf",
+                      "notes":  "1.1.41: your key binds and field of view stay on your machine (the 16 Sep updates put one machine\u0027s on everyone; a 120 field of view goes back to 65), locks are back, levers, chains, bars and chairs work, an update closes the game after the five minute warning so the launcher can install it, the Downgrade button types into Steam\u0027s console itself, arrival points fixed in Whiterun, Riften, Windhelm, Morthal and Winterhold"
+                  },
+                  {
+                      "id":  "20260917-0230",
+                      "url":  "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/569820230",
+                      "sha256":  "960d666b82ed1775723e8f5bfef8190aaacde36faec1eda11e0ff5c4b8b57e15",
+                      "notes":  "Scan checks every plugin\u0027s bytes against the server and Fix fetches the server\u0027s copy (the LOAD ORDER ERROR one machine had), Start On Save can no longer load a single player save under SkyMP (the crash on a fresh install with old saves), difficulty is Expert, the Downgrade button clicks into Steam\u0027s console before it types"
+                  },
+                  {
+                      "id":  "20260917-0925",
+                      "url":  "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/570531078",
+                      "sha256":  "960d666b82ed1775723e8f5bfef8190aaacde36faec1eda11e0ff5c4b8b57e15",
+                      "notes":  "an update countdown no longer kicks anybody (a kick without a server restart left existing characters unable to get back in and with no NPCs), a fresh install never gets the shared profile 1 and never deletes your own Skyrim saves, the Downgrade button logs the exact command and what Steam said when a part does not start"
+                  },
+                  {
+                      "id":  "20260917-1647",
+                      "url":  "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/571311141",
+                      "sha256":  "db010aab9b68cda87ef087376edd11a10c94e623c9640745f1c4f01e8f18751d",
+                      "notes":  "Lockpicking works, the game folder looks after itself, and Windows stops asking about the browser\n\nEverything the dev build has been carrying today.\n\n- Lockpicking. A locked door no longer opens the moment the mini game appears, a chest you have picked can actually be looted, and lockpicks run out instead of lasting forever\n- NirnLab is another server\u0027s file and Thornswood\u0027s own game folder no longer takes it. The folder brings itself up to date on its own, so this needs nothing from you\n- Windows asking whether the game\u0027s browser may reach the network is settled while the folder is set up, and refusing is fine\n- Thornswood now appears in Windows Settings under Installed apps, and the uninstall button there opens the launcher on the page that does it\n- The Play page checks the client bundle now, which is the half that dials the server and the one thing none of the other checks looked at\n- Repair puts this build\u0027s own files back rather than only its settings\n- The uninstall says what it actually does, clears up after itself, and tells you what it left and why\n- Dates read month first with a time on them"
+                  },
+                  {
+                      "id":  "20260918-1442",
+                      "url":  "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/573419803",
+                      "sha256":  "1938a456cb5bce9b26060abc5064a95ee08466c29786950146468ea5215aae38",
+                      "notes":  "voice recovery, join tokens, backups, site hardening"
+                  },
+                  {
+                      "id":  "20260918-1615",
+                      "url":  "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/573564733",
+                      "sha256":  "5ce85a65ad31fa389a41120d018e50a0cc692d683f05f2b1c40b1f8fdd559436",
+                      "notes":  "voice through the certificate"
+                  },
+                  {
+                      "id":  "20260918-2340",
+                      "url":  "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/574168145",
+                      "sha256":  "a0a95506a826c20a77d52610e9afcafede1ffaf7814bae547dce27207691b7d7",
+                      "notes":  "Backdrop and Icon art changes, plus voice, spint, and jump"
+                  },
+                  {
+                      "id":  "20260919-1416",
+                      "url":  "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/575419185",
+                      "sha256":  "a22c8ce645503c0d1874babefc5abc4a841597a1e5b84b353d32c9e10672638d",
+                      "notes":  "Voice + art chnages"
+                  },
+                  {
+                      "id":  "20260919-1546",
+                      "url":  "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/575542038",
+                      "sha256":  "c48d24b9890dfffb432a8a7dd701c0d9de1012201237a4958b3089d9abc6c430",
+                      "notes":  "Plugin fixes"
+                  },
+                  {
+                      "id":  "20260919-1944",
+                      "url":  "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/575871489",
+                      "sha256":  "d8a70b4e44f15edbaa39882a280cdd8a7dab5916b3dd7ccad2f594de3b06ab24",
+                      "notes":  "jump and sprint, voice ranges, the Q crash"
+                  },
+                  {
+                      "id":  "20260919-2010",
+                      "url":  "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/575907653",
+                      "sha256":  "354e1663b5f4341352ab4f5e1177e5f44c518eae1fb0c9649402b75937404aa8",
+                      "notes":  "InventoryInjector out of the folder, jump probe"
+                  },
+                  {
+                      "id":  "20260919-2044",
+                      "url":  "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/575958625",
+                      "sha256":  "ef2e63c5bbe059854e62012dcee84b2969a0d24b95608933b8ed7e0f8075f0b0",
+                      "notes":  "voice ranges, chat roles, Q menu"
+                  },
+                  {
+                      "id":  "20260919-2101",
+                      "url":  "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/575982409",
+                      "sha256":  "ad7cf4a8bf4258fdaa298458008478a824c2e7e522f797d51832b8a89f5ec369",
+                      "notes":  "voice ranges, chat roles, Q menu"
+                  },
+                  {
+                      "id":  "20260920-1103",
+                      "url":  "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/577200347",
+                      "sha256":  "a69aea7098d87acf50796a7b0398ce02b485954184cdc8ad4a6b601a941ae714",
+                      "notes":  "voice local range halved"
+                  },
+                  {
+                      "id":  "20260920-1124",
+                      "url":  "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/577232301",
+                      "sha256":  "c777d4dc8e08af8c9ecc5df63994594789b92a9dbcd243e13cf94fbc4af3d8f9",
+                      "notes":  "jump and sprint clear IsNPC on the press frame, and the light plugins are listed too"
+                  },
+                  {
+                      "id":  "20260920-1129",
+                      "url":  "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/577239089",
+                      "sha256":  "0226603003e2c978347e1d750f100ab9acaccf3f8caf6b0681d62238a306b2b0",
+                      "notes":  "the IsNPC clear is guarded, so it leaves character creation alone"
+                  },
+                  {
+                      "id":  "20260920-1148",
+                      "url":  "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/577267666",
+                      "sha256":  "2b0f7acdfb1d8ccb110c67e0f7ea4119ddff037b6cf923d8e1ccb98feacd754d",
+                      "notes":  "profession, class and skill tree on K"
+                  },
+                  {
+                      "id":  "20260920-1902",
+                      "url":  "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/577904856",
+                      "sha256":  "527f7ad5a9a546177ec4e91f129cf05ab0dc569b1b42bae50a2cb22616e78607",
+                      "notes":  "Character choice at the menu, creation in the game, the K panel, the load order gate, the door and admins from the site"
+                  },
+                  {
+                      "id":  "20260920-2113",
+                      "url":  "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/578112084",
+                      "sha256":  "3c3091de99836b43e81adc2165fa7d3b5e2519e0acc88199c0ff7ebd4c72b593",
+                      "notes":  "The delete icon on the character menu forgets again"
+                  },
+                  {
+                      "id":  "20260920-2122",
+                      "url":  "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/578124710",
+                      "sha256":  "6651cf66a9dfea5fa431a4b9154260d1d4a6f54c3398fd52d2692925def17036",
+                      "notes":  "Only spells you could learn are open, and the scrollbars match the panel"
+                  },
+                  {
+                      "id":  "20260921-1534",
+                      "url":  "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/579910445",
+                      "sha256":  "7cb10fd9856478d4954182c691b02b7cb1cd3d6dc60afb2b5f5c30b206820d74",
+                      "notes":  "The menu choice reaches the client"
+                  },
+                  {
+                      "id":  "20260921-1543",
+                      "url":  "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/579924459",
+                      "sha256":  "f780839ded7a774ebc60d753d8ceb8535f7f7c66d56605c320fd927af9265c88",
+                      "notes":  "The menu log says why the world did not load"
+                  },
+                  {
+                      "id":  "20260921-1749",
+                      "url":  "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/580104412",
+                      "sha256":  "5915ae2b4575b8d7474789e11021b813da8f65427bed81d2c9c81da66c6ea4a2",
+                      "notes":  "The client writes down what it says"
+                  },
+                  {
+                      "id":  "20260921-1758",
+                      "url":  "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/580117060",
+                      "sha256":  "5485b6e9dff5df4485fd64f546af92e0cf2a8b93fb6b7fff3f5102fe7b97d361",
+                      "notes":  "The launcher says when Skyrim is shared with other servers"
+                  },
+                  {
+                      "id":  "20260921-2211",
+                      "url":  "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/580514450",
+                      "sha256":  "2e0562318994092cbea94abb09daca521fd8f198a40b919ec37ee044e82ec74c",
+                      "notes":  "The shift goes on, a farmhand\u0027s press is not yours, and the town gates open"
+                  },
+                  {
+                      "id":  "20260921-2228",
+                      "url":  "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/580540434",
+                      "sha256":  "e2ced52ca374af854bee312c201e6255345fd83173e0ffd0d83a4454eaa9610f",
+                      "notes":  "Back to the 1.1.75 plugin"
+                  },
+                  {
+                      "id":  "20260922-1111",
+                      "url":  "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/581859989",
+                      "sha256":  "c088be616c31d96646ed1ad20a28e6df94c8452daa5177759c65ccf40c3d6fe4",
+                      "notes":  "The theme plays for everybody, and the launcher stops asking you to press Fix"
+                  },
+                  {
+                      "id":  "20260922-1223",
+                      "url":  "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/581981580",
+                      "sha256":  "af3d44394ecc6648bef776e48899a15d6a12f915b46d25dead11c57352eaa2e5",
+                      "notes":  "The launcher sends its logs when you close the game, so nobody has to ask you for them"
+                  },
+                  {
+                      "id":  "20260922-1719",
+                      "url":  "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/582456098",
+                      "sha256":  "0d20e4fc2602670b075ae4529f5585ddf0694ef49b026517568e06648158743b",
+                      "notes":  "The mod list has a new revision, and the world has started over.\nBefore you press Play, update the Thornswood collection in Vortex to revision 5. The launcher tells you if you have not.\nTaken out: Tavern Games, Respawn - Death Overhaul and SunHelm Survival, which did not work on this server.\nImmersive Armors is now the script free version.\nNew: Playable Rieklings, with RaceCompatibility.\nThe collection now carries the plugin order, so let Vortex sort and do not move plugins by hand.\nBecause the load order changed, everybody makes a new character, and every house and farm is unclaimed again."
+                  },
+                  {
+                      "id":  "20260922-2151",
+                      "url":  "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/582897693",
+                      "sha256":  "8b54466f5dda272598a6926ff2915ba63593950bf0e36665a10a250b1062042a",
+                      "notes":  "If the launcher ever says a client file is missing, it now goes and gets it.\n\nThe Play page checks the six files that make up the SkyMP client against the\nrecord they were built from, instead of guessing from the text inside one of\nthem. If any is missing or is the wrong build, the launcher fetches it back on\nits own, from your own kept copies or from the update feed.\n\nNobody gets told to reinstall Thornswood over this again. If you hit the\n\"skymp5-client.js is missing\" screen on a fresh install, update and open the\nlauncher and it sorts itself out."
+                  },
+                  {
+                      "id":  "20260922-2202",
+                      "url":  "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/582914809",
+                      "sha256":  "6c30cfbcce0e3eca2327d6cb5e44a46f2ea919c3d79fe5deac9cd50e2684a9bf",
+                      "notes":  "The SkyMP client files are in this update, so a broken install can repair itself.\n\nNothing about the game changes here. This update carries the six files that\nmake up the SkyMP client, so a launcher that finds one of them missing has\nsomewhere to fetch it from.\n\nIf your Client row is red, open the launcher and give it a moment."
+                  },
+                  {
+                      "id":  "20260922-2302",
+                      "url":  "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/583010015",
+                      "sha256":  "da0619185b0cbd1f52b04fb42e36b0b81197cb4a2515a403c1e77c0185a97a42",
+                      "notes":  "Hunger, thirst and exhaustion arrive, and a few things stop getting in your way.\n\nNew: your character now gets hungry, thirsty and tired. Nothing here can kill\nyou or knock you out. An empty meter makes you worse at things, and that is\nall. Say /needs to see where you stand, /rest sit or bed to recover, /eat and\n/drink, and /bard if you are playing music in an inn, which helps everyone\nresting near you. The numbers are a first guess and we want to hear what feels\nwrong.\n\nAlso in this one:\n  - The SkyUI error box about map.swf on the way in is gone, and the good\n    world map stays.\n  - Character creation has a Not now button. Closing it no longer reopens\n    thirty seconds later.\n  - Mages see their two spell points while creating instead of only after.\n  - The character page has a Close the game button.\n  - Mouse 4 and Mouse 5 can be set as your voice key.\n  - Three chopping blocks around Solitude and Dragon Bridge are out of use."
+                  },
+                  {
+                      "id":  "20260922-2314",
+                      "url":  "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/583031181",
+                      "sha256":  "b8b01a65e9d60579daf78771c3f0960c9e18ddc9695b59429851c82cbdc0401d",
+                      "notes":  "Three chopping blocks are gone, and the SkyUI map error is fixed for everyone.\n\nThe chopping blocks at Solitude, Solitude Stables and Dragon Bridge are taken\nout of the world. They are not just switched off now, they are not there.\n\nThe SkyUI ERROR CODE 5 box about map.swf went out in the last update for new\ninstalls only. This one removes the file from installs that already have it,\nwhich is everybody who was seeing the box. The good world map stays."
+                  },
+                  {
+                      "id":  "20260922-2356",
+                      "url":  "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/583092484",
+                      "sha256":  "c69ade81713e68d196bbfa08ca4132df9dfa9345484bc8d5606e5d495895b449",
+                      "notes":  "The close game button is quicker, and you can teleport anywhere with a name.\n\nThe character page\u0027s Close the game button now asks the engine to exit\nproperly instead of throwing quietly, and it puts the browser down first so\nthere is less to unwind on the way out.\n\nFor playtesters: /tp now reaches any named place in the world, not just the\nnine holds. Type part of a name, like /tp bannered or /tp jorrvaskr. Where\nseveral places share a name it lists them rather than guessing. There are also\n/give and /spawn now, for any of the 1,823 items and 115 creatures this server\nknows by name: /give iron ore 5, /spawn cow 3."
+                  },
+                  {
+                      "id":  "20260923-0009",
+                      "url":  "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/583111891",
+                      "sha256":  "441177a601579e6981939497ef3f4a124e4a3eb2e41b7e65001298c888bf8a40",
+                      "notes":  "No more phantom item notifications, and the meters on screen are readable.\n\nThe client was re-applying your whole inventory every five seconds, for ever.\nWhen a difference could not be resolved it handed the same thing over again\nand again, and Skyrim announced every one. That is the boots that kept being\nlooted while you stood still, and the flood after closing a bench. It now\nstops retrying a difference that is not closing.\n\nThe four meters bottom left are bigger, sit on a backing so they are readable\nagainst anything, and no longer fade out. Temp says Temp, has a thermometer\ninstead of a second water drop, and reads as a word and a number with a\ncolour: Freezing, Cold, Chilly, Fine, Warm, Hot, Burning."
+                  },
+                  {
+                      "id":  "20260923-0118",
+                      "url":  "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/583218841",
+                      "sha256":  "9a26f5eb15c949c22aa409d615d6a5d70a072ca10c99bd8ecc295dbb37470f48",
+                      "notes":  "Cold, heat and fire are real now.\n\nThe Temp bar on your screen finally moves. It was stuck on Fine 50 everywhere because nothing was ever telling the server where you were standing. It does now, and it reads all of this:\n\n- A roof over you, and how far the nearest lit fire is. Fires warm you by how close you are, so it climbs as you walk to a hearth and falls as you walk away. Forges, the Skyforge, smelters and cooking spits count too.\n- The weather, including how hard the wind is blowing, and whether it is day or night, and how high up you are.\n- Swimming, and wading, which are not the same thing. Different waters are different temperatures: meltwater, marsh, a puddle, a river, an indoor pool, and lava.\n- What you are wearing. Bare skin is the coldest thing there is, fur is the warmest, metal is the worst of the things that are not nothing, and every piece counts on its own: a hood, a scarf, a cloak, gloves and boots are five separate decisions. The same coat that saves you in a blizzard cooks you at a forge.\n\nSTAND IN A FIRE AND YOU BURN. It spreads to anybody standing next to you, so mind where you are.\n\nThe four bars are half again bigger and easier to read.\n\nThe countdown before an update now says your game is about to close and why, instead of talking about the launcher, and it sits where you can see it rather than up by the compass.\n\nIf the character creation menu has been opening every time you log in on a character you already made, that is fixed."
+                  },
+                  {
+                      "id":  "20260923-0221",
+                      "url":  "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/583323029",
+                      "sha256":  "dcd19bc5ea86d50cbb135e70ea5529a852a9918738d4a38a75138130dd778dff",
+                      "notes":  "Look at somebody and press a key.\n\nFriends, parties, trading, muting and journals are all in, and none of them needs a cursor.\n\n- Look at a person and three keys appear with their name: G asks them to be friends, H offers a trade, L stops you hearing them. Press G again on a friend to take them off your list.\n- P opens your friends and your party: who is online, who is with you, and who to ask. Work you do with your party in the same place counts for more.\n- J opens your journals. As many as you like, pages inside them, and you can share a whole journal or a single page with a friend. It is not a copy, so if you correct a page they see the correction.\n- Trading is two piles and two agreements. Add what you like, set gold, and nothing moves until you have both agreed. Change either side and both agreements come off, so what you agreed to is what you get.\n\nThe old trade menu people remember was a Skyrim Together mod that is not in this game. This one is ours.\n\nVOICE ACTUALLY HAS RANGE NOW. Whisper, normal and yell were all carrying the same distance because of a number the browser was ignoring. A whisper now stops at a table, normal at a room, and a yell reaches across a market and is louder than the other two at the same distance.\n\nDice are rolled by the server. /roll 20, or /roll 6x3 for three of them. Nobody can type a number and call it a roll.\n\nGold, weapons and armour no longer turn up in chests. That rule always existed and the first person to open any chest got the loot anyway, because of when the check ran.\n\n/help is a menu now: /help talking, /help people, /help living, /help work, /help land, /help staff.\n\nAnd if the console has been flashing open and shut when you press the key: that is us, it is the same for everybody, and it says so now instead of doing it silently."
+                  },
+                  {
+                      "id":  "20260923-0746",
+                      "url":  "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/583860974",
+                      "sha256":  "51f4a743f1a028df231a30b30f4c35f6b36c351c9e2908793eddd4fda82a3fd1",
+                      "notes":  "Your party, found.\n\nEverybody in your party now has their name in green above their head, a marker on your map, and an arrow on a strip under your compass telling you which way they are and how far.\n\n- Green on the strip means the same room as you. Gold means somewhere else in Skyrim.\n- The map markers are named after them and do not let you fast travel: somebody\u0027s position is a thing to walk to.\n- All of it turns off the moment they leave the party, including the green on their name.\n\nThe strip is ours rather than Skyrim\u0027s own compass. That one only draws quest targets and map markers and there is no way to put a person on it without changing the game files, so we drew our own under it instead. It updates five times a second, which is faster than the compass would have.\n\nNothing else to press. Open P to see your party, and it all just works while you are in one."
+                  },
+                  {
+                      "id":  "20260923-2137",
+                      "url":  "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/585078233",
+                      "sha256":  "93e166aac20216b87bd35bd632a7439ef19fad1f8c8baf644d1d60f9b65fd6ac",
+                      "notes":  "Everything from tonight\u0027s dev testing, now on the live build.\n\nWarmth: fires, cooking fires, forges and braziers warm you again, and standing in one will set you alight. Rain, snow, wind and a roof over your head all count. Water is cold. The reading moves quickly while you are warming and slowly while you are not, so it settles where you would expect.\n\nHunger and Thirst: the two meters are named properly now, they move at a rate you can feel, and eating and drinking actually register. Potions and poisons count as drink, because they are liquid. Ale makes you hungrier, and each one hits harder than the last.\n\nMining: one press is a spell of work rather than a click for every swing, and you use the pick on your own hip.\n\nArriving: you come back dressed, in the clothes you left in.\n\nWorking a trade tires you, by the swing, and your rank is what it costs you rather than how fast the clock runs.\n\nHarvesting something your trade cannot use now simply refuses, instead of taking the plant and giving you nothing.\n\nThe chat window no longer loses the server while you are typing, and the update countdown stops promising a kick to people it was never going to kick."
+                  },
+                  {
+                      "id":  "20260924-1559",
+                      "url":  "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/586932622",
+                      "sha256":  "91ad15d711c67630e2f7766503031e281b3596e27816c664c13ceea76dadd476",
+                      "notes":  "The launcher finds your mods when Vortex keeps them in a different Skyrim folder\nIf Vortex on your machine deploys into a Skyrim folder other than the one Steam uses, the launcher now finds it instead of saying nothing is deployed.\n- If the launcher said Vortex had nothing deployed while Vortex showed everything deployed, press Scan: it now names the folder Vortex really uses, and Fix builds Thornswood\u0027s own game folder from it.\n- Nothing else in that folder is used. The game itself still comes from your Steam copy of Skyrim, and only the files Vortex deployed are brought in, so another server\u0027s files never mix with Thornswood\u0027s.\n- Settings has a Choose Vortex\u0027s folder button for the rare folder the launcher cannot find by itself."
+                  },
+                  {
+                      "id":  "20260924-1810",
+                      "url":  "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/587122257",
+                      "sha256":  "1a67e3c99b1d6a7c4fc06be90a96795afefde0a40a105bf512e90c2f6b84b2c8",
+                      "notes":  "The Downgrade button works on its own again.\nIt finds Steam\u0027s window however your Steam draws it, and types each command into Steam\u0027s console for you.\nIt now sees Steam finish each of the three parts and asks for the next one, so you are not left with only the first.\nIf Steam refuses a part, the launcher tells you why straight away instead of waiting.\nIt checks the download is the right version of Skyrim before it replaces anything."
+                  },
+                  {
+                      "id":  "20260925-1654",
+                      "url":  "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/589417291",
+                      "sha256":  "4e77bb9e8a7fc1da5e4c2952b59c5f82873393c09211524e902fad6d066e80e8",
+                      "notes":  "Installer and Downgrade fixes\nIf Skyrim is the wrong build, install finishes and opens the launcher with Downgrade ready, instead of stopping as missing. Downgrade copies SkyrimSE.exe last, and a part only counts done once its folder reaches the size Steam announced. Packaging refuses a missing Vortex record so a bad pack is not shipped by accident.\n- Wrong-build install reaches the launcher\n- Downgrade finishes more reliably\n- Safer packaging when Vortex data is missing"
+                  }
+              ],
+    "news":  [
+                 {
+                     "date":  "9-25-2026 4:54 PM",
+                     "title":  "Installer and Downgrade fixes",
+                     "body":  "If Skyrim is the wrong build, install finishes and opens the launcher with Downgrade ready, instead of stopping as missing. Downgrade copies SkyrimSE.exe last, and a part only counts done once its folder reaches the size Steam announced. Packaging refuses a missing Vortex record so a bad pack is not shipped by accident.",
+                     "details":  [
+                                     "Wrong-build install reaches the launcher",
+                                     "Downgrade finishes more reliably",
+                                     "Safer packaging when Vortex data is missing",
+                                     "Launcher 1.1.95",
+                                     "23 files to download, 24.6 MB"
+                                 ],
+                     "channel":  ""
+                 },
+                 {
+                     "date":  "9-24-2026 6:10 PM",
+                     "title":  "The Downgrade button works on its own again.",
+                     "body":  "It finds Steam\u0027s window however your Steam draws it, and types each command into Steam\u0027s console for you. It now sees Steam finish each of the three parts and asks for the next one, so you are not left with only the first. If Steam refuses a part, the launcher tells you why straight away instead of waiting. It checks the download is the right version of Skyrim before it replaces anything.",
+                     "details":  [
+                                     "Launcher 1.1.94",
+                                     "21 files to download, 17.4 MB"
+                                 ],
+                     "channel":  ""
+                 },
+                 {
+                     "date":  "9-24-2026 3:59 PM",
+                     "title":  "The launcher finds your mods when Vortex keeps them in a different Skyrim folder",
+                     "body":  "If Vortex on your machine deploys into a Skyrim folder other than the one Steam uses, the launcher now finds it instead of saying nothing is deployed.",
+                     "details":  [
+                                     "If the launcher said Vortex had nothing deployed while Vortex showed everything deployed, press Scan: it now names the folder Vortex really uses, and Fix builds Thornswood\u0027s own game folder from it.",
+                                     "Nothing else in that folder is used. The game itself still comes from your Steam copy of Skyrim, and only the files Vortex deployed are brought in, so another server\u0027s files never mix with Thornswood\u0027s.",
+                                     "Settings has a Choose Vortex\u0027s folder button for the rare folder the launcher cannot find by itself.",
+                                     "Launcher 1.1.93",
+                                     "21 files to download, 17.4 MB"
+                                 ],
+                     "channel":  ""
+                 },
+                 {
+                     "date":  "9-23-2026 9:37 PM",
+                     "title":  "Everything from tonight\u0027s dev testing, now on the live build.",
+                     "body":  "Warmth: fires, cooking fires, forges and braziers warm you again, and standing in one will set you alight. Rain, snow, wind and a roof over your head all count. Water is cold. The reading moves quickly while you are warming and slowly while you are not, so it settles where you would expect. Hunger and Thirst: the two meters are named properly now, they move at a rate you can feel, and eating and drinking actually register. Potions and poisons count as drink, because they are liquid. Ale makes you hungrier, and each one hits harder than the last. Mining: one press is a spell of work rather than a click for every swing, and you use the pick on your own hip. Arriving: you come back dressed, in the clothes you left in. Working a trade tires you, by the swing, and your rank is what it costs you rather than how fast the clock runs. Harvesting something your trade cannot use now simply refuses, instead of taking the plant and giving you nothing. The chat window no longer loses the server while you are typing, and the update countdown stops promising a kick to people it was never going to kick.",
+                     "details":  [
+                                     "Launcher 1.1.92",
+                                     "3 files to download, 0.3 MB"
+                                 ],
+                     "channel":  ""
+                 },
+                 {
+                     "date":  "9-23-2026 7:46 AM",
+                     "title":  "Your party, found.",
+                     "body":  "Everybody in your party now has their name in green above their head, a marker on your map, and an arrow on a strip under your compass telling you which way they are and how far. The strip is ours rather than Skyrim\u0027s own compass. That one only draws quest targets and map markers and there is no way to put a person on it without changing the game files, so we drew our own under it instead. It updates five times a second, which is faster than the compass would have. Nothing else to press. Open P to see your party, and it all just works while you are in one.",
+                     "details":  [
+                                     "Green on the strip means the same room as you. Gold means somewhere else in Skyrim.",
+                                     "The map markers are named after them and do not let you fast travel: somebody\u0027s position is a thing to walk to.",
+                                     "All of it turns off the moment they leave the party, including the green on their name.",
+                                     "Launcher 1.1.91",
+                                     "3 files to download, 0.3 MB"
+                                 ],
+                     "channel":  ""
+                 },
+                 {
+                     "date":  "9-23-2026 2:21 AM",
+                     "title":  "Look at somebody and press a key.",
+                     "body":  "Friends, parties, trading, muting and journals are all in, and none of them needs a cursor. The old trade menu people remember was a Skyrim Together mod that is not in this game. This one is ours. VOICE ACTUALLY HAS RANGE NOW. Whisper, normal and yell were all carrying the same distance because of a number the browser was ignoring. A whisper now stops at a table, normal at a room, and a yell reaches across a market and is louder than the other two at the same distance. Dice are rolled by the server. /roll 20, or /roll 6x3 for three of them. Nobody can type a number and call it a roll. Gold, weapons and armour no longer turn up in chests. That rule always existed and the first person to open any chest got the loot anyway, because of when the check ran. /help is a menu now: /help talking, /help people, /help living, /help work, /help land, /help staff. And if the console has been flashing open and shut when you press the key: that is us, it is the same for everybody, and it says so now instead of doing it silently.",
+                     "details":  [
+                                     "Look at a person and three keys appear with their name: G asks them to be friends, H offers a trade, L stops you hearing them. Press G again on a friend to take them off your list.",
+                                     "P opens your friends and your party: who is online, who is with you, and who to ask. Work you do with your party in the same place counts for more.",
+                                     "J opens your journals. As many as you like, pages inside them, and you can share a whole journal or a single page with a friend. It is not a copy, so if you correct a page they see the correction.",
+                                     "Trading is two piles and two agreements. Add what you like, set gold, and nothing moves until you have both agreed. Change either side and both agreements come off, so what you agreed to is what you get.",
+                                     "Launcher 1.1.90",
+                                     "6 files to download, 0.3 MB"
+                                 ],
+                     "channel":  ""
+                 },
+                 {
+                     "date":  "9-23-2026 1:18 AM",
+                     "title":  "Cold, heat and fire are real now.",
+                     "body":  "The Temp bar on your screen finally moves. It was stuck on Fine 50 everywhere because nothing was ever telling the server where you were standing. It does now, and it reads all of this: STAND IN A FIRE AND YOU BURN. It spreads to anybody standing next to you, so mind where you are. The four bars are half again bigger and easier to read. The countdown before an update now says your game is about to close and why, instead of talking about the launcher, and it sits where you can see it rather than up by the compass. If the character creation menu has been opening every time you log in on a character you already made, that is fixed.",
+                     "details":  [
+                                     "A roof over you, and how far the nearest lit fire is. Fires warm you by how close you are, so it climbs as you walk to a hearth and falls as you walk away. Forges, the Skyforge, smelters and cooking spits count too.",
+                                     "The weather, including how hard the wind is blowing, and whether it is day or night, and how high up you are.",
+                                     "Swimming, and wading, which are not the same thing. Different waters are different temperatures: meltwater, marsh, a puddle, a river, an indoor pool, and lava.",
+                                     "What you are wearing. Bare skin is the coldest thing there is, fur is the warmest, metal is the worst of the things that are not nothing, and every piece counts on its own: a hood, a scarf, a cloak, gloves and boots are five separate decisions. The same coat that saves you in a blizzard cooks you at a forge.",
+                                     "Launcher 1.1.89",
+                                     "2 files to download, 1.5 MB"
+                                 ],
+                     "channel":  ""
+                 },
+                 {
+                     "date":  "9-23-2026 12:09 AM",
+                     "title":  "No more phantom item notifications, and the meters on screen are readable.",
+                     "body":  "The client was re-applying your whole inventory every five seconds, for ever. When a difference could not be resolved it handed the same thing over again and again, and Skyrim announced every one. That is the boots that kept being looted while you stood still, and the flood after closing a bench. It now stops retrying a difference that is not closing. The four meters bottom left are bigger, sit on a backing so they are readable against anything, and no longer fade out. Temp says Temp, has a thermometer instead of a second water drop, and reads as a word and a number with a colour: Freezing, Cold, Chilly, Fine, Warm, Hot, Burning.",
+                     "details":  [
+                                     "Launcher 1.1.88",
+                                     "1 file to download, 1.4 MB"
+                                 ],
+                     "channel":  ""
+                 },
+                 {
+                     "date":  "9-22-2026 11:56 PM",
+                     "title":  "The close game button is quicker, and you can teleport anywhere with a name.",
+                     "body":  "The character page\u0027s Close the game button now asks the engine to exit properly instead of throwing quietly, and it puts the browser down first so there is less to unwind on the way out. For playtesters: /tp now reaches any named place in the world, not just the nine holds. Type part of a name, like /tp bannered or /tp jorrvaskr. Where several places share a name it lists them rather than guessing. There are also /give and /spawn now, for any of the 1,823 items and 115 creatures this server knows by name: /give iron ore 5, /spawn cow 3.",
+                     "details":  [
+                                     "Launcher 1.1.87",
+                                     "2 files to download, 0.2 MB"
+                                 ],
+                     "channel":  ""
+                 },
+                 {
+                     "date":  "9-22-2026 11:14 PM",
+                     "title":  "Three chopping blocks are gone, and the SkyUI map error is fixed for everyone.",
+                     "body":  "The chopping blocks at Solitude, Solitude Stables and Dragon Bridge are taken out of the world. They are not just switched off now, they are not there. The SkyUI ERROR CODE 5 box about map.swf went out in the last update for new installs only. This one removes the file from installs that already have it, which is everybody who was seeing the box. The good world map stays.",
+                     "details":  [
+                                     "Launcher 1.1.86",
+                                     "1 file to download, 0.2 MB"
+                                 ],
+                     "channel":  ""
+                 },
+                 {
+                     "date":  "9-22-2026 11:02 PM",
+                     "title":  "Hunger, thirst and exhaustion arrive, and a few things stop getting in your way.",
+                     "body":  "New: your character now gets hungry, thirsty and tired. Nothing here can kill you or knock you out. An empty meter makes you worse at things, and that is all. Say /needs to see where you stand, /rest sit or bed to recover, /eat and /drink, and /bard if you are playing music in an inn, which helps everyone resting near you. The numbers are a first guess and we want to hear what feels wrong. Also in this one: world map stays. thirty seconds later.",
+                     "details":  [
+                                     "The SkyUI error box about map.swf on the way in is gone, and the good",
+                                     "Character creation has a Not now button. Closing it no longer reopens",
+                                     "Mages see their two spell points while creating instead of only after.",
+                                     "The character page has a Close the game button.",
+                                     "Mouse 4 and Mouse 5 can be set as your voice key.",
+                                     "Three chopping blocks around Solitude and Dragon Bridge are out of use.",
+                                     "Launcher 1.1.85",
+                                     "3 files to download, 0.3 MB"
+                                 ],
+                     "channel":  ""
+                 },
+                 {
+                     "date":  "9-22-2026 10:07 PM",
+                     "title":  "The client repair now finds the files it downloads.",
+                     "body":  "The last two updates added the check and the repair. This one fixes the lookup: the launcher was opening the right download and reading the wrong paths inside it, so it found nothing and said the file was still missing. If your Client row is red, open the launcher and leave it a minute. It fetches what is missing on start and whenever you press Recheck, and the row turns green on its own.",
+                     "details":  [
+                                     "Launcher 1.1.84"
+                                 ],
+                     "channel":  ""
+                 },
+                 {
+                     "date":  "9-22-2026 10:02 PM",
+                     "title":  "The SkyMP client files are in this update, so a broken install can repair itself.",
+                     "body":  "Nothing about the game changes here. This update carries the six files that make up the SkyMP client, so a launcher that finds one of them missing has somewhere to fetch it from. If your Client row is red, open the launcher and give it a moment.",
+                     "details":  [
+                                     "Launcher 1.1.83",
+                                     "6 files to download, 18.3 MB"
+                                 ],
+                     "channel":  ""
+                 },
+                 {
+                     "date":  "9-22-2026 10:00 PM",
+                     "title":  "A missing client file is now actually put back, instead of just being named.",
+                     "body":  "The last update added the check that spots when one of the SkyMP client files is missing or is the wrong build. This one does something about it: the launcher repairs them when it starts, and again whenever you press Recheck. If your Play button is blocked on a red Client row, open the launcher and give it a moment. It will fetch what is missing and the row goes green on its own.",
+                     "details":  [
+                                     "Launcher 1.1.83"
+                                 ],
+                     "channel":  ""
+                 },
+                 {
+                     "date":  "9-22-2026 9:51 PM",
+                     "title":  "If the launcher ever says a client file is missing, it now goes and gets it.",
+                     "body":  "The Play page checks the six files that make up the SkyMP client against the record they were built from, instead of guessing from the text inside one of them. If any is missing or is the wrong build, the launcher fetches it back on its own, from your own kept copies or from the update feed. Nobody gets told to reinstall Thornswood over this again. If you hit the \"skymp5-client.js is missing\" screen on a fresh install, update and open the launcher and it sorts itself out.",
+                     "details":  [
+                                     "Launcher 1.1.82",
+                                     "1 file to download, 0.2 MB",
+                                     "The load order moved, so start a new character or expect the old save to complain"
+                                 ],
+                     "channel":  ""
+                 },
+                 {
+                     "date":  "9-22-2026 5:22 PM",
+                     "title":  "The launcher now tells you when your mod collection is out of date.",
+                     "body":  "It reads which revision of the Thornswood collection you have installed and compares it with the newest one. If you are behind, it says so before you press Play instead of letting you join and fail on a load order mismatch. This is the half that was missing from the update a few minutes ago. That one asked you to update to revision 5; this one is the launcher that can actually check. Nothing else changed. If you already updated your collection, you will see nothing new.",
+                     "details":  [
+                                     "Launcher 1.1.81"
+                                 ],
+                     "channel":  ""
+                 },
+                 {
+                     "date":  "9-22-2026 5:19 PM",
+                     "title":  "The mod list has a new revision, and the world has started over.",
+                     "body":  "Before you press Play, update the Thornswood collection in Vortex to revision 5. The launcher tells you if you have not. Taken out: Tavern Games, Respawn - Death Overhaul and SunHelm Survival, which did not work on this server. Immersive Armors is now the script free version. New: Playable Rieklings, with RaceCompatibility. The collection now carries the plugin order, so let Vortex sort and do not move plugins by hand. Because the load order changed, everybody makes a new character, and every house and farm is unclaimed again.",
+                     "details":  [
+                                     "Launcher 1.1.80",
+                                     "1 file to download, 0.0 MB",
+                                     "The load order moved, so start a new character or expect the old save to complain"
+                                 ],
+                     "channel":  ""
+                 },
+                 {
+                     "date":  "9-22-2026 1:44 PM",
+                     "title":  "The launcher sends its logs for you, and a session that went wrong is marked",
+                     "body":  "When something breaks, nobody will ask you to go and find four files any more. The launcher sends its own log and the game\u0027s logs when you close the game, and again at the next start if it was killed before it could. Chat is now written down too, with a name and a time, so a report about something somebody said can be answered by reading it instead of asking both people. Voice is not recorded and nothing reads your machine.",
+                     "details":  [
+                                     "Bug reports no longer start with being asked for log files",
+                                     "Chat is kept for a year and only moderators can read it. See the Rules page",
+                                     "The launcher puts a new mod load order in place by itself instead of asking you to press Fix",
+                                     "The theme plays on every build now. Settings, Music turns it off",
+                                     "Launcher 1.1.80"
+                                 ],
+                     "channel":  ""
+                 },
+                 {
+                     "date":  "9-22-2026 12:23 PM",
+                     "title":  "The launcher sends its logs when you close the game, so nobody has to ask you for them",
+                     "body":  "When a session ends, the launcher sends its own log and the game\u0027s logs to the site. That is the only moment it can: the game wipes those files every time it starts, which is why every bug report so far has begun with somebody being asked to go and find four files. If the launcher is killed or the game takes it down, the logs go at the next start instead. Nothing you type is in them and they are the launcher\u0027s own files, not yours.",
+                     "details":  [
+                                     "Nobody will be asked to find and paste log files for a bug report any more",
+                                     "A session that crashed is marked, so it can be found without reading forty of them",
+                                     "A session stopped by a failed update or a wrong load order is marked separately",
+                                     "Logs are kept for a year, and only for sessions the launcher actually reported",
+                                     "Launcher 1.1.79",
+                                     "1 file to download, 1.3 MB"
+                                 ],
+                     "channel":  ""
+                 },
+                 {
+                     "date":  "9-22-2026 11:11 AM",
+                     "title":  "The theme plays for everybody, and the launcher stops asking you to press Fix",
+                     "body":  "Everything that had been sitting on the dev build since the 21st, plus the finished music track, which was dev only until now. If an update moves the mod load order, the launcher now puts the new list in place by itself instead of letting the game turn you away and expecting you to work out that Fix was the answer.",
+                     "details":  [
+                                     "The Thornswood theme now plays in the launcher, at the game menu and through the loading screen, on every build. Settings, Music turns it off",
+                                     "An update that moves the load order no longer needs you to press Fix afterwards",
+                                     "Voice one way, where you could hear them and they could not hear you, is fixed",
+                                     "The door no longer refuses everybody in silence when it cannot reach Discord",
+                                     "Launcher 1.1.78",
+                                     "5 files to download, 5.6 MB"
+                                 ],
+                     "channel":  ""
+                 },
+                 {
+                     "date":  "9-21-2026 10:28 PM",
+                     "title":  "Back to the 1.1.75 plugin",
+                     "body":  "",
+                     "details":  [
+                                     "Launcher 1.1.77",
+                                     "2 files to download, 1.5 MB"
+                                 ],
+                     "channel":  ""
+                 },
+                 {
+                     "date":  "9-21-2026 10:11 PM",
+                     "title":  "The shift goes on, a farmhand\u0027s press is not yours, and the town gates open",
+                     "body":  "",
+                     "details":  [
+                                     "Launcher 1.1.76",
+                                     "1 file to download, 0.1 MB"
+                                 ],
+                     "channel":  ""
+                 },
+                 {
+                     "date":  "9-21-2026 6:00 PM",
+                     "title":  "Thornswood runs from its own Skyrim, never a shared one",
+                     "body":  "",
+                     "details":  [
+                                     "Launcher 1.1.75"
+                                 ],
+                     "channel":  ""
+                 },
+                 {
+                     "date":  "9-21-2026 5:58 PM",
+                     "title":  "The launcher says when Skyrim is shared with other servers",
+                     "body":  "",
+                     "details":  [
+                                     "Launcher 1.1.74",
+                                     "2 files to download, 16.4 MB"
+                                 ],
+                     "channel":  ""
+                 },
+                 {
+                     "date":  "9-21-2026 5:49 PM",
+                     "title":  "The client writes down what it says",
+                     "body":  "",
+                     "details":  [
+                                     "Launcher 1.1.73",
+                                     "3 files to download, 16.5 MB"
+                                 ],
+                     "channel":  ""
+                 },
+                 {
+                     "date":  "9-21-2026 3:43 PM",
+                     "title":  "The menu log says why the world did not load",
+                     "body":  "",
+                     "details":  [
+                                     "Launcher 1.1.72",
+                                     "1 file to download, 0.1 MB",
+                                     "The load order moved, so start a new character or expect the old save to complain"
+                                 ],
+                     "channel":  ""
+                 },
+                 {
+                     "date":  "9-21-2026 3:34 PM",
+                     "title":  "The menu choice reaches the client",
+                     "body":  "",
+                     "details":  [
+                                     "Launcher 1.1.71",
+                                     "1 file to download, 0.1 MB"
+                                 ],
+                     "channel":  ""
+                 },
+                 {
+                     "date":  "9-21-2026 3:09 PM",
+                     "title":  "Three launcher messages that told testers the wrong thing",
+                     "body":  "",
+                     "details":  [
+                                     "Launcher 1.1.70"
+                                 ],
+                     "channel":  ""
+                 },
+                 {
+                     "date":  "9-21-2026 2:47 PM",
+                     "title":  "The launcher said a check in had failed when it had just succeeded",
+                     "body":  "",
+                     "details":  [
+                                     "Launcher 1.1.69"
+                                 ],
+                     "channel":  ""
+                 },
+                 {
+                     "date":  "9-20-2026 9:22 PM",
+                     "title":  "Only spells you could learn are open, and the scrollbars match the panel",
+                     "body":  "",
+                     "details":  [
+                                     "Launcher 1.1.66",
+                                     "2 files to download, 0.1 MB"
+                                 ],
+                     "channel":  ""
+                 },
+                 {
+                     "date":  "9-20-2026 9:14 PM",
+                     "title":  "The delete icon on the character menu forgets again",
+                     "body":  "",
+                     "details":  [
+                                     "Launcher 1.1.65",
+                                     "7 files to download, 18.3 MB",
+                                     "The load order moved, so start a new character or expect the old save to complain"
+                                 ],
+                     "channel":  ""
+                 },
+                 {
+                     "date":  "9-20-2026 7:39 PM",
+                     "title":  "The Q favourites menu: a setting this build insists on is never written through another launcher\u0027s file",
+                     "body":  "",
+                     "details":  [
+                                     "Launcher 1.1.64"
+                                 ],
+                     "channel":  ""
+                 },
+                 {
+                     "date":  "9-20-2026 7:35 PM",
+                     "title":  "A record of who played and when, for the testing log",
+                     "body":  "",
+                     "details":  [
+                                     "Launcher 1.1.63"
+                                 ],
+                     "channel":  ""
+                 },
+                 {
+                     "date":  "9-20-2026 7:02 PM",
+                     "title":  "Character choice at the menu, creation in the game, the K panel, the load order gate, the door and admins from the site",
+                     "body":  "",
+                     "details":  [
+                                     "Launcher 1.1.62",
+                                     "22 files to download, 33.4 MB"
+                                 ],
+                     "channel":  ""
+                 },
+                 {
+                     "date":  "9-20-2026 11:48 AM",
+                     "title":  "profession, class and skill tree on K",
+                     "body":  "",
+                     "details":  [
+                                     "Launcher 1.1.61",
+                                     "2 files to download, 0.1 MB"
+                                 ],
+                     "channel":  ""
+                 },
+                 {
+                     "date":  "9-20-2026 11:40 AM",
+                     "title":  "the microphone is back on",
+                     "body":  "",
+                     "details":  [
+                                     "Launcher 1.1.60"
+                                 ],
+                     "channel":  ""
+                 },
+                 {
+                     "date":  "9-20-2026 11:29 AM",
+                     "title":  "the IsNPC clear is guarded, so it leaves character creation alone",
+                     "body":  "",
+                     "details":  [
+                                     "Launcher 1.1.59",
+                                     "1 file to download, 0.1 MB"
+                                 ],
+                     "channel":  ""
+                 },
+                 {
+                     "date":  "9-20-2026 11:24 AM",
+                     "title":  "jump and sprint clear IsNPC on the press frame, and the light plugins are listed too",
+                     "body":  "",
+                     "details":  [
+                                     "Launcher 1.1.58",
+                                     "2 files to download, 0.1 MB"
+                                 ],
+                     "channel":  ""
+                 },
+                 {
+                     "date":  "9-20-2026 11:04 AM",
+                     "title":  "voice local range halved",
+                     "body":  "",
+                     "details":  [
+                                     "Launcher 1.1.57",
+                                     "1 file to download, 0.0 MB",
+                                     "The load order moved, so start a new character or expect the old save to complain"
+                                 ],
+                     "channel":  ""
+                 },
+                 {
+                     "date":  "9-19-2026 8:44 PM",
+                     "title":  "voice ranges, chat roles, Q menu",
+                     "body":  "",
+                     "details":  [
+                                     "Launcher 1.1.55",
+                                     "2 files to download, 1.0 MB"
+                                 ],
+                     "channel":  ""
+                 }
+             ],
+    "updateRepo":  "EvilPatrick06/Thornswood-Releases",
+    "voicePort":  "7778",
+    "collectionUrl":  "https://www.nexusmods.com/games/skyrimspecialedition/collections/ombo2a",
+    "maxOnline":  25,
+    "mainVersion":  "",
+    "voiceUrl":  "https://thornswood.net/voice",
+    "discordAppId":  "1549251507361292418",
+    "siteUrl":  "https://thornswood.net",
+    "presenceImage":  "https://thornswood.net/presence.png",
+    "collectionRevision":  5,
+    "clientRuntime":  {
+                          "url":  "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/589417289",
+                          "sha256":  "b932d053de754f3040fcfaa62a61b117323ede71fbd8305cf396cfabba4ca2aa",
+                          "bytes":  6355155,
+                          "forkCommit":  "d0006351"
+                      }
 }
