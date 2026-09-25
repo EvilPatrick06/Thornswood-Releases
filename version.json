@@ -1,7 +1,7 @@
 {
-  "launcherVersion": "1.1.94.9",
-  "launcherUrl": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/589195096",
-  "launcherSha256": "75cb7b3adfc0f75c378da535a249f624f20f4155d6ae115d39a3f77761216d6e",
+  "launcherVersion": "1.1.94.10",
+  "launcherUrl": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/589401666",
+  "launcherSha256": "d96ae96e44ea811daa2a908d9895715b6ca208d5c3131174b8a666102ca92f7f",
   "serverAddress": "192.135.112.23",
   "serverPort": "7787",
   "message": "",
@@ -491,9 +491,29 @@
       "url": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/589195098",
       "sha256": "0d27ddf25bfc09d55f7b531ca7621d591a38996a42a3d1bbf52d3b5f86cde19f",
       "notes": "The sealed scroll opens only when you click it\n- Typing in another window while the game sits on the start screen no longer opens the scroll or moves you on.\n- Click the sealed scroll to open it and click Continue to go to your characters. No key does either."
+    },
+    {
+      "id": "20260925-1843-dev",
+      "url": "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/589401665",
+      "sha256": "7253f896a724bc4efe1210046e4e4e29adebcaf5503c9c3f4f1280cf8f429a0c",
+      "notes": "Launcher tidy up: the white strip is gone\n- No more light strip along the top edge of the launcher window.\n- The server ping and voice status update quietly instead of flashing checking.\n- A new Thornswood icon on the banner, the side bar and the taskbar.\n- The Play page has no scroll bar, and the banner is just the icon, the name, the art and your stats.\n- Played, Sessions, Last played and Updated are easier to read over the banner."
     }
   ],
   "news": [
+    {
+      "date": "9-25-2026 6:43 PM",
+      "title": "Launcher tidy up: the white strip is gone",
+      "body": "",
+      "details": [
+        "No more light strip along the top edge of the launcher window.",
+        "The server ping and voice status update quietly instead of flashing checking.",
+        "A new Thornswood icon on the banner, the side bar and the taskbar.",
+        "The Play page has no scroll bar, and the banner is just the icon, the name, the art and your stats.",
+        "Played, Sessions, Last played and Updated are easier to read over the banner.",
+        "Launcher 1.1.94.10"
+      ],
+      "channel": "dev"
+    },
     {
       "date": "9-25-2026 4:35 PM",
       "title": "The sealed scroll opens only when you click it",
@@ -933,16 +953,6 @@
       "details": [
         "Launcher 1.1.74",
         "2 files to download, 16.4 MB"
-      ],
-      "channel": ""
-    },
-    {
-      "date": "9-21-2026 5:49 PM",
-      "title": "The client writes down what it says",
-      "body": "",
-      "details": [
-        "Launcher 1.1.73",
-        "3 files to download, 16.5 MB"
       ],
       "channel": ""
     }
