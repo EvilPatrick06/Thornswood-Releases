@@ -1,7 +1,7 @@
 {
-    "launcherVersion":  "1.1.95.3",
-    "launcherUrl":  "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/591248590",
-    "launcherSha256":  "9c6a99acf6620122889247f6ae973ac7575a22f3823cd64f705199d1f2e511ac",
+    "launcherVersion":  "1.1.95.4",
+    "launcherUrl":  "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/591278800",
+    "launcherSha256":  "a5461010fc92e3b82e702fc23969c23e7e0387733bcff02d02e6205dacac5de7",
     "serverAddress":  "192.135.112.23",
     "serverPort":  "7787",
     "message":  "",
@@ -527,9 +527,27 @@
                       "url":  "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/591248588",
                       "sha256":  "b7d428899208822f95e668cbd8c3c19ee2ca32d524363cc948fe6b28923ff560",
                       "notes":  "Closed Patrick needs on demoting\nThe work for the closed needs:Patrick issues assigned to Patrick is on the demoting feed only. Main was not touched.\n- Downgrade path and harness for issue 369\n- Site and installer wording cleanup for issue 387\n- Play header video stops while the game runs for issue 436\n- Food, fishing, and alchemy product calls closed on GitHub for 375, 382, and 383"
+                  },
+                  {
+                      "id":  "20260926-1312-dev",
+                      "url":  "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/591278802",
+                      "sha256":  "695c85fdc53eab10b45d04942575cda95b64934b1551e58ebcbdca54b08d9127",
+                      "notes":  "MustBeLight comes from the server order now\nThe launcher derives which plugins must be ESL-flagged from the server manifest vs the golden plugins list, so the next light-plugin mismatch is caught without editing Checks by hand. Djinn\u0027s Immersive Armors copy was already fixed on his machine.\n- MustBeLight derived from server order (PR 641 / #388)\n- Hand list kept only as fallback when the server cannot be asked"
                   }
               ],
     "news":  [
+                 {
+                     "date":  "9-26-2026 1:13 PM",
+                     "title":  "MustBeLight comes from the server order now",
+                     "body":  "The launcher derives which plugins must be ESL-flagged from the server manifest vs the golden plugins list, so the next light-plugin mismatch is caught without editing Checks by hand. Djinn\u0027s Immersive Armors copy was already fixed on his machine.",
+                     "details":  [
+                                     "MustBeLight derived from server order (PR 641 / #388)",
+                                     "Hand list kept only as fallback when the server cannot be asked",
+                                     "Launcher 1.1.95.4",
+                                     "1 file to download, 35.4 MB"
+                                 ],
+                     "channel":  "dev"
+                 },
                  {
                      "date":  "9-26-2026 12:55 PM",
                      "title":  "Closed Patrick needs on demoting",
@@ -977,20 +995,6 @@
                                      "The launcher puts a new mod load order in place by itself instead of asking you to press Fix",
                                      "The theme plays on every build now. Settings, Music turns it off",
                                      "Launcher 1.1.80"
-                                 ],
-                     "channel":  ""
-                 },
-                 {
-                     "date":  "9-22-2026 12:23 PM",
-                     "title":  "The launcher sends its logs when you close the game, so nobody has to ask you for them",
-                     "body":  "When a session ends, the launcher sends its own log and the game\u0027s logs to the site. That is the only moment it can: the game wipes those files every time it starts, which is why every bug report so far has begun with somebody being asked to go and find four files. If the launcher is killed or the game takes it down, the logs go at the next start instead. Nothing you type is in them and they are the launcher\u0027s own files, not yours.",
-                     "details":  [
-                                     "Nobody will be asked to find and paste log files for a bug report any more",
-                                     "A session that crashed is marked, so it can be found without reading forty of them",
-                                     "A session stopped by a failed update or a wrong load order is marked separately",
-                                     "Logs are kept for a year, and only for sessions the launcher actually reported",
-                                     "Launcher 1.1.79",
-                                     "1 file to download, 1.3 MB"
                                  ],
                      "channel":  ""
                  }
