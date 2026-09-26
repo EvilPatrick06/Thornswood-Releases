@@ -1,7 +1,7 @@
 {
-    "launcherVersion":  "1.1.95.4",
-    "launcherUrl":  "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/591278800",
-    "launcherSha256":  "a5461010fc92e3b82e702fc23969c23e7e0387733bcff02d02e6205dacac5de7",
+    "launcherVersion":  "1.1.95",
+    "launcherUrl":  "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/591302876",
+    "launcherSha256":  "4f6705d536308e685a72c5e035d56dbaa4278a78e5b8b8614912516091f9e064",
     "serverAddress":  "192.135.112.23",
     "serverPort":  "7787",
     "message":  "",
@@ -385,449 +385,59 @@
                       "notes":  "Everything from tonight\u0027s dev testing, now on the live build.\n\nWarmth: fires, cooking fires, forges and braziers warm you again, and standing in one will set you alight. Rain, snow, wind and a roof over your head all count. Water is cold. The reading moves quickly while you are warming and slowly while you are not, so it settles where you would expect.\n\nHunger and Thirst: the two meters are named properly now, they move at a rate you can feel, and eating and drinking actually register. Potions and poisons count as drink, because they are liquid. Ale makes you hungrier, and each one hits harder than the last.\n\nMining: one press is a spell of work rather than a click for every swing, and you use the pick on your own hip.\n\nArriving: you come back dressed, in the clothes you left in.\n\nWorking a trade tires you, by the swing, and your rank is what it costs you rather than how fast the clock runs.\n\nHarvesting something your trade cannot use now simply refuses, instead of taking the plant and giving you nothing.\n\nThe chat window no longer loses the server while you are typing, and the update countdown stops promising a kick to people it was never going to kick."
                   },
                   {
-                      "id":  "20260923-2138-dev",
-                      "url":  "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/585079691",
-                      "sha256":  "120ecff989eb1167097a41efeef3beb1bc1cba0b591ec22c3b1c515c6349e29c",
-                      "notes":  "Fire you are standing in keeps burning on screen for as long as it is burning you. The flames used to run out after a few seconds while the damage carried on.\n\nA people\u0027s own dress is theirs to make. Bosmer, Dunmer, Orsimer, Telvanni, Skaal, Nord Mail, Redguard Knight, Alik\u0027r, Yokudan, Colovian and riekling gear can only be made by someone of that people. A tier of metal is not: Nordic Carved, Ancient Nord, Nord Hero, Elven, Orcish, Imperial, Glass, Dwarven, Chitin and Bonemold stay open to any smith who has the perk for them."
+                      "id":  "20260924-1559",
+                      "url":  "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/586932622",
+                      "sha256":  "91ad15d711c67630e2f7766503031e281b3596e27816c664c13ceea76dadd476",
+                      "notes":  "The launcher finds your mods when Vortex keeps them in a different Skyrim folder\nIf Vortex on your machine deploys into a Skyrim folder other than the one Steam uses, the launcher now finds it instead of saying nothing is deployed.\n- If the launcher said Vortex had nothing deployed while Vortex showed everything deployed, press Scan: it now names the folder Vortex really uses, and Fix builds Thornswood\u0027s own game folder from it.\n- Nothing else in that folder is used. The game itself still comes from your Steam copy of Skyrim, and only the files Vortex deployed are brought in, so another server\u0027s files never mix with Thornswood\u0027s.\n- Settings has a Choose Vortex\u0027s folder button for the rare folder the launcher cannot find by itself."
                   },
                   {
-                      "id":  "20260923-2246-dev",
-                      "url":  "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/585165222",
-                      "sha256":  "7fbd10d89f60abaf627efee65ac8c34cdac22a5521083faa6467b1f16fa054db",
-                      "notes":  "Keys, properly. A smith forges a blank key mold at a forge, one iron ingot. Take it to the door of the place with whoever holds it standing there and say /mold: the blank is spent and a mold for that door goes to the holder. Back at a forge, crafting a Key costs an ingot and comes out cut for that house. The mold is not used up, so it cuts as many keys as you want, and one key opens every door of the property.\n\nNone of that could happen before. Both items existed and nothing in the game made either one.\n\nThe house parts are gone from the forge: nails, hinges, locks and iron fittings refuse with a line saying why. Fishing poles are the woodworker\u0027s now, not everybody\u0027s."
+                      "id":  "20260924-1810",
+                      "url":  "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/587122257",
+                      "sha256":  "1a67e3c99b1d6a7c4fc06be90a96795afefde0a40a105bf512e90c2f6b84b2c8",
+                      "notes":  "The Downgrade button works on its own again.\nIt finds Steam\u0027s window however your Steam draws it, and types each command into Steam\u0027s console for you.\nIt now sees Steam finish each of the three parts and asks for the next one, so you are not left with only the first.\nIf Steam refuses a part, the launcher tells you why straight away instead of waiting.\nIt checks the download is the right version of Skyrim before it replaces anything."
                   },
                   {
-                      "id":  "20260924-1008-dev",
-                      "url":  "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/586317015",
-                      "sha256":  "6b3137d667281fd162480b0c7b51ca10af7628cb3083d5b8967bcea7343c2642",
-                      "notes":  "Keys you can make. A smith forges a blank Key Mold at a forge from one iron ingot. Take it to the door of the place with whoever holds it standing there and say /mold: the blank becomes that door\u0027s mold and goes to the holder. At a forge, crafting a Key then cuts one for that house, and the mold is not used up. One key opens every door of the property. This build carries the updated Thornswood Content plugin that makes the two recipes, for the dev build only, until it goes up on Nexus.\n\nIf you mute somebody, you no longer hear them. The mute used to stop at the game\u0027s overlay while their voice kept playing through the launcher.\n\nA command typed while your character is on its way back after a restart now waits and runs the moment you arrive, instead of saying the server cannot find your character.\n\nWhen the server goes down, the game says so and counts down to the main menu, instead of throwing you out with no word.\n\nThe journal wears the same look as the K panel.\n\nWalking into a new cell no longer trips the fire check, which was losing your position report to the server for that moment.\n\nThe Downgrade button asks before it takes over Steam\u0027s window.\n\nThe launcher can show a notice above Play, and says plainly when Discord or the site did not answer rather than telling you that you are not in the Discord.\n\nThe first-run card asks for a name that belongs in Skyrim.\n"
-                  },
-                  {
-                      "id":  "20260924-1106-dev",
-                      "url":  "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/586418179",
-                      "sha256":  "cfa5150f27f02fafe744b6fab2128a772cfde4440f8956ab2a8a22e198738cf8",
-                      "notes":  "If your Mods page says your load order is not the server\u0027s at position 52, with Hothtrooper44_Armor_Ecksstra.esp where the server has SkyHUD.esp, press Fix: it now flags that plugin light, the way the Nexus copy already is, and the two orders line up. Pressing Fix before only reordered the list, which could never clear it."
-                  },
-                  {
-                      "id":  "20260924-1220-dev",
-                      "url":  "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/586545064",
-                      "sha256":  "3c9c0201de8795faf96621733e2b29c2f71ec88bcb4026515a6d5f35c8c5a945",
-                      "notes":  "Your session logs finally reach us, and a bad launcher update can no longer leave you without one\nThe launcher\u0027s own update, the Play page and the uninstall all changed in this build.\n- If the game crashes, the launcher now sends the crash log and the game\u0027s platform log with the rest of that session\u0027s logs, so nobody has to ask you to dig them out. Until this build no session\u0027s logs had ever arrived: every upload was being turned away.\n- If a new version of the launcher fails to start, you are put back on the version you had instead of being left with no launcher and a reinstall.\n- The Play page has a row for the Address Library, which several of the collection\u0027s mods need to load. If it is missing the row turns amber and says what to do. It does not stop you playing.\n- Uninstalling from Windows Settings now opens straight on the uninstall, without checking for updates, joining voice or touching the game folder first."
-                  },
-                  {
-                      "id":  "20260924-1436-dev",
-                      "url":  "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/586784086",
-                      "sha256":  "9743619ce49b5bc9c56600ecfaa63c92ecc2e6fafe644889828af1aa079d861a",
-                      "notes":  "Press U at a door to make a key mold, and J opens only our journal\nKey molds, the journal and your keys around the game\u0027s menus all changed in this dev build.\n- Carrying a blank Key Mold and looking at a door shows a prompt: press U to press the mold into that lock. Whoever holds the building has to be there. At a forge the mold then cuts keys for that house, and it is not used up.\n- J opens our journal alone. The game\u0027s own journal no longer opens behind it, and Escape still opens the game\u0027s menu.\n- P, J, G, H and L no longer open our windows while you type a character\u0027s name or have one of the game\u0027s menus open, such as the inventory or the map.\n- The party and trade windows now look like the K panel and the journal.\n- Arriving at your inn tells you where you are.\n- The launcher\u0027s moving title strip stops while the game runs, so it no longer takes processor time from the game.\n- The Help page explains parties, and the server-down countdown shows even when the server never answers at all."
-                  },
-                  {
-                      "id":  "20260924-1951-dev",
-                      "url":  "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/587287293",
-                      "sha256":  "6ede312bd4c4ee34a6fed29d4fbc7579150f10f2c0ab9a9211364f7d9d6b489c",
-                      "notes":  "Creation can close Skyrim, and the race table reads the winning plugin"
-                  },
-                  {
-                      "id":  "20260924-2058-dev",
-                      "url":  "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/587380019",
-                      "sha256":  "754ce98938a43310afe1c08de6c9304159ef55234d104e6bc75ec5dee9b53e40",
-                      "notes":  "Downgrading Skyrim finishes on its own, and brewed potions count as a drink\n- The Downgrade button clears out files an earlier try left behind before it asks Steam for each part, so Steam fetches the right version and nothing from another version ends up in your game.\n- If you switch to another window while a part downloads, the launcher still brings Steam\u0027s console forward and types the next part for you. If it cannot, the line under the button says the command is on your clipboard: click the command line at the bottom of Steam\u0027s console, press Ctrl+V, then Enter.\n- A potion you brew at an alchemy lab now counts as a mouthful towards thirst when you drink it, the same as any other potion, instead of as a meal."
-                  },
-                  {
-                      "id":  "20260924-2136-dev",
-                      "url":  "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/587438109",
-                      "sha256":  "d969169987738d25c9acb0f34bf88284cf3e7993db1c19b463299f50bfb73643",
-                      "notes":  "The Downgrade button shows its progress and says why it stopped\n- A bar under the Downgrade button shows how far the downgrade has got: each of the three downloads with the size Steam gives for it, then the copy into your game.\n- When the downgrade stops for any reason, the line under the button says why and what to do next, not only the launcher log.\n- If Windows will not open Steam\u0027s links on your machine, the launcher asks Steam directly, so Steam\u0027s console still opens."
-                  },
-                  {
-                      "id":  "20260925-0107-dev",
-                      "url":  "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/587578832",
-                      "sha256":  "48ec1471a287367d39fe32c7e9c7665f974bd7b423f47443e967028c2a0c2e27",
-                      "notes":  "A sealed scroll now opens Thornswood"
-                  },
-                  {
-                      "id":  "20260925-0246-dev",
-                      "url":  "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/587730996",
-                      "sha256":  "5fb3d1ef0f0794e49d6cd6e63f948fca7c44665cdd34ee385f0806569620e6f8",
-                      "notes":  "The menu painting moves again, and the scroll reads like ink"
-                  },
-                  {
-                      "id":  "20260925-1408-dev",
-                      "url":  "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/588939434",
-                      "sha256":  "f9b7c9b7a7ebbef96086b4eea99afd6004a3f026327b377d97d945a5e6debe51",
-                      "notes":  "Take your time with the scroll\nReading the sealed scroll no longer eats into the three minutes you have to pick a character. The clock starts when you press Continue.\n- The dev build is back on the newest main, with the scroll intro and the moving menu painting"
-                  },
-                  {
-                      "id":  "20260925-1506-dev",
-                      "url":  "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/589041055",
-                      "sha256":  "ed97cf1acdcf9cbbe1114d29dfc347b341341bad36e7a6c67f70a075255dd1c7",
-                      "notes":  "The scroll glows\nThe sealed scroll at the start now has a soft gold glow, so it is clear you can click it."
-                  },
-                  {
-                      "id":  "20260925-1509-dev",
-                      "url":  "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/589046974",
-                      "sha256":  "a48cf4cc4d383a5e4f221d8a7494e560b024ace4fc8a3caefaa3a2d18483f73c",
-                      "notes":  "..."
-                  },
-                  {
-                      "id":  "20260925-1533-dev",
-                      "url":  "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/589087506",
-                      "sha256":  "dbac7666cb5fd39d52580642953ac507a8feeef57ad05502e2a0f160353fb433",
-                      "notes":  "The scroll\u0027s Continue gives you the full three minutes to choose\n- Time spent reading the sealed scroll no longer counts against choosing a character.\n- After you press Continue you get the whole three minutes to pick one before the game falls back to your last character.\n- The sealed scroll has a soft gold glow, so it is clear you can click it."
-                  },
-                  {
-                      "id":  "20260925-1600-dev",
-                      "url":  "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/589136224",
-                      "sha256":  "ac3f6dd8ca81eed2fe4e8488cb962a681875e18f070d7821dcd898470ad56cd1",
-                      "notes":  "The start screen waits for you\n- You can stay on the sealed scroll and the character list for as long as you like. The game never picks a character for you.\n- If you ticked Start without the scroll next time, the game goes in as your last character after three minutes on the character list, as before."
-                  },
-                  {
-                      "id":  "20260925-1632-dev",
-                      "url":  "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/589188942",
-                      "sha256":  "6f49af796cc775d1d05103f870dfd7e31371ea67f32b2366ef996d3fc648519e",
-                      "notes":  "An easy way to bring the sealed scroll back\n- If you ticked Start without the scroll next time, the character list now has a small tick box above Close the game: Show the sealed scroll next time.\n- Tick it and the sealed scroll is back the next time you start. Untick it to keep going straight to your characters."
-                  },
-                  {
-                      "id":  "20260925-1635-dev",
-                      "url":  "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/589195098",
-                      "sha256":  "0d27ddf25bfc09d55f7b531ca7621d591a38996a42a3d1bbf52d3b5f86cde19f",
-                      "notes":  "The sealed scroll opens only when you click it\n- Typing in another window while the game sits on the start screen no longer opens the scroll or moves you on.\n- Click the sealed scroll to open it and click Continue to go to your characters. No key does either."
-                  },
-                  {
-                      "id":  "20260925-1843-dev",
-                      "url":  "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/589401665",
-                      "sha256":  "7253f896a724bc4efe1210046e4e4e29adebcaf5503c9c3f4f1280cf8f429a0c",
-                      "notes":  "Launcher tidy up: the white strip is gone\n- No more light strip along the top edge of the launcher window.\n- The server ping and voice status update quietly instead of flashing checking.\n- A new Thornswood icon on the banner, the side bar and the taskbar.\n- The Play page has no scroll bar, and the banner is just the icon, the name, the art and your stats.\n- Played, Sessions, Last played and Updated are easier to read over the banner."
-                  },
-                  {
-                      "id":  "20260925-1847-dev",
-                      "url":  "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/589407689",
-                      "sha256":  "c98cbe86415521d1cf0a09bac7cd25eb50e5d7b4dbad9ad64512b557ae6d26c3",
-                      "notes":  "The launcher is quiet now\n- The launcher no longer plays music, and the Music setting is gone.\n- The Thornswood theme still plays on the game\u0027s start screen, same as before."
-                  },
-                  {
-                      "id":  "20260925-1900-dev",
-                      "url":  "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/589425549",
-                      "sha256":  "876f3aab7c11d62602702b5ddfd3dde78d96d7ff4958ff44e8427545de2a16c8",
-                      "notes":  "The launcher music is back\n- The Thornswood theme plays in the launcher again; taking it out was a mix-up.\n- The Music switch and volume are back on Settings, set the way you had them."
-                  },
-                  {
-                      "id":  "20260925-1904-dev",
-                      "url":  "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/589432012",
-                      "sha256":  "d1c27a332f7a88915ae4b205a2481c3e77bdbafabd7d1d82610556f6b636faed",
-                      "notes":  "The new icon is the dev launcher\u0027s own\n- The dev launcher keeps the new emblem on its banner, side bar, taskbar and shortcuts.\n- The main launcher goes back to the original Thornswood icon."
-                  },
-                  {
-                      "id":  "20260925-1739-dev",
-                      "url":  "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/589481197",
-                      "sha256":  "aea6f916bb75e9579c7417c8b564aa0afbfdff5f1037378636b2b7b18840ae1b",
-                      "notes":  "Mods page and creation race fixes\n- Mods page shows one clear line when the collection is not deployed (#533)\n- Creation and race selection no longer fight each other (#616)"
-                  },
-                  {
-                      "id":  "20260926-1255-dev",
-                      "url":  "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/591248588",
-                      "sha256":  "b7d428899208822f95e668cbd8c3c19ee2ca32d524363cc948fe6b28923ff560",
-                      "notes":  "Closed Patrick needs on demoting\nThe work for the closed needs:Patrick issues assigned to Patrick is on the demoting feed only. Main was not touched.\n- Downgrade path and harness for issue 369\n- Site and installer wording cleanup for issue 387\n- Play header video stops while the game runs for issue 436\n- Food, fishing, and alchemy product calls closed on GitHub for 375, 382, and 383"
-                  },
-                  {
-                      "id":  "20260926-1312-dev",
-                      "url":  "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/591278802",
-                      "sha256":  "695c85fdc53eab10b45d04942575cda95b64934b1551e58ebcbdca54b08d9127",
-                      "notes":  "MustBeLight comes from the server order now\nThe launcher derives which plugins must be ESL-flagged from the server manifest vs the golden plugins list, so the next light-plugin mismatch is caught without editing Checks by hand. Djinn\u0027s Immersive Armors copy was already fixed on his machine.\n- MustBeLight derived from server order (PR 641 / #388)\n- Hand list kept only as fallback when the server cannot be asked"
+                      "id":  "20260926-1327",
+                      "url":  "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/591302880",
+                      "sha256":  "70ad3be3fd5a7fe7450ffb430b9bc8d33bcee8f6ba358717ce247206d62a4845",
+                      "notes":  "Launcher 1.1.95 brings demoting to main\nEverything that shipped on demoting from 1.1.92.1 through 1.1.95.4 is now on the main feed.\n- Demoting releases 1.1.92.1 through 1.1.95.4\n- MustBeLight and the client fixes that came with it"
                   }
               ],
     "news":  [
                  {
-                     "date":  "9-26-2026 1:13 PM",
-                     "title":  "MustBeLight comes from the server order now",
-                     "body":  "The launcher derives which plugins must be ESL-flagged from the server manifest vs the golden plugins list, so the next light-plugin mismatch is caught without editing Checks by hand. Djinn\u0027s Immersive Armors copy was already fixed on his machine.",
+                     "date":  "9-26-2026 1:27 PM",
+                     "title":  "Launcher 1.1.95 brings demoting to main",
+                     "body":  "Everything that shipped on demoting from 1.1.92.1 through 1.1.95.4 is now on the main feed.",
                      "details":  [
-                                     "MustBeLight derived from server order (PR 641 / #388)",
-                                     "Hand list kept only as fallback when the server cannot be asked",
-                                     "Launcher 1.1.95.4",
-                                     "1 file to download, 35.4 MB"
+                                     "Demoting releases 1.1.92.1 through 1.1.95.4",
+                                     "MustBeLight and the client fixes that came with it",
+                                     "Launcher 1.1.95",
+                                     "2 files to download, 36.8 MB"
                                  ],
-                     "channel":  "dev"
+                     "channel":  ""
                  },
                  {
-                     "date":  "9-26-2026 12:55 PM",
-                     "title":  "Closed Patrick needs on demoting",
-                     "body":  "The work for the closed needs:Patrick issues assigned to Patrick is on the demoting feed only. Main was not touched.",
+                     "date":  "9-24-2026 6:10 PM",
+                     "title":  "The Downgrade button works on its own again.",
+                     "body":  "It finds Steam\u0027s window however your Steam draws it, and types each command into Steam\u0027s console for you. It now sees Steam finish each of the three parts and asks for the next one, so you are not left with only the first. If Steam refuses a part, the launcher tells you why straight away instead of waiting. It checks the download is the right version of Skyrim before it replaces anything.",
                      "details":  [
-                                     "Downgrade path and harness for issue 369",
-                                     "Site and installer wording cleanup for issue 387",
-                                     "Play header video stops while the game runs for issue 436",
-                                     "Food, fishing, and alchemy product calls closed on GitHub for 375, 382, and 383",
-                                     "Launcher 1.1.95.3",
-                                     "1 file to download, 35.4 MB",
-                                     "The load order moved, so start a new character or expect the old save to complain"
+                                     "Launcher 1.1.94",
+                                     "21 files to download, 17.4 MB"
                                  ],
-                     "channel":  "dev"
+                     "channel":  ""
                  },
                  {
-                     "date":  "9-25-2026 5:39 PM",
-                     "title":  "Mods page and creation race fixes",
-                     "body":  "",
+                     "date":  "9-24-2026 3:59 PM",
+                     "title":  "The launcher finds your mods when Vortex keeps them in a different Skyrim folder",
+                     "body":  "If Vortex on your machine deploys into a Skyrim folder other than the one Steam uses, the launcher now finds it instead of saying nothing is deployed.",
                      "details":  [
-                                     "Mods page shows one clear line when the collection is not deployed (#533)",
-                                     "Creation and race selection no longer fight each other (#616)",
-                                     "Launcher 1.1.95.1",
-                                     "48 files to download, 15.1 MB",
-                                     "The load order moved, so start a new character or expect the old save to complain"
+                                     "If the launcher said Vortex had nothing deployed while Vortex showed everything deployed, press Scan: it now names the folder Vortex really uses, and Fix builds Thornswood\u0027s own game folder from it.",
+                                     "Nothing else in that folder is used. The game itself still comes from your Steam copy of Skyrim, and only the files Vortex deployed are brought in, so another server\u0027s files never mix with Thornswood\u0027s.",
+                                     "Settings has a Choose Vortex\u0027s folder button for the rare folder the launcher cannot find by itself.",
+                                     "Launcher 1.1.93",
+                                     "21 files to download, 17.4 MB"
                                  ],
-                     "channel":  "dev"
-                 },
-                 {
-                     "date":  "9-25-2026 7:04 PM",
-                     "title":  "The new icon is the dev launcher\u0027s own",
-                     "body":  "",
-                     "details":  [
-                                     "The dev launcher keeps the new emblem on its banner, side bar, taskbar and shortcuts.",
-                                     "The main launcher goes back to the original Thornswood icon.",
-                                     "Launcher 1.1.94.13"
-                                 ],
-                     "channel":  "dev"
-                 },
-                 {
-                     "date":  "9-25-2026 7:00 PM",
-                     "title":  "The launcher music is back",
-                     "body":  "",
-                     "details":  [
-                                     "The Thornswood theme plays in the launcher again; taking it out was a mix-up.",
-                                     "The Music switch and volume are back on Settings, set the way you had them.",
-                                     "Launcher 1.1.94.12"
-                                 ],
-                     "channel":  "dev"
-                 },
-                 {
-                     "date":  "9-25-2026 6:47 PM",
-                     "title":  "The launcher is quiet now",
-                     "body":  "",
-                     "details":  [
-                                     "The launcher no longer plays music, and the Music setting is gone.",
-                                     "The Thornswood theme still plays on the game\u0027s start screen, same as before.",
-                                     "Launcher 1.1.94.11"
-                                 ],
-                     "channel":  "dev"
-                 },
-                 {
-                     "date":  "9-25-2026 6:43 PM",
-                     "title":  "Launcher tidy up: the white strip is gone",
-                     "body":  "",
-                     "details":  [
-                                     "No more light strip along the top edge of the launcher window.",
-                                     "The server ping and voice status update quietly instead of flashing checking.",
-                                     "A new Thornswood icon on the banner, the side bar and the taskbar.",
-                                     "The Play page has no scroll bar, and the banner is just the icon, the name, the art and your stats.",
-                                     "Played, Sessions, Last played and Updated are easier to read over the banner.",
-                                     "Launcher 1.1.94.10"
-                                 ],
-                     "channel":  "dev"
-                 },
-                 {
-                     "date":  "9-25-2026 4:35 PM",
-                     "title":  "The sealed scroll opens only when you click it",
-                     "body":  "",
-                     "details":  [
-                                     "Typing in another window while the game sits on the start screen no longer opens the scroll or moves you on.",
-                                     "Click the sealed scroll to open it and click Continue to go to your characters. No key does either.",
-                                     "Launcher 1.1.94.9",
-                                     "1 file to download, 0.0 MB"
-                                 ],
-                     "channel":  "dev"
-                 },
-                 {
-                     "date":  "9-25-2026 4:32 PM",
-                     "title":  "An easy way to bring the sealed scroll back",
-                     "body":  "",
-                     "details":  [
-                                     "If you ticked Start without the scroll next time, the character list now has a small tick box above Close the game: Show the sealed scroll next time.",
-                                     "Tick it and the sealed scroll is back the next time you start. Untick it to keep going straight to your characters.",
-                                     "Launcher 1.1.94.8",
-                                     "2 files to download, 1.4 MB"
-                                 ],
-                     "channel":  "dev"
-                 },
-                 {
-                     "date":  "9-25-2026 4:00 PM",
-                     "title":  "The start screen waits for you",
-                     "body":  "",
-                     "details":  [
-                                     "You can stay on the sealed scroll and the character list for as long as you like. The game never picks a character for you.",
-                                     "If you ticked Start without the scroll next time, the game goes in as your last character after three minutes on the character list, as before.",
-                                     "Launcher 1.1.94.7",
-                                     "2 files to download, 1.4 MB"
-                                 ],
-                     "channel":  "dev"
-                 },
-                 {
-                     "date":  "9-25-2026 3:33 PM",
-                     "title":  "The scroll\u0027s Continue gives you the full three minutes to choose",
-                     "body":  "",
-                     "details":  [
-                                     "Time spent reading the sealed scroll no longer counts against choosing a character.",
-                                     "After you press Continue you get the whole three minutes to pick one before the game falls back to your last character.",
-                                     "The sealed scroll has a soft gold glow, so it is clear you can click it.",
-                                     "Launcher 1.1.94.6",
-                                     "1 file to download, 0.0 MB"
-                                 ],
-                     "channel":  "dev"
-                 },
-                 {
-                     "date":  "9-25-2026 3:09 PM",
-                     "title":  "...",
-                     "body":  "",
-                     "details":  [
-                                     "Launcher 1.1.94.5",
-                                     "1 file to download, 0.0 MB"
-                                 ],
-                     "channel":  "dev"
-                 },
-                 {
-                     "date":  "9-25-2026 3:06 PM",
-                     "title":  "The scroll glows",
-                     "body":  "The sealed scroll at the start now has a soft gold glow, so it is clear you can click it.",
-                     "details":  [
-                                     "Launcher 1.1.94.4",
-                                     "2 files to download, 1.4 MB"
-                                 ],
-                     "channel":  "dev"
-                 },
-                 {
-                     "date":  "9-25-2026 2:09 PM",
-                     "title":  "Take your time with the scroll",
-                     "body":  "Reading the sealed scroll no longer eats into the three minutes you have to pick a character. The clock starts when you press Continue.",
-                     "details":  [
-                                     "The dev build is back on the newest main, with the scroll intro and the moving menu painting",
-                                     "Launcher 1.1.92.3",
-                                     "24 files to download, 25.9 MB"
-                                 ],
-                     "channel":  "dev"
-                 },
-                 {
-                     "date":  "9-25-2026 2:47 AM",
-                     "title":  "The menu painting moves again, and the scroll reads like ink",
-                     "body":  "",
-                     "details":  [
-                                     "Launcher 1.1.92.2",
-                                     "48 files to download, 19.6 MB",
-                                     "The load order moved, so start a new character or expect the old save to complain"
-                                 ],
-                     "channel":  "dev"
-                 },
-                 {
-                     "date":  "9-25-2026 1:07 AM",
-                     "title":  "A sealed scroll now opens Thornswood",
-                     "body":  "",
-                     "details":  [
-                                     "Launcher 1.1.92.1",
-                                     "81 files to download, 50.6 MB",
-                                     "The load order moved, so start a new character or expect the old save to complain"
-                                 ],
-                     "channel":  "dev"
-                 },
-                 {
-                     "date":  "9-24-2026 9:36 PM",
-                     "title":  "The Downgrade button shows its progress and says why it stopped",
-                     "body":  "",
-                     "details":  [
-                                     "A bar under the Downgrade button shows how far the downgrade has got: each of the three downloads with the size Steam gives for it, then the copy into your game.",
-                                     "When the downgrade stops for any reason, the line under the button says why and what to do next, not only the launcher log.",
-                                     "If Windows will not open Steam\u0027s links on your machine, the launcher asks Steam directly, so Steam\u0027s console still opens.",
-                                     "Launcher 1.1.94.3"
-                                 ],
-                     "channel":  "dev"
-                 },
-                 {
-                     "date":  "9-24-2026 8:58 PM",
-                     "title":  "Downgrading Skyrim finishes on its own, and brewed potions count as a drink",
-                     "body":  "",
-                     "details":  [
-                                     "The Downgrade button clears out files an earlier try left behind before it asks Steam for each part, so Steam fetches the right version and nothing from another version ends up in your game.",
-                                     "If you switch to another window while a part downloads, the launcher still brings Steam\u0027s console forward and types the next part for you. If it cannot, the line under the button says the command is on your clipboard: click the command line at the bottom of Steam\u0027s console, press Ctrl+V, then Enter.",
-                                     "A potion you brew at an alchemy lab now counts as a mouthful towards thirst when you drink it, the same as any other potion, instead of as a meal.",
-                                     "Launcher 1.1.94.2"
-                                 ],
-                     "channel":  "dev"
-                 },
-                 {
-                     "date":  "9-24-2026 7:51 PM",
-                     "title":  "Creation can close Skyrim, and the race table reads the winning plugin",
-                     "body":  "",
-                     "details":  [
-                                     "Launcher 1.1.94.1",
-                                     "4 files to download, 0.4 MB"
-                                 ],
-                     "channel":  "dev"
-                 },
-                 {
-                     "date":  "9-24-2026 2:36 PM",
-                     "title":  "Press U at a door to make a key mold, and J opens only our journal",
-                     "body":  "Key molds, the journal and your keys around the game\u0027s menus all changed in this dev build.",
-                     "details":  [
-                                     "Carrying a blank Key Mold and looking at a door shows a prompt: press U to press the mold into that lock. Whoever holds the building has to be there. At a forge the mold then cuts keys for that house, and it is not used up.",
-                                     "J opens our journal alone. The game\u0027s own journal no longer opens behind it, and Escape still opens the game\u0027s menu.",
-                                     "P, J, G, H and L no longer open our windows while you type a character\u0027s name or have one of the game\u0027s menus open, such as the inventory or the map.",
-                                     "The party and trade windows now look like the K panel and the journal.",
-                                     "Arriving at your inn tells you where you are.",
-                                     "The launcher\u0027s moving title strip stops while the game runs, so it no longer takes processor time from the game.",
-                                     "The Help page explains parties, and the server-down countdown shows even when the server never answers at all.",
-                                     "Launcher 1.1.92.6",
-                                     "6 files to download, 0.3 MB"
-                                 ],
-                     "channel":  "dev"
-                 },
-                 {
-                     "date":  "9-24-2026 12:21 PM",
-                     "title":  "Your session logs finally reach us, and a bad launcher update can no longer leave you without one",
-                     "body":  "The launcher\u0027s own update, the Play page and the uninstall all changed in this build.",
-                     "details":  [
-                                     "If the game crashes, the launcher now sends the crash log and the game\u0027s platform log with the rest of that session\u0027s logs, so nobody has to ask you to dig them out. Until this build no session\u0027s logs had ever arrived: every upload was being turned away.",
-                                     "If a new version of the launcher fails to start, you are put back on the version you had instead of being left with no launcher and a reinstall.",
-                                     "The Play page has a row for the Address Library, which several of the collection\u0027s mods need to load. If it is missing the row turns amber and says what to do. It does not stop you playing.",
-                                     "Uninstalling from Windows Settings now opens straight on the uninstall, without checking for updates, joining voice or touching the game folder first.",
-                                     "Launcher 1.1.92.5",
-                                     "4 files to download, 0.4 MB"
-                                 ],
-                     "channel":  "dev"
-                 },
-                 {
-                     "date":  "9-24-2026 11:07 AM",
-                     "title":  "If your Mods page says your load order is not the server\u0027s at position 52, with Hothtrooper44_Armor_Ecksstra.esp where the server has SkyHUD.esp, press Fix: it now flags that plugin light, the way the Nexus copy already is, and the two orders line up. Pressing Fix before only reordered the list, which could never clear it.",
-                     "body":  "",
-                     "details":  [
-                                     "Launcher 1.1.92.4"
-                                 ],
-                     "channel":  "dev"
-                 },
-                 {
-                     "date":  "9-24-2026 10:08 AM",
-                     "title":  "Keys you can make. A smith forges a blank Key Mold at a forge from one iron ingot. Take it to the door of the place with whoever holds it standing there and say /mold: the blank becomes that door\u0027s mold and goes to the holder. At a forge, crafting a Key then cuts one for that house, and the mold is not used up. One key opens every door of the property. This build carries the updated Thornswood Content plugin that makes the two recipes, for the dev build only, until it goes up on Nexus.",
-                     "body":  "If you mute somebody, you no longer hear them. The mute used to stop at the game\u0027s overlay while their voice kept playing through the launcher. A command typed while your character is on its way back after a restart now waits and runs the moment you arrive, instead of saying the server cannot find your character. When the server goes down, the game says so and counts down to the main menu, instead of throwing you out with no word. The journal wears the same look as the K panel. Walking into a new cell no longer trips the fire check, which was losing your position report to the server for that moment. The Downgrade button asks before it takes over Steam\u0027s window. The launcher can show a notice above Play, and says plainly when Discord or the site did not answer rather than telling you that you are not in the Discord. The first-run card asks for a name that belongs in Skyrim.",
-                     "details":  [
-                                     "Launcher 1.1.92.3",
-                                     "5 files to download, 0.5 MB"
-                                 ],
-                     "channel":  "dev"
-                 },
-                 {
-                     "date":  "9-23-2026 10:46 PM",
-                     "title":  "Keys, properly. A smith forges a blank key mold at a forge, one iron ingot. Take it to the door of the place with whoever holds it standing there and say /mold: the blank is spent and a mold for that door goes to the holder. Back at a forge, crafting a Key costs an ingot and comes out cut for that house. The mold is not used up, so it cuts as many keys as you want, and one key opens every door of the property.",
-                     "body":  "None of that could happen before. Both items existed and nothing in the game made either one. The house parts are gone from the forge: nails, hinges, locks and iron fittings refuse with a line saying why. Fishing poles are the woodworker\u0027s now, not everybody\u0027s.",
-                     "details":  [
-                                     "Launcher 1.1.92.2",
-                                     "Nothing to download, this one is bookkeeping"
-                                 ],
-                     "channel":  "dev"
-                 },
-                 {
-                     "date":  "9-23-2026 9:38 PM",
-                     "title":  "Fire you are standing in keeps burning on screen for as long as it is burning you. The flames used to run out after a few seconds while the damage carried on.",
-                     "body":  "A people\u0027s own dress is theirs to make. Bosmer, Dunmer, Orsimer, Telvanni, Skaal, Nord Mail, Redguard Knight, Alik\u0027r, Yokudan, Colovian and riekling gear can only be made by someone of that people. A tier of metal is not: Nordic Carved, Ancient Nord, Nord Hero, Elven, Orcish, Imperial, Glass, Dwarven, Chitin and Bonemold stay open to any smith who has the perk for them.",
-                     "details":  [
-                                     "Launcher 1.1.92.1",
-                                     "3 files to download, 1.7 MB"
-                                 ],
-                     "channel":  "dev"
+                     "channel":  ""
                  },
                  {
                      "date":  "9-23-2026 9:37 PM",
@@ -997,22 +607,247 @@
                                      "Launcher 1.1.80"
                                  ],
                      "channel":  ""
+                 },
+                 {
+                     "date":  "9-22-2026 12:23 PM",
+                     "title":  "The launcher sends its logs when you close the game, so nobody has to ask you for them",
+                     "body":  "When a session ends, the launcher sends its own log and the game\u0027s logs to the site. That is the only moment it can: the game wipes those files every time it starts, which is why every bug report so far has begun with somebody being asked to go and find four files. If the launcher is killed or the game takes it down, the logs go at the next start instead. Nothing you type is in them and they are the launcher\u0027s own files, not yours.",
+                     "details":  [
+                                     "Nobody will be asked to find and paste log files for a bug report any more",
+                                     "A session that crashed is marked, so it can be found without reading forty of them",
+                                     "A session stopped by a failed update or a wrong load order is marked separately",
+                                     "Logs are kept for a year, and only for sessions the launcher actually reported",
+                                     "Launcher 1.1.79",
+                                     "1 file to download, 1.3 MB"
+                                 ],
+                     "channel":  ""
+                 },
+                 {
+                     "date":  "9-22-2026 11:11 AM",
+                     "title":  "The theme plays for everybody, and the launcher stops asking you to press Fix",
+                     "body":  "Everything that had been sitting on the dev build since the 21st, plus the finished music track, which was dev only until now. If an update moves the mod load order, the launcher now puts the new list in place by itself instead of letting the game turn you away and expecting you to work out that Fix was the answer.",
+                     "details":  [
+                                     "The Thornswood theme now plays in the launcher, at the game menu and through the loading screen, on every build. Settings, Music turns it off",
+                                     "An update that moves the load order no longer needs you to press Fix afterwards",
+                                     "Voice one way, where you could hear them and they could not hear you, is fixed",
+                                     "The door no longer refuses everybody in silence when it cannot reach Discord",
+                                     "Launcher 1.1.78",
+                                     "5 files to download, 5.6 MB"
+                                 ],
+                     "channel":  ""
+                 },
+                 {
+                     "date":  "9-21-2026 10:28 PM",
+                     "title":  "Back to the 1.1.75 plugin",
+                     "body":  "",
+                     "details":  [
+                                     "Launcher 1.1.77",
+                                     "2 files to download, 1.5 MB"
+                                 ],
+                     "channel":  ""
+                 },
+                 {
+                     "date":  "9-21-2026 10:11 PM",
+                     "title":  "The shift goes on, a farmhand\u0027s press is not yours, and the town gates open",
+                     "body":  "",
+                     "details":  [
+                                     "Launcher 1.1.76",
+                                     "1 file to download, 0.1 MB"
+                                 ],
+                     "channel":  ""
+                 },
+                 {
+                     "date":  "9-21-2026 6:00 PM",
+                     "title":  "Thornswood runs from its own Skyrim, never a shared one",
+                     "body":  "",
+                     "details":  [
+                                     "Launcher 1.1.75"
+                                 ],
+                     "channel":  ""
+                 },
+                 {
+                     "date":  "9-21-2026 5:58 PM",
+                     "title":  "The launcher says when Skyrim is shared with other servers",
+                     "body":  "",
+                     "details":  [
+                                     "Launcher 1.1.74",
+                                     "2 files to download, 16.4 MB"
+                                 ],
+                     "channel":  ""
+                 },
+                 {
+                     "date":  "9-21-2026 5:49 PM",
+                     "title":  "The client writes down what it says",
+                     "body":  "",
+                     "details":  [
+                                     "Launcher 1.1.73",
+                                     "3 files to download, 16.5 MB"
+                                 ],
+                     "channel":  ""
+                 },
+                 {
+                     "date":  "9-21-2026 3:43 PM",
+                     "title":  "The menu log says why the world did not load",
+                     "body":  "",
+                     "details":  [
+                                     "Launcher 1.1.72",
+                                     "1 file to download, 0.1 MB",
+                                     "The load order moved, so start a new character or expect the old save to complain"
+                                 ],
+                     "channel":  ""
+                 },
+                 {
+                     "date":  "9-21-2026 3:34 PM",
+                     "title":  "The menu choice reaches the client",
+                     "body":  "",
+                     "details":  [
+                                     "Launcher 1.1.71",
+                                     "1 file to download, 0.1 MB"
+                                 ],
+                     "channel":  ""
+                 },
+                 {
+                     "date":  "9-21-2026 3:09 PM",
+                     "title":  "Three launcher messages that told testers the wrong thing",
+                     "body":  "",
+                     "details":  [
+                                     "Launcher 1.1.70"
+                                 ],
+                     "channel":  ""
+                 },
+                 {
+                     "date":  "9-21-2026 2:47 PM",
+                     "title":  "The launcher said a check in had failed when it had just succeeded",
+                     "body":  "",
+                     "details":  [
+                                     "Launcher 1.1.69"
+                                 ],
+                     "channel":  ""
+                 },
+                 {
+                     "date":  "9-20-2026 9:22 PM",
+                     "title":  "Only spells you could learn are open, and the scrollbars match the panel",
+                     "body":  "",
+                     "details":  [
+                                     "Launcher 1.1.66",
+                                     "2 files to download, 0.1 MB"
+                                 ],
+                     "channel":  ""
+                 },
+                 {
+                     "date":  "9-20-2026 9:14 PM",
+                     "title":  "The delete icon on the character menu forgets again",
+                     "body":  "",
+                     "details":  [
+                                     "Launcher 1.1.65",
+                                     "7 files to download, 18.3 MB",
+                                     "The load order moved, so start a new character or expect the old save to complain"
+                                 ],
+                     "channel":  ""
+                 },
+                 {
+                     "date":  "9-20-2026 7:39 PM",
+                     "title":  "The Q favourites menu: a setting this build insists on is never written through another launcher\u0027s file",
+                     "body":  "",
+                     "details":  [
+                                     "Launcher 1.1.64"
+                                 ],
+                     "channel":  ""
+                 },
+                 {
+                     "date":  "9-20-2026 7:35 PM",
+                     "title":  "A record of who played and when, for the testing log",
+                     "body":  "",
+                     "details":  [
+                                     "Launcher 1.1.63"
+                                 ],
+                     "channel":  ""
+                 },
+                 {
+                     "date":  "9-20-2026 7:02 PM",
+                     "title":  "Character choice at the menu, creation in the game, the K panel, the load order gate, the door and admins from the site",
+                     "body":  "",
+                     "details":  [
+                                     "Launcher 1.1.62",
+                                     "22 files to download, 33.4 MB"
+                                 ],
+                     "channel":  ""
+                 },
+                 {
+                     "date":  "9-20-2026 11:48 AM",
+                     "title":  "profession, class and skill tree on K",
+                     "body":  "",
+                     "details":  [
+                                     "Launcher 1.1.61",
+                                     "2 files to download, 0.1 MB"
+                                 ],
+                     "channel":  ""
+                 },
+                 {
+                     "date":  "9-20-2026 11:40 AM",
+                     "title":  "the microphone is back on",
+                     "body":  "",
+                     "details":  [
+                                     "Launcher 1.1.60"
+                                 ],
+                     "channel":  ""
+                 },
+                 {
+                     "date":  "9-20-2026 11:29 AM",
+                     "title":  "the IsNPC clear is guarded, so it leaves character creation alone",
+                     "body":  "",
+                     "details":  [
+                                     "Launcher 1.1.59",
+                                     "1 file to download, 0.1 MB"
+                                 ],
+                     "channel":  ""
+                 },
+                 {
+                     "date":  "9-20-2026 11:24 AM",
+                     "title":  "jump and sprint clear IsNPC on the press frame, and the light plugins are listed too",
+                     "body":  "",
+                     "details":  [
+                                     "Launcher 1.1.58",
+                                     "2 files to download, 0.1 MB"
+                                 ],
+                     "channel":  ""
+                 },
+                 {
+                     "date":  "9-20-2026 11:04 AM",
+                     "title":  "voice local range halved",
+                     "body":  "",
+                     "details":  [
+                                     "Launcher 1.1.57",
+                                     "1 file to download, 0.0 MB",
+                                     "The load order moved, so start a new character or expect the old save to complain"
+                                 ],
+                     "channel":  ""
+                 },
+                 {
+                     "date":  "9-19-2026 8:44 PM",
+                     "title":  "voice ranges, chat roles, Q menu",
+                     "body":  "",
+                     "details":  [
+                                     "Launcher 1.1.55",
+                                     "2 files to download, 1.0 MB"
+                                 ],
+                     "channel":  ""
                  }
              ],
     "updateRepo":  "EvilPatrick06/Thornswood-Releases",
     "voicePort":  "7789",
     "collectionUrl":  "https://www.nexusmods.com/games/skyrimspecialedition/collections/ombo2a",
     "maxOnline":  25,
-    "mainVersion":  "1.1.94",
+    "mainVersion":  "",
     "voiceUrl":  "https://thornswood.net/voice-dev",
     "discordAppId":  "1549251507361292418",
     "siteUrl":  "https://thornswood.net",
     "presenceImage":  "https://thornswood.net/presence.png",
     "collectionRevision":  5,
     "clientRuntime":  {
-                          "url":  "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/589136219",
-                          "sha256":  "e8d401bbfa52d9eb76ab5a4b5d894f7ef081006bd697628539265f57193e270b",
-                          "bytes":  6539703,
+                          "url":  "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/591302878",
+                          "sha256":  "efc8debfc3cd480183ab5d229b241e198f06f942b99a50baa50b172891b35726",
+                          "bytes":  6356315,
                           "forkCommit":  "d0006351"
                       }
 }
