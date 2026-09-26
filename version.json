@@ -1,7 +1,7 @@
 {
-    "launcherVersion":  "1.1.95",
-    "launcherUrl":  "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/591302876",
-    "launcherSha256":  "4f6705d536308e685a72c5e035d56dbaa4278a78e5b8b8614912516091f9e064",
+    "launcherVersion":  "1.1.95.5",
+    "launcherUrl":  "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/591325715",
+    "launcherSha256":  "62c7cfcd08464ccd5d6a55145aa75de7c1f600e40c6f0f4320a383820e2d1cae",
     "serverAddress":  "192.135.112.23",
     "serverPort":  "7787",
     "message":  "",
@@ -401,9 +401,28 @@
                       "url":  "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/591302880",
                       "sha256":  "70ad3be3fd5a7fe7450ffb430b9bc8d33bcee8f6ba358717ce247206d62a4845",
                       "notes":  "Launcher 1.1.95 brings demoting to main\nEverything that shipped on demoting from 1.1.92.1 through 1.1.95.4 is now on the main feed.\n- Demoting releases 1.1.92.1 through 1.1.95.4\n- MustBeLight and the client fixes that came with it"
+                  },
+                  {
+                      "id":  "20260926-1341-dev",
+                      "url":  "https://api.github.com/repos/EvilPatrick06/Thornswood-Releases/releases/assets/591325716",
+                      "sha256":  "dc4287c11a716c86ab6757b2716c97c5be0b064e9717bdf8b95850170584aa67",
+                      "notes":  "Character select and chopping blocks on demoting\n- The character choice no longer sits over the world after the three minute fallback, and the two minute cap closes the window it takes\n- The three chopping blocks at Djinn\u0027s points stay gone"
                   }
               ],
     "news":  [
+                 {
+                     "date":  "9-26-2026 1:41 PM",
+                     "title":  "Character select and chopping blocks on demoting",
+                     "body":  "",
+                     "details":  [
+                                     "The character choice no longer sits over the world after the three minute fallback, and the two minute cap closes the window it takes",
+                                     "The three chopping blocks at Djinn\u0027s points stay gone",
+                                     "Launcher 1.1.95.5",
+                                     "48 files to download, 49.2 MB",
+                                     "The load order moved, so start a new character or expect the old save to complain"
+                                 ],
+                     "channel":  "dev"
+                 },
                  {
                      "date":  "9-26-2026 1:27 PM",
                      "title":  "Launcher 1.1.95 brings demoting to main",
@@ -822,23 +841,13 @@
                                      "The load order moved, so start a new character or expect the old save to complain"
                                  ],
                      "channel":  ""
-                 },
-                 {
-                     "date":  "9-19-2026 8:44 PM",
-                     "title":  "voice ranges, chat roles, Q menu",
-                     "body":  "",
-                     "details":  [
-                                     "Launcher 1.1.55",
-                                     "2 files to download, 1.0 MB"
-                                 ],
-                     "channel":  ""
                  }
              ],
     "updateRepo":  "EvilPatrick06/Thornswood-Releases",
     "voicePort":  "7789",
     "collectionUrl":  "https://www.nexusmods.com/games/skyrimspecialedition/collections/ombo2a",
     "maxOnline":  25,
-    "mainVersion":  "",
+    "mainVersion":  "1.1.95",
     "voiceUrl":  "https://thornswood.net/voice-dev",
     "discordAppId":  "1549251507361292418",
     "siteUrl":  "https://thornswood.net",
